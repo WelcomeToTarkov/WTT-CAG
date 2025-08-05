@@ -14,10 +14,10 @@ const EpicsEdits_1 = require("./EpicsEdits");
 // Custom Trader Assort Items
 const CustomAssortSchemeService_1 = require("./CustomAssortSchemeService");
 const CustomWeaponPresets_1 = require("./CustomWeaponPresets");
-class EukyreCreedmoor {
+class EukyreSpearUpdate {
     Instance = new WTTInstanceManager_1.WTTInstanceManager();
     version;
-    modName = "Eukyre's 6.5 Creedmoor";
+    modName = "Eukyre's MCX SPEAR";
     config;
     customItemService = new CustomItemService_1.CustomItemService();
     epicItemClass = new EpicsEdits_1.epicItemClass();
@@ -82,8 +82,8 @@ class EukyreCreedmoor {
         console.log(`${colorCode}${message}${resetCode}`); // Log the colored message here
     }
     displayCreditBanner() {
-        this.colorLog(`[${this.modName}] Developers:  probablyEukyre   Code Framework: GroovypenguinX - Return of Creeeed.`, "white");
+        this.colorLog(`[${this.modName}] Developers:  probablyEukyre   Code Framework: GroovypenguinX - SPEAR? I thought we used guns these days.`, "cyan");
     }
 }
-module.exports = { mod: new EukyreCreedmoor() };
+module.exports = { mod: new EukyreSpearUpdate() };
 //# sourceMappingURL=mod.js.map
