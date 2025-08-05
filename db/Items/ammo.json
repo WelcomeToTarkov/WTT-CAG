@@ -1,0 +1,302 @@
+{
+    "6888f7c68c110666da6ba8ed": {
+        "itemTplToClone": "5e023e6e34d52a55c3304f71",
+        "parentId": "5485a8684bdc2da71d8b4567",
+        "handbookParentId": "5b47574386f77428ca22b33b",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "ammoPatrons/patron_65cm_match.bundle",
+                "rcid": ""
+            },
+            "Weight": 0.010,
+			"InitialSpeed": 850,
+			"BallisticCoeficient": 0.54,
+			"BulletMassGram": 9.33,
+			"BulletDiameterMilimeters": 6.5,
+			"Damage": 76,
+			"ammoAccr": -2,
+			"ammoRec": -4,
+			"PenetrationPower": 42,
+			"PenetrationPowerDiviation": 0.02,
+			"ArmorDamage": 42,
+			"DurabilityBurnModificator": 1.52,
+			"HeatFactor": 1.12,
+			"RicochetChance": 0.17,
+			"HeavyBleedingDelta": 0.08,
+			"LightBleedingDelta": 0.20,
+			"MalfFeedChance": 0.036,
+            "ammoCaliber": "Caliber65x48" 
+        },
+        "locales": {
+            "en": {
+                "name": "6.5x48 Creedmoor FMJ BT",
+                "shortName": "FMJ BT",
+                "description": "A standard 144-grain FMJ BT 6.5 Creedmoor round intended for use with hunting, home defense and target practice however, it has a high probability of bouncing off various surfaces. Produced by SAKO."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 411,
+        "handbookPriceRoubles": 330,
+        "addtoTraders": true,
+        "traderId": "PEACEKEEPER",
+        "traderItems": [
+            {
+                "unlimitedCount": false,
+                "stackObjectsCount": 120
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 3,
+                "_tpl": "DOLLARS"
+            }
+        ],
+        "loyallevelitems": 2,
+        "addtoBots": false,
+        "addtostaticlootcontainer": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 15
+            }
+        ],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "6888f8076aafdbe26850afdb": {
+        "itemTplToClone": "5e023e6e34d52a55c3304f71",
+        "parentId": "5485a8684bdc2da71d8b4567",
+        "handbookParentId": "5b47574386f77428ca22b33b",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "ammoPatrons/patron_65cm_vmax.bundle",
+                "rcid": ""
+            },
+            "Weight": 0.010,
+			"InitialSpeed": 950,
+			"BallisticCoeficient": 0.36,
+			"BulletMassGram": 6.16,
+			"BulletDiameterMilimeters": 6.5,
+			"Damage": 89,
+			"ammoAccr": 4,
+			"ammoRec": -2,
+			"PenetrationPower": 28,
+			"PenetrationPowerDiviation": 0.06,
+			"ArmorDamage": 30,
+			"DurabilityBurnModificator": 1.72,
+			"HeatFactor": 1.32,
+			"RicochetChance": 0.05,
+			"HeavyBleedingDelta": 0.13,
+			"LightBleedingDelta": 0.41,
+			"MalfFeedChance": 0.038,
+            "ammoCaliber": "Caliber65x48" 
+        },
+        "locales": {
+            "en": {
+                "name": "6.5x48 Creedmoor V-Max",
+                "shortName": "V-Max",
+                "description": "A standard 95gr V-Max 6.5 Creedmoor round intended for use with hunting, home defense and target practice however, it has a high probability of bouncing off various surfaces. Produced by Federal Ammunition."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 857,
+        "handbookPriceRoubles": 551,
+        "addtoTraders": true,
+        "traderId": "PEACEKEEPER",
+        "traderItems": [
+            {
+                "unlimitedCount": false,
+                "stackObjectsCount": 60
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5,
+                "_tpl": "DOLLARS"
+            }
+        ],
+        "loyallevelitems": 4,
+        "addtoBots": false,
+        "addtostaticlootcontainer": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 15
+            }
+        ],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "6888f89eaad6719189f5c85a": {
+        "itemTplToClone": "5e023e6e34d52a55c3304f71",
+        "parentId": "5485a8684bdc2da71d8b4567",
+        "handbookParentId": "5b47574386f77428ca22b33b",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "ammoPatrons/patron_65cm_soft_point.bundle",
+                "rcid": ""
+            },
+            "Weight": 0.010,
+			"InitialSpeed": 825,
+			"BallisticCoeficient": 0.48,
+			"BulletMassGram": 9.07,
+			"BulletDiameterMilimeters": 6.5,
+			"Damage": 81,
+			"ammoAccr": 2,
+			"ammoRec": 1,
+			"PenetrationPower": 29,
+			"PenetrationPowerDiviation": 0.06,
+			"ArmorDamage": 18,
+			"DurabilityBurnModificator": 1.72,
+			"HeatFactor": 1.10,
+			"RicochetChance": 0.05,
+			"HeavyBleedingDelta": 0.13,
+			"LightBleedingDelta": 0.41,
+			"MalfFeedChance": 0.038,
+            "ammoCaliber": "Caliber65x48" 
+        },
+        "locales": {
+            "en": {
+                "name": "6.5x48 Creedmoor Soft Point",
+                "shortName": "SP",
+                "description": "A standard 140gr Soft Point (SP) 6.5 Creedmoor round intended for use with hunting, home defense and target practice however, it has a high probability of bouncing off various surfaces. Produced by Federal Ammunition."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 450,
+        "handbookPriceRoubles": 380,
+        "addtoTraders": true,
+        "traderId": "PEACEKEEPER",
+        "traderItems": [
+            {
+                "unlimitedCount": false,
+                "stackObjectsCount": 90
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 4,
+                "_tpl": "DOLLARS"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoBots": false,
+        "addtostaticlootcontainer": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 15
+            }
+        ],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "6888f9496b33a53248fb345c": {
+        "itemTplToClone": "5e023e6e34d52a55c3304f71",
+        "parentId": "5485a8684bdc2da71d8b4567",
+        "handbookParentId": "5b47574386f77428ca22b33b",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "ammoPatrons/patron_65cm_soft_point.bundle",
+                "rcid": ""
+            },
+            "Weight": 0.010,
+			"InitialSpeed": 880,
+			"BallisticCoeficient": 0.51,
+			"BulletMassGram": 7.77,
+			"BulletDiameterMilimeters": 6.5,
+			"Damage": 68,
+			"ammoAccr": 1,
+			"ammoRec": 2,
+			"PenetrationPower": 38,
+			"PenetrationPowerDiviation": 0.06,
+			"ArmorDamage": 55,
+			"DurabilityBurnModificator": 1.72,
+			"HeatFactor": 1.21,
+			"RicochetChance": 0.25,
+			"HeavyBleedingDelta": 0.06,
+			"LightBleedingDelta": 0.13,
+			"MalfFeedChance": 0.038,
+            "ammoCaliber": "Caliber65x48" 
+        },
+        "locales": {
+            "en": {
+                "name": "6.5x48 Creedmoor Copper Solid",
+                "shortName": "CS",
+                "description": "A standard 120gr Copper Solid (CS) 6.5 Creedmoor round intended for use with hunting, home defense and target practice however, it has a high probability of bouncing off various surfaces. Produced by Federal Ammunition."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 450,
+        "handbookPriceRoubles": 380,
+        "addtoTraders": true,
+        "traderId": "PEACEKEEPER",
+        "traderItems": [
+            {
+                "unlimitedCount": false,
+                "stackObjectsCount": 90
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 4,
+                "_tpl": "DOLLARS"
+            }
+        ],
+        "loyallevelitems": 2,
+        "addtoBots": false,
+        "addtostaticlootcontainer": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 15
+            }
+        ],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    }
+}
