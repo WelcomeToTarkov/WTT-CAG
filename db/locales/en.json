@@ -1,3 +1,10 @@
 {
-	
+	"65290f395ae2ae97b80fdf2d Description": "The MCX SPEAR is a multi-caliber assault rifle designed and manufactured by SIG Sauer based on the MCX assault rifle. Primarily chambered in the new 6.8x51mm (.277 FURY) ammunition but with a simple barrel change can also accept 6.5 Creedmoor and .308 Remington. Designed specifically for the US Military to replace the M4 carbine.",
+	"65290f395ae2ae97b80fdf2d Name": "SIG MCX-SPEAR Multi-Caliber assault rifle",
+	"65290f395ae2ae97b80fdf2d ShortName": "SPEAR",
+	"65290f395ae2ae97b80fdf2d ammoCaliber": "6.8/6.5/.308",
+	"6529119424cbe3c74a05e5bb Description": "A standard-issue upper receiver for the MCX-SPEAR assault rifle. Equipped with a mount for attaching additional devices. Manufactured by SIG Sauer.",
+	"6529119424cbe3c74a05e5bb Name": "MCX-SPEAR Multi-Caliber upper receiver",
+	"6529119424cbe3c74a05e5bb ShortName": "SPEAR",
+	"652910565ae2ae97b80fdf35 ShortName": "SPEAR 6.8 13\""
 }
