@@ -14,10 +14,10 @@ const EpicsEdits_1 = require("./EpicsEdits");
 // Custom Trader Assort Items
 const CustomAssortSchemeService_1 = require("./CustomAssortSchemeService");
 const CustomWeaponPresets_1 = require("./CustomWeaponPresets");
-class EukyreSpearUpdate {
+class wttCAG {
     Instance = new WTTInstanceManager_1.WTTInstanceManager();
     version;
-    modName = "Eukyre's MCX SPEAR";
+    modName = "WTT - C.A.G.";
     config;
     customItemService = new CustomItemService_1.CustomItemService();
     epicItemClass = new EpicsEdits_1.epicItemClass();
@@ -82,8 +82,8 @@ class EukyreSpearUpdate {
         console.log(`${colorCode}${message}${resetCode}`); // Log the colored message here
     }
     displayCreditBanner() {
-        this.colorLog(`[${this.modName}] Developers:  probablyEukyre   Code Framework: GroovypenguinX - SPEAR? I thought we used guns these days.`, "cyan");
+        this.colorLog(`[${this.modName}] Created by the WTT Team | It's Drip or Drown, BEAR man.`, "brightBlue");
     }
 }
-module.exports = { mod: new EukyreSpearUpdate() };
+module.exports = { mod: new wttCAG() };
 //# sourceMappingURL=mod.js.map

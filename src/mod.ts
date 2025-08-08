@@ -16,12 +16,12 @@ import { epicItemClass } from  "./EpicsEdits"
 import { CustomAssortSchemeService } from "./CustomAssortSchemeService";
 import { CustomWeaponPresets } from "./CustomWeaponPresets";
 
-class EukyreSpearUpdate
+class wttCAG
 implements IPreSptLoadMod, IPostDBLoadMod
 {
     private Instance: WTTInstanceManager = new WTTInstanceManager();
     private version: string;
-    private modName = "Eukyre's MCX SPEAR";
+    private modName = "WTT-C.A.G.";
     private config;
 
     private customItemService: CustomItemService = new CustomItemService();
@@ -113,8 +113,8 @@ implements IPreSptLoadMod, IPostDBLoadMod
     private displayCreditBanner(): void 
     {
         this.colorLog
-        (`[${this.modName}] Developers:  probablyEukyre   Code Framework: GroovypenguinX - SPEAR? I thought we used guns these days.`, "cyan");
+        (`[${this.modName}] Created by the WTT Team | It's Drip or Drown, BEAR man.`, "brightBlue");
     }
 }
 
-module.exports = { mod: new EukyreSpearUpdate() };
+module.exports = { mod: new wttCAG() };
