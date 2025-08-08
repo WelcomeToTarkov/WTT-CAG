@@ -1,21 +1,14 @@
 {
-    "name": "SpearExpansion",
+    "name": "CAG",
     "version": "1.0.0",
     "main": "src/mod.js",
-    "license": "CC-NY-ND-NC 4.0",
-    "author": "ProbablyEukyre",
+    "license": "NCSA",
+    "author": "WTT Team",
     "isBundleMod": true,
     "sptVersion": "~3.11.x",
     "incompatibilities":[],
-    "loadAfter": [
-        "Eukyre-CreedmoorExpansion"
-    ],
-    "loadBefore": [
-        "EpicRangeTime-Weapons",
-        "Echoes-of-Tarkov---Requisitions",
-        "Eukyre-Consortium",
-        "WTT-Armory"
-    ],
+    "loadAfter": [],
+    "loadBefore": [],
     "scripts": {
         "setup": "npm i",
         "build": "node ./packageBuild.ts"
