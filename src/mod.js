@@ -17,7 +17,7 @@ const CustomWeaponPresets_1 = require("./CustomWeaponPresets");
 class wttCAG {
     Instance = new WTTInstanceManager_1.WTTInstanceManager();
     version;
-    modName = "WTT - C.A.G.";
+    modName = "WTT-C.A.G.";
     config;
     customItemService = new CustomItemService_1.CustomItemService();
     epicItemClass = new EpicsEdits_1.epicItemClass();
