@@ -1,3 +1,440 @@
 {
-    
+    "68966a3f899661a14f5cd33c": {
+        "itemTplToClone": "66b5f65ca7f72d197e70bcd6",
+        "parentId": "5a341c4086f77401f2541505",
+        "handbookParentId": "5b47574386f77428ca22b330",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Headwear/helmets/ate_hhv_helmet/helmet_hhv_tan.bundle",
+                "rcid": ""
+            },
+            "Weight": 1.306,
+            "Height": 2,
+            "Width": 2,
+            "Slots": [
+                {
+                    "_name": "mod_nvg",
+                    "_id": "68966b1d5481be1f64f657c3",
+                    "_parent": "68966a3f899661a14f5cd33c",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5c0558060db834001b735271",
+                                    "5a16b8a9fcdbcb00165aa6ca"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_000",
+                    "_id": "68966b94651b672bc4ffb573",
+                    "_parent": "68966a3f899661a14f5cd33c",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6897d6a13858711f63d149c3"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_001",
+                    "_id": "68966ba354c09f9f140bca73",
+                    "_parent": "68966a3f899661a14f5cd33c",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_002",
+                    "_id": "68966ba8bf494409a5d08e11",
+                    "_parent": "68966a3f899661a14f5cd33c",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "Helmet_top",
+                    "_id": "68966b43471a8dd283aaaa90",
+                    "_parent": "68966a3f899661a14f5cd33c",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "66b61cfae98be930d701c029"
+                                ],
+                                "Plate": "66b61cfae98be930d701c029",
+                                "armorColliders": [
+                                    "ParietalHead"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Helmet_back",
+                    "_id": "68966b5d65aeee8e1999eb74",
+                    "_parent": "68966a3f899661a14f5cd33c",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "66b61ce0c5d72b027748867e"
+                                ],
+                                "Plate": "66b61ce0c5d72b027748867e",
+                                "armorColliders": [
+                                    "BackHead"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Hard Head Veterans ATE GEN2 helmet (Coyote Tan)",
+                "shortName": "ATE Gen.2",
+                "description": "The ATE GEN2 NIJ level IIIA tactical helmet designed for Law Enforcement, Military, and Private Security Contractors with an Above The Ear (ATE) or High Cut design. This helmet offers a low weight while maintaining optimal protection. Coyote Tan version."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Headwear"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": false,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 2
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 53582,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "fleaPriceRoubles": 55142,
+        "handbookPriceRoubles": 10158,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ],
+        "addweaponpreset": true,
+        "weaponpresets": [
+            {
+                "_changeWeaponName": false,
+                "_encyclopedia": "68966a3f899661a14f5cd33c",
+                "_id": "68966bda8181fd7ed3d75298",
+                "_items": [
+                    {
+                        "_id": "68966bcbf7122f1af009c350",
+                        "_tpl": "68966a3f899661a14f5cd33c",
+                        "upd": {
+                            "Repairable": {
+                                "MaxDurability": 100,
+                                "Durability": 100
+                            }
+                        }
+                    },
+                    {
+                        "_id": "68966bd581d2c967346bc2fe",
+                        "_tpl": "66b61cfae98be930d701c029",
+                        "slotId": "Helmet_top",
+                        "parentId": "68966bcbf7122f1af009c350"
+                    },
+                    {
+                        "_id": "68966bd468d7c130556ffa52",
+                        "_tpl": "66b61ce0c5d72b027748867e",
+                        "slotId": "Helmet_back",
+                        "parentId": "68966bcbf7122f1af009c350"
+                    }
+                ],
+                "_name": "ATE HHV Coyote Stock Preset",
+                "_parent": "68966bcbf7122f1af009c350",
+                "_type": "Preset"
+            }
+        ]
+    },
+    "68966e00869b169a9e6ad289": {
+        "itemTplToClone": "66b5f65ca7f72d197e70bcd6",
+        "parentId": "5a341c4086f77401f2541505",
+        "handbookParentId": "5b47574386f77428ca22b330",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Headwear/helmets/ate_hhv_helmet/helmet_hhv_wraith.bundle",
+                "rcid": ""
+            },
+            "Weight": 1.306,
+            "Height": 2,
+            "Width": 2,
+            "Slots": [
+                {
+                    "_name": "mod_nvg",
+                    "_id": "68966e02f7a596df24c43f87",
+                    "_parent": "68966e00869b169a9e6ad289",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5c0558060db834001b735271",
+                                    "5a16b8a9fcdbcb00165aa6ca"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_000",
+                    "_id": "68966e04d90c6912fb064550",
+                    "_parent": "68966e00869b169a9e6ad289",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6897d6a13858711f63d149c3"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "mod_mount_001",
+                    "_id": "68966e065ad6564e6c2680ac",
+                    "_parent": "68966e00869b169a9e6ad289",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "mod_mount_002",
+                    "_id": "68966e08510394ab0ea869be",
+                    "_parent": "68966e00869b169a9e6ad289",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Helmet_top",
+                    "_id": "68966e0a42941145812195b1",
+                    "_parent": "68966e00869b169a9e6ad289",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "66b61cfae98be930d701c029"
+                                ],
+                                "Plate": "66b61cfae98be930d701c029",
+                                "armorColliders": [
+                                    "ParietalHead"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": true,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Helmet_back",
+                    "_id": "68966e0da56bcd9fff36296d",
+                    "_parent": "68966e00869b169a9e6ad289",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "66b61ce0c5d72b027748867e"
+                                ],
+                                "Plate": "66b61ce0c5d72b027748867e",
+                                "armorColliders": [
+                                    "BackHead"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Hard Head Veterans ATE GEN2 helmet (Coyote Tan)",
+                "shortName": "ATE Gen.2",
+                "description": "The ATE GEN2 NIJ level IIIA tactical helmet designed for Law Enforcement, Military, and Private Security Contractors with an Above The Ear (ATE) or High Cut design. This helmet offers a low weight while maintaining optimal protection. Coyote Tan version."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Headwear"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": false,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 2
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 53582,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "fleaPriceRoubles": 55142,
+        "handbookPriceRoubles": 10158,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ],
+        "addweaponpreset": true,
+        "weaponpresets": [
+            {
+                "_changeWeaponName": false,
+                "_encyclopedia": "68966e00869b169a9e6ad289",
+                "_id": "68966e2843bde2d3e8625bf9",
+                "_items": [
+                    {
+                        "_id": "68966e13af2c296b08f46fb8",
+                        "_tpl": "68966e00869b169a9e6ad289",
+                        "upd": {
+                            "Repairable": {
+                                "MaxDurability": 100,
+                                "Durability": 100
+                            }
+                        }
+                    },
+                    {
+                        "_id": "68966e216c8fce3ecd3cb2bf",
+                        "_tpl": "66b61cfae98be930d701c029",
+                        "slotId": "Helmet_top",
+                        "parentId": "68966e13af2c296b08f46fb8"
+                    },
+                    {
+                        "_id": "68966e1e8f67091cdb684abb",
+                        "_tpl": "66b61ce0c5d72b027748867e",
+                        "slotId": "Helmet_back",
+                        "parentId": "68966e13af2c296b08f46fb8"
+                    }
+                ],
+                "_name": "ATE HHV Wraith Stock Preset",
+                "_parent": "68966e13af2c296b08f46fb8",
+                "_type": "Preset"
+            }
+        ]
+    }
 }
