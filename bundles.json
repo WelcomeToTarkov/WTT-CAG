@@ -1,4 +1,39 @@
 {
     "manifest": [
+        {
+            "key": "Headwear/helmets/ate_hhv_helmet/helmet_hhv_common.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/ate_hhv_helmet/helmet_hhv_tan.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Headwear/helmets/ate_hhv_helmet/helmet_hhv_common.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/ate_hhv_helmet/helmet_hhv_wraith.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Headwear/helmets/ate_hhv_helmet/helmet_hhv_common.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/ms2000_helmet.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/content/items/spec/item_spec_irbeacon/item_spec_irbeacon.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        }
     ]
 }
