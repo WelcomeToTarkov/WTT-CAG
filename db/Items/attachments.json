@@ -1,0 +1,67 @@
+{
+    "6897d6a13858711f63d149c3": {
+        "itemTplToClone": "5991b51486f77447b112d44f",
+        "parentId": "5447e0e74bdc2d3c308b4567",
+        "handbookParentId": "5b47574386f77428ca22b345",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Attachments/ms2000_helmet.bundle",
+                "rcid": ""
+            },
+            "Height": 1,
+            "Width": 1,
+            "Unlootable": false
+        },
+        "locales": {
+            "en": {
+                "name": "MS2000 Helmet-mounted Marker",
+                "shortName": "MS2000H",
+                "description": "A strobe marker light that is used during nighttime operations. It emits signals in the IR region which are visible through NVGs. Uses a special filter when operating in the IR mode. If the filter is removed, it appears as a bright flash in the visible spectrum. In the extended mode operates with a blue flash."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": false,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 2
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 15177,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "fleaPriceRoubles": 15177,
+        "handbookPriceRoubles": 11923,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    }
+}
