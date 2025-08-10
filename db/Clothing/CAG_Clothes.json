@@ -6,12 +6,12 @@
 		"topId": "6897f88c0fdd0ec480e379d4",
 		"handsId": "6897f88c19ff832d4e76d1d4",
 		"locales": {
-			"en": "BEAR OPS MGS (TTsKO)"
+			"en": "Vertx OPS Shell (TTsKO)"
 		},
 		"topBundlePath": "Clothing/Uppers/OPS_MGS_TTsKO/ttsko_bear_ops_main.bundle",
 		"handsBundlePath": "Clothing/Hands/OPS_MGS_TTsKO/ttsko_bear_ops_hands.bundle",
 		"traderId": "RAGMAN",
-		"Side": [
+		"side": [
 			"Bear"
 		],
 		"loyaltyLevel": 3,
