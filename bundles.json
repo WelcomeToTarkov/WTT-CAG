@@ -120,6 +120,15 @@
                 "Headwear/helmets/mich_2000/mich2000_shared.bundle",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
+        },
+        {
+            "key": "assets/content/items/equipment/helmet_un/item_equipment_helmet_un.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Headwear/helmets/mich_2000/mich2000_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
         }
     ]
 }
