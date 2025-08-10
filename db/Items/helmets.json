@@ -56,7 +56,10 @@
                     "_props": {
                         "filters": [
                             {
-                                "Filter": [],
+                                "Filter": [
+                                    "68924bfe82b0506f6ecf5fe3",
+                                    "6898b3df9fc5e87e7b16158d"
+                                ],
                                 "Shift": 0
                             }
                         ]
@@ -72,7 +75,10 @@
                     "_props": {
                         "filters": [
                             {
-                                "Filter": [],
+                                "Filter": [
+                                    "68924bfe82b0506f6ecf5fe3",
+                                    "6898b3df9fc5e87e7b16158d"
+                                ],
                                 "Shift": 0
                             }
                         ]
@@ -275,7 +281,10 @@
                     "_props": {
                         "filters": [
                             {
-                                "Filter": [],
+                                "Filter": [
+                                    "68924bfe82b0506f6ecf5fe3",
+                                    "6898b3df9fc5e87e7b16158d"
+                                ],
                                 "Shift": 0
                             }
                         ]
@@ -291,7 +300,10 @@
                     "_props": {
                         "filters": [
                             {
-                                "Filter": [],
+                                "Filter": [
+                                    "68924bfe82b0506f6ecf5fe3",
+                                    "6898b3df9fc5e87e7b16158d"
+                                ],
                                 "Shift": 0
                             }
                         ]
@@ -433,6 +445,789 @@
                 ],
                 "_name": "ATE HHV Wraith Stock Preset",
                 "_parent": "68966e13af2c296b08f46fb8",
+                "_type": "Preset"
+            }
+        ]
+    },
+    "689898b0f4e37a57324e86aa": {
+        "itemTplToClone": "5d5e7d28a4b936645d161203",
+        "parentId": "5a341c4086f77401f2541505",
+        "handbookParentId": "5b47574386f77428ca22b330",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Headwear/helmets/mich_2000/mich2000_blk.bundle",
+                "rcid": ""
+            },
+            "Weight": 1.22,
+            "Height": 2,
+            "Width": 2,
+            "ConflictingItems": [
+                "5645bcc04bdc2d363b8b4572",
+                "66b5f6a28ca68c6461709ed8",
+                "66b5f69ea7f72d197e70bcdb",
+                "5c165d832e2216398b5a7e36"
+            ],
+            "Slots": [
+                {
+                    "_name": "mod_nvg",
+                    "_id": "68966b1d5481be1f64f657c3",
+                    "_parent": "689898b0f4e37a57324e86aa",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5c0558060db834001b735271",
+                                    "5a16b8a9fcdbcb00165aa6ca"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_000",
+                    "_id": "68966b94651b672bc4ffb573",
+                    "_parent": "689898b0f4e37a57324e86aa",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6897d6a13858711f63d149c3"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_001",
+                    "_id": "68966ba354c09f9f140bca73",
+                    "_parent": "689898b0f4e37a57324e86aa",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "68924bfe82b0506f6ecf5fe3",
+                                    "6898b3df9fc5e87e7b16158d"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_002",
+                    "_id": "68966ba8bf494409a5d08e11",
+                    "_parent": "689898b0f4e37a57324e86aa",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "68924bfe82b0506f6ecf5fe3",
+                                    "6898b3df9fc5e87e7b16158d"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "Helmet_top",
+                    "_id": "68966b43471a8dd283aaaa90",
+                    "_parent": "689898b0f4e37a57324e86aa",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "657f8a8d7db258e5600fe33d"
+                                ],
+                                "Plate": "657f8a8d7db258e5600fe33d",
+                                "armorColliders": [
+                                    "ParietalHead"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Helmet_back",
+                    "_id": "68966b5d65aeee8e1999eb74",
+                    "_parent": "689898b0f4e37a57324e86aa",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "657f8b05f4c82973640b2348"
+                                ],
+                                "Plate": "657f8b05f4c82973640b2348",
+                                "armorColliders": [
+                                    "BackHead"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Helmet_ears",
+                    "_id": "689899d022c6a50ec10d97f2",
+                    "_parent": "689898b0f4e37a57324e86aa",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "657babc6f58ba5a6250107a2"
+                                ],
+                                "Plate": "657babc6f58ba5a6250107a2",
+                                "armorColliders": [
+                                    "Ears"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "MSA ACH TC-2000 MICH helmet",
+                "shortName": "TC-2000",
+                "description": "The MSA Advanced Combat Helmet (ACH) delivers advanced ballistic, fragmentation, and impact head protection, with comfort for long-term use. The helmet’s low-profile design reduces the risk of interference in target acquisition and ensures compatibility with NVGs and headsets."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Headwear"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": false,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 2
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 53582,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "fleaPriceRoubles": 66743,
+        "handbookPriceRoubles": 13500,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ],
+        "addweaponpreset": true,
+        "weaponpresets": [
+            {
+                "_changeWeaponName": false,
+                "_encyclopedia": "689898b0f4e37a57324e86aa",
+                "_id": "689898c7ff27dfafb332fa94",
+                "_items": [
+                    {
+                        "_id": "689898bf10590891953e0e7b",
+                        "_tpl": "689898b0f4e37a57324e86aa",
+                        "upd": {
+                            "Repairable": {
+                                "MaxDurability": 100,
+                                "Durability": 100
+                            }
+                        }
+                    },
+                    {
+                        "_id": "689898c50c9efbdde7614348",
+                        "_tpl": "66b61cfae98be930d701c029",
+                        "slotId": "Helmet_top",
+                        "parentId": "689898bf10590891953e0e7b"
+                    },
+                    {
+                        "_id": "689898c44b0d875a074fcb33",
+                        "_tpl": "657f8b05f4c82973640b2348",
+                        "slotId": "Helmet_back",
+                        "parentId": "689898bf10590891953e0e7b"
+                    },
+                    {
+                        "_id": "689899d55ee9bab940bd60fa",
+                        "_tpl": "657babc6f58ba5a6250107a2",
+                        "slotId": "Helmet_ears",
+                        "parentId": "689898bf10590891953e0e7b"
+                    }
+                ],
+                "_name": "MICH 2000 BLK Stock Preset",
+                "_parent": "689898bf10590891953e0e7b",
+                "_type": "Preset"
+            }
+        ]
+    },
+    "68989a689b79186e371ebaca": {
+        "itemTplToClone": "5d5e7d28a4b936645d161203",
+        "parentId": "5a341c4086f77401f2541505",
+        "handbookParentId": "5b47574386f77428ca22b330",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Headwear/helmets/mich_2000/mich2000_fde.bundle",
+                "rcid": ""
+            },
+            "Weight": 1.22,
+            "Height": 2,
+            "Width": 2,
+            "ConflictingItems": [
+                "5645bcc04bdc2d363b8b4572",
+                "66b5f6a28ca68c6461709ed8",
+                "66b5f69ea7f72d197e70bcdb",
+                "5c165d832e2216398b5a7e36"
+            ],
+            "Slots": [
+                {
+                    "_name": "mod_nvg",
+                    "_id": "68989a6b13dd2ac68cd39398",
+                    "_parent": "68989a689b79186e371ebaca",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5c0558060db834001b735271",
+                                    "5a16b8a9fcdbcb00165aa6ca"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_000",
+                    "_id": "68989a6de5a35e3fd9fd4faa",
+                    "_parent": "68989a689b79186e371ebaca",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6897d6a13858711f63d149c3"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_001",
+                    "_id": "68989a6fe0af31ddd46900d8",
+                    "_parent": "68989a689b79186e371ebaca",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "68924bfe82b0506f6ecf5fe3",
+                                    "6898b3df9fc5e87e7b16158d"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_002",
+                    "_id": "68989a71fdbc38315d1b8a73",
+                    "_parent": "68989a689b79186e371ebaca",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "68924bfe82b0506f6ecf5fe3",
+                                    "6898b3df9fc5e87e7b16158d"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "Helmet_top",
+                    "_id": "68989a732142609c3712b006",
+                    "_parent": "68989a689b79186e371ebaca",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "657f8a8d7db258e5600fe33d"
+                                ],
+                                "Plate": "657f8a8d7db258e5600fe33d",
+                                "armorColliders": [
+                                    "ParietalHead"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Helmet_back",
+                    "_id": "68989a7568d1d26a81ef7026",
+                    "_parent": "68989a689b79186e371ebaca",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "657f8b05f4c82973640b2348"
+                                ],
+                                "Plate": "657f8b05f4c82973640b2348",
+                                "armorColliders": [
+                                    "BackHead"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Helmet_ears",
+                    "_id": "68989a7864d4f995dc9a1aa6",
+                    "_parent": "68989a689b79186e371ebaca",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "657babc6f58ba5a6250107a2"
+                                ],
+                                "Plate": "657babc6f58ba5a6250107a2",
+                                "armorColliders": [
+                                    "Ears"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "MSA ACH TC-2000 MICH helmet (FDE)",
+                "shortName": "TC-2000",
+                "description": "The MSA Advanced Combat Helmet (ACH) delivers advanced ballistic, fragmentation, and impact head protection, with comfort for long-term use. The helmet’s low-profile design reduces the risk of interference in target acquisition and ensures compatibility with NVGs and headsets. Flat Dark Earth version."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Headwear"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": false,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 2
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 53582,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "fleaPriceRoubles": 66743,
+        "handbookPriceRoubles": 13500,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ],
+        "addweaponpreset": true,
+        "weaponpresets": [
+            {
+                "_changeWeaponName": false,
+                "_encyclopedia": "68989a689b79186e371ebaca",
+                "_id": "68989a64ff7d8f50ec3374e3",
+                "_items": [
+                    {
+                        "_id": "68989a5a95ca8c0010ea8949",
+                        "_tpl": "68989a689b79186e371ebaca",
+                        "upd": {
+                            "Repairable": {
+                                "MaxDurability": 100,
+                                "Durability": 100
+                            }
+                        }
+                    },
+                    {
+                        "_id": "68989a5f187f48347977ddbb",
+                        "_tpl": "66b61cfae98be930d701c029",
+                        "slotId": "Helmet_top",
+                        "parentId": "68989a5a95ca8c0010ea8949"
+                    },
+                    {
+                        "_id": "68989a5fb1078e86af35fdf6",
+                        "_tpl": "657f8b05f4c82973640b2348",
+                        "slotId": "Helmet_back",
+                        "parentId": "68989a5a95ca8c0010ea8949"
+                    },
+                    {
+                        "_id": "68989a5e426d2b2925d94423",
+                        "_tpl": "657babc6f58ba5a6250107a2",
+                        "slotId": "Helmet_ears",
+                        "parentId": "68989a5a95ca8c0010ea8949"
+                    }
+                ],
+                "_name": "MICH 2000 FDE Stock Preset",
+                "_parent": "68989a5a95ca8c0010ea8949",
+                "_type": "Preset"
+            }
+        ]
+    },
+    "68989ad4716039dafc4327ac": {
+        "itemTplToClone": "5d5e7d28a4b936645d161203",
+        "parentId": "5a341c4086f77401f2541505",
+        "handbookParentId": "5b47574386f77428ca22b330",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Headwear/helmets/mich_2000/mich2000_odg.bundle",
+                "rcid": ""
+            },
+            "Weight": 1.22,
+            "Height": 2,
+            "Width": 2,
+            "ConflictingItems": [
+                "5645bcc04bdc2d363b8b4572",
+                "66b5f6a28ca68c6461709ed8",
+                "66b5f69ea7f72d197e70bcdb",
+                "5c165d832e2216398b5a7e36"
+            ],
+            "Slots": [
+                {
+                    "_name": "mod_nvg",
+                    "_id": "68989ad7a173b94f58c249a1",
+                    "_parent": "68989ad4716039dafc4327ac",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5c0558060db834001b735271",
+                                    "5a16b8a9fcdbcb00165aa6ca"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_000",
+                    "_id": "68989ada97f24fddb25bd8ee",
+                    "_parent": "68989ad4716039dafc4327ac",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6897d6a13858711f63d149c3"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_001",
+                    "_id": "68989adddd3cef25bf73a8f8",
+                    "_parent": "68989ad4716039dafc4327ac",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "68924bfe82b0506f6ecf5fe3",
+                                    "6898b3df9fc5e87e7b16158d"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_002",
+                    "_id": "68989adf2aa4366777e29f8e",
+                    "_parent": "68989ad4716039dafc4327ac",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "68924bfe82b0506f6ecf5fe3",
+                                    "6898b3df9fc5e87e7b16158d"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "Helmet_top",
+                    "_id": "68989ae12062f2a2331422a7",
+                    "_parent": "68989ad4716039dafc4327ac",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "657f8a8d7db258e5600fe33d"
+                                ],
+                                "Plate": "657f8a8d7db258e5600fe33d",
+                                "armorColliders": [
+                                    "ParietalHead"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Helmet_back",
+                    "_id": "68989ae4337a86d7e83ff0ae",
+                    "_parent": "68989ad4716039dafc4327ac",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "657f8b05f4c82973640b2348"
+                                ],
+                                "Plate": "657f8b05f4c82973640b2348",
+                                "armorColliders": [
+                                    "BackHead"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Helmet_ears",
+                    "_id": "68989ae64aef3a212a79e57e",
+                    "_parent": "68989ad4716039dafc4327ac",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "657babc6f58ba5a6250107a2"
+                                ],
+                                "Plate": "657babc6f58ba5a6250107a2",
+                                "armorColliders": [
+                                    "Ears"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "MSA ACH TC-2000 MICH helmet (Olive Drab)",
+                "shortName": "TC-2000",
+                "description": "The MSA Advanced Combat Helmet (ACH) delivers advanced ballistic, fragmentation, and impact head protection, with comfort for long-term use. The helmet’s low-profile design reduces the risk of interference in target acquisition and ensures compatibility with NVGs and headsets. Olive Drab version."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Headwear"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": false,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 2
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 53582,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "fleaPriceRoubles": 66743,
+        "handbookPriceRoubles": 13500,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ],
+        "addweaponpreset": true,
+        "weaponpresets": [
+            {
+                "_changeWeaponName": false,
+                "_encyclopedia": "68989ad4716039dafc4327ac",
+                "_id": "68989aeb4c9723e8d538f756",
+                "_items": [
+                    {
+                        "_id": "68989ac1837591f3581c88a6",
+                        "_tpl": "68989ad4716039dafc4327ac",
+                        "upd": {
+                            "Repairable": {
+                                "MaxDurability": 100,
+                                "Durability": 100
+                            }
+                        }
+                    },
+                    {
+                        "_id": "68989ac6229f8c07658631c3",
+                        "_tpl": "66b61cfae98be930d701c029",
+                        "slotId": "Helmet_top",
+                        "parentId": "68989ac1837591f3581c88a6"
+                    },
+                    {
+                        "_id": "68989ac7f52c641f07167d3c",
+                        "_tpl": "657f8b05f4c82973640b2348",
+                        "slotId": "Helmet_back",
+                        "parentId": "68989ac1837591f3581c88a6"
+                    },
+                    {
+                        "_id": "68989acaffedba831ada5156",
+                        "_tpl": "657babc6f58ba5a6250107a2",
+                        "slotId": "Helmet_ears",
+                        "parentId": "68989ac1837591f3581c88a6"
+                    }
+                ],
+                "_name": "MICH 2000 ODG Stock Preset",
+                "_parent": "68989ac1837591f3581c88a6",
                 "_type": "Preset"
             }
         ]

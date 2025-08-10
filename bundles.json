@@ -50,6 +50,76 @@
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
+        },
+        {
+            "key": "Bodywear/unarmoredRigs/mayflowerHybrid/mayflower_shared.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Bodywear/unarmoredRigs/mayflowerHybrid/mayflower_mc.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Bodywear/unarmoredRigs/mayflowerHybrid/mayflower_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Bodywear/unarmoredRigs/mayflowerHybrid/mayflower_mcalp.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Bodywear/unarmoredRigs/mayflowerHybrid/mayflower_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Bodywear/unarmoredRigs/mayflowerHybrid/mayflower_ttsko.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Bodywear/unarmoredRigs/mayflowerHybrid/mayflower_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/mich_2000/mich2000_shared.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/mich_2000/mich2000_blk.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Headwear/helmets/mich_2000/mich2000_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/mich_2000/mich2000_fde.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Headwear/helmets/mich_2000/mich2000_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/mich_2000/mich2000_odg.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Headwear/helmets/mich_2000/mich2000_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
         }
     ]
 }
