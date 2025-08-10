@@ -42,7 +42,7 @@
         "loyallevelitems": 1,
         "fleaPriceRoubles": 15177,
         "handbookPriceRoubles": 11923,
-        "addtoStaticLootContainers": true,
+        "addtoStaticLootContainers": false,
         "StaticLootContainers": [
             {
                 "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
