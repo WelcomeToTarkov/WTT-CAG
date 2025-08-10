@@ -11,6 +11,7 @@ const LogTextColor_1 = require("C:/snapshot/project/obj/models/spt/logging/LogTe
 const WTTInstanceManager_1 = require("./WTTInstanceManager");
 const CustomItemService_1 = require("./CustomItemService");
 const EpicsEdits_1 = require("./EpicsEdits");
+const CustomClothingService_1 = require("./CustomClothingService");
 // Custom Trader Assort Items
 const CustomAssortSchemeService_1 = require("./CustomAssortSchemeService");
 const CustomWeaponPresets_1 = require("./CustomWeaponPresets");
@@ -21,6 +22,7 @@ class wttCAG {
     config;
     customItemService = new CustomItemService_1.CustomItemService();
     epicItemClass = new EpicsEdits_1.epicItemClass();
+    customClothingService = new CustomClothingService_1.CustomClothingService();
     customAssortSchemeService = new CustomAssortSchemeService_1.CustomAssortSchemeService();
     customWeaponPresets = new CustomWeaponPresets_1.CustomWeaponPresets();
     debug = false;
@@ -34,6 +36,7 @@ class wttCAG {
         this.displayCreditBanner();
         this.customItemService.preSptLoad(this.Instance);
         this.epicItemClass.preSptLoad(this.Instance);
+        this.customClothingService.preSptLoad(this.Instance);
         this.customAssortSchemeService.preSptLoad(this.Instance);
         this.customWeaponPresets.preSptLoad(this.Instance);
     }
@@ -42,6 +45,7 @@ class wttCAG {
         // Initialize the instance manager DO NOTHING ELSE BEFORE THIS
         this.Instance.postDBLoad(container);
         // EVERYTHING AFTER HERE MUST USE THE INSTANCE
+        this.customClothingService.postDBLoad();
         this.epicItemClass.postDBLoad();
         this.customItemService.postDBLoad();
         this.customAssortSchemeService.postDBLoad();

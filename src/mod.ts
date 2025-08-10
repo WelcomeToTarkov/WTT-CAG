@@ -12,6 +12,7 @@ import { IDatabaseTables } from "@spt/models/spt/server/IDatabaseTables";
 import { WTTInstanceManager } from "./WTTInstanceManager";
 import { CustomItemService } from "./CustomItemService";
 import { epicItemClass } from  "./EpicsEdits"
+import { CustomClothingService } from "./CustomClothingService";
 // Custom Trader Assort Items
 import { CustomAssortSchemeService } from "./CustomAssortSchemeService";
 import { CustomWeaponPresets } from "./CustomWeaponPresets";
@@ -26,6 +27,7 @@ implements IPreSptLoadMod, IPostDBLoadMod
 
     private customItemService: CustomItemService = new CustomItemService();
     private epicItemClass: epicItemClass = new epicItemClass();
+    private customClothingService: CustomClothingService = new CustomClothingService();
     private customAssortSchemeService: CustomAssortSchemeService = new CustomAssortSchemeService();
     private customWeaponPresets: CustomWeaponPresets = new CustomWeaponPresets();
 
@@ -45,6 +47,7 @@ implements IPreSptLoadMod, IPostDBLoadMod
         this.customItemService.preSptLoad(this.Instance);
 
         this.epicItemClass.preSptLoad(this.Instance);
+        this.customClothingService.preSptLoad(this.Instance);
         this.customAssortSchemeService.preSptLoad(this.Instance);
 
         this.customWeaponPresets.preSptLoad(this.Instance);
@@ -58,6 +61,7 @@ implements IPreSptLoadMod, IPostDBLoadMod
         this.Instance.postDBLoad(container);
         // EVERYTHING AFTER HERE MUST USE THE INSTANCE
 
+        this.customClothingService.postDBLoad();
         this.epicItemClass.postDBLoad();
         this.customItemService.postDBLoad();
         this.customAssortSchemeService.postDBLoad();
