@@ -1,0 +1,23 @@
+[
+	{
+		"type": "top",
+		"suiteId": "6897f88bbdb6ea2150fdd387",
+		"outfitId": "6897f88be63381dd90219f16",
+		"topId": "6897f88c0fdd0ec480e379d4",
+		"handsId": "6897f88c19ff832d4e76d1d4",
+		"locales": {
+			"en": "BEAR OPS MGS (TTsKO)"
+		},
+		"topBundlePath": "Clothing/Uppers/OPS_MGS_TTsKO/ttsko_bear_ops_main.bundle",
+		"handsBundlePath": "Clothing/Hands/OPS_MGS_TTsKO/ttsko_bear_ops_hands.bundle",
+		"traderId": "RAGMAN",
+		"Side": [
+			"Bear"
+		],
+		"loyaltyLevel": 3,
+		"profileLevel": 33,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 1100000
+	}
+]
