@@ -75,26 +75,13 @@
             "Weight": 0.85,
             "Height": 2,
             "Width": 2,
-            "armorClass": "1",
             "Indestructibility": 0.9,
-			"MaterialType": "Helmet",
 			"RicochetParams": {
 				"x": 0.4,
 				"y": 0.1,
 				"z": 80
 			},
 			"DeafStrength": "None",
-			"BluntThroughput": 0.198,
-			"ArmorMaterial": "UHMWPE",
-			"BlindnessProtection": 0.15,
-			"ArmorType": "Light",
-            "Durability": 25,
-            "MaxDurability": 25,
-			"armorColliders": [
-				"Eyes",
-                "Jaw",
-                "HeadCommon"
-			],
             "BlocksEarpiece": true,
             "BlocksEyewear": true
         },
