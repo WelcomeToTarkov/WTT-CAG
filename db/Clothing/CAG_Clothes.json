@@ -19,5 +19,226 @@
 		"standing": 0,
 		"currencyId": "ROUBLES",
 		"price": 1100000
+	},
+	{
+		"type": "top",
+		"suiteId": "6898b37eb82c960ae90f57a2",
+		"outfitId": "6898b37eb82c960ae90f57a3",
+		"topId": "6898b50db82c960ae90f57cb",
+		"handsId": "6898b37eb82c960ae90f57b7",
+		"locales": {
+			"en": "Crye Loft M81"
+		},
+		"topBundlePath": "Clothing/Uppers/M81_LOFT/m81loft_upper.bundle",
+		"handsBundlePath": "Clothing/Hands/M81_LOFT/m81loft_hands.bundle",
+		"traderId": "RAGMAN",
+		"side": [
+			"Usec"
+		],
+		"loyaltyLevel": 3,
+		"profileLevel": 33,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 1100000
+        },
+	{
+		"type": "bottom",
+		"suiteId": "6898bc5bb82c960ae90f5805",
+		"outfitId": "6898bc5bb82c960ae90f5819",
+		"bottomId": "6898bc5bb82c960ae90f581c",
+		"locales": {
+			"en": "Kokatat M81"
+		},
+		"bottomBundlePath": "Clothing/Lowers/M81_LOFT/m81loft_lower.bundle",
+		"traderId": "RAGMAN",
+		"side": [
+			"Usec"
+		],
+		"loyaltyLevel": 3,
+		"profileLevel": 20,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 1100000
+        },
+        {
+		"type": "top",
+		"suiteId": "6898c6a6b82c960ae90f582f",
+		"outfitId": "6898c6a6b82c960ae90f5830",
+		"topId": "6898c8a6b82c960ae90f5835",
+		"handsId": "6898c6a6b82c960ae90f5831",
+		"locales": {
+			"en": "MOPP M81 Top"
+		},
+		"topBundlePath": "Clothing/Uppers/M81_MOPP/m81_mopp_upper.bundle",
+		"handsBundlePath": "Clothing/Hands/M81_MOPP/m81_mopp_hands.bundle",
+		"traderId": "RAGMAN",
+		"side": [
+			"Usec"
+		],
+		"loyaltyLevel": 3,
+		"profileLevel": 25,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 1000000
+        },
+	{
+		"type": "bottom",
+		"suiteId": "6898c6a6b82c960ae90f5832",
+		"outfitId": "6898c6a6b82c960ae90f5833",
+		"bottomId": "6898c6a6b82c960ae90f5834",
+		"locales": {
+			"en": "MOPP M81 Bottoms"
+		},
+		"bottomBundlePath": "Clothing/Lowers/M81_MOPP/m81_mopp_bottom.bundle",
+		"traderId": "RAGMAN",
+		"side": [
+			"Usec"
+		],
+		"loyaltyLevel": 3,
+		"profileLevel": 25,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 1000000
+        },
+        {
+		"type": "top",
+		"suiteId": "6898ede2b82c960ae90f5863",
+		"outfitId": "6898ede2b82c960ae90f5861",
+		"topId": "6898ede2b82c960ae90f5862",
+		"handsId": "6898ede2b82c960ae90f5860",
+		"locales": {
+			"en": "Crye G3 M81"
+		},
+		"topBundlePath": "Clothing/Uppers/CRYE_G3/g3m81_short.bundle",
+		"handsBundlePath": "Clothing/Hands/CRYE_G3/g3m81fhands.bundle",
+		"traderId": "RAGMAN",
+		"side": [
+			"Usec"
+		],
+		"loyaltyLevel": 3,
+		"profileLevel": 33,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 8000000
+        },
+        {
+		"type": "top",
+		"suiteId": "6898ede2b82c960ae90f585c",
+		"outfitId": "6898ede2b82c960ae90f585d",
+		"topId": "6898ede2b82c960ae90f585f",
+		"handsId": "6898ede2b82c960ae90f585e",
+		"locales": {
+			"en": "Gun Club Hoodie"
+		},
+		"topBundlePath": "Clothing/Uppers/GUNCLUB_HOODIE/gunclub_black.bundle",
+		"handsBundlePath": "Clothing/Hands/GUNCLUB_HOODIE/gunclub_black_hands.bundle",
+		"traderId": "RAGMAN",
+		"side": [
+			"Usec"
+		],
+		"loyaltyLevel": 3,
+		"profileLevel": 25,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 1000000
+        },
+        {
+		"type": "top",
+		"suiteId": "689a32ca82a5f3410309f959",
+		"outfitId": "689a32ca82a5f3410309f958",
+		"topId": "689a32ca82a5f3410309f957",
+		"handsId": "689a32ca82a5f3410309f956",
+		"locales": {
+			"en": "Sphinx Badlands"
+		},
+		"topBundlePath": "Clothing/Uppers/ARC_SPHYNX/sphynxbadlands.bundle",
+		"handsBundlePath": "Clothing/Hands/ARC_SPHYNX/sphynxhands2.bundle",
+		"traderId": "RAGMAN",
+		"side": [
+			"Usec"
+		],
+		"loyaltyLevel": 3,
+		"profileLevel": 35,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 2000000
+        },
+	{
+		"type": "bottom",
+		"suiteId": "689a32ca82a5f3410309f955",
+		"outfitId": "689a32ca82a5f3410309f954",
+		"bottomId": "689a32ca82a5f3410309f953",
+		"locales": {
+			"en": "Commando Badlands"
+		},
+		"bottomBundlePath": "Clothing/Lowers/G3_COMMANDO/g3_badlands.bundle",
+		"traderId": "RAGMAN",
+		"side": [
+			"Usec"
+		],
+		"loyaltyLevel": 3,
+		"profileLevel": 30,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 1500000
+        },
+	{
+		"type": "bottom",
+		"suiteId": "689a32ca82a5f3410309f952",
+		"outfitId": "689a32ca82a5f3410309f951",
+		"bottomId": "689a32ca82a5f3410309f950",
+		"locales": {
+			"en": "Kokatat Badlands"
+		},
+		"bottomBundlePath": "Clothing/Lowers/BL_LOFT/bl_loft.bundle",
+		"traderId": "RAGMAN",
+		"side": [
+			"Usec"
+		],
+		"loyaltyLevel": 3,
+		"profileLevel": 33,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 2500000
+        },
+        {
+		"type": "top",
+		"suiteId": "689b9c78e80a0a82a1050292",
+		"outfitId": "689b9c78e80a0a82a1050291",
+		"topId": "689b9c78e80a0a82a1050290",
+		"handsId": "689b9f86e80a0a82a10502aa",
+		"locales": {
+			"en": "Wildwood"
+		},
+		"topBundlePath": "Clothing/Uppers/CRYE_G4/g4woods.bundle",
+		"handsBundlePath": "Clothing/Hands/CRYE_G4/g4woods_hands.bundle",
+		"traderId": "RAGMAN",
+		"side": [
+			"Usec"
+		],
+		"loyaltyLevel": 3,
+		"profileLevel": 35,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 2000000
+        },
+	{
+		"type": "bottom",
+		"suiteId": "689b9c78e80a0a82a105028f",
+		"outfitId": "689b9c78e80a0a82a105028e",
+		"bottomId": "689b9c78e80a0a82a105028d",
+		"locales": {
+			"en": "Wildwood Lower"
+		},
+		"bottomBundlePath": "Clothing/Lowers/CRYE_G4/g4lower_wood.bundle",
+		"traderId": "RAGMAN",
+		"side": [
+			"Usec"
+		],
+		"loyaltyLevel": 3,
+		"profileLevel": 33,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 2500000
 	}
 ]
