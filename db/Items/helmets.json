@@ -1231,5 +1231,346 @@
                 "_type": "Preset"
             }
         ]
+    },
+    "689a138a035e1c4298c32357": {
+        "itemTplToClone": "5a7c4850e899ef00150be885",
+        "parentId": "5a341c4086f77401f2541505",
+        "handbookParentId": "5b47574386f77428ca22b330",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Headwear/helmets/pasgt_bk3/helmet_pasgt_blk.bundle",
+                "rcid": ""
+            },
+            "ConflictingItems": [
+                "5645bcc04bdc2d363b8b4572",
+                "5f60cd6cf2bcbb675b00dac6",
+                "628e4e576d783146b124c64d",
+                "66b5f6a28ca68c6461709ed8",
+                "66b5f69ea7f72d197e70bcdb",
+                "5e4d34ca86f774264f758330",
+                "66b5f6985891c84aab75ca76",
+                "66b5f68de98be930d701c00e",
+                "5aa2ba71e5b5b000137b758f",
+                "5b432b965acfc47a8774094e",
+                "6033fa48ffd42c541047f728",
+                "66b5f693acff495a294927e3",
+                "5c165d832e2216398b5a7e36",
+                "5a16b9fffcdbcb0176308b34"
+            ],
+            "Weight": 1.644,
+            "Height": 2,
+            "Width": 2,
+            "weaponErgonomicPenalty": -1.75,
+            "mousePenalty": -1.5,
+            "speedPenaltyPercent": 1,
+            "Slots": [
+                {
+                    "_name": "mod_equipment_001",
+                    "_id": "689a13988d83a5446f5ee3f9",
+                    "_parent": "689a138a035e1c4298c32357",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "689a1818a272a33734640f2c",
+                                    "689a1a005d2915b23e564474",
+                                    "689a1a2ff797960777c1300c",
+                                    "689a1a614ddad2e5404cd6b5",
+                                    "689a1adc7835fd833d4add38",
+                                    "689a53f63e27d4fed009a294"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "Helmet_top",
+                    "_id": "689a13f1c80fc450622960ba",
+                    "_parent": "689a138a035e1c4298c32357",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "657baaf0b7e9ca9a02045c02"
+                                ],
+                                "Plate": "657baaf0b7e9ca9a02045c02",
+                                "armorColliders": [
+                                    "ParietalHead"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Helmet_back",
+                    "_id": "689a13ef20906c828ac5d5e9",
+                    "_parent": "689a138a035e1c4298c32357",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "657bab6ec6f689d3a205b85f"
+                                ],
+                                "Plate": "657bab6ec6f689d3a205b85f",
+                                "armorColliders": [
+                                    "BackHead"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Helmet_ears",
+                    "_id": "689a13f35bb4a29c0bf29fed",
+                    "_parent": "689a138a035e1c4298c32357",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "657babc6f58ba5a6250107a2"
+                                ],
+                                "Plate": "657babc6f58ba5a6250107a2",
+                                "armorColliders": [
+                                    "Ears"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Gibraltar Industries PASGT ballistic helmet",
+                "shortName": "PASGT",
+                "description": "The Gibraltar Industries PASGT (Personal Armor System for Ground Troops) is a Ballistic combat helmet based on the classic U.S. military PASGT design. Offers dependable protection against shrapnel and small-caliber threats, though heavier and bulkier than modern alternatives."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Headwear"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": false,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 2
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 53582,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "fleaPriceRoubles": 33210,
+        "handbookPriceRoubles": 3510,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ],
+        "addweaponpreset": true,
+        "weaponpresets": [
+            {
+                "_changeWeaponName": false,
+                "_encyclopedia": "689a138a035e1c4298c32357",
+                "_id": "689a157df864f5fa2851a818",
+                "_items": [
+                    {
+                        "_id": "689a157f6baa56ed88967050",
+                        "_tpl": "689a138a035e1c4298c32357",
+                        "upd": {
+                            "Repairable": {
+                                "MaxDurability": 100,
+                                "Durability": 100
+                            }
+                        }
+                    },
+                    {
+                        "_id": "689a1589d6c1a7ac631d9a81",
+                        "_tpl": "657baaf0b7e9ca9a02045c02",
+                        "slotId": "Helmet_top",
+                        "parentId": "689a157f6baa56ed88967050"
+                    },
+                    {
+                        "_id": "689a1588085254ed88bd8c29",
+                        "_tpl": "657bab6ec6f689d3a205b85f",
+                        "slotId": "Helmet_back",
+                        "parentId": "689a157f6baa56ed88967050"
+                    },
+                    {
+                        "_id": "689a16b0328b9fa97f4e4ff4",
+                        "_tpl": "657babc6f58ba5a6250107a2",
+                        "slotId": "Helmet_ears",
+                        "parentId": "689a157f6baa56ed88967050"
+                    }
+                ],
+                "_name": "PASGT Black Stock Preset",
+                "_parent": "689a157f6baa56ed88967050",
+                "_type": "Preset"
+            }
+        ]
+    },
+    "689a1699d1c6186e381ed297": {
+        "itemTplToClone": "689a138a035e1c4298c32357",
+        "parentId": "5a341c4086f77401f2541505",
+        "handbookParentId": "5b47574386f77428ca22b330",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Headwear/helmets/pasgt_bk3/helmet_pasgt_olive.bundle",
+                "rcid": ""
+            },
+            "ConflictingItems": [
+                "5645bcc04bdc2d363b8b4572",
+                "5f60cd6cf2bcbb675b00dac6",
+                "628e4e576d783146b124c64d",
+                "66b5f6a28ca68c6461709ed8",
+                "66b5f69ea7f72d197e70bcdb",
+                "5e4d34ca86f774264f758330",
+                "66b5f6985891c84aab75ca76",
+                "66b5f68de98be930d701c00e",
+                "5aa2ba71e5b5b000137b758f",
+                "5b432b965acfc47a8774094e",
+                "6033fa48ffd42c541047f728",
+                "66b5f693acff495a294927e3",
+                "5c165d832e2216398b5a7e36",
+                "5a16b9fffcdbcb0176308b34"
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Gibraltar Industries PASGT ballistic helmet (Olive Drab)",
+                "shortName": "PASGT",
+                "description": "The Gibraltar Industries PASGT (Personal Armor System for Ground Troops) is a Ballistic combat helmet based on the classic U.S. military PASGT design. Offers dependable protection against shrapnel and small-caliber threats, though heavier and bulkier than modern alternatives. Olive Drab version."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Headwear"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": false,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 2
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 53582,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "fleaPriceRoubles": 33210,
+        "handbookPriceRoubles": 3510,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ],
+        "addweaponpreset": true,
+        "weaponpresets": [
+            {
+                "_changeWeaponName": false,
+                "_encyclopedia": "689a1699d1c6186e381ed297",
+                "_id": "689a1fd9f6ac385069194212",
+                "_items": [
+                    {
+                        "_id": "689a16a51c5263ce2ec9cfd0",
+                        "_tpl": "689a1699d1c6186e381ed297",
+                        "upd": {
+                            "Repairable": {
+                                "MaxDurability": 100,
+                                "Durability": 100
+                            }
+                        }
+                    },
+                    {
+                        "_id": "689a16aa091fbd17ec44a57e",
+                        "_tpl": "657baaf0b7e9ca9a02045c02",
+                        "slotId": "Helmet_top",
+                        "parentId": "689a16a51c5263ce2ec9cfd0"
+                    },
+                    {
+                        "_id": "689a16aa0f863fd376d663f5",
+                        "_tpl": "657bab6ec6f689d3a205b85f",
+                        "slotId": "Helmet_back",
+                        "parentId": "689a16a51c5263ce2ec9cfd0"
+                    },
+                    {
+                        "_id": "689a16a9640b7080ef68bf07",
+                        "_tpl": "657babc6f58ba5a6250107a2",
+                        "slotId": "Helmet_ears",
+                        "parentId": "689a16a51c5263ce2ec9cfd0"
+                    }
+                ],
+                "_name": "PASGT ODG Stock Preset",
+                "_parent": "689a16a51c5263ce2ec9cfd0",
+                "_type": "Preset"
+            }
+        ]
     }
 }
