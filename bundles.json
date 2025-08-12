@@ -218,6 +218,14 @@
                 "Headwear/helmets/pasgt_bk3/helmet_pasgt_shared.bundle",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
+        },
+        {
+            "key": "Headwear/masks/mask_gasmask_pmg.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
         }
     ]
 }
