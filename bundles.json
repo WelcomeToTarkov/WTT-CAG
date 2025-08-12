@@ -129,6 +129,95 @@
                 "Headwear/helmets/mich_2000/mich2000_shared.bundle",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
+        },
+        {
+            "key": "Headwear/helmets/pasgt_bk3/helmet_pasgt_shared.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/pasgt_bk3/helmet_pasgt_blk.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Headwear/helmets/pasgt_bk3/helmet_pasgt_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/pasgt_bk3/helmet_pasgt_olive.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Headwear/helmets/pasgt_bk3/helmet_pasgt_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/pasgt_bk3/helmet_pasgt_cover_woodland.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Headwear/helmets/pasgt_bk3/helmet_pasgt_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/pasgt_bk3/helmet_pasgt_cover_winter.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Headwear/helmets/pasgt_bk3/helmet_pasgt_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/pasgt_bk3/helmet_pasgt_cover_ttsko.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Headwear/helmets/pasgt_bk3/helmet_pasgt_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/pasgt_bk3/helmet_pasgt_cover_mc.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Headwear/helmets/pasgt_bk3/helmet_pasgt_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/pasgt_bk3/helmet_pasgt_cover_choc.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Headwear/helmets/pasgt_bk3/helmet_pasgt_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/pasgt_bk3/helmet_pasgt_cover_dcu.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Headwear/helmets/pasgt_bk3/helmet_pasgt_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/pasgt_bk3/helmet_pasgt_cover_goggles.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Headwear/helmets/pasgt_bk3/helmet_pasgt_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
         }
     ]
 }
