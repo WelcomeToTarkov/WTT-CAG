@@ -361,6 +361,38 @@
                 "shaders",
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
+            ] 
+        },
+        {
+            "key": "Headwear/masks/mask_gasmask_lw.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/masks/mask_arc_badlands.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ] 
+        },
+        {
+            "key": "Headwear/masks/mask_gasmask_xm44.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+         },
+        {
+            "key": "Headwear/masks/mask_gasmask_msa.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         }
     ]
