@@ -1,0 +1,501 @@
+{
+    "68984e9773b55a6573593f3b": {
+        "itemTplToClone": "60a3c70cde5f453f634816a3",
+        "parentId": "5448e5284bdc2dcb718b4567",
+        "handbookParentId": "5b5f6f8786f77447ed563642",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Bodywear/armoredRigs/DCS/arig_dcs_assault.bundle",
+                "rcid": ""
+            },
+            "SearchSound": "looting_body_extended",
+            "Weight": 2.11,
+            "Height": 3,
+            "Width": 4,
+            "RigLayoutName": "ANA Tactical M2",
+            "mousePenalty": -3.5,
+            "speedPenaltyPercent": -4,
+            "weaponErgonomicPenalty": -4,
+            "ArmorType": "Heavy",
+            "BluntThroughput": 0.2619,
+            "Slots": [
+                {
+                    "_name": "Front_plate",
+                    "_id": "689dde6a26977c45cd0b52ba",
+                    "_parent": "68984e9773b55a6573593f3b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "656f9d5900d62bcd2e02407c",
+                                    "656fa8d700d62bcd2e024084",
+                                    "656fa99800d62bcd2e024088",
+                                    "656fae5f7c2d57afe200c0d7",
+                                    "656faf0ca0dce000a2020f77",
+                                    "656fa0fb498d1b7e3e071d9c",
+                                    "656fa76500d62bcd2e024080",
+                                    "656fafe3498d1b7e3e071da4",
+                                    "656fa25e94b480b8a500c0e0",
+                                    "656fad8c498d1b7e3e071da0",
+                                    "656fa61e94b480b8a500c0e8",
+                                    "656fb21fa0dce000a2020f7c",
+                                    "656fb0bd7c2d57afe200c0dc",
+                                    "656fac30c6baea13cd07e10c",
+                                    "656f9fa0498d1b7e3e071d98",
+                                    "656fa53d94b480b8a500c0e4",
+                                    "655746010177119f4a097ff7",
+                                    "64afdcb83efdfea28601d041"
+                                ],
+                                "Plate": "656f9fa0498d1b7e3e071d98",
+                                "armorColliders": [],
+                                "armorPlateColliders": [
+                                    "Plate_Granit_SAPI_chest"
+                                ],
+                                "bluntDamageReduceFromSoftArmor": true,
+                                "locked": false
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Back_plate",
+                    "_id": "689dde699586fce230a1245f",
+                    "_parent": "68984e9773b55a6573593f3b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "656f9d5900d62bcd2e02407c",
+                                    "656fa8d700d62bcd2e024084",
+                                    "656fa99800d62bcd2e024088",
+                                    "656fae5f7c2d57afe200c0d7",
+                                    "656faf0ca0dce000a2020f77",
+                                    "656fa0fb498d1b7e3e071d9c",
+                                    "656fa76500d62bcd2e024080",
+                                    "656fafe3498d1b7e3e071da4",
+                                    "656fa25e94b480b8a500c0e0",
+                                    "656fad8c498d1b7e3e071da0",
+                                    "656fa61e94b480b8a500c0e8",
+                                    "656fb21fa0dce000a2020f7c",
+                                    "656fb0bd7c2d57afe200c0dc",
+                                    "656fac30c6baea13cd07e10c",
+                                    "656f9fa0498d1b7e3e071d98",
+                                    "656fa53d94b480b8a500c0e4",
+                                    "655746010177119f4a097ff7",
+                                    "64afdcb83efdfea28601d041"
+                                ],
+                                "Plate": "656f9fa0498d1b7e3e071d98",
+                                "armorColliders": [],
+                                "armorPlateColliders": [
+                                    "Plate_Granit_SAPI_back"
+                                ],
+                                "bluntDamageReduceFromSoftArmor": true,
+                                "locked": false
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Soft_armor_front",
+                    "_id": "689dde670d7fdb3684cec71b",
+                    "_parent": "68984e9773b55a6573593f3b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6570e83223c1f638ef0b0ede"
+                                ],
+                                "Plate": "6570e83223c1f638ef0b0ede",
+                                "armorColliders": [
+                                    "RibcageUp",
+                                    "RibcageLow"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Soft_armor_back",
+                    "_id": "689dde654d987b57c012892e",
+                    "_parent": "68984e9773b55a6573593f3b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6570e87c23c1f638ef0b0ee2"
+                                ],
+                                "Plate": "6570e87c23c1f638ef0b0ee2",
+                                "armorColliders": [
+                                    "SpineTop",
+                                    "SpineDown"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Soft_armor_left",
+                    "_id": "689dde641cdc96b7fa6d109f",
+                    "_parent": "68984e9773b55a6573593f3b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6575c3cdc6700bd6b40e8a90"
+                                ],
+                                "Plate": "6575c3cdc6700bd6b40e8a90",
+                                "armorColliders": [
+                                    "LeftSideChestDown"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "soft_armor_right",
+                    "_id": "689dde6259435b352096a279",
+                    "_parent": "68984e9773b55a6573593f3b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6575c3dfdc9932aed601c5f8"
+                                ],
+                                "Plate": "6575c3dfdc9932aed601c5f8",
+                                "armorColliders": [
+                                    "RightSideChestDown"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Collar",
+                    "_id": "689dde61d3b872d512b0b44a",
+                    "_parent": "68984e9773b55a6573593f3b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6575c3ec52b7f8c76a05ee39"
+                                ],
+                                "Plate": "6575c3ec52b7f8c76a05ee39",
+                                "armorColliders": [
+                                    "NeckFront",
+                                    "NeckBack"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Shoulder_r",
+                    "_id": "689dde5f1c7bd8ee01487ad2",
+                    "_parent": "68984e9773b55a6573593f3b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6575c40c52b7f8c76a05ee41"
+                                ],
+                                "Plate": "6575c40c52b7f8c76a05ee41",
+                                "armorColliders": [
+                                    "RightUpperArm"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Shoulder_l",
+                    "_id": "689dde5d77a119d55910224a",
+                    "_parent": "68984e9773b55a6573593f3b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6575c3fd52b7f8c76a05ee3d"
+                                ],
+                                "Plate": "6575c3fd52b7f8c76a05ee3d",
+                                "armorColliders": [
+                                    "LeftUpperArm"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Warrior Assault Systems DCS plate carrier (Assault, Multicam)",
+                "shortName": "DCS",
+                "description": "A Full-coverage plate carrier built for heavy assaults and sustained firefights. The DCS in Assault configuration comes loaded with integrated mag pouches, admin storage, and kevlar arm protection, offering excellent balance between armor coverage and load-carrying capacity. Multicam version."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Vest"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": false,
+        "traderId": "RAGMAN",
+        "traderItems": [],
+        "barterScheme": [],
+        "loyallevelitems": 4,
+        "fleaPriceRoubles": 76863,
+        "handbookPriceRoubles": 21278,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ],
+        "addweaponpreset": true,
+        "weaponpresets": [
+            {
+                "_changeWeaponName": false,
+                "_encyclopedia": "68984e9773b55a6573593f3b",
+                "_id": "689dde0d4a68e4f4c43965c3",
+                "_items": [
+                    {
+                        "_id": "689dddfd44b8c67a7b684e7d",
+                        "_tpl": "68984e9773b55a6573593f3b",
+                        "upd": {
+                            "Repairable": {
+                                "MaxDurability": 100,
+                                "Durability": 100
+                            }
+                        }
+                    },
+                    {
+                        "_id": "689dde0b2f66b655667296ff",
+                        "_tpl": "6570e83223c1f638ef0b0ede",
+                        "slotId": "Soft_armor_front",
+                        "parentId": "689dddfd44b8c67a7b684e7d"
+                    },
+                    {
+                        "_id": "689dde09925e7ccb5d443db5",
+                        "_tpl": "6570e83223c1f638ef0b0ede",
+                        "slotId": "Soft_armor_back",
+                        "parentId": "689dddfd44b8c67a7b684e7d"
+                    },
+                    {
+                        "_id": "689dde09a1409a0c1f335603",
+                        "_tpl": "6575c3ec52b7f8c76a05ee39",
+                        "slotId": "Collar",
+                        "parentId": "689dddfd44b8c67a7b684e7d"
+                    },
+                    {
+                        "_id": "689dde0765721f11f8dae85c",
+                        "_tpl": "6575c3fd52b7f8c76a05ee3d",
+                        "slotId": "Shoulder_l",
+                        "parentId": "689dddfd44b8c67a7b684e7d"
+                    },
+                    {
+                        "_id": "689dde07db0907591870e3e3",
+                        "_tpl": "6575c40c52b7f8c76a05ee41",
+                        "slotId": "Shoulder_r",
+                        "parentId": "689dddfd44b8c67a7b684e7d"
+                    },
+                    {
+                        "_id": "689dde06ae2ac34cb69d732e",
+                        "_tpl": "6575c3dfdc9932aed601c5f8",
+                        "slotId": "soft_armor_right",
+                        "parentId": "689dddfd44b8c67a7b684e7d"
+                    },
+                    {
+                        "_id": "689dde05071e67069380d38d",
+                        "_tpl": "6575c3cdc6700bd6b40e8a90",
+                        "slotId": "Soft_armor_left",
+                        "parentId": "689dddfd44b8c67a7b684e7d"
+                    }
+                ],
+                "_name": "DCS Assault Multicam Stock Preset",
+                "_parent": "689dddfd44b8c67a7b684e7d",
+                "_type": "Preset"
+            }
+        ]
+    },
+    "689df3bd9c25e7a26108166d": {
+        "itemTplToClone": "68984e9773b55a6573593f3b",
+        "parentId": "5448e5284bdc2dcb718b4567",
+        "handbookParentId": "5b5f6f8786f77447ed563642",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Bodywear/armoredRigs/DCS/arig_dcs_assault_od.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Warrior Assault Systems DCS plate carrier (Assault, Multicam)",
+                "shortName": "DCS",
+                "description": "A Full-coverage plate carrier built for heavy assaults and sustained firefights. The DCS in Assault configuration comes loaded with integrated mag pouches, admin storage, and kevlar arm protection, offering excellent balance between armor coverage and load-carrying capacity. Multicam version."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Vest"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": false,
+        "traderId": "RAGMAN",
+        "traderItems": [],
+        "barterScheme": [],
+        "loyallevelitems": 4,
+        "fleaPriceRoubles": 76863,
+        "handbookPriceRoubles": 21278,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ],
+        "addweaponpreset": true,
+        "weaponpresets": [
+            {
+                "_changeWeaponName": false,
+                "_encyclopedia": "689df3bd9c25e7a26108166d",
+                "_id": "689df45b3e3b052738524bb6",
+                "_items": [
+                    {
+                        "_id": "689df44805bd53f10ca5b566",
+                        "_tpl": "689df3bd9c25e7a26108166d",
+                        "upd": {
+                            "Repairable": {
+                                "MaxDurability": 100,
+                                "Durability": 100
+                            }
+                        }
+                    },
+                    {
+                        "_id": "689df457e785223ba050b4f6",
+                        "_tpl": "6570e83223c1f638ef0b0ede",
+                        "slotId": "Soft_armor_front",
+                        "parentId": "689df44805bd53f10ca5b566"
+                    },
+                    {
+                        "_id": "689df4575ac6041a6b48d2a8",
+                        "_tpl": "6570e83223c1f638ef0b0ede",
+                        "slotId": "Soft_armor_back",
+                        "parentId": "689df44805bd53f10ca5b566"
+                    },
+                    {
+                        "_id": "689df45695da429efb4e03aa",
+                        "_tpl": "6575c3ec52b7f8c76a05ee39",
+                        "slotId": "Collar",
+                        "parentId": "689df44805bd53f10ca5b566"
+                    },
+                    {
+                        "_id": "689df4550285e639a61c4d37",
+                        "_tpl": "6575c3fd52b7f8c76a05ee3d",
+                        "slotId": "Shoulder_l",
+                        "parentId": "689df44805bd53f10ca5b566"
+                    },
+                    {
+                        "_id": "689df4544891f90af14dda98",
+                        "_tpl": "6575c40c52b7f8c76a05ee41",
+                        "slotId": "Shoulder_r",
+                        "parentId": "689df44805bd53f10ca5b566"
+                    },
+                    {
+                        "_id": "689df45396b59e62b6fdc934",
+                        "_tpl": "6575c3dfdc9932aed601c5f8",
+                        "slotId": "soft_armor_right",
+                        "parentId": "689df44805bd53f10ca5b566"
+                    },
+                    {
+                        "_id": "689df4525de71f9a0d250496",
+                        "_tpl": "6575c3cdc6700bd6b40e8a90",
+                        "slotId": "Soft_armor_left",
+                        "parentId": "689df44805bd53f10ca5b566"
+                    }
+                ],
+                "_name": "DCS Assault ODG Stock Preset",
+                "_parent": "689df44805bd53f10ca5b566",
+                "_type": "Preset"
+            }
+        ]
+    }
+}
