@@ -240,5 +240,87 @@
 		"standing": 0,
 		"currencyId": "ROUBLES",
 		"price": 2500000
+        },
+	{
+		"type": "bottom",
+		"suiteId": "689d11934099da08bf0a4854",
+		"outfitId": "689d11934099da08bf0a4855",
+		"bottomId": "689d11934099da08bf0a4856",
+		"locales": {
+			"en": "Shadow"
+		},
+		"bottomBundlePath": "Clothing/Lowers/G3/g3_mcb_ponts.bundle",
+		"traderId": "RAGMAN",
+		"side": [
+			"Usec"
+		],
+		"loyaltyLevel": 3,
+		"profileLevel": 33,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 2500000
+        },
+        {
+		"type": "top",
+		"suiteId": "689dad922a7b6b578d0ef6fc",
+		"outfitId": "689dad922a7b6b578d0ef6fd",
+		"topId": "689dad922a7b6b578d0ef6fe",
+		"handsId": "689dad922a7b6b578d0ef6ff",
+		"locales": {
+			"en": "Shadow"
+		},
+		"topBundlePath": "Clothing/Uppers/CRYE_G4/g4mcb.bundle",
+		"handsBundlePath": "Clothing/Hands/CRYE_G4/g4mcb_hands.bundle",
+		"traderId": "RAGMAN",
+		"side": [
+			"Usec"
+		],
+		"loyaltyLevel": 3,
+		"profileLevel": 35,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 2000000
+        },
+        {
+		"type": "top",
+		"suiteId": "689dad922a7b6b578d0ef6f7",
+		"outfitId": "689dad922a7b6b578d0ef6f8",
+		"topId": "689dad922a7b6b578d0ef6fa",
+		"handsId": "689dad922a7b6b578d0ef6f9",
+		"locales": {
+			"en": "MCB Cutsleeve"
+		},
+		"topBundlePath": "Clothing/Uppers/CRYE_G3/g3mcb_short.bundle",
+		"handsBundlePath": "Clothing/Hands/CRYE_G3/g3mcbhands.bundle",
+		"traderId": "RAGMAN",
+		"side": [
+			"Usec"
+		],
+		"loyaltyLevel": 3,
+		"profileLevel": 35,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 2000000
+        },
+        {
+		"type": "top",
+		"suiteId": "689e3d4d246a939d3a0c2eeb",
+		"outfitId": "689e3d4d246a939d3a0c2eec",
+		"topId": "689e3d4d246a939d3a0c2eed",
+		"handsId": "689e3d4d246a939d3a0c2eee",
+		"locales": {
+			"en": "Sphinx MC"
+		},
+		"topBundlePath": "Clothing/Uppers/ARC_SPHYNX/sphynxmc.bundle",
+		"handsBundlePath": "Clothing/Hands/ARC_SPHYNX/arcmchands.bundle",
+		"traderId": "RAGMAN",
+		"side": [
+			"Usec"
+		],
+		"loyaltyLevel": 3,
+		"profileLevel": 35,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 2000000
 	}
 ]

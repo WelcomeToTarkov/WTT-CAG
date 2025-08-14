@@ -361,6 +361,94 @@
                 "shaders",
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
+            ] 
+        },
+        {
+            "key": "Headwear/masks/mask_gasmask_lw.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/masks/mask_arc_badlands.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ] 
+        },
+        {
+            "key": "Headwear/masks/mask_gasmask_xm44.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+         },
+        {
+            "key": "Headwear/masks/mask_gasmask_msa.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        { 
+            "key": "Clothing/Lowers/G3/g3_mcb_ponts.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ] 
+        },
+        {
+            "key": "Clothing/Uppers/CRYE_G4/g4mcb.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Clothing/Hands/CRYE_G4/g4mcb_hands.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Clothing/Uppers/CRYE_G3/g3mcb_short.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Clothing/Hands/CRYE_G3/g3mcbhands.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Clothing/Uppers/ARC_SPHYNX/sphynxmc.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Clothing/Hands/ARC_SPHYNX/arcmchands.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         }
     ]
