@@ -416,6 +416,33 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
+                "Bodywear/armoredRigs/DCS/arig_dcs_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Bodywear/armoredRigs/DCS/arig_dcs_assault.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Bodywear/armoredRigs/DCS/arig_dcs_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Bodywear/armoredRigs/DCS/arig_dcs_assault_od.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Bodywear/armoredRigs/DCS/arig_dcs_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Clothing/Uppers/TELNIK_OMON/omon_telnik_body.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
