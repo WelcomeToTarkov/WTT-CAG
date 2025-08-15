@@ -439,14 +439,6 @@
             ]
         },
         {
-            "key": "Clothing/Uppers/TELNIK_OMON/omon_telnik_body.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
             "key": "Clothing/Uppers/CRYE_G3/g3mcb_short.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -475,6 +467,32 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/batlskin_cobra/helmet_batlskin_shared.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/batlskin_cobra/helmet_batlskin_mtp.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Headwear/helmets/batlskin_cobra/helmet_batlskin_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/batlskin_cobra/helmet_batlskin_snowdrift.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Headwear/helmets/batlskin_cobra/helmet_batlskin_shared.bundle",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         }

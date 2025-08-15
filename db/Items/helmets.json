@@ -58,7 +58,9 @@
                             {
                                 "Filter": [
                                     "6898b5d1db78a51e440ffb0d",
-                                    "6898b3df9fc5e87e7b16158d"
+                                    "6898b3df9fc5e87e7b16158d",
+                                    "689f6510c0fc0a4d4925334f",
+                                    "689f6557898dcc1c04a856e0"
                                 ],
                                 "Shift": 0
                             }
@@ -77,7 +79,9 @@
                             {
                                 "Filter": [
                                     "6898b5d1db78a51e440ffb0d",
-                                    "6898b3df9fc5e87e7b16158d"
+                                    "6898b3df9fc5e87e7b16158d",
+                                    "689f6510c0fc0a4d4925334f",
+                                    "689f6557898dcc1c04a856e0"
                                 ],
                                 "Shift": 0
                             }
@@ -283,7 +287,9 @@
                             {
                                 "Filter": [
                                     "6898b5d1db78a51e440ffb0d",
-                                    "6898b3df9fc5e87e7b16158d"
+                                    "6898b3df9fc5e87e7b16158d",
+                                    "689f6510c0fc0a4d4925334f",
+                                    "689f6557898dcc1c04a856e0"
                                 ],
                                 "Shift": 0
                             }
@@ -302,7 +308,9 @@
                             {
                                 "Filter": [
                                     "6898b5d1db78a51e440ffb0d",
-                                    "6898b3df9fc5e87e7b16158d"
+                                    "6898b3df9fc5e87e7b16158d",
+                                    "689f6510c0fc0a4d4925334f",
+                                    "689f6557898dcc1c04a856e0"
                                 ],
                                 "Shift": 0
                             }
@@ -514,7 +522,9 @@
                             {
                                 "Filter": [
                                     "6898b5d1db78a51e440ffb0d",
-                                    "6898b3df9fc5e87e7b16158d"
+                                    "6898b3df9fc5e87e7b16158d",
+                                    "689f6510c0fc0a4d4925334f",
+                                    "689f6557898dcc1c04a856e0"
                                 ],
                                 "Shift": 0
                             }
@@ -533,7 +543,9 @@
                             {
                                 "Filter": [
                                     "6898b5d1db78a51e440ffb0d",
-                                    "6898b3df9fc5e87e7b16158d"
+                                    "6898b3df9fc5e87e7b16158d",
+                                    "689f6510c0fc0a4d4925334f",
+                                    "689f6557898dcc1c04a856e0"
                                 ],
                                 "Shift": 0
                             }
@@ -775,7 +787,9 @@
                             {
                                 "Filter": [
                                     "6898b5d1db78a51e440ffb0d",
-                                    "6898b3df9fc5e87e7b16158d"
+                                    "6898b3df9fc5e87e7b16158d",
+                                    "689f6510c0fc0a4d4925334f",
+                                    "689f6557898dcc1c04a856e0"
                                 ],
                                 "Shift": 0
                             }
@@ -794,7 +808,9 @@
                             {
                                 "Filter": [
                                     "6898b5d1db78a51e440ffb0d",
-                                    "6898b3df9fc5e87e7b16158d"
+                                    "6898b3df9fc5e87e7b16158d",
+                                    "689f6510c0fc0a4d4925334f",
+                                    "689f6557898dcc1c04a856e0"
                                 ],
                                 "Shift": 0
                             }
@@ -1036,7 +1052,9 @@
                             {
                                 "Filter": [
                                     "6898b5d1db78a51e440ffb0d",
-                                    "6898b3df9fc5e87e7b16158d"
+                                    "6898b3df9fc5e87e7b16158d",
+                                    "689f6510c0fc0a4d4925334f",
+                                    "689f6557898dcc1c04a856e0"
                                 ],
                                 "Shift": 0
                             }
@@ -1055,7 +1073,9 @@
                             {
                                 "Filter": [
                                     "6898b5d1db78a51e440ffb0d",
-                                    "6898b3df9fc5e87e7b16158d"
+                                    "6898b3df9fc5e87e7b16158d",
+                                    "689f6510c0fc0a4d4925334f",
+                                    "689f6557898dcc1c04a856e0"
                                 ],
                                 "Shift": 0
                             }
@@ -1569,6 +1589,373 @@
                 ],
                 "_name": "PASGT ODG Stock Preset",
                 "_parent": "689a16a51c5263ce2ec9cfd0",
+                "_type": "Preset"
+            }
+        ]
+    },
+    "689e5069ac47e19d2a3f2e43": {
+        "itemTplToClone": "66b5f65ca7f72d197e70bcd6",
+        "parentId": "5a341c4086f77401f2541505",
+        "handbookParentId": "5b47574386f77428ca22b330",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Headwear/helmets/batlskin_cobra/helmet_batlskin_mtp.bundle",
+                "rcid": ""
+            },
+            "Weight": 1.306,
+            "Height": 2,
+            "Width": 2,
+            "RicochetParams": {
+                "x": 0.75,
+                "y": 0.75,
+                "z": 80
+            },
+            "Slots": [
+                {
+                    "_name": "mod_nvg",
+                    "_id": "689e509e3a54151f92b23de1",
+                    "_parent": "689e5069ac47e19d2a3f2e43",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5c0558060db834001b735271",
+                                    "5a16b8a9fcdbcb00165aa6ca"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_002",
+                    "_id": "689e509f98a02900118f316b",
+                    "_parent": "689e5069ac47e19d2a3f2e43",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6897d6a13858711f63d149c3"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_001",
+                    "_id": "689e50a0d7ce780b0e05e35a",
+                    "_parent": "689e5069ac47e19d2a3f2e43",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6898b5d1db78a51e440ffb0d",
+                                    "6898b3df9fc5e87e7b16158d",
+                                    "689f6510c0fc0a4d4925334f",
+                                    "689f6557898dcc1c04a856e0"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_000",
+                    "_id": "689e50a233b8b90fc039a6aa",
+                    "_parent": "689e5069ac47e19d2a3f2e43",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6898b5d1db78a51e440ffb0d",
+                                    "6898b3df9fc5e87e7b16158d",
+                                    "689f6510c0fc0a4d4925334f",
+                                    "689f6557898dcc1c04a856e0"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "Helmet_top",
+                    "_id": "689e50a31db902938c0869e7",
+                    "_parent": "689e5069ac47e19d2a3f2e43",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "657f8ec5f4c82973640b234c"
+                                ],
+                                "Plate": "657f8ec5f4c82973640b234c",
+                                "armorColliders": [
+                                    "ParietalHead"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Helmet_back",
+                    "_id": "689e50a468f057cc9aef80f9",
+                    "_parent": "689e5069ac47e19d2a3f2e43",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "657f8f10f4c82973640b2350"
+                                ],
+                                "Plate": "657f8f10f4c82973640b2350",
+                                "armorColliders": [
+                                    "BackHead"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Helmet_ears",
+                    "_id": "689e50b56cc4f9dfaf34d428",
+                    "_parent": "689e5069ac47e19d2a3f2e43",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "657babc6f58ba5a6250107a2"
+                                ],
+                                "Plate": "657babc6f58ba5a6250107a2",
+                                "armorColliders": [
+                                    "Ears"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Revision BATLSKIN Cobra ballistic helmet (MTP)",
+                "shortName": "Cobra",
+                "description": "The Revision BATLSKIN Cobra ballistic helmet is a High-cut ballistic helmet offering superior protection with modern comfort features designed for the British Armed Forces. The BATLSKIN Cobra in MTP camo integrates side rails and NVG mount compatibility, allowing for seamless attachment of mission gear. Manufactured by Revision."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Headwear"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": false,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 2
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 53582,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "fleaPriceRoubles": 66666,
+        "handbookPriceRoubles": 15400,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ],
+        "addweaponpreset": true,
+        "weaponpresets": [
+            {
+                "_changeWeaponName": false,
+                "_encyclopedia": "689e5069ac47e19d2a3f2e43",
+                "_id": "689e50622e1ba7fe93557c02",
+                "_items": [
+                    {
+                        "_id": "689e505a210351789fc88715",
+                        "_tpl": "689e5069ac47e19d2a3f2e43",
+                        "upd": {
+                            "Repairable": {
+                                "MaxDurability": 100,
+                                "Durability": 100
+                            }
+                        }
+                    },
+                    {
+                        "_id": "689e505e681fba21a9e4a673",
+                        "_tpl": "657f8ec5f4c82973640b234c",
+                        "slotId": "Helmet_top",
+                        "parentId": "689e505a210351789fc88715"
+                    },
+                    {
+                        "_id": "689e54347f5dbda37aa23e04",
+                        "_tpl": "657f8f10f4c82973640b2350",
+                        "slotId": "Helmet_back",
+                        "parentId": "689e505a210351789fc88715"
+                    },
+                    {
+                        "_id": "689e54327aa5d274e9ca2ec9",
+                        "_tpl": "657babc6f58ba5a6250107a2",
+                        "slotId": "Helmet_ears",
+                        "parentId": "689e505a210351789fc88715"
+                    }
+                ],
+                "_name": "Cobra MTP Stock Preset",
+                "_parent": "689e505a210351789fc88715",
+                "_type": "Preset"
+            }
+        ]
+    },
+    "689e5269a99dc1a2d2457f5d": {
+        "itemTplToClone": "689e5069ac47e19d2a3f2e43",
+        "parentId": "5a341c4086f77401f2541505",
+        "handbookParentId": "5b47574386f77428ca22b330",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Headwear/helmets/batlskin_cobra/helmet_batlskin_snowdrift.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Revision BATLSKIN Cobra ballistic helmet (Snowdrift)",
+                "shortName": "Cobra",
+                "description": "The Revision BATLSKIN Cobra ballistic helmet is a High-cut ballistic helmet offering superior protection with modern comfort features designed for the British Armed Forces. The BATLSKIN Cobra in MTP camo integrates side rails and NVG mount compatibility, allowing for seamless attachment of mission gear. Manufactured by Revision."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Headwear"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": false,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 2
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 53582,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "fleaPriceRoubles": 72666,
+        "handbookPriceRoubles": 15400,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ],
+        "addweaponpreset": true,
+        "weaponpresets": [
+            {
+                "_changeWeaponName": false,
+                "_encyclopedia": "689e5269a99dc1a2d2457f5d",
+                "_id": "689e5284037eafeab45134df",
+                "_items": [
+                    {
+                        "_id": "689e5279da7255930cc75088",
+                        "_tpl": "689e5269a99dc1a2d2457f5d",
+                        "upd": {
+                            "Repairable": {
+                                "MaxDurability": 100,
+                                "Durability": 100
+                            }
+                        }
+                    },
+                    {
+                        "_id": "689e527ec4712531f5c0f43c",
+                        "_tpl": "657f8ec5f4c82973640b234c",
+                        "slotId": "Helmet_top",
+                        "parentId": "689e5279da7255930cc75088"
+                    },
+                    {
+                        "_id": "689e527d09a60029eba59b5b",
+                        "_tpl": "657f8f10f4c82973640b2350",
+                        "slotId": "Helmet_back",
+                        "parentId": "689e5279da7255930cc75088"
+                    },
+                    {
+                        "_id": "689e527c1c5947f437d1caaf",
+                        "_tpl": "657babc6f58ba5a6250107a2",
+                        "slotId": "Helmet_ears",
+                        "parentId": "689e5279da7255930cc75088"
+                    }
+                ],
+                "_name": "Cobra Snowdrift Stock Preset",
+                "_parent": "689e5279da7255930cc75088",
                 "_type": "Preset"
             }
         ]
