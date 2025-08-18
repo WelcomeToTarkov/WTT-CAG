@@ -322,5 +322,45 @@
 		"standing": 0,
 		"currencyId": "ROUBLES",
 		"price": 2000000
+        },
+        {
+		"type": "top",
+		"suiteId": "689f94eee4e9911ec10676e8",
+		"outfitId": "689f94eee4e9911ec10676e7",
+		"topId": "689f94eee4e9911ec10676e6",
+		"handsId": "689f94eee4e9911ec10676e5",
+		"locales": {
+			"en": "Obskura"
+		},
+		"topBundlePath": "Clothing/Uppers/CRYE_G3/g3kryptek_short.bundle",
+		"handsBundlePath": "Clothing/Hands/CRYE_G3/g3kryptekhands.bundle",
+		"traderId": "RAGMAN",
+		"side": [
+			"Usec"
+		],
+		"loyaltyLevel": 3,
+		"profileLevel": 35,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 2000000
+        },
+	{
+		"type": "bottom",
+		"suiteId": "68a32fc66cb39008b0015cdb",
+		"outfitId": "68a32fc66cb39008b0015cdc",
+		"bottomId": "68a32fc66cb39008b0015cdd",
+		"locales": {
+			"en": "Obskura"
+		},
+		"bottomBundlePath": "Clothing/Lowers/G3/g3_kryp1_ponts.bundle",
+		"traderId": "RAGMAN",
+		"side": [
+			"Usec"
+		],
+		"loyaltyLevel": 3,
+		"profileLevel": 33,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 2500000
 	}
 ]
