@@ -1,0 +1,77 @@
+{
+    "68a553f9e1f415c456114c6a": {
+        "itemTplToClone": "65573fa5655447403702a816",
+        "parentId": "644120aa86ffbe10ee032b6f",
+        "handbookParentId": "5b5f704686f77447ec5d76d7",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "assets/content/items/equipment/plate_granit_5a_front/item_equipment_plate_granit_5a_front_new.bundle",
+                "rcid": ""
+            },
+            "Weight": 2.1,
+            "ArmorType": "Heavy",
+            "MaxDurability": 60,
+            "armorClass": 4,
+            "armorPlateColliders": [
+                "Plate_Granit_SAPI_chest",
+                "Plate_Granit_SAPI_back"
+            ],
+            "speedPenaltyPercent": -1,
+            "Lower75Prefab": {
+                "path": "assets/content/items/equipment/plate_granit_5a_front/item_equipment_plate_granit_5a_front_new.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Granit Br3 ballistic plate",
+                "shortName": "Granit Br3",
+                "description": "Granit Br3 ballistic plates are unified for use in both chest and back sections of the body armor. Features improved ergonomic characteristics: anatomical shape and division into two panels provides an optimal fit to the user's figure, increasing the comfort of use."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": true,
+        "traderId": "PRAPOR",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 2
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 33210,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "fleaPriceRoubles": 66582,
+        "handbookPriceRoubles": 11923,
+        "addtoStaticLootContainers": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    }
+}
