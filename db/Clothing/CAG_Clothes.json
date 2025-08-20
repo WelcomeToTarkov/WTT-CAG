@@ -362,5 +362,45 @@
 		"standing": 0,
 		"currencyId": "ROUBLES",
 		"price": 2500000
+        },
+        {
+		"type": "top",
+		"suiteId": "68a6254f3543a51da40f6b07",
+		"outfitId": "68a6254f3543a51da40f6b08",
+		"topId": "68a6254f3543a51da40f6b09",
+		"handsId": "68a6254f3543a51da40f6b0a",
+		"locales": {
+			"en": "Ataks"
+		},
+		"topBundlePath": "Clothing/Uppers/CRYE_G3/atakupper.bundle",
+		"handsBundlePath": "Clothing/Hands/CRYE_G3/atakhands.bundle",
+		"traderId": "RAGMAN",
+		"side": [
+			"Bear"
+		],
+		"loyaltyLevel": 3,
+		"profileLevel": 35,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 2000000
+        },
+	{
+		"type": "bottom",
+		"suiteId": "68a6254f3543a51da40f6b0b",
+		"outfitId": "68a6254f3543a51da40f6b0c",
+		"bottomId": "68a6254f3543a51da40f6b0d",
+		"locales": {
+			"en": "Ataks"
+		},
+		"bottomBundlePath": "Clothing/Lowers/G3/ataklower.bundle",
+		"traderId": "RAGMAN",
+		"side": [
+			"Bear"
+		],
+		"loyaltyLevel": 3,
+		"profileLevel": 33,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 2500000
 	}
 ]
