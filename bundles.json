@@ -18,7 +18,7 @@
             ]
         },
         {
-            "key": "Headwear/helmets/ate_hhv_helmet/helmet_hhv_wraith.bundle", 
+            "key": "Headwear/helmets/ate_hhv_helmet/helmet_hhv_wraith.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -243,7 +243,7 @@
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
-        { 
+        {
             "key": "Clothing/Lowers/M81_LOFT/m81loft_lower.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -267,7 +267,7 @@
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
-        { 
+        {
             "key": "Clothing/Lowers/M81_MOPP/m81_mopp_bottom.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -275,7 +275,7 @@
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
-        { 
+        {
             "key": "Clothing/Uppers/CRYE_G3/g3m81_short.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -323,7 +323,7 @@
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
-        { 
+        {
             "key": "Clothing/Lowers/G3_COMMANDO/g3_badlands.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -331,7 +331,7 @@
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
-        { 
+        {
             "key": "Clothing/Lowers/BL_LOFT/bl_loft.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -355,13 +355,13 @@
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
-        { 
+        {
             "key": "Clothing/Lowers/CRYE_G4/g4lower_wood.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
-            ] 
+            ]
         },
         {
             "key": "Headwear/masks/mask_gasmask_lw.bundle",
@@ -377,7 +377,7 @@
                 "shaders",
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
-            ] 
+            ]
         },
         {
             "key": "Headwear/masks/mask_gasmask_xm44.bundle",
@@ -395,13 +395,13 @@
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
-        { 
+        {
             "key": "Clothing/Lowers/G3/g3_mcb_ponts.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
-            ] 
+            ]
         },
         {
             "key": "Clothing/Uppers/CRYE_G4/g4mcb.bundle",
@@ -494,15 +494,23 @@
                 "cubemaps",
                 "Headwear/helmets/batlskin_cobra/helmet_batlskin_shared.bundle",
                 "assets/commonassets/physics/physicsmaterials.bundle"
-           ]
+            ]
         },
-        { 
+        {
+            "key": "Bodywear/armoredRigs/6b45/arig_6b45_emr.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Clothing/Lowers/G3/g3_kryp1_ponts.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
-           ]
+            ]
         },
         {
             "key": "Headwear/masks/mask_arc_kryp1.bundle",
@@ -510,15 +518,15 @@
                 "shaders",
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
-           ]
+            ]
         },
-        { 
+        {
             "key": "Clothing/Uppers/CRYE_G3/g3kryptek_short.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
-           ]  
+            ]
         },
         {
             "key": "Clothing/Hands/CRYE_G3/g3kryptekhands.bundle",
@@ -526,7 +534,7 @@
                 "shaders",
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
-          ]
+            ]
         },
         {
             "key": "Headwear/masks/mask_gasmask_fm53.bundle",
