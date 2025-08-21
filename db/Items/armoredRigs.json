@@ -703,9 +703,7 @@
             }
         },
         "clearClonedProps": false,
-        "addtoInventorySlots": [
-            "Vest"
-        ],
+        "addtoInventorySlots": [],
         "addtoModSlots": false,
         "modSlot": [],
         "ModdableItemWhitelist": [],
@@ -740,8 +738,8 @@
         "weaponpresets": [
             {
                 "_changeWeaponName": false,
-                "_encyclopedia": "68a3e0d40704727442c4dd29",
-                "_id": "68a3dc26511d685c4b783dbd",
+                "_encyclopedia": "68a3dc26511d685c4b783dbd",
+                "_id": "68a745e3f74f45452bb72570",
                 "_items": [
                     {
                         "_id": "68a3dc17e7ce7b9e7e747dd0",
