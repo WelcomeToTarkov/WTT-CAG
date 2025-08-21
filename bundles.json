@@ -416,7 +416,14 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "Bodywear/armoredRigs/DCS/arig_dcs_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Bodywear/armoredRigs/DCS/arig_dcs_shared.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
@@ -431,6 +438,24 @@
         },
         {
             "key": "Bodywear/armoredRigs/DCS/arig_dcs_assault_od.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Bodywear/armoredRigs/DCS/arig_dcs_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Bodywear/armoredRigs/DCS/arig_dcs_full_blk.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Bodywear/armoredRigs/DCS/arig_dcs_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Bodywear/armoredRigs/DCS/arig_dcs_full_atacs.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -566,7 +591,7 @@
                 "shaders",
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
-           ]
+            ]
         },
         {
             "key": "Clothing/Lowers/G3/ataklower.bundle",
@@ -574,7 +599,7 @@
                 "shaders",
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
-           ]
+            ]
         },
         {
             "key": "Headwear/masks/mask_gasmask_pmk4blk.bundle",
@@ -582,7 +607,7 @@
                 "shaders",
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
-           ]
+            ]
         },
         {
             "key": "Headwear/masks/mask_gasmask_pmk4tan.bundle",
@@ -590,7 +615,7 @@
                 "shaders",
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
-           ]
+            ]
         },
         {
             "key": "Headwear/masks/mask_gasmask_m45.bundle",
