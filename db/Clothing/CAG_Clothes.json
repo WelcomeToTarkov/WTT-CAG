@@ -402,5 +402,45 @@
 		"standing": 0,
 		"currencyId": "ROUBLES",
 		"price": 2500000
+        },
+        {
+		"type": "top",
+		"suiteId": "68a751d286f90e9e0906cece",
+		"outfitId": "68a751d286f90e9e0906cecf",
+		"topId": "68a751d286f90e9e0906ced0",
+		"handsId": "68a751d286f90e9e0906ced1",
+		"locales": {
+			"en": "BEAR SBU"
+		},
+		"topBundlePath": "Clothing/Uppers/ANA_COMBAT/fsb_mcupper.bundle",
+		"handsBundlePath": "Clothing/Hands/ANA_COMBAT/fsb_mchands.bundle",
+		"traderId": "RAGMAN",
+		"side": [
+			"Bear"
+		],
+		"loyaltyLevel": 3,
+		"profileLevel": 35,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 2000000
+        },
+	{
+		"type": "bottom",
+		"suiteId": "68a751d286f90e9e0906cebb",
+		"outfitId": "68a751d286f90e9e0906cebc",
+		"bottomId": "68a751d286f90e9e0906ceba",
+		"locales": {
+			"en": "BEAR SBU"
+		},
+		"bottomBundlePath": "Clothing/Lowers/ANA_COMBAT/fsb_mclower.bundle",
+		"traderId": "RAGMAN",
+		"side": [
+			"Bear"
+		],
+		"loyaltyLevel": 3,
+		"profileLevel": 33,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 2500000
 	}
 ]
