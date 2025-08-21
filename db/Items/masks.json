@@ -989,6 +989,7 @@
                 "rcid": ""
             },
             "ConflictingItems": [
+                "5a16b7e1fcdbcb00165aa6c9"
             ],
             "Weight": 0.85,
             "Height": 2,
@@ -1000,7 +1001,7 @@
 				"z": 80
 			},
 			"DeafStrength": "None",
-            "BlocksEarpiece": true,
+            "BlocksEarpiece": false,
             "BlocksEyewear": true
         },
         "locales": {
@@ -1136,28 +1137,14 @@
         "weaponpresets": []
     },
     "68a641813543a51da40f6b57": {
-        "itemTplToClone": "60363c0c92ec1c31037959f5",
+        "itemTplToClone": "68a60e568c72b73e32842085",
         "parentId": "5a341c4686f77469e155819e",
         "handbookParentId": "5b47574386f77428ca22b32f",
         "overrideProperties": {
             "Prefab": {
                 "path": "Headwear/masks/mask_gasmask_pmk4tan.bundle",
                 "rcid": ""
-            },
-            "ConflictingItems": [
-            ],
-            "Weight": 0.85,
-            "Height": 2,
-            "Width": 2,
-            "Indestructibility": 0.9,
-			"RicochetParams": {
-				"x": 0.4,
-				"y": 0.1,
-				"z": 80
-			},
-			"DeafStrength": "None",
-            "BlocksEarpiece": true,
-            "BlocksEyewear": true
+            }
         },
         "locales": {
             "en": {
