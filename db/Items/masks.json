@@ -1200,6 +1200,70 @@
         "addweaponpreset": false,
         "weaponpresets": []
     },
+    "68a8dac9242e2efa4a35ecc0": {
+        "itemTplToClone": "68a60e568c72b73e32842085",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Headwear/masks/mask_gasmask_pmk4wht.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "PMK-4 \"Arktika\" Ratnik gas mask",
+                "shortName": "PMK-4A",
+                "description": "The PMK-4 (Russian: Противогаз Масочный Коробочный — \"Masked Boxed Gas mask\")  full face mask with a large speech diaphragm similar to those on preceding PMK-series masks. The PMK-4 was released into service at the same time as the PMK-S, and is part of the current issue Russian \"Ratnik\" program. The mask is designed to protect against all CBRN threats, and is produced to a very high quality and comfort standard."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "FaceCover"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": true,
+        "traderId": "PRAPOR",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 3
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 22412,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "fleaPriceRoubles": 19852,
+        "handbookPriceRoubles": 6656,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 15
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 20
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
     "68a646e63543a51da40f6b6b": {
         "itemTplToClone": "60363c0c92ec1c31037959f5",
         "parentId": "5a341c4686f77469e155819e",
