@@ -618,6 +618,14 @@
             ]
         },
         {
+            "key": "Headwear/masks/mask_gasmask_pmk4wht.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Headwear/masks/mask_gasmask_m45.bundle",
             "dependencyKeys": [
                 "shaders",
