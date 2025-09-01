@@ -99,9 +99,9 @@
                         "filters": [
                             {
                                 "Filter": [
-                                    "66b61cfae98be930d701c029"
+                                    "657bbcc9a1c61ee0c3036327"
                                 ],
-                                "Plate": "66b61cfae98be930d701c029",
+                                "Plate": "657bbcc9a1c61ee0c3036327",
                                 "armorColliders": [
                                     "ParietalHead"
                                 ],
@@ -123,9 +123,9 @@
                         "filters": [
                             {
                                 "Filter": [
-                                    "66b61ce0c5d72b027748867e"
+                                    "657bbcffbbd440df880b2dd5"
                                 ],
-                                "Plate": "66b61ce0c5d72b027748867e",
+                                "Plate": "657bbcffbbd440df880b2dd5",
                                 "armorColliders": [
                                     "BackHead"
                                 ],
@@ -211,13 +211,13 @@
                     },
                     {
                         "_id": "68966bd581d2c967346bc2fe",
-                        "_tpl": "66b61cfae98be930d701c029",
+                        "_tpl": "657bbcc9a1c61ee0c3036327",
                         "slotId": "Helmet_top",
                         "parentId": "68966bcbf7122f1af009c350"
                     },
                     {
                         "_id": "68966bd468d7c130556ffa52",
-                        "_tpl": "66b61ce0c5d72b027748867e",
+                        "_tpl": "657bbcffbbd440df880b2dd5",
                         "slotId": "Helmet_back",
                         "parentId": "68966bcbf7122f1af009c350"
                     }
@@ -328,9 +328,9 @@
                         "filters": [
                             {
                                 "Filter": [
-                                    "66b61cfae98be930d701c029"
+                                    "657bbcc9a1c61ee0c3036327"
                                 ],
-                                "Plate": "66b61cfae98be930d701c029",
+                                "Plate": "657bbcc9a1c61ee0c3036327",
                                 "armorColliders": [
                                     "ParietalHead"
                                 ],
@@ -352,9 +352,9 @@
                         "filters": [
                             {
                                 "Filter": [
-                                    "66b61ce0c5d72b027748867e"
+                                    "657bbcffbbd440df880b2dd5"
                                 ],
-                                "Plate": "66b61ce0c5d72b027748867e",
+                                "Plate": "657bbcffbbd440df880b2dd5",
                                 "armorColliders": [
                                     "BackHead"
                                 ],
@@ -440,13 +440,13 @@
                     },
                     {
                         "_id": "68966e216c8fce3ecd3cb2bf",
-                        "_tpl": "66b61cfae98be930d701c029",
+                        "_tpl": "657bbcc9a1c61ee0c3036327",
                         "slotId": "Helmet_top",
                         "parentId": "68966e13af2c296b08f46fb8"
                     },
                     {
                         "_id": "68966e1e8f67091cdb684abb",
-                        "_tpl": "66b61ce0c5d72b027748867e",
+                        "_tpl": "657bbcffbbd440df880b2dd5",
                         "slotId": "Helmet_back",
                         "parentId": "68966e13af2c296b08f46fb8"
                     }
@@ -1956,6 +1956,443 @@
                 ],
                 "_name": "Cobra Snowdrift Stock Preset",
                 "_parent": "689e5279da7255930cc75088",
+                "_type": "Preset"
+            }
+        ]
+    },
+    "68b05568630195a731a88147": {
+        "itemTplToClone": "5f60b34a41e30a4ab12a6947",
+        "parentId": "5a341c4086f77401f2541505",
+        "handbookParentId": "5b47574386f77428ca22b330",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Headwear/helmets/galvion_caiman/helmet_caiman_blk.bundle",
+                "rcid": ""
+            },
+            "Weight": 1.53,
+            "Height": 2,
+            "Width": 2,
+            "Slots": [
+                {
+                    "_id": "68b055d93a627a43c712e1f4",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_equipment_001",
+                    "_parent": "68b05568630195a731a88147",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5f60c076f2bcbb675b00dac2"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "68b055d8df2db92158cd164c",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_nvg",
+                    "_parent": "68b05568630195a731a88147",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5f60bf4558eff926626a60f2",
+                                    "5c0558060db834001b735271",
+                                    "5a16b8a9fcdbcb00165aa6ca"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "68b055d7d345402577d1aa24",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_mount",
+                    "_parent": "68b05568630195a731a88147",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a398b75c4a282000a51a266",
+                                    "5a398ab9c4a282000c5a9842"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "68b055d654c4c7303f917dd8",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_mount_000",
+                    "_parent": "68b05568630195a731a88147",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6897d6a13858711f63d149c3"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "68b055ce4588c414b56847e0",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_equipment_003",
+                    "_parent": "68b05568630195a731a88147",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5f60b85bbdb8e27dee3dc985"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "68b055d19a0de1b881ca955e",
+                    "_mergeSlotWithChildren": true,
+                    "_name": "Helmet_top",
+                    "_parent": "68b05568630195a731a88147",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "657bbad7a1c61ee0c3036323"
+                                ],
+                                "Plate": "657bbad7a1c61ee0c3036323",
+                                "armorColliders": [
+                                    "ParietalHead"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_proto": "64479fdf9731c8fadc0642c1",
+                    "_required": true
+                },
+                {
+                    "_id": "68b055d2122629b5dd9bbdfe",
+                    "_mergeSlotWithChildren": true,
+                    "_name": "Helmet_back",
+                    "_parent": "68b05568630195a731a88147",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "657bbb31b30eca9763051183"
+                                ],
+                                "Plate": "657bbb31b30eca9763051183",
+                                "armorColliders": [
+                                    "BackHead"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_proto": "64479fdf9731c8fadc0642c1",
+                    "_required": true
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Galvion Caiman Ballistic helmet",
+                "shortName": "Caiman",
+                "description": "The Caiman Ballistic helmet is a new generation of lightweight special forces helmet. A series of modular accessories enhances the package, providing users with lightweight, comfortable and maximum head protection. Manufactured by Galvion."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Headwear"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": false,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 2
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 53582,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "fleaPriceRoubles": 62097,
+        "handbookPriceRoubles": 12532,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ],
+        "addweaponpreset": true,
+        "weaponpresets": [
+            {
+                "_changeWeaponName": false,
+                "_encyclopedia": "68b05568630195a731a88147",
+                "_id": "68b0569d30c68af093761876",
+                "_items": [
+                    {
+                        "_id": "68b05697b839acfcab39a8c6",
+                        "_tpl": "68b05568630195a731a88147",
+                        "upd": {
+                            "Repairable": {
+                                "MaxDurability": 100,
+                                "Durability": 100
+                            }
+                        }
+                    },
+                    {
+                        "_id": "68b0569cb84f8eda60683434",
+                        "_tpl": "657bbad7a1c61ee0c3036323",
+                        "slotId": "Helmet_top",
+                        "parentId": "68b05697b839acfcab39a8c6"
+                    },
+                    {
+                        "_id": "68b0569b039fc70bd1a683f3",
+                        "_tpl": "657bbb31b30eca9763051183",
+                        "slotId": "Helmet_back",
+                        "parentId": "68b05697b839acfcab39a8c6"
+                    }
+                ],
+                "_name": "CaimanB Black Stock Preset",
+                "_parent": "68b05697b839acfcab39a8c6",
+                "_type": "Preset"
+            }
+        ]
+    },
+    "68b056cfbf685c4086967978": {
+        "itemTplToClone": "68b05568630195a731a88147",
+        "parentId": "5a341c4086f77401f2541505",
+        "handbookParentId": "5b47574386f77428ca22b330",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Headwear/helmets/galvion_caiman/helmet_caiman_fde.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Galvion Caiman Ballistic helmet (Coyote Tan)",
+                "shortName": "Caiman",
+                "description": "The Caiman Ballistic helmet is a new generation of lightweight special forces helmet. A series of modular accessories enhances the package, providing users with lightweight, comfortable and maximum head protection. Manufactured by Galvion. Coyote Tan version."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Headwear"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": false,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 2
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 53582,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "fleaPriceRoubles": 62097,
+        "handbookPriceRoubles": 12532,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ],
+        "addweaponpreset": true,
+        "weaponpresets": [
+            {
+                "_changeWeaponName": false,
+                "_encyclopedia": "68b056cfbf685c4086967978",
+                "_id": "68b056d41634e2442daacae4",
+                "_items": [
+                    {
+                        "_id": "68b056d53363799f3be0c195",
+                        "_tpl": "68b056cfbf685c4086967978",
+                        "upd": {
+                            "Repairable": {
+                                "MaxDurability": 100,
+                                "Durability": 100
+                            }
+                        }
+                    },
+                    {
+                        "_id": "68b056dccdf28b1c04a15129",
+                        "_tpl": "657bbad7a1c61ee0c3036323",
+                        "slotId": "Helmet_top",
+                        "parentId": "68b056d53363799f3be0c195"
+                    },
+                    {
+                        "_id": "68b056db4e0122ef2ac17fba",
+                        "_tpl": "657bbb31b30eca9763051183",
+                        "slotId": "Helmet_back",
+                        "parentId": "68b056d53363799f3be0c195"
+                    }
+                ],
+                "_name": "CaimanB FDE Stock Preset",
+                "_parent": "68b056d53363799f3be0c195",
+                "_type": "Preset"
+            }
+        ]
+    },
+    "68b05921366cd0b690c2bef6": {
+        "itemTplToClone": "68b05568630195a731a88147",
+        "parentId": "5a341c4086f77401f2541505",
+        "handbookParentId": "5b47574386f77428ca22b330",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Headwear/helmets/galvion_caiman/helmet_caiman_mc.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Galvion Caiman Ballistic helmet (MultiCam)",
+                "shortName": "Caiman",
+                "description": "The Caiman Ballistic helmet is a new generation of lightweight special forces helmet. A series of modular accessories enhances the package, providing users with lightweight, comfortable and maximum head protection. Manufactured by Galvion. MultiCam version."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Headwear"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": false,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 2
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 53582,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "fleaPriceRoubles": 62097,
+        "handbookPriceRoubles": 12532,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ],
+        "addweaponpreset": true,
+        "weaponpresets": [
+            {
+                "_changeWeaponName": false,
+                "_encyclopedia": "68b05921366cd0b690c2bef6",
+                "_id": "68b059647df29cbef7c5cd5b",
+                "_items": [
+                    {
+                        "_id": "68b0591bad71a2856cbd4dff",
+                        "_tpl": "68b05921366cd0b690c2bef6",
+                        "upd": {
+                            "Repairable": {
+                                "MaxDurability": 100,
+                                "Durability": 100
+                            }
+                        }
+                    },
+                    {
+                        "_id": "68b05920f569e8a6e3a35a97",
+                        "_tpl": "657bbad7a1c61ee0c3036323",
+                        "slotId": "Helmet_top",
+                        "parentId": "68b0591bad71a2856cbd4dff"
+                    },
+                    {
+                        "_id": "68b0592125fe63f04680ed55",
+                        "_tpl": "657bbb31b30eca9763051183",
+                        "slotId": "Helmet_back",
+                        "parentId": "68b0591bad71a2856cbd4dff"
+                    }
+                ],
+                "_name": "CaimanB MC Stock Preset",
+                "_parent": "68b0591bad71a2856cbd4dff",
                 "_type": "Preset"
             }
         ]

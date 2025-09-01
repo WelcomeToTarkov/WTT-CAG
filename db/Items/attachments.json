@@ -1,8 +1,8 @@
 {
     "6897d6a13858711f63d149c3": {
         "itemTplToClone": "5991b51486f77447b112d44f",
-        "parentId": "5447e0e74bdc2d3c308b4567",
-        "handbookParentId": "5b47574386f77428ca22b345",
+        "parentId": "55818b224bdc2dde698b456f",
+        "handbookParentId": "5b5f755f86f77447ec5d770e",
         "overrideProperties": {
             "Prefab": {
                 "path": "Attachments/ms2000_helmet.bundle",
@@ -10,7 +10,8 @@
             },
             "Height": 1,
             "Width": 1,
-            "Unlootable": false
+            "Unlootable": false,
+            "BackgroundColor": "blue"
         },
         "locales": {
             "en": {

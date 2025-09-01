@@ -656,6 +656,49 @@
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
+        },
+        {
+            "key": "Headwear/helmets/galvion_caiman/helmet_caiman_ball_shared.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/galvion_caiman/helmet_caiman_blk.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Headwear/helmets/galvion_caiman/helmet_caiman_ball_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/galvion_caiman/helmet_caiman_fde.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Headwear/helmets/galvion_caiman/helmet_caiman_ball_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/galvion_caiman/helmet_caiman_mc.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Headwear/helmets/galvion_caiman/helmet_caiman_ball_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Clothing/Uppers/BEAR_TELNIK_TUCKED/telnik_blue_tucked.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
         }
     ]
 }
