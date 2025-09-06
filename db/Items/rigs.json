@@ -205,5 +205,202 @@
         ],
         "addweaponpreset": false,
         "weaponpresets": []
+    },
+    "68bb4520b4883cef1fd7726e": {
+        "itemTplToClone": "63611865ba5b90db0c0399d1",
+        "parentId": "5448e5284bdc2dcb718b4567",
+        "handbookParentId": "5b5f6f8786f77447ed563642",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_peacekeeper_mctropic.bundle",
+                "rcid": ""
+            },
+            "Weight": 1.24,
+            "Height": 3,
+            "Width": 4,
+            "RigLayoutName": "Bearing",
+            "Slots": []
+        },
+        "locales": {
+            "en": {
+                "name": "Platatac Peacekeeper MK5 chest rig (Multicam Tropic)",
+                "shortName": "Peacekeeper",
+                "description": "The Peacekeeper MK5 chest rig is a modern modular load-bearing chest rig developed by Platatac. Designed for long-duration operations, it features multiple integrated magazine pouches, utility compartments, and attachment points for additional gear. Multicam Tropic version."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Vest"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 2
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 53582,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 4,
+        "fleaPriceRoubles": 64310,
+        "handbookPriceRoubles": 55320,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "68bb48062701bb673faca8af": {
+        "itemTplToClone": "68bb4520b4883cef1fd7726e",
+        "parentId": "5448e5284bdc2dcb718b4567",
+        "handbookParentId": "5b5f6f8786f77447ed563642",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_peacekeeper_atacs.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Platatac Peacekeeper MK5 chest rig (A-TACS FG)",
+                "shortName": "Peacekeeper",
+                "description": "The Peacekeeper MK5 chest rig is a modern modular load-bearing chest rig developed by Platatac. Designed for long-duration operations, it features multiple integrated magazine pouches, utility compartments, and attachment points for additional gear. A-TACS Foliage Green version."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Vest"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 2
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 53582,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 4,
+        "fleaPriceRoubles": 64310,
+        "handbookPriceRoubles": 55320,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "68bb484b1ea04700566271e9": {
+        "itemTplToClone": "68bb4520b4883cef1fd7726e",
+        "parentId": "5448e5284bdc2dcb718b4567",
+        "handbookParentId": "5b5f6f8786f77447ed563642",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_peacekeeper_coyote.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Platatac Peacekeeper MK5 chest rig (Coyote Tan)",
+                "shortName": "Peacekeeper",
+                "description": "The Peacekeeper MK5 chest rig is a modern modular load-bearing chest rig developed by Platatac. Designed for long-duration operations, it features multiple integrated magazine pouches, utility compartments, and attachment points for additional gear. Coyote Tan version."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Vest"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 2
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 53582,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 4,
+        "fleaPriceRoubles": 64310,
+        "handbookPriceRoubles": 55320,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
     }
 }

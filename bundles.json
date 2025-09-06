@@ -699,6 +699,41 @@
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
+        },
+        {
+            "key": "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_peacekeeper_shared.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_peacekeeper_atacs.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_peacekeeper_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_peacekeeper_coyote.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_peacekeeper_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_peacekeeper_mctropic.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_peacekeeper_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
         }
     ]
 }
