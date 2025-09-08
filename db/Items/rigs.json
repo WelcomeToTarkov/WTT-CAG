@@ -1,5 +1,5 @@
 {
-    "68984e9773b55a6573593f3b": {
+    "68bd04c1cee1ad932ea3c3aa": {
         "itemTplToClone": "63611865ba5b90db0c0399d1",
         "parentId": "5448e5284bdc2dcb718b4567",
         "handbookParentId": "5b5f6f8786f77447ed563642",
@@ -8,6 +8,7 @@
                 "path": "Bodywear/unarmoredRigs/mayflowerHybrid/mayflower_mc.bundle",
                 "rcid": ""
             },
+            "ExaminedByDefault": "true",
             "Weight": 1.556,
             "Height": 3,
             "Width": 3,
@@ -68,146 +69,8 @@
         "addweaponpreset": false,
         "weaponpresets": []
     },
-    "68984eda4d3884e92ef27706": {
-        "itemTplToClone": "63611865ba5b90db0c0399d1",
-        "parentId": "5448e5284bdc2dcb718b4567",
-        "handbookParentId": "5b5f6f8786f77447ed563642",
-        "overrideProperties": {
-            "Prefab": {
-                "path": "Bodywear/unarmoredRigs/mayflowerHybrid/mayflower_mcalp.bundle",
-                "rcid": ""
-            },
-            "Weight": 1.556,
-            "Height": 3,
-            "Width": 3,
-            "RigLayoutName": "6h112",
-            "Slots": []
-        },
-        "locales": {
-            "en": {
-                "name": "Velocity Systems Mayflower Hybrid chest rig (MC Alpine)",
-                "shortName": "Hybrid",
-                "description": "The Lightweight load-bearing rig designed for flexibility and speed in combat zones. The Mayflower Hybrid offers a mix of fixed pouches and modular MOLLE real estate, letting operators carry rifle mags, pistol mags, and mission-specific gear without excess bulk. Multicam Alpine version."
-            }
-        },
-        "clearClonedProps": false,
-        "addtoInventorySlots": [
-            "Vest"
-        ],
-        "addtoModSlots": false,
-        "modSlot": [],
-        "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
-        "addtoTraders": false,
-        "traderId": "RAGMAN",
-        "traderItems": [
-            {
-                "unlimitedCount": true,
-                "stackObjectsCount": 2
-            }
-        ],
-        "barterScheme": [
-            {
-                "count": 53582,
-                "_tpl": "ROUBLES"
-            }
-        ],
-        "loyallevelitems": 3,
-        "fleaPriceRoubles": 64310,
-        "handbookPriceRoubles": 55320,
-        "addtoStaticLootContainers": true,
-        "StaticLootContainers": [
-            {
-                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
-                "Probability": 7
-            },
-            {
-                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
-                "Probability": 6
-            },
-            {
-                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
-                "Probability": 5
-            },
-            {
-                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
-                "Probability": 1
-            }
-        ],
-        "addweaponpreset": false,
-        "weaponpresets": []
-    },
-    "68984eefdd537d10211ec4cc": {
-        "itemTplToClone": "63611865ba5b90db0c0399d1",
-        "parentId": "5448e5284bdc2dcb718b4567",
-        "handbookParentId": "5b5f6f8786f77447ed563642",
-        "overrideProperties": {
-            "Prefab": {
-                "path": "Bodywear/unarmoredRigs/mayflowerHybrid/mayflower_ttsko.bundle",
-                "rcid": ""
-            },
-            "Weight": 1.556,
-            "Height": 3,
-            "Width": 3,
-            "RigLayoutName": "6h112",
-            "Slots": []
-        },
-        "locales": {
-            "en": {
-                "name": "Velocity Systems Mayflower Hybrid chest rig (TTsKO)",
-                "shortName": "Hybrid",
-                "description": "The Lightweight load-bearing rig designed for flexibility and speed in combat zones. The Mayflower Hybrid offers a mix of fixed pouches and modular MOLLE real estate, letting operators carry rifle mags, pistol mags, and mission-specific gear without excess bulk. TTsKO version."
-            }
-        },
-        "clearClonedProps": false,
-        "addtoInventorySlots": [
-            "Vest"
-        ],
-        "addtoModSlots": false,
-        "modSlot": [],
-        "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
-        "addtoTraders": false,
-        "traderId": "RAGMAN",
-        "traderItems": [
-            {
-                "unlimitedCount": true,
-                "stackObjectsCount": 2
-            }
-        ],
-        "barterScheme": [
-            {
-                "count": 53582,
-                "_tpl": "ROUBLES"
-            }
-        ],
-        "loyallevelitems": 3,
-        "fleaPriceRoubles": 64310,
-        "handbookPriceRoubles": 55320,
-        "addtoStaticLootContainers": true,
-        "StaticLootContainers": [
-            {
-                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
-                "Probability": 7
-            },
-            {
-                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
-                "Probability": 6
-            },
-            {
-                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
-                "Probability": 5
-            },
-            {
-                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
-                "Probability": 1
-            }
-        ],
-        "addweaponpreset": false,
-        "weaponpresets": []
-    },
     "68bb4520b4883cef1fd7726e": {
-        "itemTplToClone": "63611865ba5b90db0c0399d1",
+        "itemTplToClone": "5e9db13186f7742f845ee9d3",
         "parentId": "5448e5284bdc2dcb718b4567",
         "handbookParentId": "5b5f6f8786f77447ed563642",
         "overrideProperties": {
