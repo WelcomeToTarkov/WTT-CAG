@@ -716,6 +716,41 @@
                 "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_peacekeeper_shared.bundle",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
+        },
+        {
+            "key": "Bodywear/backpacks/Bergan/backpack_bergan_shared.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Bodywear/backpacks/Bergan/backpack_bergan_blk.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Bodywear/backpacks/Bergan/backpack_bergan_shared.bundle"
+            ]
+        },
+        {
+            "key": "Bodywear/backpacks/Bergan/backpack_bergan_mc.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Bodywear/backpacks/Bergan/backpack_bergan_shared.bundle"
+            ]
+        },
+        {
+            "key": "Bodywear/backpacks/Bergan/backpack_bergan_mcalp.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Bodywear/backpacks/Bergan/backpack_bergan_shared.bundle"
+            ]
         }
     ]
 }

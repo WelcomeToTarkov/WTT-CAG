@@ -1,0 +1,190 @@
+{
+    "68bf98e1f2f8268bb7c10592": {
+        "itemTplToClone": "59e763f286f7742ee57895da",
+        "parentId": "5448e53e4bdc2d60728b4567",
+        "handbookParentId": "5b5f6f6c86f774093f2ecf0b",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Bodywear/backpacks/Bergan/backpack_bergan_blk.bundle",
+                "rcid": ""
+            },
+            "ExaminedByDefault": "true",
+            "Weight": 3.65,
+            "Height": 6,
+            "Width": 6,
+            "CanSellOnRagfair": true,
+            "weaponErgonomicPenalty": -8,
+            "speedPenaltyPercent": -6,
+            "mousePenalty": -4.5,
+            "Grids": [
+                {
+                    "_id": "68bf981a88c87174770bf387",
+                    "_name": "main",
+                    "_parent": "68bf98e1f2f8268bb7c10592",
+                    "_props": {
+                        "cellsH": 6,
+                        "cellsV": 6,
+                        "filters": [
+                            {
+                                "ExcludedFilter": [],
+                                "Filter": [
+                                    "54009119af1c881c07000029"
+                                ]
+                            }
+                        ],
+                        "isSortingTable": false,
+                        "maxCount": 0,
+                        "maxWeight": 0,
+                        "minCount": 0
+                    },
+                    "_proto": "55d329c24bdc2d892f8b4567"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Bergan F2 military backpack",
+                "shortName": "Bergan",
+                "description": "The Bergan F2 backpack is a military-issues backpack similar to that of the Pilgrim Tourist backpack, as such it holds a similar capacity of around 55 liters."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Backpack"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 1
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 100052,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 4,
+        "fleaPriceRoubles": 91912,
+        "handbookPriceRoubles": 78999,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 1200
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "68bf9b2def689aa3726c8c1f": {
+        "itemTplToClone": "68bf98e1f2f8268bb7c10592",
+        "parentId": "5448e53e4bdc2d60728b4567",
+        "handbookParentId": "5b5f6f6c86f774093f2ecf0b",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Bodywear/backpacks/Bergan/backpack_bergan_mc.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Bergan F2 military backpack (MultiCam)",
+                "shortName": "Bergan",
+                "description": "The Bergan F2 backpack is a military-issues backpack similar to that of the Pilgrim Tourist backpack, as such it holds a similar capacity of around 55 liters. MultiCam version."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Backpack"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": false,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 1
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 77767,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 4,
+        "fleaPriceRoubles": 101912,
+        "handbookPriceRoubles": 78999,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 1500
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "68bf9b6916aea1b1243e07ec": {
+        "itemTplToClone": "68bf98e1f2f8268bb7c10592",
+        "parentId": "5448e53e4bdc2d60728b4567",
+        "handbookParentId": "5b5f6f6c86f774093f2ecf0b",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Bodywear/backpacks/Bergan/backpack_bergan_mcalp.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Bergan F2 military backpack (MultiCam Alpine)",
+                "shortName": "Bergan",
+                "description": "The Bergan F2 backpack is a military-issues backpack similar to that of the Pilgrim Tourist backpack, as such it holds a similar capacity of around 55 liters. MultiCam Alpine version."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Backpack"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 1
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 100052,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 4,
+        "fleaPriceRoubles": 91912,
+        "handbookPriceRoubles": 78999,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 1500
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    }
+}
