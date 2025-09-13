@@ -7,80 +7,112 @@ import type { DependencyContainer } from "tsyringe";
 import type { IPostDBLoadMod } from "@spt/models/external/IPostDBLoadMod";
 import type { IPreSptLoadMod } from "@spt/models/external/IPreSptLoadMod";
 import { LogTextColor } from "@spt/models/spt/logging/LogTextColor";
-import { IDatabaseTables } from "@spt/models/spt/server/IDatabaseTables";
 // WTT imports
-import { WTTInstanceManager } from "./WTTInstanceManager";
-import { CustomItemService } from "./CustomItemService";
-import { epicItemClass } from  "./EpicsEdits"
-import { CustomClothingService } from "./CustomClothingService";
-// Custom Trader Assort Items
-import { CustomAssortSchemeService } from "./CustomAssortSchemeService";
-import { CustomWeaponPresets } from "./CustomWeaponPresets";
+import { WTTInstanceManager } from "./Services/WTTInstanceManager";
+import { CustomItemService } from "./Services/CustomItemService";
+import { CustomClothingService } from "./Services/CustomClothingService";
+import { CustomAssortSchemeService } from "./Services/CustomAssortSchemeService";
+import { CustomLootspawnService } from "./Services/CustomLootspawnService";
+import { CustomBotLoadoutService } from "./Services/CustomBotLoadoutService";
 
-class wttCAG
-implements IPreSptLoadMod, IPostDBLoadMod
-{
-    private Instance: WTTInstanceManager = new WTTInstanceManager();
+
+class WTTCAG
+    implements IPreSptLoadMod, IPostDBLoadMod {
+    private instanceManager: WTTInstanceManager = new WTTInstanceManager();
     private version: string;
     private modName = "WTT-C.A.G.";
     private config;
 
     private customItemService: CustomItemService = new CustomItemService();
-    private epicItemClass: epicItemClass = new epicItemClass();
     private customClothingService: CustomClothingService = new CustomClothingService();
     private customAssortSchemeService: CustomAssortSchemeService = new CustomAssortSchemeService();
-    private customWeaponPresets: CustomWeaponPresets = new CustomWeaponPresets();
+    private customLootspawnService: CustomLootspawnService = new CustomLootspawnService();
+    private customBotLoadoutService: CustomBotLoadoutService = new CustomBotLoadoutService();
 
     debug = false;
 
     // Anything that needs done on preSptLoad, place here.
-    public preSptLoad(container: DependencyContainer): void 
-    {
-    // Initialize the instance manager DO NOTHING ELSE BEFORE THIS
-        this.Instance.preSptLoad(container, this.modName);
-        this.Instance.debug = this.debug;
+    public preSptLoad(container: DependencyContainer): void {
+        // Initialize the instance manager DO NOTHING ELSE BEFORE THIS
+        this.instanceManager.preSptLoad(container, this.modName);
+        this.instanceManager.debug = this.debug;
         // EVERYTHING AFTER HERE MUST USE THE INSTANCE
-        
+
         this.getVersionFromJson();
         this.displayCreditBanner();
 
-        this.customItemService.preSptLoad(this.Instance);
+        this.customItemService.preSptLoad(this.instanceManager);
 
-        this.epicItemClass.preSptLoad(this.Instance);
-        this.customClothingService.preSptLoad(this.Instance);
-        this.customAssortSchemeService.preSptLoad(this.Instance);
+        this.customClothingService.preSptLoad(this.instanceManager);
+        this.customAssortSchemeService.preSptLoad(this.instanceManager);
 
-        this.customWeaponPresets.preSptLoad(this.Instance);
+        this.customLootspawnService.preSptLoad(this.instanceManager);
+        this.customBotLoadoutService.preSptLoad(this.instanceManager);
+
 
     }
 
     // Anything that needs done on postDBLoad, place here.
-    public async postDBLoadAsync(container: DependencyContainer): Promise<void> 
-    {
-    // Initialize the instance manager DO NOTHING ELSE BEFORE THIS
-        this.Instance.postDBLoad(container);
+    public async postDBLoad(container: DependencyContainer): Promise<void> {
+        // Initialize the instance manager DO NOTHING ELSE BEFORE THIS
+        this.instanceManager.postDBLoad(container);
         // EVERYTHING AFTER HERE MUST USE THE INSTANCE
 
         this.customClothingService.postDBLoad();
-        this.epicItemClass.postDBLoad();
         this.customItemService.postDBLoad();
         this.customAssortSchemeService.postDBLoad();
-        this.customWeaponPresets.postDBLoad();
 
-        this.Instance.logger.log(
+        this.customLootspawnService.postDBLoad();
+        this.customBotLoadoutService.postDBLoad();
+
+        this.instanceManager.logger.log(
             `[${this.modName}] Database: Loading complete.`,
             LogTextColor.GREEN
         );
+        // Locales
+        this.handleLocales();
+        
     }
 
-    private getVersionFromJson(): void 
+    private handleLocales(): void 
     {
+
+        const locales = this.instanceManager.database.locales.global;
+        const WTTLocalesDir = path.join(__dirname, "..", "db", "locales");
+        
+        const WTTLocales: Record<string, Record<string, string>> = {};
+        const WTTlocaleFiles = fs.readdirSync(WTTLocalesDir);
+        
+        for (const file of WTTlocaleFiles) {
+            if (!file.endsWith(".json")) continue;
+        
+            const localeCode = path.basename(file, ".json");
+            const filePath = path.join(WTTLocalesDir, file);
+        
+            try {
+                const data = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+                WTTLocales[localeCode] = data;
+            } catch (err) {
+                console.warn(`Failed to parse ${file}:`, err);
+            }
+        }
+        
+        const fallback = WTTLocales["en"] ?? {};
+        
+        for (const locale of Object.keys(locales)) {
+            const customLocale = WTTLocales[locale] ?? fallback;
+        
+            for (const [key, value] of Object.entries(customLocale)) {
+                locales[locale][key] = value;
+            }
+        }
+    }
+
+    private getVersionFromJson(): void {
         const packageJsonPath = path.join(__dirname, "../package.json");
 
-        fs.readFile(packageJsonPath, "utf-8", (err, data) => 
-        {
-            if (err) 
-            {
+        fs.readFile(packageJsonPath, "utf-8", (err, data) => {
+            if (err) {
                 console.error("Error reading file:", err);
                 return;
             }
@@ -108,17 +140,16 @@ implements IPreSptLoadMod, IPostDBLoadMod
             brightCyan: "\x1b[96m",
             brightWhite: "\x1b[97m"
         };
-      
+
         const resetCode = "\x1b[0m";
         const colorCode = colorCodes[color as keyof typeof colorCodes] || "\x1b[37m"; // Default to white if color is invalid.
         console.log(`${colorCode}${message}${resetCode}`); // Log the colored message here
     }
 
-    private displayCreditBanner(): void 
-    {
+    private displayCreditBanner(): void {
         this.colorLog
-        (`[${this.modName}] Created by the WTT Team | It's Drip or Drown, BEAR man.`, "brightBlue");
+            (`[${this.modName}] Created by the WTT Team | It's Drip or Drown, BEAR man.`, "brightBlue");
     }
 }
 
-module.exports = { mod: new wttCAG() };
+module.exports = { mod: new WTTCAG() };

@@ -1,0 +1,70 @@
+{
+	"chances": {
+		"equipment": {
+			"Holster": 100
+		},
+		"weaponMods": {
+			"mod_barrel": 100,
+			"mod_pistol_grip": 100,
+			"mod_reciever": 100,
+			"mod_sight_front": 100,
+			"mod_sight_rear": 100,
+			"mod_muzzle": 100,
+			"mod_magazine": 100,
+			"mod_trigger": 100,
+			"mod_hammer": 100,
+			"mod_catch": 100
+		}
+	},
+	"inventory": {
+		"equipment": {
+			"Holster": {
+				"677ca3e62e9e964a11a55d8e": 9500
+			}
+		},
+		"mods": {
+			"677ca3e62e9e964a11a55d8e": {
+				"mod_barrel": [
+					"677c9c0cb4a2eed292d7cada"
+				],
+				"mod_pistol_grip": [
+					"677ca165c546ba3e77379706"
+				],
+				"mod_reciever": [
+					"677c9ff40e9b640153417d1a"
+				],
+				"mod_magazine": [
+					"677ca700833bedda3926e5c4"
+				],
+				"mod_trigger": [
+					"677c9eccdfcac18ddc7c6b5b"
+				],
+				"mod_hammer": [
+					"677c9e9d8949d89b64a3baa5"
+				],
+				"mod_catch": [
+					"677c9e6dc4018154af5b0599"
+				]
+			},
+			"677c9ff40e9b640153417d1a": {
+				"mod_sight_front": [
+					"677c9d4ee9edb9191668af01"
+				],
+				"mod_sight_rear": [
+					"677c9e554dde113597355fad"
+				],
+				"mod_muzzle": [
+					"677ca2211cbf2a608adfc741"
+				]
+			}
+		},
+		"ammo": {
+			"Caliber127x33": {
+				"66a0d1c87d0d369e270bb9de": 1,
+				"668fe62ac62660a5d8071446": 1,
+				"66a0d1e0ed648d72fe064d06": 1,
+				"66a0d1f88486c69fce00fdf6": 1
+			}
+		}
+	}
+}

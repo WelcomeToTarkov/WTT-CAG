@@ -1,0 +1,73 @@
+{
+	"chances": {
+		"equipment": {
+			"FirstPrimaryWeapon": 100
+		},
+		"weaponMods": {
+			"mod_magazine": 100,
+			"mod_stock_001": 100,
+			"mod_scope": 72,
+			"mod_handguard": 100,
+			"mod_mount": 100,
+			"mod_tactical_003": 100,
+			"mod_barrel": 100,
+			"mod_muzzle": 100,
+			"mod_gas_block": 100
+		}
+	},
+	"inventory": {
+		"equipment": {
+			"FirstPrimaryWeapon": {
+				"66b177141a00c9af1fd50b2d": 5500
+			}
+		},
+		"mods": {
+			"66b177141a00c9af1fd50b2d": {
+				"mod_magazine": [
+					"62307b7b10d2321fa8741921"
+				],
+				"mod_stock_001": [
+					"66b1774efb63f849b9b2fa12"
+				],
+				"mod_scope": [
+					"66b177865018c420f94de0c4"
+				],
+				"mod_handguard": [
+					"66b177301451b4fa159a8553"
+				],
+				"mod_barrel": [
+					"66b1777cf41a1c521a7a449a"
+				]
+			},
+			"66b177865018c420f94de0c4": {
+				"mod_scope": [
+					"570fd6c2d2720bc6458b457f"
+				]
+			},
+			"66b177301451b4fa159a8553": {
+				"mod_mount": [
+					"66b1779f427471f780dc15c4"
+				]
+			},
+			"66b1779f427471f780dc15c4": {
+				"mod_tactical_003": [
+					"5d10b49bd7ad1a1a560708b0"
+				]
+			},
+			"66b1777cf41a1c521a7a449a": {
+				"mod_muzzle": [
+					"622f0ee47762f55aaa68ac87"
+				],
+				"mod_gas_block": [
+					"66b17796cd01eed07d2c3f5a"
+				]
+			}
+		},
+		"ammo": {
+			"Caliber556x45NATO": {
+				"54527ac44bdc2d36668b4567": 1,
+				"60194943740c5d77f6705eea": 1
+			}
+		}
+	}
+}

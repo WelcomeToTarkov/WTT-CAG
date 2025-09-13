@@ -1,2 +1,9 @@
 *.js
 *.map
+./types
+./node_modules
+types
+node_modules
+tsconfig.json
+package-lock.json
+mod.code-workspace

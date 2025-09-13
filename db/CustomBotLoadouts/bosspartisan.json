@@ -1,0 +1,58 @@
+{
+	"chances": {
+		"equipment": {
+			"FirstPrimaryWeapon": 100
+		},
+		"weaponMods": {
+			"mod_barrel": 100,
+			"mod_muzzle": 100,
+			"mod_foregrip": 100,
+			"mod_scope": 100,
+			"mod_magazine": 100,
+			"mod_stock": 100
+		}
+	},
+	"inventory": {
+		"equipment": {
+			"SecondPrimaryWeapon": {
+				"6840ebf5b8687ba34f8dfbca": 2850
+			}
+		},
+		"mods": {
+			"6840ebf5b8687ba34f8dfbca": {
+				"mod_barrel": [
+					"6840eb5bce5018a937eb9527"
+				],
+				"mod_foregrip": [
+					"588226ef24597767af46e39c"
+				],
+				"mod_scope": [
+					"58d39d3d86f77445bb794ae7"
+				],
+				"mod_magazine": [
+					"6840eb96a62a326f79b6f8e8"
+				],
+				"mod_stock": [
+					"6840eb240f1930925f180a3f"
+				]
+			},
+			"6840eb5bce5018a937eb9527": {
+				"mod_muzzle": [
+					"560838c94bdc2d77798b4569"
+				]
+			},
+			"58d39d3d86f77445bb794ae7": {
+				"mod_scope": [
+					"61657230d92c473c770213d7"
+				]
+			}
+		},
+		"ammo": {
+			"Caliber12g": {
+				"64b8ee384b75259c590fa89b": 2240,
+				"560d5e524bdc2d25448b4571": 141,
+				"5d6e6911a4b9361bd5780d52": 754
+			}
+		}
+	}
+}

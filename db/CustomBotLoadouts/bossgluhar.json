@@ -1,0 +1,60 @@
+{
+	"chances": {
+		"equipment": {
+			"FirstPrimaryWeapon": 100
+		},
+		"weaponMods": {
+			"mod_stock": 100,
+			"mod_magazine": 100,
+			"mod_mount_000": 100,
+			"mod_charge": 70,
+			"mod_foregrip": 70,
+			"mod_tactical_002": 65,
+			"mod_pistol_grip": 100
+		}
+	},
+	"inventory": {
+		"equipment": {
+			"FirstPrimaryWeapon": {
+				"679a6a534f3d279c99b135b9": 500
+			}
+		},
+		"mods": {
+			"679a6a534f3d279c99b135b9": {
+				"mod_stock": [
+					"679a6e58085b54fdd56f5d0d"
+				],
+				"mod_magazine": [
+					"679a702c47bb7fa666fe618e"
+				],
+				"mod_mount_000": [
+					"57486e672459770abd687134"
+				],
+				"mod_charge": [
+					"5648ac824bdc2ded0b8b457d"
+				],
+				"mod_foregrip": [
+					"588226e62459776e3e094af7"
+				],
+				"mod_tactical_002": [
+					"5c5952732e2216398b5abda2"
+				],
+				"mod_pistol_grip": [
+					"679a766855f7e9fa7b1abfdf"
+				]
+			},
+			"679a6e58085b54fdd56f5d0d": {
+				"mod_stock": [
+					"5a0c59791526d8dba737bba7"
+				]
+			}
+		},
+		"ammo": {
+			"Caliber545x39": {
+				"61962b617c6c7b169525f168": 1,
+				"56dff061d2720bb5668b4567": 1,
+				"56dfef82d2720bbd668b4567": 1
+			}
+		}
+	}
+}
