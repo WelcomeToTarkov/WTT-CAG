@@ -91,9 +91,7 @@ export class CustomClothingService {
 
         const traderIdFromEnum = traderIDs[traderId as keyof typeof traderIDs] || traderId;
         const currencyIdFromEnum = currencyIDs[currencyId as keyof typeof currencyIDs] || currencyId;
-
         this.instanceManager.database.traders[traderIdFromEnum].base.customization_seller = true;
-
         if (!this.instanceManager.database.traders[traderIdFromEnum].suits) {
             this.instanceManager.database.traders[traderIdFromEnum].suits = [];
         }
@@ -104,7 +102,7 @@ export class CustomClothingService {
             "isActive": true,
             "isHiddenInPVE": false,
             "externalObtain": false,
-            "internalObtain": false,
+            "internalObtain": true,
             "requirements": {
                 "loyaltyLevel": loyaltyLevel,
                 "profileLevel": profileLevel,
