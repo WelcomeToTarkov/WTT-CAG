@@ -750,6 +750,38 @@
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle",
                 "Bodywear/backpacks/Bergan/backpack_bergan_shared.bundle"
+            ] 
+        },
+        {
+            "key": "Bodywear/armoredRigs/AVS/mcbavs.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Bodywear/armoredRigs/FCPC/fcpcaplha.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Bodywear/armoredRigs/TBAS/tbus_badlands.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Bodywear/armoredRigs/FCPC/m81fcpc.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         }
     ]
