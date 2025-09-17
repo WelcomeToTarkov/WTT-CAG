@@ -496,7 +496,7 @@
     "locales": {
       "en": {
         "ClothingName": "BEAR SBU",
-        "Description": "I NEED TO BE SET PLEASE"
+        "Description": "The ANA Combat Uniform is a russian uniform that features durable, ripstop materials and modern cuts similar to American designs, with functional elements like multiple pockets, integrated knee pad slots, and adjustable cuffs and waistbands."
       }
     },
     "topBundlePath": "Clothing/Uppers/ANA_COMBAT/fsb_mcupper.bundle",
@@ -519,7 +519,7 @@
     "locales": {
       "en": {
         "ClothingName": "BEAR SBU",
-        "Description": "I NEED TO BE SET PLEASE"
+        "Description": "The ANA Combat Uniform is a russian uniform that features durable, ripstop materials and modern cuts similar to American designs, with functional elements like multiple pockets, integrated knee pad slots, and adjustable cuffs and waistbands."
       }
     },
     "bottomBundlePath": "Clothing/Lowers/ANA_COMBAT/fsb_mclower.bundle",
@@ -532,5 +532,143 @@
     "standing": 0,
     "currencyId": "ROUBLES",
     "price": 2500000
+  },
+  {
+    "type": "top",
+    "suiteId": "68c6e58155918f7c4f044d3b",
+    "outfitId": "68c6e58155918f7c4f044d3c",
+    "topId": "68c6e58155918f7c4f044d3d",
+    "handsId": "68c6e58155918f7c4f044d3e",
+    "locales": {
+      "en": {
+        "ClothingName": "USEC G3 Multicam",
+        "Description": "The Crye G3 Combat Shirt is a combat-specific garment designed to be worn under body armor. Known for its durability and comfort, it is a popular choice for military and law enforcement professionals."
+      }
+    },
+    "topBundlePath": "Clothing/Uppers/CRYE_G3/cryeg3mc.bundle",
+    "handsBundlePath": "Clothing/Hands/CRYE_G3/g3mchands.bundle",
+    "traderId": "RAGMAN",
+    "side": [
+      "Usec"
+    ],
+    "loyaltyLevel": 3,
+    "profileLevel": 35,
+    "standing": 0,
+    "currencyId": "ROUBLES",
+    "price": 2000000
+  },
+  {
+    "type": "bottom",
+    "suiteId": "68c6eadf55918f7c4f044d57",
+    "outfitId": "68c6eadf55918f7c4f044d58",
+    "bottomId": "68c6eadf55918f7c4f044d59",
+    "locales": {
+      "en": {
+        "ClothingName": "USEC G3 Multicam",
+        "Description": "G3 Combat Pants, are a line of high-performance tactical pants manufactured by Crye Precision. Designed as a 'no-compromise assault uniform', they are known for their mobility, durability, and feature-rich design."
+      }
+    },
+    "bottomBundlePath": "Clothing/Lowers/G3/g3_mc_ponts.bundle",
+    "traderId": "RAGMAN",
+    "side": [
+      "Usec"
+    ],
+    "loyaltyLevel": 3,
+    "profileLevel": 33,
+    "standing": 0,
+    "currencyId": "ROUBLES",
+    "price": 2500000
+  },
+  {
+    "type": "top",
+    "suiteId": "68c70cd5cac1ff3d420fceaa",
+    "outfitId": "68c70cd5cac1ff3d420fceab",
+    "topId": "68c70cd5cac1ff3d420fceac",
+    "handsId": "68c70cd5cac1ff3d420fce99",
+    "locales": {
+      "en": {
+        "ClothingName": "USEC G2 M81",
+        "Description": "Crye G2 (Generation 2) is known by the label 'Army Custom' (AC) and is notable for its slightly different cut and features compared to later generations. G2 uniforms were widely issued to western military units before the widespread adoption of the G3 line."
+      }
+    },
+    "topBundlePath": "Clothing/Uppers/CRYE_G2/cryeg2m81.bundle",
+    "handsBundlePath": "Clothing/Hands/CRYE_G2/cryeg2m81hands.bundle",
+    "traderId": "RAGMAN",
+    "side": [
+      "Usec"
+    ],
+    "loyaltyLevel": 3,
+    "profileLevel": 35,
+    "standing": 0,
+    "currencyId": "ROUBLES",
+    "price": 2000000
+  },
+  {
+    "type": "bottom",
+    "suiteId": "68c70cd5cac1ff3d420fce96",
+    "outfitId": "68c70cd5cac1ff3d420fce97",
+    "bottomId": "68c70cd5cac1ff3d420fce98",
+    "locales": {
+      "en": {
+        "ClothingName": "USEC G3 M81",
+        "Description": "G3 Combat Pants, are a line of high-performance tactical pants manufactured by Crye Precision. Designed as a 'no-compromise assault uniform', they are known for their mobility, durability, and feature-rich design."
+      }
+    },
+    "bottomBundlePath": "Clothing/Lowers/G3/g3_m81_ponts.bundle",
+    "traderId": "RAGMAN",
+    "side": [
+      "Usec"
+    ],
+    "loyaltyLevel": 3,
+    "profileLevel": 33,
+    "standing": 0,
+    "currencyId": "ROUBLES",
+    "price": 2500000
+  },
+  {
+    "type": "bottom",
+    "suiteId": "68c87ca6d8ae3d9cee0fae47",
+    "outfitId": "68c87ca6d8ae3d9cee0fae48",
+    "bottomId": "68c87ca6d8ae3d9cee0fae49",
+    "locales": {
+      "en": {
+        "ClothingName": "USEC Snowdrift",
+        "Description": "Crye G4's in a custom Pencott Snowdrift camo."
+      }
+    },
+    "bottomBundlePath": "Clothing/Lowers/CRYE_G4/gatorg4s.bundle",
+    "traderId": "RAGMAN",
+    "side": [
+      "Usec"
+    ],
+    "loyaltyLevel": 3,
+    "profileLevel": 33,
+    "standing": 0,
+    "currencyId": "ROUBLES",
+    "price": 2500000
+  },
+  {
+    "type": "top",
+    "suiteId": "68c87ca6d8ae3d9cee0fae5e",
+    "outfitId": "68c87ca6d8ae3d9cee0fae5d",
+    "topId": "68c87ca6d8ae3d9cee0fae5c",
+    "handsId": "68c87ca6d8ae3d9cee0fae5b",
+    "locales": {
+      "en": {
+        "ClothingName": "USEC Snowdrift",
+        "Description": "A Patagonia Level 9 shirt in a custom Pencott Snowdrift camo."
+      }
+    },
+    "topBundlePath": "Clothing/Uppers/PATAGONIA_LEVEL9/patagoniasnow.bundle",
+    "handsBundlePath": "Clothing/Hands/PATAGONIA_LEVEL9/patagoniasnowhands.bundle",
+    "traderId": "RAGMAN",
+    "side": [
+      "Usec"
+    ],
+    "loyaltyLevel": 3,
+    "profileLevel": 35,
+    "standing": 0,
+    "currencyId": "ROUBLES",
+    "price": 2000000
   }
 ]

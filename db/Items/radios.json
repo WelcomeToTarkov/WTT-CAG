@@ -1,0 +1,86 @@
+{
+    "68c88f6ed8ae3d9cee0faead": {
+        "itemTplToClone": "5ab8ee7786f7742d8f33f0b9",
+        "parentId": "5448e53e4bdc2d60728b4567",
+        "handbookParentId": "5b5f6f6c86f774093f2ecf0b",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Bodywear/radios/PRC117G/satc1.bundle",
+                "rcid": ""
+            },
+            "ExaminedByDefault": "true",
+            "Weight": 3.65,
+            "Height": 4,
+            "Width": 3,
+            "CanSellOnRagfair": true,
+            "weaponErgonomicPenalty": -8,
+            "speedPenaltyPercent": -6,
+            "mousePenalty": -4.5,
+            "Grids": [
+                {
+                    "_id": "68bf981a88c87174770bf387",
+                    "_name": "main",
+                    "_parent": "68bf98e1f2f8268bb7c10592",
+                    "_props": {
+                        "cellsH": 3,
+                        "cellsV": 3,
+                        "filters": [
+                            {
+                                "ExcludedFilter": [],
+                                "Filter": [
+                                    "54009119af1c881c07000029"
+                                ]
+                            }
+                        ],
+                        "isSortingTable": false,
+                        "maxCount": 0,
+                        "maxWeight": 0,
+                        "minCount": 0
+                    },
+                    "_proto": "55d329c24bdc2d892f8b4567"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "PRC-117G Satcom",
+                "shortName": "117SC",
+                "description": "The AN/PRC-117G is a multi-band manpack radio, manufactured by L3Harris, that provides secure voice and data satellite communications (SATCOM) to military forces. It is known for its wideband capability, small size, and lightweight design, which makes it ideal for Beyond-Line-of-Sight (BLOS) communication in tactical missions. "
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Backpack"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 1
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 100052,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 4,
+        "fleaPriceRoubles": 91912,
+        "handbookPriceRoubles": 78999,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 1200
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    }
+}
