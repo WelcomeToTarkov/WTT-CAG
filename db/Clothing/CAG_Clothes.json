@@ -8,7 +8,7 @@
     "locales": {
       "en": {
         "ClothingName": "Vertx OPS Shell (TTsKO)",
-        "Description": "I NEED TO BE SET PLEASE"
+        "Description": "Tactical Jacket"
       }
     },
     "topBundlePath": "Clothing/Uppers/OPS_MGS_TTsKO/ttsko_bear_ops_main.bundle",
@@ -32,7 +32,7 @@
     "locales": {
       "en": {
         "ClothingName": "BEAR Telnik (Tucked In)",
-        "Description": "I NEED TO BE SET PLEASE"
+        "Description": "T-Shirt"
       }
     },
     "topBundlePath": "Clothing/Uppers/BEAR_TELNIK_TUCKED/telnik_blue_tucked.bundle",
@@ -56,7 +56,7 @@
     "locales": {
       "en": {
         "ClothingName": "Crye Loft M81",
-        "Description": "I NEED TO BE SET PLEASE"
+        "Description": "Tactical Jacket"
       }
     },
     "topBundlePath": "Clothing/Uppers/M81_LOFT/m81loft_upper.bundle",
@@ -79,7 +79,7 @@
     "locales": {
       "en": {
         "ClothingName": "Kokatat M81",
-        "Description": "I NEED TO BE SET PLEASE"
+        "Description": "Combat Pants"
       }
     },
     "bottomBundlePath": "Clothing/Lowers/M81_LOFT/m81loft_lower.bundle",
@@ -102,7 +102,7 @@
     "locales": {
       "en": {
         "ClothingName": "MOPP M81 Top",
-        "Description": "Tactical jacket"
+        "Description": "CBRN Overall"
       }
     },
     "topBundlePath": "Clothing/Uppers/M81_MOPP/m81_mopp_upper.bundle",
@@ -125,7 +125,7 @@
     "locales": {
       "en": {
         "ClothingName": "MOPP M81 Bottoms",
-        "Description": "I NEED TO BE SET PLEASE"
+        "Description": "CBRN Overall"
       }
     },
     "bottomBundlePath": "Clothing/Lowers/M81_MOPP/m81_mopp_bottom.bundle",
@@ -148,7 +148,7 @@
     "locales": {
       "en": {
         "ClothingName": "Crye G3 M81",
-        "Description": "I NEED TO BE SET PLEASE"
+        "Description": "Combat Shirt"
       }
     },
     "topBundlePath": "Clothing/Uppers/CRYE_G3/g3m81_short.bundle",
@@ -172,7 +172,7 @@
     "locales": {
       "en": {
         "ClothingName": "Gun Club Hoodie",
-        "Description": "I NEED TO BE SET PLEASE"
+        "Description": "Hoodie"
       }
     },
     "topBundlePath": "Clothing/Uppers/GUNCLUB_HOODIE/gunclub_black.bundle",
@@ -196,7 +196,7 @@
     "locales": {
       "en": {
         "ClothingName": "Sphinx Badlands",
-        "Description": "I NEED TO BE SET PLEASE"
+        "Description": "Tactical Jacket"
       }
     },
     "topBundlePath": "Clothing/Uppers/ARC_SPHYNX/sphynxbadlands.bundle",
@@ -219,7 +219,7 @@
     "locales": {
       "en": {
         "ClothingName": "Commando Badlands",
-        "Description": "I NEED TO BE SET PLEASE"
+        "Description": "Combat Pants"
       }
     },
     "bottomBundlePath": "Clothing/Lowers/G3_COMMANDO/g3_badlands.bundle",
@@ -241,7 +241,7 @@
     "locales": {
       "en": {
         "ClothingName": "Kokatat Badlands",
-        "Description": "I NEED TO BE SET PLEASE"
+        "Description": "Combat Pants"
       }
     },
     "bottomBundlePath": "Clothing/Lowers/BL_LOFT/bl_loft.bundle",
@@ -263,8 +263,8 @@
     "handsId": "689b9f86e80a0a82a10502aa",
     "locales": {
       "en": {
-        "ClothingName": "Wildwood",
-        "Description": "I NEED TO BE SET PLEASE"
+        "ClothingName": "USEC Wildwood",
+        "Description": "Combat Shirt"
       }
     },
     "topBundlePath": "Clothing/Uppers/CRYE_G4/g4woods.bundle",
@@ -286,8 +286,8 @@
     "bottomId": "689b9c78e80a0a82a105028d",
     "locales": {
       "en": {
-        "ClothingName": "Crye G4 (Wildwood)",
-        "Description": "I NEED TO BE SET PLEASE"
+        "ClothingName": "USEC Wildwood",
+        "Description": "Combat Pants"
       }
     },
     "bottomBundlePath": "Clothing/Lowers/CRYE_G4/g4lower_wood.bundle",
@@ -308,8 +308,8 @@
     "bottomId": "689d11934099da08bf0a4856",
     "locales": {
       "en": {
-        "ClothingName": "Shadow",
-        "Description": "I NEED TO BE SET PLEASE"
+        "ClothingName": "USEC Shadow",
+        "Description": "Combat Pants"
       }
     },
     "bottomBundlePath": "Clothing/Lowers/G3/g3_mcb_ponts.bundle",
@@ -331,8 +331,8 @@
     "handsId": "689dad922a7b6b578d0ef6ff",
     "locales": {
       "en": {
-        "ClothingName": "Shadow",
-        "Description": "I NEED TO BE SET PLEASE"
+        "ClothingName": "USEC Shadow",
+        "Description": "Combat Shirt"
       }
     },
     "topBundlePath": "Clothing/Uppers/CRYE_G4/g4mcb.bundle",
@@ -355,8 +355,8 @@
     "handsId": "689dad922a7b6b578d0ef6f9",
     "locales": {
       "en": {
-        "ClothingName": "MCB Cutsleeve",
-        "Description": "I NEED TO BE SET PLEASE"
+        "ClothingName": "USEC MCB Cutsleeve",
+        "Description": "Combat Shirt"
       }
     },
     "topBundlePath": "Clothing/Uppers/CRYE_G3/g3mcb_short.bundle",
@@ -379,8 +379,8 @@
     "handsId": "689e3d4d246a939d3a0c2eee",
     "locales": {
       "en": {
-        "ClothingName": "Sphinx MC",
-        "Description": "I NEED TO BE SET PLEASE"
+        "ClothingName": "USEC Sphinx MC",
+        "Description": "Tactical Jacket"
       }
     },
     "topBundlePath": "Clothing/Uppers/ARC_SPHYNX/sphynxmc.bundle",
@@ -403,8 +403,8 @@
     "handsId": "689f94eee4e9911ec10676e5",
     "locales": {
       "en": {
-        "ClothingName": "Obskura",
-        "Description": "I NEED TO BE SET PLEASE"
+        "ClothingName": "USEC Obskura",
+        "Description": "Combat Shirt"
       }
     },
     "topBundlePath": "Clothing/Uppers/CRYE_G3/g3kryptek_short.bundle",
@@ -426,8 +426,8 @@
     "bottomId": "68a32fc66cb39008b0015cdd",
     "locales": {
       "en": {
-        "ClothingName": "Obskura",
-        "Description": "I NEED TO BE SET PLEASE"
+        "ClothingName": "USEC Obskura",
+        "Description": "Combat Pants"
       }
     },
     "bottomBundlePath": "Clothing/Lowers/G3/g3_kryp1_ponts.bundle",
@@ -449,8 +449,8 @@
     "handsId": "68a6254f3543a51da40f6b0a",
     "locales": {
       "en": {
-        "ClothingName": "Ataks",
-        "Description": "I NEED TO BE SET PLEASE"
+        "ClothingName": "BEAR Ataks",
+        "Description": "Combat Shirt"
       }
     },
     "topBundlePath": "Clothing/Uppers/CRYE_G3/atakupper.bundle",
@@ -473,7 +473,7 @@
     "locales": {
       "en": {
         "ClothingName": "Ataks",
-        "Description": "I NEED TO BE SET PLEASE"
+        "Description": "Combat Pants"
       }
     },
     "bottomBundlePath": "Clothing/Lowers/G3/ataklower.bundle",
@@ -496,7 +496,7 @@
     "locales": {
       "en": {
         "ClothingName": "BEAR SBU",
-        "Description": "The ANA Combat Uniform is a russian uniform that features durable, ripstop materials and modern cuts similar to American designs, with functional elements like multiple pockets, integrated knee pad slots, and adjustable cuffs and waistbands."
+        "Description": "Combat Shirt"
       }
     },
     "topBundlePath": "Clothing/Uppers/ANA_COMBAT/fsb_mcupper.bundle",
@@ -519,7 +519,7 @@
     "locales": {
       "en": {
         "ClothingName": "BEAR SBU",
-        "Description": "The ANA Combat Uniform is a russian uniform that features durable, ripstop materials and modern cuts similar to American designs, with functional elements like multiple pockets, integrated knee pad slots, and adjustable cuffs and waistbands."
+        "Description": "Combat Pants"
       }
     },
     "bottomBundlePath": "Clothing/Lowers/ANA_COMBAT/fsb_mclower.bundle",
@@ -542,7 +542,7 @@
     "locales": {
       "en": {
         "ClothingName": "USEC G3 Multicam",
-        "Description": "The Crye G3 Combat Shirt is a combat-specific garment designed to be worn under body armor. Known for its durability and comfort, it is a popular choice for military and law enforcement professionals."
+        "Description": "Combat Shirt"
       }
     },
     "topBundlePath": "Clothing/Uppers/CRYE_G3/cryeg3mc.bundle",
@@ -565,7 +565,7 @@
     "locales": {
       "en": {
         "ClothingName": "USEC G3 Multicam",
-        "Description": "G3 Combat Pants, are a line of high-performance tactical pants manufactured by Crye Precision. Designed as a 'no-compromise assault uniform', they are known for their mobility, durability, and feature-rich design."
+        "Description": "Combat Pants"
       }
     },
     "bottomBundlePath": "Clothing/Lowers/G3/g3_mc_ponts.bundle",
@@ -588,7 +588,7 @@
     "locales": {
       "en": {
         "ClothingName": "USEC G2 M81",
-        "Description": "Crye G2 (Generation 2) is known by the label 'Army Custom' (AC) and is notable for its slightly different cut and features compared to later generations. G2 uniforms were widely issued to western military units before the widespread adoption of the G3 line."
+        "Description": "Combat Shirt"
       }
     },
     "topBundlePath": "Clothing/Uppers/CRYE_G2/cryeg2m81.bundle",
@@ -611,7 +611,7 @@
     "locales": {
       "en": {
         "ClothingName": "USEC G3 M81",
-        "Description": "G3 Combat Pants, are a line of high-performance tactical pants manufactured by Crye Precision. Designed as a 'no-compromise assault uniform', they are known for their mobility, durability, and feature-rich design."
+        "Description": "Combat Pants"
       }
     },
     "bottomBundlePath": "Clothing/Lowers/G3/g3_m81_ponts.bundle",
@@ -633,7 +633,7 @@
     "locales": {
       "en": {
         "ClothingName": "USEC Snowdrift",
-        "Description": "Crye G4's in a custom Pencott Snowdrift camo."
+        "Description": "Combat Pants"
       }
     },
     "bottomBundlePath": "Clothing/Lowers/CRYE_G4/gatorg4s.bundle",
@@ -656,7 +656,7 @@
     "locales": {
       "en": {
         "ClothingName": "USEC Snowdrift",
-        "Description": "A Patagonia Level 9 shirt in a custom Pencott Snowdrift camo."
+        "Description": "Combat Shirt"
       }
     },
     "topBundlePath": "Clothing/Uppers/PATAGONIA_LEVEL9/patagoniasnow.bundle",
@@ -680,7 +680,7 @@
     "locales": {
       "en": {
         "ClothingName": "USEC Lexapro",
-        "Description": "A Patagonia Level 9 shirt in a in MultiCam."
+        "Description": "Combat Shirt"
       }
     },
     "topBundlePath": "Clothing/Uppers/PATAGONIA_LEVEL9/patagoniamc.bundle",
