@@ -670,5 +670,29 @@
     "standing": 0,
     "currencyId": "ROUBLES",
     "price": 2000000
+  },
+  {
+    "type": "top",
+    "suiteId": "68cc259c608671392309cf9c",
+    "outfitId": "68cc259c608671392309cf9d",
+    "topId": "68cc259c608671392309cf9e",
+    "handsId": "68cc259c608671392309cf9f",
+    "locales": {
+      "en": {
+        "ClothingName": "USEC Lexapro",
+        "Description": "A Patagonia Level 9 shirt in a in MultiCam."
+      }
+    },
+    "topBundlePath": "Clothing/Uppers/PATAGONIA_LEVEL9/patagoniamc.bundle",
+    "handsBundlePath": "Clothing/Hands/PATAGONIA_LEVEL9/patagoniamchands.bundle",
+    "traderId": "RAGMAN",
+    "side": [
+      "Usec"
+    ],
+    "loyaltyLevel": 3,
+    "profileLevel": 35,
+    "standing": 0,
+    "currencyId": "ROUBLES",
+    "price": 2000000
   }
 ]
