@@ -793,7 +793,41 @@
             ]
         },
         {
+            "key": "Headwear/eyewear/oakley_holbrook/holbrook_glass_shared.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Bodywear/armoredRigs/PFM/pfmscrim.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/eyewear/oakley_holbrook/holbrook_blk.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Headwear/eyewear/oakley_holbrook/holbrook_glass_shared.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/eyewear/oakley_holbrook/holbrook_prpl.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Headwear/eyewear/oakley_holbrook/holbrook_glass_shared.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/masks/UA_ColdGear_UnderNose/ua_coldgear_shared.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
