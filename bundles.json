@@ -446,6 +446,24 @@
             ]
         },
         {
+            "key": "Bodywear/armoredRigs/DCS/arig_dcs_full_odg.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Bodywear/armoredRigs/DCS/arig_dcs_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Bodywear/armoredRigs/DCS/arig_dcs_full_mc.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Bodywear/armoredRigs/DCS/arig_dcs_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Clothing/Uppers/CRYE_G3/g3mcb_short.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -827,14 +845,6 @@
             ]
         },
         {
-            "key": "Headwear/masks/UA_ColdGear_UnderNose/ua_coldgear_shared.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
             "key": "Bodywear/armoredRigs/JPC/jpc2m81.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -891,68 +901,12 @@
             ]
         },
         {
-            "key": "Bodywear/armoredRigs/FCPC/fcpcsnow.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Clothing/Uppers/PATAGONIA_LEVEL9/patagoniasnow.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Clothing/Hands/PATAGONIA_LEVEL9/patagoniasnowhands.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Clothing/Lowers/CRYE_G4/gatorg4s.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Bodywear/radios/PRC117G/satc1.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Bodywear/armoredRigs/PFM/pfmassaulter2.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Clothing/Uppers/PATAGONIA_LEVEL9/patagoniamc.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Clothing/Hands/PATAGONIA_LEVEL9/patagoniamchands.bundle",
+            "key": "Headwear/helmets/deathknight_fast_mt.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         }
-    ]
+    ]    
 }
