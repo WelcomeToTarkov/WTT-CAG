@@ -1,13 +1,9 @@
 {
-	"chances": {
-		"equipment": {
-			"TacticalVest": 100
-		}
-	},
+
 	"inventory": {
 		"equipment": {
 			"TacticalVest": {
-				"68bb484b1ea04700566271e9": 45352
+				"68bb484b1ea04700566271e9": 9
 			}
 		}
 	}
