@@ -907,6 +907,23 @@
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
+        },
+        {
+            "key": "Bodywear/armoredRigs/LV119/ss_lv119_shared.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Bodywear/armoredRigs/LV119/ss_lv119_goons.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Bodywear/armoredRigs/LV119/ss_lv119_shared.bundle"
+            ]
         }
     ]    
 }

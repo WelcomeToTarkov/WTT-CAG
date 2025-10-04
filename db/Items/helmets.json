@@ -2368,5 +2368,165 @@
                 "_type": "Preset"
             }
         ]
+    },
+    "68d9a6f564cf4544e0e159c1": {
+        "itemTplToClone": "5a154d5cfcdbcb001a3b00da",
+        "parentId": "5a341c4086f77401f2541505",
+        "handbookParentId": "5b47574386f77428ca22b330",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Headwear/helmets/deathknight_fast_mt.bundle",
+                "rcid": ""
+            },
+            "ConflictingItems": [
+                "62963c18dbc8ab5f0d382d0b"
+            ],
+            "CanSellOnRagfair": false,
+            "Weight": 1.6,
+            "BlocksEarpiece": false,
+            "BlocksFaceCover": true,
+            "BlocksEyewear": true,
+            "armorClass": 1,
+            "armorMaterial": "Aramid",
+            "armorColliders": [
+                "Eyes"
+            ],
+            "Slots": [
+                {
+                    "_name": "Helmet_top",
+                    "_id": "68d9a7bd6828b6ab37599b16",
+                    "_parent": "68d9a6f564cf4544e0e159c1",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "657f8ec5f4c82973640b234c"
+                                ],
+                                "Plate": "657f8ec5f4c82973640b234c",
+                                "armorColliders": [
+                                    "ParietalHead"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Helmet_back",
+                    "_id": "68d9a7bf32786d3534855f36",
+                    "_parent": "68d9a6f564cf4544e0e159c1",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "657f8f10f4c82973640b2350"
+                                ],
+                                "Plate": "657f8f10f4c82973640b2350",
+                                "armorColliders": [
+                                    "BackHead"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Ops-Core FAST MT Super High Cut helmet (Goons Edition)",
+                "shortName": "FAST MT (G)",
+                "description": "The Ops-Core FAST Maritime ballistic helmet is popular in special forces all around the world. Can be modified with different components. Goons modified version."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Headwear"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": false,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 2
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 53582,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "fleaPriceRoubles": 55142,
+        "handbookPriceRoubles": 18957,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ],
+        "addweaponpreset": true,
+        "weaponpresets": [
+            {
+                "_changeWeaponName": false,
+                "_encyclopedia": "68d9a6f564cf4544e0e159c1",
+                "_id": "68d9a86805ad2d852531bf36",
+                "_items": [
+                    {
+                        "_id": "68d9a86960e9d434725581e5",
+                        "_tpl": "68d9a6f564cf4544e0e159c1",
+                        "upd": {
+                            "Repairable": {
+                                "MaxDurability": 100,
+                                "Durability": 100
+                            }
+                        }
+                    },
+                    {
+                        "_id": "68d9a86d92c7dbcad159b2a4",
+                        "_tpl": "657f8ec5f4c82973640b234c",
+                        "slotId": "Helmet_top",
+                        "parentId": "68d9a86960e9d434725581e5"
+                    },
+                    {
+                        "_id": "68d9a86de1990446c1cb5b3f",
+                        "_tpl": "657f8f10f4c82973640b2350",
+                        "slotId": "Helmet_back",
+                        "parentId": "68d9a86960e9d434725581e5"
+                    }
+                ],
+                "_name": "Death Knight Helmet Stock Preset",
+                "_parent": "68d9a86960e9d434725581e5",
+                "_type": "Preset"
+            }
+        ]
     }
 }

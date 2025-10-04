@@ -4955,7 +4955,250 @@
                 "_name": "PFM-A Full Stock Preset",
                 "_parent": "68cacc580e9a49fa470436c8",
                 "_type": "Preset"
-          
+            }
+        ]
+    },
+    "68d9a1c419128076a57b2378": {
+        "itemTplToClone": "628b9c7d45122232a872358f",
+        "parentId": "5448e5284bdc2dcb718b4567",
+        "handbookParentId": "5b5f6f8786f77447ed563642",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Bodywear/armoredRigs/LV119/ss_lv119_goons.bundle",
+                "rcid": ""
+            },
+            "CanSellOnRagfair": false,
+            "SearchSound": "looting_body_extended",
+            "Weight": 2.11,
+            "Height": 3,
+            "Width": 4,
+            "RigLayoutName": "knight",
+            "mousePenalty": -1,
+            "speedPenaltyPercent": -1,
+            "weaponErgonomicPenalty": -1,
+            "ArmorType": "Light",
+            "BluntThroughput": 0.2619,
+            "Slots": [
+                {
+                    "_name": "Front_plate",
+                    "_id": "68d9a1c6886fbd425b51d755",
+                    "_parent": "68d9a1c419128076a57b2378",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "656f9d5900d62bcd2e02407c",
+                                    "656fa8d700d62bcd2e024084",
+                                    "656fa99800d62bcd2e024088",
+                                    "656fae5f7c2d57afe200c0d7",
+                                    "656faf0ca0dce000a2020f77",
+                                    "656fa0fb498d1b7e3e071d9c",
+                                    "656fa76500d62bcd2e024080",
+                                    "656fafe3498d1b7e3e071da4",
+                                    "656fa25e94b480b8a500c0e0",
+                                    "656fad8c498d1b7e3e071da0",
+                                    "656fa61e94b480b8a500c0e8",
+                                    "656fb21fa0dce000a2020f7c",
+                                    "656fb0bd7c2d57afe200c0dc",
+                                    "656fac30c6baea13cd07e10c",
+                                    "656f9fa0498d1b7e3e071d98",
+                                    "656fa53d94b480b8a500c0e4",
+                                    "655746010177119f4a097ff7",
+                                    "64afdcb83efdfea28601d041"
+                                ],
+                                "Plate": "656f9fa0498d1b7e3e071d98",
+                                "armorColliders": [],
+                                "armorPlateColliders": [
+                                    "Plate_Granit_SAPI_chest"
+                                ],
+                                "bluntDamageReduceFromSoftArmor": true,
+                                "locked": false
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Back_plate",
+                    "_id": "68d9a1c9d42a9dde10e8790c",
+                    "_parent": "68d9a1c419128076a57b2378",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "656f9d5900d62bcd2e02407c",
+                                    "656fa8d700d62bcd2e024084",
+                                    "656fa99800d62bcd2e024088",
+                                    "656fae5f7c2d57afe200c0d7",
+                                    "656faf0ca0dce000a2020f77",
+                                    "656fa0fb498d1b7e3e071d9c",
+                                    "656fa76500d62bcd2e024080",
+                                    "656fafe3498d1b7e3e071da4",
+                                    "656fa25e94b480b8a500c0e0",
+                                    "656fad8c498d1b7e3e071da0",
+                                    "656fa61e94b480b8a500c0e8",
+                                    "656fb21fa0dce000a2020f7c",
+                                    "656fb0bd7c2d57afe200c0dc",
+                                    "656fac30c6baea13cd07e10c",
+                                    "656f9fa0498d1b7e3e071d98",
+                                    "656fa53d94b480b8a500c0e4",
+                                    "655746010177119f4a097ff7",
+                                    "64afdcb83efdfea28601d041"
+                                ],
+                                "Plate": "656f9fa0498d1b7e3e071d98",
+                                "armorColliders": [],
+                                "armorPlateColliders": [
+                                    "Plate_Granit_SAPI_back"
+                                ],
+                                "bluntDamageReduceFromSoftArmor": true,
+                                "locked": false
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Soft_armor_front",
+                    "_id": "68d9a1cc9c6a1446188cc26c",
+                    "_parent": "68d9a1c419128076a57b2378",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6570e83223c1f638ef0b0ede"
+                                ],
+                                "Plate": "6570e83223c1f638ef0b0ede",
+                                "armorColliders": [
+                                    "RibcageUp",
+                                    "RibcageLow"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Soft_armor_back",
+                    "_id": "68d9a1cf67746915beda5cac",
+                    "_parent": "68d9a1c419128076a57b2378",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6570e87c23c1f638ef0b0ee2"
+                                ],
+                                "Plate": "6570e87c23c1f638ef0b0ee2",
+                                "armorColliders": [
+                                    "SpineTop",
+                                    "SpineDown"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Spiritus Systems LV-119 plate carrier (Goons Edition)",
+                "shortName": "LV-119 (G)",
+                "description": "A lightweight and highly modular plate carrier designed with adaptability in mind. The LV-119 offers excellent protection with minimal bulk, supporting front, back, and cummerbund-mounted armor while remaining comfortable for long raids. Modified for use by the Goons."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Vest"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": false,
+        "traderId": "RAGMAN",
+        "traderItems": [],
+        "barterScheme": [],
+        "loyallevelitems": 4,
+        "fleaPriceRoubles": 98593,
+        "handbookPriceRoubles": 45352,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ],
+        "addweaponpreset": true,
+        "weaponpresets": [
+            {
+                "_changeWeaponName": false,
+                "_encyclopedia": "68d9a1c419128076a57b2378",
+                "_id": "68d9a2dcc4d78000d37c7277",
+                "_items": [
+                    {
+                        "_id": "68d9a2dd4aaef1384150af5a",
+                        "_tpl": "68d9a1c419128076a57b2378",
+                        "upd": {
+                            "Repairable": {
+                                "MaxDurability": 100,
+                                "Durability": 100
+                            }
+                        }
+                    },
+                    {
+                        "_id": "68d9a2e44a55071ad04147ed",
+                        "_tpl": "656fa53d94b480b8a500c0e4",
+                        "slotId": "Front_plate",
+                        "parentId": "68d9a2dd4aaef1384150af5a"
+                    },
+                    {
+                        "_id": "68d9a2e3bdb4cb6a9673e031",
+                        "_tpl": "656fa53d94b480b8a500c0e4",
+                        "slotId": "Back_plate",
+                        "parentId": "68d9a2dd4aaef1384150af5a"
+                    },
+                    {
+                        "_id": "68d9a2e268c405abd1118355",
+                        "_tpl": "6570e83223c1f638ef0b0ede",
+                        "slotId": "Soft_armor_front",
+                        "parentId": "68d9a2dd4aaef1384150af5a"
+                    },
+                    {
+                        "_id": "68d9a2e27bc06df9e0eeccec",
+                        "_tpl": "6570e83223c1f638ef0b0ede",
+                        "slotId": "Soft_armor_back",
+                        "parentId": "68d9a2dd4aaef1384150af5a"
+                    }
+                ],
+                "_name": "LV119 Goons Stock Preset",
+                "_parent": "68d9a2dd4aaef1384150af5a",
+                "_type": "Preset"
             }
         ]
     }
