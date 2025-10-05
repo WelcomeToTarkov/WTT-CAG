@@ -73,5 +73,41 @@
         ],
         "addweaponpreset": false,
         "weaponpresets": []
+    },
+    "68e1ce74c9305bc1608ee2e6": {
+        "itemTplToClone": "65711bc79eb8c145180dbba1",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "overrideProperties": {
+            "armorClass": 4,
+            "armorColliders": [
+                "Jaw",
+                "HeadCommon"
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Hybrid composite materials",
+                "shortName": "",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": false,
+        "traderId": "PRAPOR",
+        "traderItems": [],
+        "barterScheme": [],
+        "loyallevelitems": 3,
+        "fleaPriceRoubles": 66582,
+        "handbookPriceRoubles": 13194,
+        "addtoStaticLootContainers": false,
+        "StaticLootContainers": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
     }
 }

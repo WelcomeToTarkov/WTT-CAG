@@ -694,5 +694,30 @@
     "standing": 0,
     "currencyId": "ROUBLES",
     "price": 2000000
+  },
+  {
+    "type": "top",
+    "suiteId": "68e1b09954b6ec5478a99b86",
+    "outfitId": "68e1b099c1a78f14e1f57157",
+    "topId": "68e1b098aa6b0bad017b1fdd",
+    "handsId": "68e1b0973ae9a652ec83f42c",
+    "locales": {
+      "en": {
+        "ClothingName": "Lousy T-Shirt",
+        "Description": "T-Shirt"
+      }
+    },
+    "topBundlePath": "Clothing/Uppers/BEAR_CONTRACTOR/contractor_tshirt_lousy.bundle",
+    "handsBundlePath": "assets/content/hands/hands_tshirt_bear_black/hands_tshirt_bear_black.skin.bundle",
+    "traderId": "RAGMAN",
+    "side": [
+      "Bear",
+      "Usec"
+    ],
+    "loyaltyLevel": 1,
+    "profileLevel": 5,
+    "standing": 0,
+    "currencyId": "ROUBLES",
+    "price": 25000
   }
 ]

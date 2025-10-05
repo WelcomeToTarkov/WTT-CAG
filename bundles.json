@@ -924,6 +924,14 @@
                 "assets/commonassets/physics/physicsmaterials.bundle",
                 "Bodywear/armoredRigs/LV119/ss_lv119_shared.bundle"
             ]
+        },
+        {
+            "key": "Clothing/Uppers/BEAR_CONTRACTOR/contractor_tshirt_lousy.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
         }
     ]    
 }

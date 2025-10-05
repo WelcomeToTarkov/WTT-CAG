@@ -2439,6 +2439,32 @@
                     "_required": true,
                     "_mergeSlotWithChildren": true,
                     "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Helmet_eyes",
+                    "_id": "68e1b7053e17bb57a8386900",
+                    "_parent": "68d9a6f564cf4544e0e159c1",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "65711bc79eb8c145180dbba1"
+                                ],
+                                "Plate": "65711bc79eb8c145180dbba1",
+                                "armorColliders": [
+                                    "Jaw",
+                                    "Eyes",
+                                    "HeadCommon"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
                 }
             ]
         },
@@ -2520,6 +2546,12 @@
                         "_id": "68d9a86de1990446c1cb5b3f",
                         "_tpl": "657f8f10f4c82973640b2350",
                         "slotId": "Helmet_back",
+                        "parentId": "68d9a86960e9d434725581e5"
+                    },
+                    {
+                        "_id": "68e1b68815fb9461ed6d8cb9",
+                        "_tpl": "68e1ce74c9305bc1608ee2e6",
+                        "slotId": "Helmet_eyes",
                         "parentId": "68d9a86960e9d434725581e5"
                     }
                 ],
