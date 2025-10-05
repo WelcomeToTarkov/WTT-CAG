@@ -1,7 +1,10 @@
 {
 	"chances": {
 		"equipment": {
-			"Headwear": 50,
+			"Headwear": 100,
+			"FaceCover": 50
+		},
+		"weaponMods": {
 			"Helmet_top": 100,
 			"Helmet_back": 100,
 			"Helmet_eyes": 100
@@ -10,7 +13,7 @@
 	"inventory": {
 		"equipment": {
 			"Headwear": {
-				"68d9a6f564cf4544e0e159c1": 1
+				"68d9a6f564cf4544e0e159c1": 9999
 			}
 		},
 		"mods": {
