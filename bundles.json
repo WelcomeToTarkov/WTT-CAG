@@ -9,6 +9,14 @@
             ]
         },
         {
+            "key": "Headwear/helmets/b826/helmet_b826.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Headwear/helmets/ate_hhv_helmet/helmet_hhv_tan.bundle",
             "dependencyKeys": [
                 "shaders",

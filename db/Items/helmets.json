@@ -2560,5 +2560,188 @@
                 "_type": "Preset"
             }
         ]
+    },
+    "68e53709d997b0cebccfc880": {
+        "itemTplToClone": "5a7c4850e899ef00150be885",
+        "parentId": "5a341c4086f77401f2541505",
+        "handbookParentId": "5b47574386f77428ca22b330",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Headwear/helmets/b826/helmet_b826.bundle",
+                "rcid": ""
+            },
+            "Weight": 1.35,
+            "mousePenalty": -0.5,
+            "weaponErgonomicPenalty": -0.5,
+            "RepairCost": 510,
+            "Height": 2,
+            "Width": 2,
+            "Slots": [
+                {
+                    "_name": "Helmet_top",
+                    "_id": "68e549a6c3e6ff929a892b94",
+                    "_parent": "68e53709d997b0cebccfc880",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "68e55fb697f217f43c40e36b"
+                                ],
+                                "Plate": "68e55fb697f217f43c40e36b",
+                                "armorColliders": [
+                                    "ParietalHead"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Helmet_back",
+                    "_id": "68e549aca66889d042b65a6c",
+                    "_parent": "68e53709d997b0cebccfc880",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "68e560760a6bd28b1eefae60"
+                                ],
+                                "Plate": "68e560760a6bd28b1eefae60",
+                                "armorColliders": [
+                                    "BackHead"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false,
+                                "locked": true
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_id": "68e549f0b81c0ab9133531c8",
+                    "_mergeSlotWithChildren": true,
+                    "_name": "Helmet_ears",
+                    "_parent": "68e53709d997b0cebccfc880",
+                    "_props": {
+                      "filters": [
+                        {
+                          "Filter": [
+                            "68e56084053c5f90684175f9"
+                          ],
+                          "Plate": "68e56084053c5f90684175f9",
+                          "armorColliders": [
+                            "Ears"
+                          ],
+                          "armorPlateColliders": [],
+                          "bluntDamageReduceFromSoftArmor": false,
+                          "locked": true
+                        }
+                      ]
+                    },
+                    "_proto": "64479fdf9731c8fadc0642c1",
+                    "_required": true
+                  }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Gefechtshelm Schuberth B826",
+                "shortName": "B826",
+                "description": "The Gefechtshelm Schuberth B826 is the standard issue combat helmet of the Bundeswehr, first fielded in 1992 as a replacement of earlier M1A1 helmets that were previously used during the Cold War. It is made from Aramid composite materials and is used by all branches of the Bundeswehr."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Headwear"
+        ],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": false,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 2
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 53582,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "fleaPriceRoubles": 46704,
+        "handbookPriceRoubles": 3903,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ],
+        "addweaponpreset": true,
+        "weaponpresets": [
+            {
+                "_changeWeaponName": false,
+                "_encyclopedia": "68e53709d997b0cebccfc880",
+                "_id": "68e54a77ffc1f0870d6c8299",
+                "_items": [
+                    {
+                        "_id": "68e54a7b0077e00dd9d14ee1",
+                        "_tpl": "68e53709d997b0cebccfc880",
+                        "upd": {
+                            "Repairable": {
+                                "MaxDurability": 100,
+                                "Durability": 100
+                            }
+                        }
+                    },
+                    {
+                        "_id": "68e54a8b961cad8cf0c30861",
+                        "_tpl": "68e55fb697f217f43c40e36b",
+                        "slotId": "Helmet_top",
+                        "parentId": "68e54a7b0077e00dd9d14ee1"
+                    },
+                    {
+                        "_id": "68e54a8dbaa30af0c000c43e",
+                        "_tpl": "68e560760a6bd28b1eefae60",
+                        "slotId": "Helmet_back",
+                        "parentId": "68e54a7b0077e00dd9d14ee1"
+                    },
+                    {
+                        "_id": "68e54a94e9d1e0cf5b6e9916",
+                        "_tpl": "68e56084053c5f90684175f9",
+                        "slotId": "Helmet_ears",
+                        "parentId": "68e54a7b0077e00dd9d14ee1"
+                    }
+                ],
+                "_name": "B826 Stock Preset",
+                "_parent": "68e54a7b0077e00dd9d14ee1",
+                "_type": "Preset"
+            }
+        ]
     }
 }
