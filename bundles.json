@@ -1,7 +1,31 @@
 {
     "manifest": [
         {
-            "key": "Headwear/helmets/ate_hhv_helmet/helmet_hhv_common.bundle",
+            "key": "Headwear/helmets/opscore_xp/helmet_opscore_xp.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/airframe_custom/helmet_airframe_c.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/airframe_custom/helmet_airframe_c_fde.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/airframe_custom/helmet_airframe_c_mc.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -10,6 +34,14 @@
         },
         {
             "key": "Headwear/helmets/b826/helmet_b826.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/ate_hhv_helmet/helmet_hhv_common.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
