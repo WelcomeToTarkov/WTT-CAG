@@ -3656,5 +3656,159 @@
                 "_type": "Preset"
             }
         ]
+    },
+    "680be1c97c53613b0016d45f": {
+        "itemTplToClone": "5aa7d193e5b5b000171d063f",
+        "parentId": "5a341c4086f77401f2541505",
+        "handbookParentId": "5b47574386f77428ca22b330",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Headwear/helmets/am95/helmet_am95.bundle",
+                "rcid": ""
+            },
+            "Weight": 1.55,
+            "weaponErgonomicPenalty": -3.5,
+            "Slots": [
+                {
+                    "_name": "Helmet_top",
+                    "_id": "6737c9625feeb6963b451b38",
+                    "_parent": "680be1c97c53613b0016d45f",
+                    "_props": {
+                        "filters": [
+                            {
+                                "locked": true,
+                                "Plate": "657bbad7a1c61ee0c3036323",
+                                "Filter": [
+                                    "657bbad7a1c61ee0c3036323"
+                                ],
+                                "armorColliders": [
+                                    "ParietalHead"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Helmet_back",
+                    "_id": "6737c95f052ddc64052ef219",
+                    "_parent": "680be1c97c53613b0016d45f",
+                    "_props": {
+                        "filters": [
+                            {
+                                "locked": true,
+                                "Plate": "657bbb31b30eca9763051183",
+                                "Filter": [
+                                    "657bbb31b30eca9763051183"
+                                ],
+                                "armorColliders": [
+                                    "BackHead"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "Helmet_ears",
+                    "_id": "6737c95cb6956e47de86ceef",
+                    "_parent": "680be1c97c53613b0016d45f",
+                    "_props": {
+                        "filters": [
+                            {
+                                "locked": true,
+                                "Plate": "657babc6f58ba5a6250107a2",
+                                "Filter": [
+                                    "657babc6f58ba5a6250107a2"
+                                ],
+                                "armorColliders": [
+                                    "Ears"
+                                ],
+                                "armorPlateColliders": [],
+                                "bluntDamageReduceFromSoftArmor": false
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Ulbrichts AM95 Ballistic Helmet",
+                "shortName": "AM95",
+                "description": "A surplus AM95 ballistic helmet designed specifically for European law enforcement officers, manufactured by Ulbrichts."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 57000,
+        "handbookPriceRoubles": 2580,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": true,
+        "weaponpresets": [
+            {
+                "_changeWeaponName": false,
+                "_encyclopedia": "680be1c97c53613b0016d45f",
+                "_id": "680be260b7976acb70f5dc95",
+                "_items": [
+                    {
+                        "_id": "680be2639f5d04d65c22526c",
+                        "_tpl": "680be1c97c53613b0016d45f"
+                    },
+                    {
+                        "_id": "680be275e4d83de168209594",
+                        "_tpl": "657bbad7a1c61ee0c3036323",
+                        "parentId": "680be2639f5d04d65c22526c",
+                        "slotId": "Helmet_top"
+                    },
+                    {
+                        "_id": "680be27816fb5909a0a6fdfc",
+                        "_tpl": "657bbb31b30eca9763051183",
+                        "parentId": "680be2639f5d04d65c22526c",
+                        "slotId": "Helmet_back"
+                    },
+                    {
+                        "_id": "680be27b4e135435f4c590d8",
+                        "_tpl": "657babc6f58ba5a6250107a2",
+                        "parentId": "680be2639f5d04d65c22526c",
+                        "slotId": "Helmet_ears"
+                    }
+                ],
+                "_name": "AM95 Standard",
+                "_parent": "680be2639f5d04d65c22526c",
+                "_type": "Preset"
+            }
+        ],
+        "traders": {}
     }
 }

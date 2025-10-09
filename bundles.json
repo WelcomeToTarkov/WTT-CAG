@@ -9,6 +9,14 @@
             ]
         },
         {
+            "key": "Headwear/helmets/am95/helmet_am95.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Headwear/helmets/airframe_custom/helmet_airframe_c.bundle",
             "dependencyKeys": [
                 "shaders",
