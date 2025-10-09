@@ -486,5 +486,311 @@
         ],
         "addweaponpreset": false,
         "weaponpresets": []
+    },
+    "68e41eb267f7a14bfd34e16f": {
+        "itemTplToClone": "5c0e66e2d174af02a96252f4",
+        "parentId": "55818b224bdc2dde698b456f",
+        "handbookParentId": "5b5f755f86f77447ec5d770e",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Headwear/helmets/ihps/ihps_cover_mc.bundle",
+                "rcid": ""
+            },
+            "Weight": 0.01,
+            "CanSellOnRagfair": true,
+            "Height": 1,
+            "Width": 1,
+            "ItemSound": "item_cloth_generic",
+            "Unlootable": false,
+            "CanPutIntoDuringTheRaid": false,
+            "Indestructibility": 0,
+            "ArmorType": "None",
+            "BluntThroughput": 1,
+            "armorClass": 0,
+            "armorColliders": [],
+            "mousePenalty": 0,
+            "speedPenaltyPercent": 0,
+            "Durability": 100,
+            "RicochetParams": {
+                "x": 0,
+                "y": 0,
+                "z": 1
+            },
+            "weaponErgonomicPenalty": 0,
+            "Slots": [
+                {
+                    "_name": "mod_equipment_000",
+                    "_id": "68e41eb467c72cef3cbb438d",
+                    "_parent": "68e41eb267f7a14bfd34e16f",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6897d6a13858711f63d149c3"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "mod_mount_000",
+                    "_id": "68e41eb6d540006f6731c743",
+                    "_parent": "68e41eb267f7a14bfd34e16f",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6898b5d1db78a51e440ffb0d",
+                                    "6898b3df9fc5e87e7b16158d",
+                                    "689f6510c0fc0a4d4925334f",
+                                    "689f6557898dcc1c04a856e0",
+                                    "68e41f357652f8af58a1b9f8",
+                                    "68e41f5e47ce4e1391caa5b5",
+                                    "68e41fb9e5443e5476974e20",
+                                    "68e42008a969685c642fca53",
+                                    "689f80187f8612e86998b619"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                },
+                {
+                    "_name": "mod_mount_001",
+                    "_id": "68e420965cf6786bb2279595",
+                    "_parent": "68e41eb267f7a14bfd34e16f",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6898b5d1db78a51e440ffb0d",
+                                    "6898b3df9fc5e87e7b16158d",
+                                    "689f6510c0fc0a4d4925334f",
+                                    "689f6557898dcc1c04a856e0",
+                                    "68e41f357652f8af58a1b9f8",
+                                    "68e41f5e47ce4e1391caa5b5",
+                                    "68e41fb9e5443e5476974e20",
+                                    "68e42008a969685c642fca53",
+                                    "689f80187f8612e86998b619"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": true,
+                    "_proto": "64479fdf9731c8fadc0642c1"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "IHPS helmet cover (MultiCam)",
+                "shortName": "IHPS",
+                "description": "A fabric camouflage cover tailored for the IHPS Combat Helmet."
+            }
+        },
+        "clearClonedProps": true,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 10
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 3233,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "fleaPriceRoubles": 3011,
+        "handbookPriceRoubles": 500,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "68e421a2216cf1469d6c6bf1": {
+        "itemTplToClone": "68e41eb267f7a14bfd34e16f",
+        "parentId": "55818b224bdc2dde698b456f",
+        "handbookParentId": "5b5f755f86f77447ec5d770e",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Headwear/helmets/ihps/ihps_cover_blk.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "IHPS helmet cover (Black)",
+                "shortName": "IHPS",
+                "description": "A fabric camouflage cover tailored for the IHPS Combat Helmet."
+            }
+        },
+        "clearClonedProps": true,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 10
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 3233,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "fleaPriceRoubles": 3011,
+        "handbookPriceRoubles": 500,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "68e42207b9cb167bbeac1e4d": {
+        "itemTplToClone": "68e41eb267f7a14bfd34e16f",
+        "parentId": "55818b224bdc2dde698b456f",
+        "handbookParentId": "5b5f755f86f77447ec5d770e",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Headwear/helmets/ihps/ihps_cover_odg.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "IHPS helmet cover (Olive Drab)",
+                "shortName": "IHPS",
+                "description": "A fabric camouflage cover tailored for the IHPS Combat Helmet."
+            }
+        },
+        "clearClonedProps": true,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 10
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 3233,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "fleaPriceRoubles": 3011,
+        "handbookPriceRoubles": 500,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "68e4221053effcaa2d3bd9d5": {
+        "itemTplToClone": "68e41eb267f7a14bfd34e16f",
+        "parentId": "55818b224bdc2dde698b456f",
+        "handbookParentId": "5b5f755f86f77447ec5d770e",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Headwear/helmets/ihps/ihps_cover_tan.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "IHPS helmet cover (Tan)",
+                "shortName": "IHPS",
+                "description": "A fabric camouflage cover tailored for the IHPS Combat Helmet."
+            }
+        },
+        "clearClonedProps": true,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 10
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 3233,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "fleaPriceRoubles": 3011,
+        "handbookPriceRoubles": 500,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
     }
 }

@@ -1,4 +1,4 @@
-{
+ {
     "manifest": [
         {
             "key": "Headwear/helmets/opscore_xp/helmet_opscore_xp.bundle",
@@ -979,6 +979,68 @@
                 "shaders",
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/ihps/ihps_shared.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/ihps/ihps_shell_blk.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Headwear/helmets/ihps/ihps_shared.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/ihps/ihps_shell_fde.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Headwear/helmets/ihps/ihps_shared.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/ihps/ihps_cover_blk.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Headwear/helmets/ihps/ihps_shared.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/ihps/ihps_cover_mc.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Headwear/helmets/ihps/ihps_shared.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/ihps/ihps_cover_odg.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Headwear/helmets/ihps/ihps_shared.bundle"
+            ]
+        },
+        {
+            "key": "Headwear/helmets/ihps/ihps_cover_tan.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Headwear/helmets/ihps/ihps_shared.bundle"
             ]
         }
     ]    
