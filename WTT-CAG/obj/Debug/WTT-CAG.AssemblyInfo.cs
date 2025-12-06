@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WTT-CAG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+293c8fa0faf05bdda80fc81dfcad65f80a79bc8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WTT-CAG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WTT-CAG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

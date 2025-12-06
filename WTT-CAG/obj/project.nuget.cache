@@ -1,18 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "spCaUoYc5wk=",
+  "dgSpecHash": "GHWOKDOG/mo=",
   "success": true,
-  "projectFilePath": "F:\\Games\\SPT4.0\\ModdingFolder\\WTT-CAG\\WTT-CAG\\WTT-CAG.csproj",
+  "projectFilePath": "Q:\\Games\\SPT_401\\MOD_DEV\\WTT-CAG\\WTT-CAG\\WTT-CAG.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\alexd\\.nuget\\packages\\fastcloner\\3.3.16\\fastcloner.3.3.16.nupkg.sha512",
-    "C:\\Users\\alexd\\.nuget\\packages\\jetbrains.annotations\\2025.2.2\\jetbrains.annotations.2025.2.2.nupkg.sha512",
-    "C:\\Users\\alexd\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512",
-    "C:\\Users\\alexd\\.nuget\\packages\\semanticversioning\\3.0.0\\semanticversioning.3.0.0.nupkg.sha512",
-    "C:\\Users\\alexd\\.nuget\\packages\\sptarkov.common\\4.0.3\\sptarkov.common.4.0.3.nupkg.sha512",
-    "C:\\Users\\alexd\\.nuget\\packages\\sptarkov.di\\4.0.3\\sptarkov.di.4.0.3.nupkg.sha512",
-    "C:\\Users\\alexd\\.nuget\\packages\\sptarkov.server.core\\4.0.3\\sptarkov.server.core.4.0.3.nupkg.sha512",
-    "C:\\Users\\alexd\\.nuget\\packages\\system.io.hashing\\9.0.9\\system.io.hashing.9.0.9.nupkg.sha512",
-    "C:\\Users\\alexd\\.nuget\\packages\\wtt-servercommonlib\\2.0.4\\wtt-servercommonlib.2.0.4.nupkg.sha512"
+    "C:\\Users\\jakec\\.nuget\\packages\\fastcloner\\3.3.16\\fastcloner.3.3.16.nupkg.sha512",
+    "C:\\Users\\jakec\\.nuget\\packages\\jetbrains.annotations\\2025.2.2\\jetbrains.annotations.2025.2.2.nupkg.sha512",
+    "C:\\Users\\jakec\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\jakec\\.nuget\\packages\\semanticversioning\\3.0.0\\semanticversioning.3.0.0.nupkg.sha512",
+    "C:\\Users\\jakec\\.nuget\\packages\\sptarkov.common\\4.0.3\\sptarkov.common.4.0.3.nupkg.sha512",
+    "C:\\Users\\jakec\\.nuget\\packages\\sptarkov.di\\4.0.3\\sptarkov.di.4.0.3.nupkg.sha512",
+    "C:\\Users\\jakec\\.nuget\\packages\\sptarkov.server.core\\4.0.3\\sptarkov.server.core.4.0.3.nupkg.sha512",
+    "C:\\Users\\jakec\\.nuget\\packages\\system.io.hashing\\9.0.9\\system.io.hashing.9.0.9.nupkg.sha512",
+    "C:\\Users\\jakec\\.nuget\\packages\\wtt-servercommonlib\\2.0.4\\wtt-servercommonlib.2.0.4.nupkg.sha512"
   ],
   "logs": []
 }

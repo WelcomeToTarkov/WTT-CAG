@@ -7,8 +7,8 @@
     "handsId": "5fd78519a8c881276c55eae6",
     "locales": {
       "en": {
-        "Name": "UNTAR Field Top (Pantera)",
-        "Description": "Uniform Jacket"
+        "name": "UNTAR Field Top (Pantera)",
+        "description": "Uniform Jacket"
       }
     },
     "topBundlePath": "Clothing/Uppers/NPC_UNTAR_PANTERA/untar_pol_top.bundle",
@@ -23,7 +23,7 @@
     "loyaltyLevel": 1,
     "profileLevel": 0,
     "standing": 0,
-    "currencyId": "ROUBLES",
+    "currencyId": "MONEY_ROUBLES",
     "price": 5
   },
   {
@@ -33,8 +33,8 @@
     "bottomId": "69183240f325448f73858824",
     "locales": {
       "en": {
-        "Name": "UNTAR Field Bottom (Pantera)",
-        "Description": "Combat Pants"
+        "name": "UNTAR Field Bottom (Pantera)",
+        "description": "Combat Pants"
       }
     },
     "bottomBundlePath": "Clothing/Lowers/NPC_UNTAR_PANTERA/untar_pol_bottom.bundle",
@@ -48,7 +48,7 @@
     "loyaltyLevel": 1,
     "profileLevel": 0,
     "standing": 0,
-    "currencyId": "ROUBLES",
+    "currencyId": "MONEY_ROUBLES",
     "price": 5
   }
 ]

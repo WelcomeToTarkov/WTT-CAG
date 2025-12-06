@@ -319,19 +319,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alexd\\.nuget\\packages\\": {}
+    "C:\\Users\\jakec\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Games\\SPT4.0\\ModdingFolder\\WTT-CAG\\WTT-CAG\\WTT-CAG.csproj",
+      "projectUniqueName": "Q:\\Games\\SPT_401\\MOD_DEV\\WTT-CAG\\WTT-CAG\\WTT-CAG.csproj",
       "projectName": "WTT-CAG",
-      "projectPath": "F:\\Games\\SPT4.0\\ModdingFolder\\WTT-CAG\\WTT-CAG\\WTT-CAG.csproj",
-      "packagesPath": "C:\\Users\\alexd\\.nuget\\packages\\",
-      "outputPath": "F:\\Games\\SPT4.0\\ModdingFolder\\WTT-CAG\\WTT-CAG\\obj\\",
+      "projectPath": "Q:\\Games\\SPT_401\\MOD_DEV\\WTT-CAG\\WTT-CAG\\WTT-CAG.csproj",
+      "packagesPath": "C:\\Users\\jakec\\.nuget\\packages\\",
+      "outputPath": "Q:\\Games\\SPT_401\\MOD_DEV\\WTT-CAG\\WTT-CAG\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\alexd\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jakec\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -355,7 +355,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -397,7 +397,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

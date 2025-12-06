@@ -7,8 +7,8 @@
     "handsId": "6897f88c19ff832d4e76d1d4",
     "locales": {
       "en": {
-        "Name": "Vertx OPS Shell (TTsKO)",
-        "Description": "Tactical Jacket"
+        "name": "Vertx OPS Shell (TTsKO)",
+        "description": "Tactical Jacket"
       }
     },
     "topBundlePath": "Clothing/Uppers/OPS_MGS_TTsKO/ttsko_bear_ops_main.bundle",
@@ -20,7 +20,7 @@
     "loyaltyLevel": 3,
     "profileLevel": 33,
     "standing": 0,
-    "currencyId": "ROUBLES",
+    "currencyId": "MONEY_ROUBLES",
     "price": 1100000
   },
   {
@@ -31,8 +31,8 @@
     "handsId": "5e4bb1d286f77406a313ec59",
     "locales": {
       "en": {
-        "Name": "BEAR Telnik (Tucked In)",
-        "Description": "T-Shirt"
+        "name": "BEAR Telnik (Tucked In)",
+        "description": "T-Shirt"
       }
     },
     "topBundlePath": "Clothing/Uppers/BEAR_TELNIK_TUCKED/telnik_blue_tucked.bundle",
@@ -44,7 +44,7 @@
     "loyaltyLevel": 4,
     "profileLevel": 50,
     "standing": 0,
-    "currencyId": "ROUBLES",
+    "currencyId": "MONEY_ROUBLES",
     "price": 4500000
   },
   {
@@ -55,8 +55,8 @@
     "handsId": "68e1b0973ae9a652ec83f42c",
     "locales": {
       "en": {
-        "Name": "Lousy T-Shirt",
-        "Description": "T-Shirt"
+        "name": "Lousy T-Shirt",
+        "description": "T-Shirt"
       }
     },
     "topBundlePath": "Clothing/Uppers/BEAR_CONTRACTOR/contractor_tshirt_lousy.bundle",
@@ -69,7 +69,7 @@
     "loyaltyLevel": 1,
     "profileLevel": 5,
     "standing": 0,
-    "currencyId": "ROUBLES",
+    "currencyId": "MONEY_ROUBLES",
     "price": 25000
   }
 ]
