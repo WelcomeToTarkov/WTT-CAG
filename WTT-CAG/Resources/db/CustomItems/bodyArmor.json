@@ -239,13 +239,7 @@
         "_items": [
           {
             "_id": "6917cfd033b5bc77ce60296c",
-            "_tpl": "6917cef3e14d8aa3213e26e9",
-            "upd": {
-              "Repairable": {
-                "MaxDurability": 100,
-                "Durability": 100
-              }
-            }
+            "_tpl": "6917cef3e14d8aa3213e26e9"
           },
           {
             "_id": "68a6abb95881ec33205324ff",
@@ -254,19 +248,19 @@
             "parentId": "6917cfd033b5bc77ce60296c"
           },
           {
-            "_id": "68a6abb8799a1c39cc2b8852",
+            "_id": "69339ee26d4fca0e7f9e594f",
             "_tpl": "656fac30c6baea13cd07e10c",
             "slotId": "Back_plate",
             "parentId": "6917cfd033b5bc77ce60296c"
           },
           {
-            "_id": "689dde0b2f66b655667296ff",
+            "_id": "69339ef87cc926e3d59e5952",
             "_tpl": "6570e83223c1f638ef0b0ede",
             "slotId": "Soft_armor_front",
             "parentId": "6917cfd033b5bc77ce60296c"
           },
           {
-            "_id": "689dde09925e7ccb5d443db5",
+            "_id": "69339f352f8ca6d2469e5955",
             "_tpl": "6570e87c23c1f638ef0b0ee2",
             "slotId": "Soft_armor_back",
             "parentId": "6917cfd033b5bc77ce60296c"
@@ -518,13 +512,7 @@
         "_items": [
           {
             "_id": "6917d185ad20b55c7a778165",
-            "_tpl": "6917d1934102de18623212f7",
-            "upd": {
-              "Repairable": {
-                "MaxDurability": 100,
-                "Durability": 100
-              }
-            }
+            "_tpl": "6917d1934102de18623212f7"
           },
           {
             "_id": "6917d18ea37f606bafe56f8c",
@@ -797,13 +785,7 @@
         "_items": [
           {
             "_id": "6917d1c9e400792c155ed2be",
-            "_tpl": "6917d1eb5605ebf10e674995",
-            "upd": {
-              "Repairable": {
-                "MaxDurability": 100,
-                "Durability": 100
-              }
-            }
+            "_tpl": "6917d1eb5605ebf10e674995"
           },
           {
             "_id": "6917d1d249ab563d9213a416",

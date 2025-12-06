@@ -201,7 +201,7 @@
         },
         {
           "_name": "Collar",
-          "_id": "689dde61d3b872d512b0b44a",
+          "_id": "69339ec0cac0999d119e594b",
           "_parent": "68984e9773b55a6573593f3b",
           "_props": {
             "filters": [
@@ -315,34 +315,28 @@
         "_items": [
           {
             "_id": "689dddfd44b8c67a7b684e7d",
-            "_tpl": "68984e9773b55a6573593f3b",
-            "upd": {
-              "Repairable": {
-                "MaxDurability": 100,
-                "Durability": 100
-              }
-            }
+            "_tpl": "68984e9773b55a6573593f3b"
           },
           {
-            "_id": "68a6abb95881ec33205324ff",
+            "_id": "69339eb39c9aeab6f39e5949",
             "_tpl": "656fae5f7c2d57afe200c0d7",
             "slotId": "Front_plate",
             "parentId": "689dddfd44b8c67a7b684e7d"
           },
           {
-            "_id": "68a6abb8799a1c39cc2b8852",
+            "_id": "69339ee784cbdc12a99e5950",
             "_tpl": "656fae5f7c2d57afe200c0d7",
             "slotId": "Back_plate",
             "parentId": "689dddfd44b8c67a7b684e7d"
           },
           {
-            "_id": "689dde0b2f66b655667296ff",
+            "_id": "69339ef47b4bf057ee9e5951",
             "_tpl": "6570e83223c1f638ef0b0ede",
             "slotId": "Soft_armor_front",
             "parentId": "689dddfd44b8c67a7b684e7d"
           },
           {
-            "_id": "689dde09925e7ccb5d443db5",
+            "_id": "69339f31f456aed8dc9e5954",
             "_tpl": "6570e87c23c1f638ef0b0ee2",
             "slotId": "Soft_armor_back",
             "parentId": "689dddfd44b8c67a7b684e7d"
@@ -434,72 +428,66 @@
         "_id": "689df45b3e3b052738524bb6",
         "_items": [
           {
-            "_id": "689df44805bd53f10ca5b566",
-            "_tpl": "689df3bd9c25e7a26108166d",
-            "upd": {
-              "Repairable": {
-                "MaxDurability": 100,
-                "Durability": 100
-              }
-            }
+            "_id": "6933a1e1d66f4eacc09e5961",
+            "_tpl": "689df3bd9c25e7a26108166d"
           },
           {
-            "_id": "68a6abae1d4f7bcd061ad3da",
+            "_id": "6933a20a0d551162fa9e596a",
             "_tpl": "656fae5f7c2d57afe200c0d7",
             "slotId": "Front_plate",
-            "parentId": "689df44805bd53f10ca5b566"
+            "parentId": "6933a1e1d66f4eacc09e5961"
           },
           {
-            "_id": "68a6abafd50c190b9cd65a5d",
+            "_id": "6933a20824932b26829e5969",
             "_tpl": "656fae5f7c2d57afe200c0d7",
             "slotId": "Back_plate",
-            "parentId": "689df44805bd53f10ca5b566"
+            "parentId": "6933a1e1d66f4eacc09e5961"
           },
           {
-            "_id": "689df457e785223ba050b4f6",
+            "_id": "6933a2070625a5ba719e5968",
             "_tpl": "6570e83223c1f638ef0b0ede",
             "slotId": "Soft_armor_front",
-            "parentId": "689df44805bd53f10ca5b566"
+            "parentId": "6933a1e1d66f4eacc09e5961"
           },
           {
-            "_id": "689df4575ac6041a6b48d2a8",
-            "_tpl": "6570e83223c1f638ef0b0ede",
+            "_id": "6933a20552fbc1f0589e5967",
+            "_tpl": "6570e87c23c1f638ef0b0ee2",
             "slotId": "Soft_armor_back",
-            "parentId": "689df44805bd53f10ca5b566"
+            "parentId": "6933a1e1d66f4eacc09e5961"
           },
           {
-            "_id": "689df45695da429efb4e03aa",
+            "_id": "6933a203d2eaf657479e5966",
             "_tpl": "6575c3ec52b7f8c76a05ee39",
             "slotId": "Collar",
-            "parentId": "689df44805bd53f10ca5b566"
+            "parentId": "6933a1e1d66f4eacc09e5961"
           },
           {
-            "_id": "689df4550285e639a61c4d37",
+            "_id": "6933a2010a100b16f49e5965",
             "_tpl": "6575c3fd52b7f8c76a05ee3d",
             "slotId": "Shoulder_l",
-            "parentId": "689df44805bd53f10ca5b566"
+            "parentId": "6933a1e1d66f4eacc09e5961"
           },
           {
-            "_id": "689df4544891f90af14dda98",
+            "_id": "6933a1ff018321bebf9e5964",
             "_tpl": "6575c40c52b7f8c76a05ee41",
             "slotId": "Shoulder_r",
-            "parentId": "689df44805bd53f10ca5b566"
+            "parentId": "6933a1e1d66f4eacc09e5961"
           },
           {
-            "_id": "689df45396b59e62b6fdc934",
+            "_id": "6933a1fc253dcf04289e5963",
             "_tpl": "6575c3dfdc9932aed601c5f8",
             "slotId": "soft_armor_right",
-            "parentId": "689df44805bd53f10ca5b566"
+            "parentId": "6933a1e1d66f4eacc09e5961"
           },
           {
-            "_id": "689df4525de71f9a0d250496",
+            "_id": "6933a1fa42bd2ed6f39e5962",
             "_tpl": "6575c3cdc6700bd6b40e8a90",
             "slotId": "Soft_armor_left",
-            "parentId": "689df44805bd53f10ca5b566"
+            "parentId": "6933a1e1d66f4eacc09e5961"
           }
         ],
         "_name": "DCS Assault ODG Stock Preset",
-        "_parent": "689df44805bd53f10ca5b566",
+        "_parent": "6933a1e1d66f4eacc09e5961",
         "_type": "Preset"
       }
     ]
@@ -742,13 +730,7 @@
         "_items": [
           {
             "_id": "68a3dc17e7ce7b9e7e747dd0",
-            "_tpl": "68a3dc26511d685c4b783dbd",
-            "upd": {
-              "Repairable": {
-                "MaxDurability": 100,
-                "Durability": 100
-              }
-            }
+            "_tpl": "68a3dc26511d685c4b783dbd"
           },
           {
             "_id": "68a3e09bbbf0bf44e0873169",
@@ -1139,13 +1121,7 @@
         "_items": [
           {
             "_id": "68a6a647efe832f3c4423a5a",
-            "_tpl": "68a6a862ef1f202a85c8dc15",
-            "upd": {
-              "Repairable": {
-                "MaxDurability": 100,
-                "Durability": 100
-              }
-            }
+            "_tpl": "68a6a862ef1f202a85c8dc15"
           },
           {
             "_id": "68a6ad80924c26d2c30af868",
@@ -1264,78 +1240,72 @@
         "_id": "68a6ae51d016e694fd965569",
         "_items": [
           {
-            "_id": "68a6b6aa13eee16749d1130c",
-            "_tpl": "68a6abe2eea8028298879872",
-            "upd": {
-              "Repairable": {
-                "MaxDurability": 100,
-                "Durability": 100
-              }
-            }
+            "_id": "6933a25929d809917a9e596b",
+            "_tpl": "68a6abe2eea8028298879872"
           },
           {
-            "_id": "68a6ad7a9feed1e2cf08b2d7",
+            "_id": "6933a27f6fe1d928219e5975",
             "_tpl": "656fae5f7c2d57afe200c0d7",
             "slotId": "Front_plate",
-            "parentId": "68a6b6aa13eee16749d1130c"
+            "parentId": "6933a25929d809917a9e596b"
           },
           {
-            "_id": "68a6ad7cb2cadbe8775cf665",
+            "_id": "6933a27dc37728a7479e5974",
             "_tpl": "656fae5f7c2d57afe200c0d7",
             "slotId": "Back_plate",
-            "parentId": "68a6b6aa13eee16749d1130c"
+            "parentId": "6933a25929d809917a9e596b"
           },
           {
-            "_id": "68a6ad854b2ba2e0962a9d20",
+            "_id": "6933a27cd59aeda2a99e5973",
             "_tpl": "6570e83223c1f638ef0b0ede",
             "slotId": "Soft_armor_front",
-            "parentId": "68a6b6aa13eee16749d1130c"
+            "parentId": "6933a25929d809917a9e596b"
           },
           {
-            "_id": "68a6ad85d7b3fdf85c47d0d8",
-            "_tpl": "6570e83223c1f638ef0b0ede",
+            "_id": "6933a27a7f34ed2a039e5972",
+            "_tpl": "6570e87c23c1f638ef0b0ee2",
             "slotId": "Soft_armor_back",
-            "parentId": "68a6b6aa13eee16749d1130c"
+            "parentId": "6933a25929d809917a9e596b"
           },
           {
-            "_id": "68a6ad86c14c2ebfcf35cc9d",
+            "_id": "6933a277fed5f5e0fe9e5971",
             "_tpl": "6575c3ec52b7f8c76a05ee39",
             "slotId": "Collar",
-            "parentId": "68a6b6aa13eee16749d1130c"
+            "parentId": "6933a25929d809917a9e596b"
           },
           {
-            "_id": "68a6ad8701783b77f970191e",
+            "_id": "6933a27574152b4f8c9e5970",
             "_tpl": "6575c3fd52b7f8c76a05ee3d",
             "slotId": "Shoulder_l",
-            "parentId": "68a6b6aa13eee16749d1130c"
+            "parentId": "6933a25929d809917a9e596b"
           },
           {
-            "_id": "68a6ad88ea5260a1434a7a4a",
+            "_id": "6933a2737ea14da1aa9e596f",
             "_tpl": "6575c40c52b7f8c76a05ee41",
             "slotId": "Shoulder_r",
-            "parentId": "68a6b6aa13eee16749d1130c"
+            "parentId": "6933a25929d809917a9e596b"
           },
           {
-            "_id": "68a6ad89d6e998347b7f4215",
+            "_id": "6933a27102362b66f09e596e",
             "_tpl": "6575c3dfdc9932aed601c5f8",
             "slotId": "soft_armor_right",
-            "parentId": "68a6b6aa13eee16749d1130c"
+            "parentId": "6933a25929d809917a9e596b"
           },
           {
-            "_id": "68a6ad8a815930f76e20a561",
+            "_id": "6933a26f54ce123cb09e596d",
             "_tpl": "6575c3cdc6700bd6b40e8a90",
             "slotId": "Soft_armor_left",
-            "parentId": "68a6b6aa13eee16749d1130c"
+            "parentId": "6933a25929d809917a9e596b"
           },
           {
-            "_id": "68a6ad8b477f250f19397c11",
+            "_id": "6933a26c1a8bcb4c049e596c",
             "_tpl": "65732e30dd8739f6440ef383",
             "slotId": "Groin",
-            "parentId": "68a6b6aa13eee16749d1130c"
+            "parentId": "6933a25929d809917a9e596b"
           }
         ],
         "_name": "DCS Full Black Stock Preset",
-        "_parent": "68a6b6aa13eee16749d1130c",
+        "_parent": "6933a25929d809917a9e596b",
         "_type": "Preset"
       }
     ]
@@ -1680,13 +1650,7 @@
         "_items": [
           {
             "_id": "68cf2f69adf9f44a2b5593bc",
-            "_tpl": "68cf2f48530025ed84338a75",
-            "upd": {
-              "Repairable": {
-                "MaxDurability": 100,
-                "Durability": 100
-              }
-            }
+            "_tpl": "68cf2f48530025ed84338a75"
           },
           {
             "_id": "68cf2f8052d63fdc37655f99",
@@ -2095,13 +2059,7 @@
         "_items": [
           {
             "_id": "68cf2fea62432a4f70c000df",
-            "_tpl": "68cf2fc03a85326d0113dc1c",
-            "upd": {
-              "Repairable": {
-                "MaxDurability": 100,
-                "Durability": 100
-              }
-            }
+            "_tpl": "68cf2fc03a85326d0113dc1c"
           },
           {
             "_id": "68cf2ffc3eace122a6be68a6",
@@ -2366,13 +2324,7 @@
         "_items": [
           {
             "_id": "68d9a2dd4aaef1384150af5a",
-            "_tpl": "68d9a1c419128076a57b2378",
-            "upd": {
-              "Repairable": {
-                "MaxDurability": 100,
-                "Durability": 100
-              }
-            }
+            "_tpl": "68d9a1c419128076a57b2378"
           },
           {
             "_id": "68d9a2e44a55071ad04147ed",
@@ -2588,13 +2540,7 @@
         "_items": [
           {
             "_id": "6930a45f173159a8d28adc77",
-            "_tpl": "6930a407d54c7b9bce8adc75",
-            "upd": {
-              "Repairable": {
-                "MaxDurability": 100,
-                "Durability": 100
-              }
-            }
+            "_tpl": "6930a407d54c7b9bce8adc75"
           },
           {
             "_id": "6930b2be32a588a2790058b1",
@@ -2673,42 +2619,36 @@
         "_id": "6933737344858f0ea73bf10f",
         "_items": [
           {
-            "_id": "693371ee88079eb04c956c65",
-            "_tpl": "693371e84d3cc147a4956c63",
-            "upd": {
-              "Repairable": {
-                "MaxDurability": 100,
-                "Durability": 100
-              }
-            }
+            "_id": "6933a2c046610828ec9e5976",
+            "_tpl": "693371e84d3cc147a4956c63"
           },
           {
-            "_id": "69337375938e6955773bf110",
+            "_id": "6933a2e58fd6e427a89e597a",
             "_tpl": "656fa0fb498d1b7e3e071d9c",
             "slotId": "Front_plate",
-            "parentId": "693371ee88079eb04c956c65"
+            "parentId": "6933a2c046610828ec9e5976"
           },
           {
-            "_id": "69337375bcb8390dc33bf111",
+            "_id": "6933a2e2ed808d3a359e5979",
             "_tpl": "656fa0fb498d1b7e3e071d9c",
             "slotId": "Back_plate",
-            "parentId": "693371ee88079eb04c956c65"
+            "parentId": "6933a2c046610828ec9e5976"
           },
           {
-            "_id": "69337377b01ce683893bf112",
+            "_id": "6933a2e12c5e3203969e5978",
             "_tpl": "6570df294cc0d2ab1e05ed74",
             "slotId": "Soft_armor_front",
-            "parentId": "693371ee88079eb04c956c65"
+            "parentId": "6933a2c046610828ec9e5976"
           },
           {
-            "_id": "69337378290da669823bf113",
+            "_id": "6933a2df1a6bf587a09e5977",
             "_tpl": "6570df9c615f54368b04fca9",
             "slotId": "Soft_armor_back",
-            "parentId": "693371ee88079eb04c956c65"
+            "parentId": "6933a2c046610828ec9e5976"
           }
         ],
         "_name": "TV110 MC Stock Preset",
-        "_parent": "693371e84d3cc147a4956c63",
+        "_parent": "6933a2c046610828ec9e5976",
         "_type": "Preset"
       }
     ]
