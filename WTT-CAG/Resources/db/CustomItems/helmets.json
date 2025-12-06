@@ -648,7 +648,7 @@
           },
           {
             "_id": "689898c50c9efbdde7614348",
-            "_tpl": "66b61cfae98be930d701c029",
+            "_tpl": "657f8a8d7db258e5600fe33d",
             "slotId": "Helmet_top",
             "parentId": "689898bf10590891953e0e7b"
           },
@@ -896,7 +896,7 @@
           },
           {
             "_id": "68989a5f187f48347977ddbb",
-            "_tpl": "66b61cfae98be930d701c029",
+            "_tpl": "657f8a8d7db258e5600fe33d",
             "slotId": "Helmet_top",
             "parentId": "68989a5a95ca8c0010ea8949"
           },
@@ -1144,7 +1144,7 @@
           },
           {
             "_id": "68989ac6229f8c07658631c3",
-            "_tpl": "66b61cfae98be930d701c029",
+            "_tpl": "657f8a8d7db258e5600fe33d",
             "slotId": "Helmet_top",
             "parentId": "68989ac1837591f3581c88a6"
           },
@@ -2329,7 +2329,7 @@
           },
           {
             "_id": "68e1b68815fb9461ed6d8cb9",
-            "_tpl": "68e1ce74c9305bc1608ee2e6",
+            "_tpl": "65711bc79eb8c145180dbba1",
             "slotId": "Helmet_eyes",
             "parentId": "68d9a86960e9d434725581e5"
           }

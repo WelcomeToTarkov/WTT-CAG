@@ -281,9 +281,7 @@
         "description": "A Full-coverage plate carrier built for heavy assaults and sustained firefights. The DCS in Assault configuration comes loaded with integrated mag pouches, admin storage, and kevlar arm protection, offering excellent balance between armor coverage and load-carrying capacity. Multicam version."
       }
     },
-    "addtoInventorySlots": [
-      
-    ],
+    "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
     "addtoTraders": false,
@@ -345,7 +343,7 @@
           },
           {
             "_id": "689dde09925e7ccb5d443db5",
-            "_tpl": "6570e83223c1f638ef0b0ede",
+            "_tpl": "6570e87c23c1f638ef0b0ee2",
             "slotId": "Soft_armor_back",
             "parentId": "689dddfd44b8c67a7b684e7d"
           },
@@ -403,9 +401,7 @@
         "description": "A Full-coverage plate carrier built for heavy assaults and sustained firefights. The DCS in Assault configuration comes loaded with integrated mag pouches, admin storage, and kevlar arm protection, offering excellent balance between armor coverage and load-carrying capacity. Multicam version."
       }
     },
-    "addtoInventorySlots": [
-      
-    ],
+    "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
     "addtoTraders": false,
@@ -680,8 +676,8 @@
         },
         {
           "_name": "Collar",
-          "_id": "689dde61d3b872d512b0b44a",
-          "_parent": "68984e9773b55a6573593f3b",
+          "_id": "693399159928ac10cb9e5948",
+          "_parent": "68a3dc26511d685c4b783dbd",
           "_props": {
             "filters": [
               {
@@ -1109,9 +1105,7 @@
         "description": "A Full-coverage plate carrier built for heavy assaults and sustained firefights. The DCS in the Full configuration comes loaded with integrated mag pouches, admin storage, and kevlar groin and arm protection, offering optimal armor coverage for breachers or other high-risk roles. A-TACS Foliage Green version."
       }
     },
-    "addtoInventorySlots": [
-      
-    ],
+    "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
     "addtoTraders": false,
@@ -1173,7 +1167,7 @@
           },
           {
             "_id": "68a6a65311ff83ae971cbc4b",
-            "_tpl": "6570e83223c1f638ef0b0ede",
+            "_tpl": "6570e87c23c1f638ef0b0ee2",
             "slotId": "Soft_armor_back",
             "parentId": "68a6a647efe832f3c4423a5a"
           },
@@ -1237,9 +1231,7 @@
         "description": "A Full-coverage plate carrier built for heavy assaults and sustained firefights. The DCS in the Full configuration comes loaded with integrated mag pouches, admin storage, and kevlar groin and arm protection, offering optimal armor coverage for breachers or other high-risk roles. Black version."
       }
     },
-    "addtoInventorySlots": [
-      
-    ],
+    "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
     "addtoTraders": false,
@@ -1654,9 +1646,7 @@
         "description": "A Full-coverage plate carrier built for heavy assaults and sustained firefights. The DCS in the Full configuration comes loaded with integrated mag pouches, admin storage, and kevlar groin and arm protection, offering optimal armor coverage for breachers or other high-risk roles. A-TACS Foliage Green version."
       }
     },
-    "addtoInventorySlots": [
-      
-    ],
+    "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
     "addtoTraders": false,
@@ -1718,7 +1708,7 @@
           },
           {
             "_id": "68cf2f7ebc20078cbf97cd9b",
-            "_tpl": "6570e83223c1f638ef0b0ede",
+            "_tpl": "6570e87c23c1f638ef0b0ee2",
             "slotId": "Soft_armor_back",
             "parentId": "68cf2f69adf9f44a2b5593bc"
           },
@@ -2071,9 +2061,7 @@
         "description": "A Full-coverage plate carrier built for heavy assaults and sustained firefights. The DCS in the Full configuration comes loaded with integrated mag pouches, admin storage, and kevlar groin and arm protection, offering optimal armor coverage for breachers or other high-risk roles. A-TACS Foliage Green version."
       }
     },
-    "addtoInventorySlots": [
-      
-    ],
+    "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
     "addtoTraders": false,
@@ -2107,7 +2095,7 @@
         "_items": [
           {
             "_id": "68cf2fea62432a4f70c000df",
-            "_tpl": "68cf2f48530025ed84338a75",
+            "_tpl": "68cf2fc03a85326d0113dc1c",
             "upd": {
               "Repairable": {
                 "MaxDurability": 100,
@@ -2135,7 +2123,7 @@
           },
           {
             "_id": "68cf2ffa1e02211344c35685",
-            "_tpl": "6570e83223c1f638ef0b0ede",
+            "_tpl": "6570e87c23c1f638ef0b0ee2",
             "slotId": "Soft_armor_back",
             "parentId": "68cf2fea62432a4f70c000df"
           },
@@ -2344,9 +2332,7 @@
         "description": "A lightweight and highly modular plate carrier designed with adaptability in mind. The LV-119 offers excellent protection with minimal bulk, supporting front, back, and cummerbund-mounted armor while remaining comfortable for long raids. Modified for use by the Goons."
       }
     },
-    "addtoInventorySlots": [
-      
-    ],
+    "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
     "addtoTraders": false,
@@ -2408,7 +2394,7 @@
           },
           {
             "_id": "68d9a2e27bc06df9e0eeccec",
-            "_tpl": "6570e83223c1f638ef0b0ede",
+            "_tpl": "6570e87c23c1f638ef0b0ee2",
             "slotId": "Soft_armor_back",
             "parentId": "68d9a2dd4aaef1384150af5a"
           }
@@ -2572,9 +2558,7 @@
         "description": "The LBS TV-110 plate carrier equipped with a set of pouches. Manufactured by WARTECH. EMR Forest version."
       }
     },
-    "addtoInventorySlots": [
-      
-    ],
+    "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
     "addtoTraders": false,
@@ -2660,9 +2644,7 @@
         "description": "The LBS TV-110 plate carrier equipped with a set of pouches. Manufactured by WARTECH. Multicam version."
       }
     },
-    "addtoInventorySlots": [
-      
-    ],
+    "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
     "addtoTraders": false,

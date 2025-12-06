@@ -267,7 +267,7 @@
           },
           {
             "_id": "689dde09925e7ccb5d443db5",
-            "_tpl": "6570e83223c1f638ef0b0ede",
+            "_tpl": "6570e87c23c1f638ef0b0ee2",
             "slotId": "Soft_armor_back",
             "parentId": "6917cfd033b5bc77ce60296c"
           }
@@ -546,7 +546,7 @@
           },
           {
             "_id": "6917d18cdafbd294aa5113c0",
-            "_tpl": "6570e83223c1f638ef0b0ede",
+            "_tpl": "6570e87c23c1f638ef0b0ee2",
             "slotId": "Soft_armor_back",
             "parentId": "6917d185ad20b55c7a778165"
           }
@@ -825,7 +825,7 @@
           },
           {
             "_id": "6917d1d492c3d86b77ab2cc9",
-            "_tpl": "6570e83223c1f638ef0b0ede",
+            "_tpl": "6570e87c23c1f638ef0b0ee2",
             "slotId": "Soft_armor_back",
             "parentId": "6917d1c9e400792c155ed2be"
           }
