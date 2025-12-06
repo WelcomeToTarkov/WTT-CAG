@@ -1,0 +1,54 @@
+[
+  {
+    "type": "top",
+    "suiteId": "6918323e24891b49b98bc8c3",
+    "outfitId": "6918323e05a350b887351369",
+    "topId": "6918323f1e34f47fd49fcf20",
+    "handsId": "5fd78519a8c881276c55eae6",
+    "locales": {
+      "en": {
+        "Name": "UNTAR Field Top (Pantera)",
+        "Description": "Uniform Jacket"
+      }
+    },
+    "topBundlePath": "Clothing/Uppers/NPC_UNTAR_PANTERA/untar_pol_top.bundle",
+    "handsBundlePath": "assets/content/hands/hands_usec_acu/hands_usec_acu.skin.bundle",
+    "traderId": "RAGMAN",
+    "side": [
+      "Bear",
+      "Usec"
+    ],
+    "internalObtain": true,
+    "externalObtain": false,
+    "loyaltyLevel": 1,
+    "profileLevel": 0,
+    "standing": 0,
+    "currencyId": "ROUBLES",
+    "price": 5
+  },
+  {
+    "type": "bottom",
+    "suiteId": "691832412bbbba3aed4127bf",
+    "outfitId": "691832403018d8785d0060eb",
+    "bottomId": "69183240f325448f73858824",
+    "locales": {
+      "en": {
+        "Name": "UNTAR Field Bottom (Pantera)",
+        "Description": "Combat Pants"
+      }
+    },
+    "bottomBundlePath": "Clothing/Lowers/NPC_UNTAR_PANTERA/untar_pol_bottom.bundle",
+    "traderId": "RAGMAN",
+    "side": [
+      "Bear",
+      "Usec"
+    ],
+    "internalObtain": true,
+    "externalObtain": false,
+    "loyaltyLevel": 1,
+    "profileLevel": 0,
+    "standing": 0,
+    "currencyId": "ROUBLES",
+    "price": 5
+  }
+]

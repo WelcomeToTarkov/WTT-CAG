@@ -1,0 +1,779 @@
+{
+  "6897d6a13858711f63d149c3": {
+    "itemTplToClone": "5991b51486f77447b112d44f",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/ms2000_helmet.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Unlootable": false,
+      "BackgroundColor": "blue"
+    },
+    "locales": {
+      "en": {
+        "name": "MS2000 Helmet-mounted Marker",
+        "shortName": "MS2000H",
+        "description": "A strobe marker light that is used during nighttime operations. It emits signals in the IR region which are visible through NVGs. Uses a special filter when operating in the IR mode. If the filter is removed, it appears as a bright flash in the visible spectrum. In the extended mode operates with a blue flash."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 15177,
+    "handbookPriceRoubles": 11923,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "689a1818a272a33734640f2c": {
+    "itemTplToClone": "5c0e66e2d174af02a96252f4",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/pasgt_bk3/helmet_pasgt_cover_woodland.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.01,
+      "CanSellOnRagfair": true,
+      "Height": 1,
+      "Width": 1,
+      "ItemSound": "item_cloth_generic",
+      "Unlootable": false,
+      "CanPutIntoDuringTheRaid": false,
+      "Indestructibility": 0,
+      "ArmorType": "None",
+      "BluntThroughput": 1,
+      "armorClass": 0,
+      "armorColliders": [],
+      "mousePenalty": 0,
+      "speedPenaltyPercent": 0,
+      "Durability": 100,
+      "RicochetParams": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      },
+      "weaponErgonomicPenalty": 0,
+      "Slots": [
+        {
+          "_name": "mod_equipment_000",
+          "_id": "689a1bdf85259905984682c4",
+          "_parent": "689a1818a272a33734640f2c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "689a1afb3f27bba7333ec8c8"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "PASGT helmet cover (Woodland)",
+        "shortName": "PASGT",
+        "description": "A fabric camouflage cover tailored for the PASGT combat helmet used to help break up the helmet’s outline and reduce glare, offering a slight edge in concealment. Woodland version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 3011,
+    "handbookPriceRoubles": 500,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "RAGMAN": {
+        "6930973fc00b2b15fc61797f": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 10
+          },
+          "barters": [
+            {
+              "count": 2112,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "689a1a005d2915b23e564474": {
+    "itemTplToClone": "689a1818a272a33734640f2c",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/pasgt_bk3/helmet_pasgt_cover_winter.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "PASGT helmet cover (Winter)",
+        "shortName": "PASGT",
+        "description": "A fabric camouflage cover tailored for the PASGT combat helmet used to help break up the helmet’s outline and reduce glare, offering a slight edge in concealment. Winter Whiteout version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 3011,
+    "handbookPriceRoubles": 500,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "RAGMAN": {
+        "6930973fc00b2b15fc617980": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 10
+          },
+          "barters": [
+            {
+              "count": 2112,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "689a1a2ff797960777c1300c": {
+    "itemTplToClone": "689a1818a272a33734640f2c",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/pasgt_bk3/helmet_pasgt_cover_ttsko.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "PASGT helmet cover (TTsKO)",
+        "shortName": "PASGT",
+        "description": "A fabric camouflage cover tailored for the PASGT combat helmet used to help break up the helmet’s outline and reduce glare, offering a slight edge in concealment. Soviet Three-Color (TTsKO) version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 3011,
+    "handbookPriceRoubles": 500,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "RAGMAN": {
+        "6930973fc00b2b15fc617981": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 10
+          },
+          "barters": [
+            {
+              "count": 2112,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "689a1a614ddad2e5404cd6b5": {
+    "itemTplToClone": "689a1818a272a33734640f2c",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/pasgt_bk3/helmet_pasgt_cover_mc.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "PASGT helmet cover (MC)",
+        "shortName": "PASGT",
+        "description": "A fabric camouflage cover tailored for the PASGT combat helmet used to help break up the helmet’s outline and reduce glare, offering a slight edge in concealment. Multicam Match version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 3011,
+    "handbookPriceRoubles": 500,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "RAGMAN": {
+        "6930973fc00b2b15fc617982": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 10
+          },
+          "barters": [
+            {
+              "count": 2112,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "689a1adc7835fd833d4add38": {
+    "itemTplToClone": "689a1818a272a33734640f2c",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/pasgt_bk3/helmet_pasgt_cover_choc.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "PASGT helmet cover (DBDU)",
+        "shortName": "PASGT",
+        "description": "A fabric camouflage cover tailored for the PASGT combat helmet used to help break up the helmet’s outline and reduce glare, offering a slight edge in concealment. Desert Battle Dress Uniform, or \"Chocolate Chip\" version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 3011,
+    "handbookPriceRoubles": 500,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "RAGMAN": {
+        "6930973fc00b2b15fc617983": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 10
+          },
+          "barters": [
+            {
+              "count": 2112,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "689a53f63e27d4fed009a294": {
+    "itemTplToClone": "689a1818a272a33734640f2c",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/pasgt_bk3/helmet_pasgt_cover_dcu.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "PASGT helmet cover (DCU)",
+        "shortName": "PASGT",
+        "description": "A fabric camouflage cover tailored for the PASGT combat helmet used to help break up the helmet’s outline and reduce glare, offering a slight edge in concealment. Desert Camouflage Uniform, or US Three-Color version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 3011,
+    "handbookPriceRoubles": 500,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "RAGMAN": {
+        "6930973fc00b2b15fc617984": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 10
+          },
+          "barters": [
+            {
+              "count": 2112,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "689a1afb3f27bba7333ec8c8": {
+    "itemTplToClone": "689a1818a272a33734640f2c",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/pasgt_bk3/helmet_pasgt_cover_goggles.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.12,
+      "Width": 2,
+      "ArmorMaterial": "UHMWPE",
+      "armorClass": 0
+    },
+    "locales": {
+      "en": {
+        "name": "PASGT ESS profile helmet-mounted goggles",
+        "shortName": "ESS",
+        "description": "A Pair of ESS Profile tactical goggles for mounting on the PASGT helmet."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 3011,
+    "handbookPriceRoubles": 500,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "RAGMAN": {
+        "6930973fc00b2b15fc617985": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 10
+          },
+          "barters": [
+            {
+              "count": 500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68e41eb267f7a14bfd34e16f": {
+    "itemTplToClone": "5c0e66e2d174af02a96252f4",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/ihps/ihps_cover_mc.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.01,
+      "CanSellOnRagfair": true,
+      "Height": 1,
+      "Width": 1,
+      "ItemSound": "item_cloth_generic",
+      "Unlootable": false,
+      "CanPutIntoDuringTheRaid": false,
+      "Indestructibility": 0,
+      "ArmorType": "None",
+      "BluntThroughput": 1,
+      "armorClass": 0,
+      "armorColliders": [],
+      "mousePenalty": 0,
+      "speedPenaltyPercent": 0,
+      "Durability": 100,
+      "RicochetParams": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      },
+      "weaponErgonomicPenalty": 0,
+      "Slots": [
+        {
+          "_name": "mod_equipment_000",
+          "_id": "68e41eb467c72cef3cbb438d",
+          "_parent": "68e41eb267f7a14bfd34e16f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6897d6a13858711f63d149c3"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "68e41eb6d540006f6731c743",
+          "_parent": "68e41eb267f7a14bfd34e16f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6898b5d1db78a51e440ffb0d",
+                  "6898b3df9fc5e87e7b16158d",
+                  "689f6510c0fc0a4d4925334f",
+                  "689f6557898dcc1c04a856e0",
+                  "68e41f357652f8af58a1b9f8",
+                  "68e41f5e47ce4e1391caa5b5",
+                  "68e41fb9e5443e5476974e20",
+                  "68e42008a969685c642fca53",
+                  "689f80187f8612e86998b619"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "68e420965cf6786bb2279595",
+          "_parent": "68e41eb267f7a14bfd34e16f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6898b5d1db78a51e440ffb0d",
+                  "6898b3df9fc5e87e7b16158d",
+                  "689f6510c0fc0a4d4925334f",
+                  "689f6557898dcc1c04a856e0",
+                  "68e41f357652f8af58a1b9f8",
+                  "68e41f5e47ce4e1391caa5b5",
+                  "68e41fb9e5443e5476974e20",
+                  "68e42008a969685c642fca53",
+                  "689f80187f8612e86998b619"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "IHPS helmet cover (MultiCam)",
+        "shortName": "IHPS",
+        "description": "A fabric camouflage cover tailored for the IHPS Combat Helmet."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 3011,
+    "handbookPriceRoubles": 500,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "RAGMAN": {
+        "6930973fc00b2b15fc617986": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 10
+          },
+          "barters": [
+            {
+              "count": 3233,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68e421a2216cf1469d6c6bf1": {
+    "itemTplToClone": "68e41eb267f7a14bfd34e16f",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/ihps/ihps_cover_blk.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "IHPS helmet cover (Black)",
+        "shortName": "IHPS",
+        "description": "A fabric camouflage cover tailored for the IHPS Combat Helmet."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 3011,
+    "handbookPriceRoubles": 500,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "RAGMAN": {
+        "6930973fc00b2b15fc617987": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 10
+          },
+          "barters": [
+            {
+              "count": 3233,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68e42207b9cb167bbeac1e4d": {
+    "itemTplToClone": "68e41eb267f7a14bfd34e16f",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/ihps/ihps_cover_odg.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "IHPS helmet cover (Olive Drab)",
+        "shortName": "IHPS",
+        "description": "A fabric camouflage cover tailored for the IHPS Combat Helmet."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 3011,
+    "handbookPriceRoubles": 500,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "RAGMAN": {
+        "6930973fc00b2b15fc617988": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 10
+          },
+          "barters": [
+            {
+              "count": 3233,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68e4221053effcaa2d3bd9d5": {
+    "itemTplToClone": "68e41eb267f7a14bfd34e16f",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/ihps/ihps_cover_tan.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "IHPS helmet cover (Tan)",
+        "shortName": "IHPS",
+        "description": "A fabric camouflage cover tailored for the IHPS Combat Helmet."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 3011,
+    "handbookPriceRoubles": 500,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "RAGMAN": {
+        "6930973fc00b2b15fc617989": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 10
+          },
+          "barters": [
+            {
+              "count": 3233,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

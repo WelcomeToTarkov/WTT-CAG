@@ -1,0 +1,3794 @@
+{
+  "68966a3f899661a14f5cd33c": {
+    "itemTplToClone": "66b5f65ca7f72d197e70bcd6",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/ate_hhv_helmet/helmet_hhv_tan.bundle",
+        "rcid": ""
+      },
+      "Weight": 1.306,
+      "Height": 2,
+      "Width": 2,
+      "Slots": [
+        {
+          "_name": "mod_nvg",
+          "_id": "68966b1d5481be1f64f657c3",
+          "_parent": "68966a3f899661a14f5cd33c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "68966b94651b672bc4ffb573",
+          "_parent": "68966a3f899661a14f5cd33c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6897d6a13858711f63d149c3"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "68966ba354c09f9f140bca73",
+          "_parent": "68966a3f899661a14f5cd33c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6898b5d1db78a51e440ffb0d",
+                  "6898b3df9fc5e87e7b16158d",
+                  "689f6510c0fc0a4d4925334f",
+                  "689f6557898dcc1c04a856e0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "68966ba8bf494409a5d08e11",
+          "_parent": "68966a3f899661a14f5cd33c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6898b5d1db78a51e440ffb0d",
+                  "6898b3df9fc5e87e7b16158d",
+                  "689f6510c0fc0a4d4925334f",
+                  "689f6557898dcc1c04a856e0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "68966b43471a8dd283aaaa90",
+          "_parent": "68966a3f899661a14f5cd33c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657bbcc9a1c61ee0c3036327"
+                ],
+                "Plate": "657bbcc9a1c61ee0c3036327",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "68966b5d65aeee8e1999eb74",
+          "_parent": "68966a3f899661a14f5cd33c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657bbcffbbd440df880b2dd5"
+                ],
+                "Plate": "657bbcffbbd440df880b2dd5",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Hard Head Veterans ATE GEN2 helmet (Coyote Tan)",
+        "shortName": "ATE Gen.2",
+        "description": "The ATE GEN2 NIJ level IIIA tactical helmet designed for Law Enforcement, Military, and Private Security Contractors with an Above The Ear (ATE) or High Cut design. This helmet offers a low weight while maintaining optimal protection. Coyote Tan version."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 55142,
+    "handbookPriceRoubles": 10158,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "68966a3f899661a14f5cd33c",
+        "_id": "68966bda8181fd7ed3d75298",
+        "_items": [
+          {
+            "_id": "68966bcbf7122f1af009c350",
+            "_tpl": "68966a3f899661a14f5cd33c",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "68966bd581d2c967346bc2fe",
+            "_tpl": "657bbcc9a1c61ee0c3036327",
+            "slotId": "Helmet_top",
+            "parentId": "68966bcbf7122f1af009c350"
+          },
+          {
+            "_id": "68966bd468d7c130556ffa52",
+            "_tpl": "657bbcffbbd440df880b2dd5",
+            "slotId": "Helmet_back",
+            "parentId": "68966bcbf7122f1af009c350"
+          }
+        ],
+        "_name": "ATE HHV Coyote Stock Preset",
+        "_parent": "68966bcbf7122f1af009c350",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "68966e00869b169a9e6ad289": {
+    "itemTplToClone": "66b5f65ca7f72d197e70bcd6",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/ate_hhv_helmet/helmet_hhv_wraith.bundle",
+        "rcid": ""
+      },
+      "Weight": 1.306,
+      "Height": 2,
+      "Width": 2,
+      "Slots": [
+        {
+          "_name": "mod_nvg",
+          "_id": "68966e02f7a596df24c43f87",
+          "_parent": "68966e00869b169a9e6ad289",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "68966e04d90c6912fb064550",
+          "_parent": "68966e00869b169a9e6ad289",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6897d6a13858711f63d149c3"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "68966e065ad6564e6c2680ac",
+          "_parent": "68966e00869b169a9e6ad289",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6898b5d1db78a51e440ffb0d",
+                  "6898b3df9fc5e87e7b16158d",
+                  "689f6510c0fc0a4d4925334f",
+                  "689f6557898dcc1c04a856e0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "68966e08510394ab0ea869be",
+          "_parent": "68966e00869b169a9e6ad289",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6898b5d1db78a51e440ffb0d",
+                  "6898b3df9fc5e87e7b16158d",
+                  "689f6510c0fc0a4d4925334f",
+                  "689f6557898dcc1c04a856e0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "68966e0a42941145812195b1",
+          "_parent": "68966e00869b169a9e6ad289",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657bbcc9a1c61ee0c3036327"
+                ],
+                "Plate": "657bbcc9a1c61ee0c3036327",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": true,
+                "locked": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "68966e0da56bcd9fff36296d",
+          "_parent": "68966e00869b169a9e6ad289",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657bbcffbbd440df880b2dd5"
+                ],
+                "Plate": "657bbcffbbd440df880b2dd5",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Hard Head Veterans ATE GEN2 helmet (Coyote Tan)",
+        "shortName": "ATE Gen.2",
+        "description": "The ATE GEN2 NIJ level IIIA tactical helmet designed for Law Enforcement, Military, and Private Security Contractors with an Above The Ear (ATE) or High Cut design. This helmet offers a low weight while maintaining optimal protection. Coyote Tan version."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 55142,
+    "handbookPriceRoubles": 10158,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "68966e00869b169a9e6ad289",
+        "_id": "68966e2843bde2d3e8625bf9",
+        "_items": [
+          {
+            "_id": "68966e13af2c296b08f46fb8",
+            "_tpl": "68966e00869b169a9e6ad289",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "68966e216c8fce3ecd3cb2bf",
+            "_tpl": "657bbcc9a1c61ee0c3036327",
+            "slotId": "Helmet_top",
+            "parentId": "68966e13af2c296b08f46fb8"
+          },
+          {
+            "_id": "68966e1e8f67091cdb684abb",
+            "_tpl": "657bbcffbbd440df880b2dd5",
+            "slotId": "Helmet_back",
+            "parentId": "68966e13af2c296b08f46fb8"
+          }
+        ],
+        "_name": "ATE HHV Wraith Stock Preset",
+        "_parent": "68966e13af2c296b08f46fb8",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "689898b0f4e37a57324e86aa": {
+    "itemTplToClone": "5d5e7d28a4b936645d161203",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/mich_2000/mich2000_blk.bundle",
+        "rcid": ""
+      },
+      "Weight": 1.22,
+      "Height": 2,
+      "Width": 2,
+      "ConflictingItems": [
+        "5645bcc04bdc2d363b8b4572",
+        "66b5f6a28ca68c6461709ed8",
+        "66b5f69ea7f72d197e70bcdb",
+        "5c165d832e2216398b5a7e36"
+      ],
+      "Slots": [
+        {
+          "_name": "mod_nvg",
+          "_id": "68966b1d5481be1f64f657c3",
+          "_parent": "689898b0f4e37a57324e86aa",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "68966b94651b672bc4ffb573",
+          "_parent": "689898b0f4e37a57324e86aa",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6897d6a13858711f63d149c3"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "68966ba354c09f9f140bca73",
+          "_parent": "689898b0f4e37a57324e86aa",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6898b5d1db78a51e440ffb0d",
+                  "6898b3df9fc5e87e7b16158d",
+                  "689f6510c0fc0a4d4925334f",
+                  "689f6557898dcc1c04a856e0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "68966ba8bf494409a5d08e11",
+          "_parent": "689898b0f4e37a57324e86aa",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6898b5d1db78a51e440ffb0d",
+                  "6898b3df9fc5e87e7b16158d",
+                  "689f6510c0fc0a4d4925334f",
+                  "689f6557898dcc1c04a856e0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "68966b43471a8dd283aaaa90",
+          "_parent": "689898b0f4e37a57324e86aa",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8a8d7db258e5600fe33d"
+                ],
+                "Plate": "657f8a8d7db258e5600fe33d",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "68966b5d65aeee8e1999eb74",
+          "_parent": "689898b0f4e37a57324e86aa",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8b05f4c82973640b2348"
+                ],
+                "Plate": "657f8b05f4c82973640b2348",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_ears",
+          "_id": "689899d022c6a50ec10d97f2",
+          "_parent": "689898b0f4e37a57324e86aa",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657babc6f58ba5a6250107a2"
+                ],
+                "Plate": "657babc6f58ba5a6250107a2",
+                "armorColliders": [
+                  "Ears"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "MSA ACH TC-2000 MICH helmet",
+        "shortName": "TC-2000",
+        "description": "The MSA Advanced Combat Helmet (ACH) delivers advanced ballistic, fragmentation, and impact head protection, with comfort for long-term use. The helmet’s low-profile design reduces the risk of interference in target acquisition and ensures compatibility with NVGs and headsets."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 66743,
+    "handbookPriceRoubles": 13500,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "689898b0f4e37a57324e86aa",
+        "_id": "689898c7ff27dfafb332fa94",
+        "_items": [
+          {
+            "_id": "689898bf10590891953e0e7b",
+            "_tpl": "689898b0f4e37a57324e86aa",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "689898c50c9efbdde7614348",
+            "_tpl": "66b61cfae98be930d701c029",
+            "slotId": "Helmet_top",
+            "parentId": "689898bf10590891953e0e7b"
+          },
+          {
+            "_id": "689898c44b0d875a074fcb33",
+            "_tpl": "657f8b05f4c82973640b2348",
+            "slotId": "Helmet_back",
+            "parentId": "689898bf10590891953e0e7b"
+          },
+          {
+            "_id": "689899d55ee9bab940bd60fa",
+            "_tpl": "657babc6f58ba5a6250107a2",
+            "slotId": "Helmet_ears",
+            "parentId": "689898bf10590891953e0e7b"
+          }
+        ],
+        "_name": "MICH 2000 BLK Stock Preset",
+        "_parent": "689898bf10590891953e0e7b",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "68989a689b79186e371ebaca": {
+    "itemTplToClone": "5d5e7d28a4b936645d161203",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/mich_2000/mich2000_fde.bundle",
+        "rcid": ""
+      },
+      "Weight": 1.22,
+      "Height": 2,
+      "Width": 2,
+      "ConflictingItems": [
+        "5645bcc04bdc2d363b8b4572",
+        "66b5f6a28ca68c6461709ed8",
+        "66b5f69ea7f72d197e70bcdb",
+        "5c165d832e2216398b5a7e36"
+      ],
+      "Slots": [
+        {
+          "_name": "mod_nvg",
+          "_id": "68989a6b13dd2ac68cd39398",
+          "_parent": "68989a689b79186e371ebaca",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "68989a6de5a35e3fd9fd4faa",
+          "_parent": "68989a689b79186e371ebaca",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6897d6a13858711f63d149c3"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "68989a6fe0af31ddd46900d8",
+          "_parent": "68989a689b79186e371ebaca",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6898b5d1db78a51e440ffb0d",
+                  "6898b3df9fc5e87e7b16158d",
+                  "689f6510c0fc0a4d4925334f",
+                  "689f6557898dcc1c04a856e0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "68989a71fdbc38315d1b8a73",
+          "_parent": "68989a689b79186e371ebaca",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6898b5d1db78a51e440ffb0d",
+                  "6898b3df9fc5e87e7b16158d",
+                  "689f6510c0fc0a4d4925334f",
+                  "689f6557898dcc1c04a856e0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "68989a732142609c3712b006",
+          "_parent": "68989a689b79186e371ebaca",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8a8d7db258e5600fe33d"
+                ],
+                "Plate": "657f8a8d7db258e5600fe33d",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "68989a7568d1d26a81ef7026",
+          "_parent": "68989a689b79186e371ebaca",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8b05f4c82973640b2348"
+                ],
+                "Plate": "657f8b05f4c82973640b2348",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_ears",
+          "_id": "68989a7864d4f995dc9a1aa6",
+          "_parent": "68989a689b79186e371ebaca",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657babc6f58ba5a6250107a2"
+                ],
+                "Plate": "657babc6f58ba5a6250107a2",
+                "armorColliders": [
+                  "Ears"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "MSA ACH TC-2000 MICH helmet (FDE)",
+        "shortName": "TC-2000",
+        "description": "The MSA Advanced Combat Helmet (ACH) delivers advanced ballistic, fragmentation, and impact head protection, with comfort for long-term use. The helmet’s low-profile design reduces the risk of interference in target acquisition and ensures compatibility with NVGs and headsets. Flat Dark Earth version."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 66743,
+    "handbookPriceRoubles": 13500,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "68989a689b79186e371ebaca",
+        "_id": "68989a64ff7d8f50ec3374e3",
+        "_items": [
+          {
+            "_id": "68989a5a95ca8c0010ea8949",
+            "_tpl": "68989a689b79186e371ebaca",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "68989a5f187f48347977ddbb",
+            "_tpl": "66b61cfae98be930d701c029",
+            "slotId": "Helmet_top",
+            "parentId": "68989a5a95ca8c0010ea8949"
+          },
+          {
+            "_id": "68989a5fb1078e86af35fdf6",
+            "_tpl": "657f8b05f4c82973640b2348",
+            "slotId": "Helmet_back",
+            "parentId": "68989a5a95ca8c0010ea8949"
+          },
+          {
+            "_id": "68989a5e426d2b2925d94423",
+            "_tpl": "657babc6f58ba5a6250107a2",
+            "slotId": "Helmet_ears",
+            "parentId": "68989a5a95ca8c0010ea8949"
+          }
+        ],
+        "_name": "MICH 2000 FDE Stock Preset",
+        "_parent": "68989a5a95ca8c0010ea8949",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "68989ad4716039dafc4327ac": {
+    "itemTplToClone": "5d5e7d28a4b936645d161203",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/mich_2000/mich2000_odg.bundle",
+        "rcid": ""
+      },
+      "Weight": 1.22,
+      "Height": 2,
+      "Width": 2,
+      "ConflictingItems": [
+        "5645bcc04bdc2d363b8b4572",
+        "66b5f6a28ca68c6461709ed8",
+        "66b5f69ea7f72d197e70bcdb",
+        "5c165d832e2216398b5a7e36"
+      ],
+      "Slots": [
+        {
+          "_name": "mod_nvg",
+          "_id": "68989ad7a173b94f58c249a1",
+          "_parent": "68989ad4716039dafc4327ac",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "68989ada97f24fddb25bd8ee",
+          "_parent": "68989ad4716039dafc4327ac",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6897d6a13858711f63d149c3"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "68989adddd3cef25bf73a8f8",
+          "_parent": "68989ad4716039dafc4327ac",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6898b5d1db78a51e440ffb0d",
+                  "6898b3df9fc5e87e7b16158d",
+                  "689f6510c0fc0a4d4925334f",
+                  "689f6557898dcc1c04a856e0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "68989adf2aa4366777e29f8e",
+          "_parent": "68989ad4716039dafc4327ac",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6898b5d1db78a51e440ffb0d",
+                  "6898b3df9fc5e87e7b16158d",
+                  "689f6510c0fc0a4d4925334f",
+                  "689f6557898dcc1c04a856e0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "68989ae12062f2a2331422a7",
+          "_parent": "68989ad4716039dafc4327ac",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8a8d7db258e5600fe33d"
+                ],
+                "Plate": "657f8a8d7db258e5600fe33d",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "68989ae4337a86d7e83ff0ae",
+          "_parent": "68989ad4716039dafc4327ac",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8b05f4c82973640b2348"
+                ],
+                "Plate": "657f8b05f4c82973640b2348",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_ears",
+          "_id": "68989ae64aef3a212a79e57e",
+          "_parent": "68989ad4716039dafc4327ac",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657babc6f58ba5a6250107a2"
+                ],
+                "Plate": "657babc6f58ba5a6250107a2",
+                "armorColliders": [
+                  "Ears"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "MSA ACH TC-2000 MICH helmet (Olive Drab)",
+        "shortName": "TC-2000",
+        "description": "The MSA Advanced Combat Helmet (ACH) delivers advanced ballistic, fragmentation, and impact head protection, with comfort for long-term use. The helmet’s low-profile design reduces the risk of interference in target acquisition and ensures compatibility with NVGs and headsets. Olive Drab version."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 66743,
+    "handbookPriceRoubles": 13500,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "68989ad4716039dafc4327ac",
+        "_id": "68989aeb4c9723e8d538f756",
+        "_items": [
+          {
+            "_id": "68989ac1837591f3581c88a6",
+            "_tpl": "68989ad4716039dafc4327ac",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "68989ac6229f8c07658631c3",
+            "_tpl": "66b61cfae98be930d701c029",
+            "slotId": "Helmet_top",
+            "parentId": "68989ac1837591f3581c88a6"
+          },
+          {
+            "_id": "68989ac7f52c641f07167d3c",
+            "_tpl": "657f8b05f4c82973640b2348",
+            "slotId": "Helmet_back",
+            "parentId": "68989ac1837591f3581c88a6"
+          },
+          {
+            "_id": "68989acaffedba831ada5156",
+            "_tpl": "657babc6f58ba5a6250107a2",
+            "slotId": "Helmet_ears",
+            "parentId": "68989ac1837591f3581c88a6"
+          }
+        ],
+        "_name": "MICH 2000 ODG Stock Preset",
+        "_parent": "68989ac1837591f3581c88a6",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "689a138a035e1c4298c32357": {
+    "itemTplToClone": "5a7c4850e899ef00150be885",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/pasgt_bk3/helmet_pasgt_blk.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [],
+      "Weight": 1.644,
+      "Height": 2,
+      "Width": 2,
+      "weaponErgonomicPenalty": -1.75,
+      "mousePenalty": -1.5,
+      "speedPenaltyPercent": 1,
+      "BlocksEarpiece": true,
+      "Slots": [
+        {
+          "_name": "mod_equipment_001",
+          "_id": "689a13988d83a5446f5ee3f9",
+          "_parent": "689a138a035e1c4298c32357",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "689a1818a272a33734640f2c",
+                  "689a1a005d2915b23e564474",
+                  "689a1a2ff797960777c1300c",
+                  "689a1a614ddad2e5404cd6b5",
+                  "689a1adc7835fd833d4add38",
+                  "689a53f63e27d4fed009a294"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "689a13f1c80fc450622960ba",
+          "_parent": "689a138a035e1c4298c32357",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657baaf0b7e9ca9a02045c02"
+                ],
+                "Plate": "657baaf0b7e9ca9a02045c02",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "689a13ef20906c828ac5d5e9",
+          "_parent": "689a138a035e1c4298c32357",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657bab6ec6f689d3a205b85f"
+                ],
+                "Plate": "657bab6ec6f689d3a205b85f",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_ears",
+          "_id": "689a13f35bb4a29c0bf29fed",
+          "_parent": "689a138a035e1c4298c32357",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657babc6f58ba5a6250107a2"
+                ],
+                "Plate": "657babc6f58ba5a6250107a2",
+                "armorColliders": [
+                  "Ears"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Gibraltar Industries PASGT ballistic helmet",
+        "shortName": "PASGT",
+        "description": "The Gibraltar Industries PASGT (Personal Armor System for Ground Troops) is a Ballistic combat helmet based on the classic U.S. military PASGT design. Offers dependable protection against shrapnel and small-caliber threats, though heavier and bulkier than modern alternatives."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 33210,
+    "handbookPriceRoubles": 3510,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "689a138a035e1c4298c32357",
+        "_id": "689a157df864f5fa2851a818",
+        "_items": [
+          {
+            "_id": "689a157f6baa56ed88967050",
+            "_tpl": "689a138a035e1c4298c32357",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "689a1589d6c1a7ac631d9a81",
+            "_tpl": "657baaf0b7e9ca9a02045c02",
+            "slotId": "Helmet_top",
+            "parentId": "689a157f6baa56ed88967050"
+          },
+          {
+            "_id": "689a1588085254ed88bd8c29",
+            "_tpl": "657bab6ec6f689d3a205b85f",
+            "slotId": "Helmet_back",
+            "parentId": "689a157f6baa56ed88967050"
+          },
+          {
+            "_id": "689a16b0328b9fa97f4e4ff4",
+            "_tpl": "657babc6f58ba5a6250107a2",
+            "slotId": "Helmet_ears",
+            "parentId": "689a157f6baa56ed88967050"
+          }
+        ],
+        "_name": "PASGT Black Stock Preset",
+        "_parent": "689a157f6baa56ed88967050",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "689a1699d1c6186e381ed297": {
+    "itemTplToClone": "689a138a035e1c4298c32357",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/pasgt_bk3/helmet_pasgt_olive.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [],
+      "BlocksEarpiece": true
+    },
+    "locales": {
+      "en": {
+        "name": "Gibraltar Industries PASGT ballistic helmet (Olive Drab)",
+        "shortName": "PASGT",
+        "description": "The Gibraltar Industries PASGT (Personal Armor System for Ground Troops) is a Ballistic combat helmet based on the classic U.S. military PASGT design. Offers dependable protection against shrapnel and small-caliber threats, though heavier and bulkier than modern alternatives. Olive Drab version."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 33210,
+    "handbookPriceRoubles": 3510,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "689a1699d1c6186e381ed297",
+        "_id": "689a1fd9f6ac385069194212",
+        "_items": [
+          {
+            "_id": "689a16a51c5263ce2ec9cfd0",
+            "_tpl": "689a1699d1c6186e381ed297",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "689a16aa091fbd17ec44a57e",
+            "_tpl": "657baaf0b7e9ca9a02045c02",
+            "slotId": "Helmet_top",
+            "parentId": "689a16a51c5263ce2ec9cfd0"
+          },
+          {
+            "_id": "689a16aa0f863fd376d663f5",
+            "_tpl": "657bab6ec6f689d3a205b85f",
+            "slotId": "Helmet_back",
+            "parentId": "689a16a51c5263ce2ec9cfd0"
+          },
+          {
+            "_id": "689a16a9640b7080ef68bf07",
+            "_tpl": "657babc6f58ba5a6250107a2",
+            "slotId": "Helmet_ears",
+            "parentId": "689a16a51c5263ce2ec9cfd0"
+          }
+        ],
+        "_name": "PASGT ODG Stock Preset",
+        "_parent": "689a16a51c5263ce2ec9cfd0",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "689e5069ac47e19d2a3f2e43": {
+    "itemTplToClone": "66b5f65ca7f72d197e70bcd6",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/batlskin_cobra/helmet_batlskin_mtp.bundle",
+        "rcid": ""
+      },
+      "Weight": 1.306,
+      "Height": 2,
+      "Width": 2,
+      "RicochetParams": {
+        "x": 0.75,
+        "y": 0.75,
+        "z": 80
+      },
+      "Slots": [
+        {
+          "_name": "mod_nvg",
+          "_id": "689e509e3a54151f92b23de1",
+          "_parent": "689e5069ac47e19d2a3f2e43",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "689e509f98a02900118f316b",
+          "_parent": "689e5069ac47e19d2a3f2e43",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6897d6a13858711f63d149c3"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "689e50a0d7ce780b0e05e35a",
+          "_parent": "689e5069ac47e19d2a3f2e43",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6898b5d1db78a51e440ffb0d",
+                  "6898b3df9fc5e87e7b16158d",
+                  "689f6510c0fc0a4d4925334f",
+                  "689f6557898dcc1c04a856e0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "689e50a233b8b90fc039a6aa",
+          "_parent": "689e5069ac47e19d2a3f2e43",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6898b5d1db78a51e440ffb0d",
+                  "6898b3df9fc5e87e7b16158d",
+                  "689f6510c0fc0a4d4925334f",
+                  "689f6557898dcc1c04a856e0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "689e50a31db902938c0869e7",
+          "_parent": "689e5069ac47e19d2a3f2e43",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8ec5f4c82973640b234c"
+                ],
+                "Plate": "657f8ec5f4c82973640b234c",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "689e50a468f057cc9aef80f9",
+          "_parent": "689e5069ac47e19d2a3f2e43",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8f10f4c82973640b2350"
+                ],
+                "Plate": "657f8f10f4c82973640b2350",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_ears",
+          "_id": "689e50b56cc4f9dfaf34d428",
+          "_parent": "689e5069ac47e19d2a3f2e43",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657babc6f58ba5a6250107a2"
+                ],
+                "Plate": "657babc6f58ba5a6250107a2",
+                "armorColliders": [
+                  "Ears"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Revision BATLSKIN Cobra ballistic helmet (MTP)",
+        "shortName": "Cobra",
+        "description": "The Revision BATLSKIN Cobra ballistic helmet is a High-cut ballistic helmet offering superior protection with modern comfort features designed for the British Armed Forces. The BATLSKIN Cobra in MTP camo integrates side rails and NVG mount compatibility, allowing for seamless attachment of mission gear. Manufactured by Revision."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 66666,
+    "handbookPriceRoubles": 15400,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "689e5069ac47e19d2a3f2e43",
+        "_id": "689e50622e1ba7fe93557c02",
+        "_items": [
+          {
+            "_id": "689e505a210351789fc88715",
+            "_tpl": "689e5069ac47e19d2a3f2e43",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "689e505e681fba21a9e4a673",
+            "_tpl": "657f8ec5f4c82973640b234c",
+            "slotId": "Helmet_top",
+            "parentId": "689e505a210351789fc88715"
+          },
+          {
+            "_id": "689e54347f5dbda37aa23e04",
+            "_tpl": "657f8f10f4c82973640b2350",
+            "slotId": "Helmet_back",
+            "parentId": "689e505a210351789fc88715"
+          },
+          {
+            "_id": "689e54327aa5d274e9ca2ec9",
+            "_tpl": "657babc6f58ba5a6250107a2",
+            "slotId": "Helmet_ears",
+            "parentId": "689e505a210351789fc88715"
+          }
+        ],
+        "_name": "Cobra MTP Stock Preset",
+        "_parent": "689e505a210351789fc88715",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "689e5269a99dc1a2d2457f5d": {
+    "itemTplToClone": "689e5069ac47e19d2a3f2e43",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/batlskin_cobra/helmet_batlskin_snowdrift.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Revision BATLSKIN Cobra ballistic helmet (Snowdrift)",
+        "shortName": "Cobra",
+        "description": "The Revision BATLSKIN Cobra ballistic helmet is a High-cut ballistic helmet offering superior protection with modern comfort features designed for the British Armed Forces. The BATLSKIN Cobra in MTP camo integrates side rails and NVG mount compatibility, allowing for seamless attachment of mission gear. Manufactured by Revision."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 72666,
+    "handbookPriceRoubles": 15400,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "689e5269a99dc1a2d2457f5d",
+        "_id": "689e5284037eafeab45134df",
+        "_items": [
+          {
+            "_id": "689e5279da7255930cc75088",
+            "_tpl": "689e5269a99dc1a2d2457f5d",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "689e527ec4712531f5c0f43c",
+            "_tpl": "657f8ec5f4c82973640b234c",
+            "slotId": "Helmet_top",
+            "parentId": "689e5279da7255930cc75088"
+          },
+          {
+            "_id": "689e527d09a60029eba59b5b",
+            "_tpl": "657f8f10f4c82973640b2350",
+            "slotId": "Helmet_back",
+            "parentId": "689e5279da7255930cc75088"
+          },
+          {
+            "_id": "689e527c1c5947f437d1caaf",
+            "_tpl": "657babc6f58ba5a6250107a2",
+            "slotId": "Helmet_ears",
+            "parentId": "689e5279da7255930cc75088"
+          }
+        ],
+        "_name": "Cobra Snowdrift Stock Preset",
+        "_parent": "689e5279da7255930cc75088",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "68b05568630195a731a88147": {
+    "itemTplToClone": "5f60b34a41e30a4ab12a6947",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/galvion_caiman/helmet_caiman_blk.bundle",
+        "rcid": ""
+      },
+      "Weight": 1.53,
+      "Height": 2,
+      "Width": 2,
+      "Slots": [
+        {
+          "_id": "68b055d93a627a43c712e1f4",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_001",
+          "_parent": "68b05568630195a731a88147",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5f60c076f2bcbb675b00dac2"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "68b055d8df2db92158cd164c",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "68b05568630195a731a88147",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5f60bf4558eff926626a60f2",
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "68b055d7d345402577d1aa24",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "68b05568630195a731a88147",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "68b055d654c4c7303f917dd8",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_000",
+          "_parent": "68b05568630195a731a88147",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6897d6a13858711f63d149c3"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "68b055ce4588c414b56847e0",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_003",
+          "_parent": "68b05568630195a731a88147",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5f60b85bbdb8e27dee3dc985"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "68b055d19a0de1b881ca955e",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "68b05568630195a731a88147",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657bbad7a1c61ee0c3036323"
+                ],
+                "Plate": "657bbad7a1c61ee0c3036323",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "68b055d2122629b5dd9bbdfe",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "68b05568630195a731a88147",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657bbb31b30eca9763051183"
+                ],
+                "Plate": "657bbb31b30eca9763051183",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Galvion Caiman Ballistic helmet",
+        "shortName": "Caiman",
+        "description": "The Caiman Ballistic helmet is a new generation of lightweight special forces helmet. A series of modular accessories enhances the package, providing users with lightweight, comfortable and maximum head protection. Manufactured by Galvion."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 62097,
+    "handbookPriceRoubles": 12532,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "68b05568630195a731a88147",
+        "_id": "68b0569d30c68af093761876",
+        "_items": [
+          {
+            "_id": "68b05697b839acfcab39a8c6",
+            "_tpl": "68b05568630195a731a88147",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "68b0569cb84f8eda60683434",
+            "_tpl": "657bbad7a1c61ee0c3036323",
+            "slotId": "Helmet_top",
+            "parentId": "68b05697b839acfcab39a8c6"
+          },
+          {
+            "_id": "68b0569b039fc70bd1a683f3",
+            "_tpl": "657bbb31b30eca9763051183",
+            "slotId": "Helmet_back",
+            "parentId": "68b05697b839acfcab39a8c6"
+          }
+        ],
+        "_name": "CaimanB Black Stock Preset",
+        "_parent": "68b05697b839acfcab39a8c6",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "68b056cfbf685c4086967978": {
+    "itemTplToClone": "68b05568630195a731a88147",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/galvion_caiman/helmet_caiman_fde.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Galvion Caiman Ballistic helmet (Coyote Tan)",
+        "shortName": "Caiman",
+        "description": "The Caiman Ballistic helmet is a new generation of lightweight special forces helmet. A series of modular accessories enhances the package, providing users with lightweight, comfortable and maximum head protection. Manufactured by Galvion. Coyote Tan version."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 62097,
+    "handbookPriceRoubles": 12532,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "68b056cfbf685c4086967978",
+        "_id": "68b056d41634e2442daacae4",
+        "_items": [
+          {
+            "_id": "68b056d53363799f3be0c195",
+            "_tpl": "68b056cfbf685c4086967978",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "68b056dccdf28b1c04a15129",
+            "_tpl": "657bbad7a1c61ee0c3036323",
+            "slotId": "Helmet_top",
+            "parentId": "68b056d53363799f3be0c195"
+          },
+          {
+            "_id": "68b056db4e0122ef2ac17fba",
+            "_tpl": "657bbb31b30eca9763051183",
+            "slotId": "Helmet_back",
+            "parentId": "68b056d53363799f3be0c195"
+          }
+        ],
+        "_name": "CaimanB FDE Stock Preset",
+        "_parent": "68b056d53363799f3be0c195",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "68b05921366cd0b690c2bef6": {
+    "itemTplToClone": "68b05568630195a731a88147",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/galvion_caiman/helmet_caiman_mc.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Galvion Caiman Ballistic helmet (MultiCam)",
+        "shortName": "Caiman",
+        "description": "The Caiman Ballistic helmet is a new generation of lightweight special forces helmet. A series of modular accessories enhances the package, providing users with lightweight, comfortable and maximum head protection. Manufactured by Galvion. MultiCam version."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 62097,
+    "handbookPriceRoubles": 12532,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "68b05921366cd0b690c2bef6",
+        "_id": "68b059647df29cbef7c5cd5b",
+        "_items": [
+          {
+            "_id": "68b0591bad71a2856cbd4dff",
+            "_tpl": "68b05921366cd0b690c2bef6",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "68b05920f569e8a6e3a35a97",
+            "_tpl": "657bbad7a1c61ee0c3036323",
+            "slotId": "Helmet_top",
+            "parentId": "68b0591bad71a2856cbd4dff"
+          },
+          {
+            "_id": "68b0592125fe63f04680ed55",
+            "_tpl": "657bbb31b30eca9763051183",
+            "slotId": "Helmet_back",
+            "parentId": "68b0591bad71a2856cbd4dff"
+          }
+        ],
+        "_name": "CaimanB MC Stock Preset",
+        "_parent": "68b0591bad71a2856cbd4dff",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "68d9a6f564cf4544e0e159c1": {
+    "itemTplToClone": "5a154d5cfcdbcb001a3b00da",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/deathknight_fast_mt.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "62963c18dbc8ab5f0d382d0b"
+      ],
+      "CanSellOnRagfair": false,
+      "Weight": 1.6,
+      "BlocksEarpiece": false,
+      "BlocksFaceCover": true,
+      "BlocksEyewear": true,
+      "armorClass": 1,
+      "armorMaterial": "Aramid",
+      "armorColliders": [
+        "Eyes"
+      ],
+      "Slots": [
+        {
+          "_name": "Helmet_top",
+          "_id": "68d9a7bd6828b6ab37599b16",
+          "_parent": "68d9a6f564cf4544e0e159c1",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8ec5f4c82973640b234c"
+                ],
+                "Plate": "657f8ec5f4c82973640b234c",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "68d9a7bf32786d3534855f36",
+          "_parent": "68d9a6f564cf4544e0e159c1",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8f10f4c82973640b2350"
+                ],
+                "Plate": "657f8f10f4c82973640b2350",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_eyes",
+          "_id": "68e1b7053e17bb57a8386900",
+          "_parent": "68d9a6f564cf4544e0e159c1",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "65711bc79eb8c145180dbba1"
+                ],
+                "Plate": "65711bc79eb8c145180dbba1",
+                "armorColliders": [
+                  "Jaw",
+                  "Eyes",
+                  "HeadCommon"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Ops-Core FAST MT Super High Cut helmet (Goons Edition)",
+        "shortName": "FAST MT (G)",
+        "description": "The Ops-Core FAST Maritime ballistic helmet is popular in special forces all around the world. Can be modified with different components. Goons modified version."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 55142,
+    "handbookPriceRoubles": 18957,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "68d9a6f564cf4544e0e159c1",
+        "_id": "68d9a86805ad2d852531bf36",
+        "_items": [
+          {
+            "_id": "68d9a86960e9d434725581e5",
+            "_tpl": "68d9a6f564cf4544e0e159c1",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "68d9a86d92c7dbcad159b2a4",
+            "_tpl": "657f8ec5f4c82973640b234c",
+            "slotId": "Helmet_top",
+            "parentId": "68d9a86960e9d434725581e5"
+          },
+          {
+            "_id": "68d9a86de1990446c1cb5b3f",
+            "_tpl": "657f8f10f4c82973640b2350",
+            "slotId": "Helmet_back",
+            "parentId": "68d9a86960e9d434725581e5"
+          },
+          {
+            "_id": "68e1b68815fb9461ed6d8cb9",
+            "_tpl": "68e1ce74c9305bc1608ee2e6",
+            "slotId": "Helmet_eyes",
+            "parentId": "68d9a86960e9d434725581e5"
+          }
+        ],
+        "_name": "Death Knight Helmet Stock Preset",
+        "_parent": "68d9a86960e9d434725581e5",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "68e53709d997b0cebccfc880": {
+    "itemTplToClone": "5a7c4850e899ef00150be885",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/b826/helmet_b826.bundle",
+        "rcid": ""
+      },
+      "Weight": 1.35,
+      "mousePenalty": -0.5,
+      "weaponErgonomicPenalty": -0.5,
+      "RepairCost": 510,
+      "Height": 2,
+      "Width": 2,
+      "Slots": [
+        {
+          "_name": "Helmet_top",
+          "_id": "68e549a6c3e6ff929a892b94",
+          "_parent": "68e53709d997b0cebccfc880",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68e55fb697f217f43c40e36b"
+                ],
+                "Plate": "68e55fb697f217f43c40e36b",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "68e549aca66889d042b65a6c",
+          "_parent": "68e53709d997b0cebccfc880",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68e560760a6bd28b1eefae60"
+                ],
+                "Plate": "68e560760a6bd28b1eefae60",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_id": "68e549f0b81c0ab9133531c8",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_ears",
+          "_parent": "68e53709d997b0cebccfc880",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68e56084053c5f90684175f9"
+                ],
+                "Plate": "68e56084053c5f90684175f9",
+                "armorColliders": [
+                  "Ears"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Gefechtshelm Schuberth B826 helmet",
+        "shortName": "B826",
+        "description": "The Gefechtshelm Schuberth B826 is the standard issue combat helmet of the Bundeswehr, first fielded in 1992 as a replacement of earlier M1A1 helmets that were previously used during the Cold War. It is made from Aramid composite materials and is used by all branches of the Bundeswehr."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 46704,
+    "handbookPriceRoubles": 3903,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "68e53709d997b0cebccfc880",
+        "_id": "68e54a77ffc1f0870d6c8299",
+        "_items": [
+          {
+            "_id": "68e54a7b0077e00dd9d14ee1",
+            "_tpl": "68e53709d997b0cebccfc880",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "68e54a8b961cad8cf0c30861",
+            "_tpl": "68e55fb697f217f43c40e36b",
+            "slotId": "Helmet_top",
+            "parentId": "68e54a7b0077e00dd9d14ee1"
+          },
+          {
+            "_id": "68e54a8dbaa30af0c000c43e",
+            "_tpl": "68e560760a6bd28b1eefae60",
+            "slotId": "Helmet_back",
+            "parentId": "68e54a7b0077e00dd9d14ee1"
+          },
+          {
+            "_id": "68e54a94e9d1e0cf5b6e9916",
+            "_tpl": "68e56084053c5f90684175f9",
+            "slotId": "Helmet_ears",
+            "parentId": "68e54a7b0077e00dd9d14ee1"
+          }
+        ],
+        "_name": "B826 Stock Preset",
+        "_parent": "68e54a7b0077e00dd9d14ee1",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "68e6948192bf9f86ec673875": {
+    "itemTplToClone": "5a154d5cfcdbcb001a3b00da",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/opscore_xp/helmet_opscore_xp.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": true,
+      "Slots": [
+        {
+          "_id": "68e6e84b98a32a8b79c003de",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "68e6948192bf9f86ec673875",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "68e6e83fefafad8fe0a084de",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "68e6948192bf9f86ec673875",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "68e6e839e75ff9a10c7ef49d",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "68e6948192bf9f86ec673875",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "68e6e8337121188ed73cded4",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_001",
+          "_parent": "68e6948192bf9f86ec673875",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16b9fffcdbcb0176308b34"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "68e6e82f8762dc3eabeddb1e",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_002",
+          "_parent": "68e6948192bf9f86ec673875",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0e66e2d174af02a96252f4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "68e6e82c2b7e6a413609ee59",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "68e6948192bf9f86ec673875",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8ec5f4c82973640b234c"
+                ],
+                "Plate": "657f8ec5f4c82973640b234c",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "68e6e8f7f28dc59c3490520c",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "68e6948192bf9f86ec673875",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8f10f4c82973640b2350"
+                ],
+                "Plate": "657f8f10f4c82973640b2350",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Ops-Core FAST XP Legacy ballistic helmet",
+        "shortName": "FAST XP",
+        "description": "The Ops-Core FAST XP Legacy is a high-cut, hybrid composite ballistic helmet introduced around 2009, featuring a carbon, polyethylene, and aramid shell for impact and pistol round protection, designed with a high cut shell for communication headset integration. While now replaced by newer models, this Gen 1 helmet is known for its lightweight design, ARC rails for mounting accessories, and modularity with various suspension systems like the OCC-Dial."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 88886,
+    "handbookPriceRoubles": 3903,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "68e6948192bf9f86ec673875",
+        "_id": "68e6e8be87ac341c649fee69",
+        "_items": [
+          {
+            "_id": "68e6e8cd62307d322ced57cc",
+            "_tpl": "68e6948192bf9f86ec673875",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "68e6e8db6c17ec06a213532e",
+            "_tpl": "657f8ec5f4c82973640b234c",
+            "slotId": "Helmet_top",
+            "parentId": "68e6e8cd62307d322ced57cc"
+          },
+          {
+            "_id": "68e6e8dd5755f1938cf56f68",
+            "_tpl": "657f8f10f4c82973640b2350",
+            "slotId": "Helmet_back",
+            "parentId": "68e6e8cd62307d322ced57cc"
+          }
+        ],
+        "_name": "Ops-Core FAST XP Legacy Stock Preset",
+        "_parent": "68e6e8cd62307d322ced57cc",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "68e695295c6cda9d728777c4": {
+    "itemTplToClone": "5c17a7ed2e2216152142459c",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/airframe_custom/helmet_airframe_c.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": true,
+      "Slots": [
+        {
+          "_id": "68e6e4fbaf3bf8cb0e22472a",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "68e695295c6cda9d728777c4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "68e6e4fe781a337b00567642",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "68e695295c6cda9d728777c4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "68e6e501326709ad72beabe3",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "68e695295c6cda9d728777c4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "68e6e5046f3e5d261d07292a",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_001",
+          "_parent": "68e695295c6cda9d728777c4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c178a942e22164bef5ceca3",
+                  "5c1793902e221602b21d3de2"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "68e6e5071a6df666535af828",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "68e695295c6cda9d728777c4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f9897f4c82973640b235e"
+                ],
+                "Plate": "657f9897f4c82973640b235e",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "68e6e50b7a73887a1e635248",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "68e695295c6cda9d728777c4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f98fbada5fadd1f07a585"
+                ],
+                "Plate": "657f98fbada5fadd1f07a585",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Crye Precision AirFrame custom helmet",
+        "shortName": "AirFrame (C)",
+        "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. The unique overlapping shell design of the AirFrame creates an integrated vent that provides passive cooling and can reduce the damaging effects of explosive blast waves. Highly modular. Manufactured by Crye Precision."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 93411,
+    "handbookPriceRoubles": 4373,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "68e695295c6cda9d728777c4",
+        "_id": "68e6e73f1195dfcaa78848cf",
+        "_items": [
+          {
+            "_id": "68e6e738028cfdda46e5de39",
+            "_tpl": "68e695295c6cda9d728777c4",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "68e6e7426eae10e43671d6d8",
+            "_tpl": "657f9897f4c82973640b235e",
+            "slotId": "Helmet_top",
+            "parentId": "68e6e738028cfdda46e5de39"
+          },
+          {
+            "_id": "68e6e745fc1f2ffbbfb19120",
+            "_tpl": "657f98fbada5fadd1f07a585",
+            "slotId": "Helmet_back",
+            "parentId": "68e6e738028cfdda46e5de39"
+          }
+        ],
+        "_name": "Crye Precision AirFrame helmet (Custom) Stock Preset",
+        "_parent": "68e6e738028cfdda46e5de39",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "68e695e9bd135c1f5ab16be5": {
+    "itemTplToClone": "5c17a7ed2e2216152142459c",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/airframe_custom/helmet_airframe_c_fde.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": true,
+      "Slots": [
+        {
+          "_id": "68e6e5f321186bab07edb80b",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "68e695e9bd135c1f5ab16be5",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "68e6e5f05720ad0cd1b6851c",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "68e695e9bd135c1f5ab16be5",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "68e6e5ec8953d5e5d7b7db6a",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "68e695e9bd135c1f5ab16be5",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "68e6e5e9fe910ca8cd978e17",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_001",
+          "_parent": "68e695e9bd135c1f5ab16be5",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c178a942e22164bef5ceca3",
+                  "5c1793902e221602b21d3de2"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "68e6e5e5864f7d8295abd16c",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "68e695e9bd135c1f5ab16be5",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f9897f4c82973640b235e"
+                ],
+                "Plate": "657f9897f4c82973640b235e",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "68e6e5e2affa424600d9f40e",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "68e695e9bd135c1f5ab16be5",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f98fbada5fadd1f07a585"
+                ],
+                "Plate": "657f98fbada5fadd1f07a585",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Crye Precision AirFrame custom helmet (FDE)",
+        "shortName": "AirFrame (C)",
+        "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. The unique overlapping shell design of the AirFrame creates an integrated vent that provides passive cooling and can reduce the damaging effects of explosive blast waves. Highly modular. Manufactured by Crye Precision."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 93411,
+    "handbookPriceRoubles": 4373,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "68e695e9bd135c1f5ab16be5",
+        "_id": "68e6e77a8d850c45235fcc99",
+        "_items": [
+          {
+            "_id": "68e6e77d777fea257d1e90e9",
+            "_tpl": "68e695e9bd135c1f5ab16be5",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "68e6e7918afe813b5f9a34b4",
+            "_tpl": "657f9897f4c82973640b235e",
+            "slotId": "Helmet_top",
+            "parentId": "68e6e77d777fea257d1e90e9"
+          },
+          {
+            "_id": "68e6e79367f75a055063c90c",
+            "_tpl": "657f98fbada5fadd1f07a585",
+            "slotId": "Helmet_back",
+            "parentId": "68e6e77d777fea257d1e90e9"
+          }
+        ],
+        "_name": "Crye Precision AirFrame helmet (Custom FDE) Stock Preset",
+        "_parent": "68e6e77d777fea257d1e90e9",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "68e69620d62b02cbae6ca164": {
+    "itemTplToClone": "5c17a7ed2e2216152142459c",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/airframe_custom/helmet_airframe_c_mc.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": true,
+      "Slots": [
+        {
+          "_id": "68e6e639fc2fb171c570da89",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "68e69620d62b02cbae6ca164",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "68e6e636b5b087803b181ae5",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "68e69620d62b02cbae6ca164",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "68e6e633dce21c45a487d984",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "68e69620d62b02cbae6ca164",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "68e6e6300c3d53eb9134e0aa",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_001",
+          "_parent": "68e69620d62b02cbae6ca164",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c178a942e22164bef5ceca3",
+                  "5c1793902e221602b21d3de2"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "68e6e62de2e93df835c71b7d",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "68e69620d62b02cbae6ca164",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f9897f4c82973640b235e"
+                ],
+                "Plate": "657f9897f4c82973640b235e",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "68e6e62b0bdb30f22fea3ce5",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "68e69620d62b02cbae6ca164",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f98fbada5fadd1f07a585"
+                ],
+                "Plate": "657f98fbada5fadd1f07a585",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Crye Precision AirFrame custom helmet (MultiCam)",
+        "shortName": "AirFrame (C)",
+        "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. The unique overlapping shell design of the AirFrame creates an integrated vent that provides passive cooling and can reduce the damaging effects of explosive blast waves. Highly modular. Manufactured by Crye Precision."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 93411,
+    "handbookPriceRoubles": 4373,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "68e69620d62b02cbae6ca164",
+        "_id": "68e6e7ad726f2b08abb9b7ff",
+        "_items": [
+          {
+            "_id": "68e6e7b06cf8c809c32f3b06",
+            "_tpl": "68e69620d62b02cbae6ca164",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "68e6e7c24113e525ae525d6e",
+            "_tpl": "657f9897f4c82973640b235e",
+            "slotId": "Helmet_top",
+            "parentId": "68e6e7b06cf8c809c32f3b06"
+          },
+          {
+            "_id": "68e6e7c45b635f714ca526a7",
+            "_tpl": "657f98fbada5fadd1f07a585",
+            "slotId": "Helmet_back",
+            "parentId": "68e6e7b06cf8c809c32f3b06"
+          }
+        ],
+        "_name": "Crye Precision AirFrame helmet MC Stock Preset",
+        "_parent": "68e6e7b06cf8c809c32f3b06",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "680be1c97c53613b0016d45f": {
+    "itemTplToClone": "5aa7d193e5b5b000171d063f",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Headwear/helmets/am95/helmet_am95.bundle",
+        "rcid": ""
+      },
+      "Weight": 1.55,
+      "weaponErgonomicPenalty": -3.5,
+      "Slots": [
+        {
+          "_name": "Helmet_top",
+          "_id": "6737c9625feeb6963b451b38",
+          "_parent": "680be1c97c53613b0016d45f",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "657bbad7a1c61ee0c3036323",
+                "Filter": [
+                  "657bbad7a1c61ee0c3036323"
+                ],
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "6737c95f052ddc64052ef219",
+          "_parent": "680be1c97c53613b0016d45f",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "657bbb31b30eca9763051183",
+                "Filter": [
+                  "657bbb31b30eca9763051183"
+                ],
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_ears",
+          "_id": "6737c95cb6956e47de86ceef",
+          "_parent": "680be1c97c53613b0016d45f",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "657babc6f58ba5a6250107a2",
+                "Filter": [
+                  "657babc6f58ba5a6250107a2"
+                ],
+                "armorColliders": [
+                  "Ears"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Ulbrichts AM95 Ballistic Helmet",
+        "shortName": "AM95",
+        "description": "A surplus AM95 ballistic helmet designed specifically for European law enforcement officers, manufactured by Ulbrichts."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 57000,
+    "handbookPriceRoubles": 2580,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "680be1c97c53613b0016d45f",
+        "_id": "680be260b7976acb70f5dc95",
+        "_items": [
+          {
+            "_id": "680be2639f5d04d65c22526c",
+            "_tpl": "680be1c97c53613b0016d45f",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "680be275e4d83de168209594",
+            "_tpl": "657bbad7a1c61ee0c3036323",
+            "parentId": "680be2639f5d04d65c22526c",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "6930b584fc3f7e75ae0058b4",
+            "_tpl": "657bbb31b30eca9763051183",
+            "parentId": "680be2639f5d04d65c22526c",
+            "slotId": "Helmet_back"
+          },
+          {
+            "_id": "6930b58397dba4f7700058b3",
+            "_tpl": "657babc6f58ba5a6250107a2",
+            "parentId": "680be2639f5d04d65c22526c",
+            "slotId": "Helmet_ears"
+          }
+        ],
+        "_name": "AM95 Standard",
+        "_parent": "680be2639f5d04d65c22526c",
+        "_type": "Preset"
+      }
+    ],
+    "traders": {},
+    "masterySections": []
+  },
+  "68e42383c38618712eb92d5a": {
+    "itemTplToClone": "5b40e1525acfc4771e1c6611",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/ihps/ihps_shell_blk.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_nvg",
+          "_id": "68e4245c771b308a2ab6da4f",
+          "_parent": "68e42383c38618712eb92d5a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "68e4245e289355a4b06d668f",
+          "_parent": "68e42383c38618712eb92d5a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68e41eb267f7a14bfd34e16f",
+                  "68e421a2216cf1469d6c6bf1",
+                  "68e42207b9cb167bbeac1e4d",
+                  "68e4221053effcaa2d3bd9d5"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "68e42460c1c6f66e28d3a44b",
+          "_parent": "68e42383c38618712eb92d5a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657112234269e9a568089eac"
+                ],
+                "Plate": "657112234269e9a568089eac",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "68e42463d1198e8a869a87ee",
+          "_parent": "68e42383c38618712eb92d5a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657112a4818110db4600aa66"
+                ],
+                "Plate": "657112a4818110db4600aa66",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_ears",
+          "_id": "68e42465f2e9430dc11a5635",
+          "_parent": "68e42383c38618712eb92d5a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657112ce22996eaf110881fb"
+                ],
+                "Plate": "657112ce22996eaf110881fb",
+                "armorColliders": [
+                  "Ears"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Ceradyne IHPS Ballistic helmet",
+        "shortName": "IHPS",
+        "description": "A modular ballistic ballistic helmet system developed for U.S. SOCOM, the IHPS can be configured with front and side ARC rails, night vision shroud, and modular mandible or visor attachments while maintaining high ballistic protection. Its unique “crownless” suspension design reduces weight and improves balance for long-duration use without sacrificing protection."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 62097,
+    "handbookPriceRoubles": 12532,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "68e42383c38618712eb92d5a",
+        "_id": "68e4255efe89d172a4dc1a3b",
+        "_items": [
+          {
+            "_id": "68e4255488f04c33b607e2dc",
+            "_tpl": "68e42383c38618712eb92d5a",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "68e425513da0cd857dff2c49",
+            "_tpl": "657112234269e9a568089eac",
+            "slotId": "Helmet_top",
+            "parentId": "68e4255488f04c33b607e2dc"
+          },
+          {
+            "_id": "68e42551db5ed33a096c31f4",
+            "_tpl": "657112a4818110db4600aa66",
+            "slotId": "Helmet_back",
+            "parentId": "68e4255488f04c33b607e2dc"
+          },
+          {
+            "_id": "68e4255238070b6f1b7e264c",
+            "_tpl": "657112ce22996eaf110881fb",
+            "slotId": "Helmet_ears",
+            "parentId": "68e4255488f04c33b607e2dc"
+          }
+        ],
+        "_name": "IHPS Black Stock Preset",
+        "_parent": "68e4255488f04c33b607e2dc",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "68e42739b4da3d32b61f54e7": {
+    "itemTplToClone": "5b40e1525acfc4771e1c6611",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/ihps/ihps_shell_fde.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Ceradyne IHPS Ballistic helmet (Tan)",
+        "shortName": "IHPS",
+        "description": "A modular ballistic ballistic helmet system developed for U.S. SOCOM, the IHPS can be configured with front and side ARC rails, night vision shroud, and modular mandible or visor attachments while maintaining high ballistic protection. Its unique “crownless” suspension design reduces weight and improves balance for long-duration use without sacrificing protection."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 62097,
+    "handbookPriceRoubles": 12532,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "68e42739b4da3d32b61f54e7",
+        "_id": "68e4273d1f0edce241836bc3",
+        "_items": [
+          {
+            "_id": "68e4273e710dcb0e54a6964c",
+            "_tpl": "68e42739b4da3d32b61f54e7",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "68e427442ea991bf33737f25",
+            "_tpl": "657112234269e9a568089eac",
+            "slotId": "Helmet_top",
+            "parentId": "68e4273e710dcb0e54a6964c"
+          },
+          {
+            "_id": "68e427433896cdca50bde402",
+            "_tpl": "657112a4818110db4600aa66",
+            "slotId": "Helmet_back",
+            "parentId": "68e4273e710dcb0e54a6964c"
+          },
+          {
+            "_id": "68e4274258e5bcc7d9a6c770",
+            "_tpl": "657112ce22996eaf110881fb",
+            "slotId": "Helmet_ears",
+            "parentId": "68e4273e710dcb0e54a6964c"
+          }
+        ],
+        "_name": "IHPS FDE Stock Preset",
+        "_parent": "68e4273e710dcb0e54a6964c",
+        "_type": "Preset"
+      }
+    ]
+  }
+}

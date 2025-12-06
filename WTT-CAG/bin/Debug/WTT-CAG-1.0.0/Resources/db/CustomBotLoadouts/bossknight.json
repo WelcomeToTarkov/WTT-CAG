@@ -1,0 +1,33 @@
+{
+	"chances": {
+		"equipment": {
+			"Headwear": 100,
+			"FaceCover": 50
+		},
+		"weaponMods": {
+			"Helmet_top": 100,
+			"Helmet_back": 100,
+			"Helmet_eyes": 100
+		}
+	},
+	"inventory": {
+		"equipment": {
+			"Headwear": {
+				"68d9a6f564cf4544e0e159c1": 9999
+			}
+		},
+		"mods": {
+			"68d9a6f564cf4544e0e159c1": {
+				"Helmet_top": [
+					"657f8ec5f4c82973640b234c"
+				],
+				"Helmet_back": [
+					"657f8f10f4c82973640b2350"
+				],
+				"Helmet_eyes": [
+					"68e1ce74c9305bc1608ee2e6"
+				]
+			}
+		}
+	}
+}
