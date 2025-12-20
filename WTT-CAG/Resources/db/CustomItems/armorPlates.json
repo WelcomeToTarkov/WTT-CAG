@@ -10,7 +10,7 @@
       },
       "Weight": 2.1,
       "ArmorType": "Heavy",
-      "MaxDurability": 50
+      "MaxDurability": 50,
       "speedPenaltyPercent": -1,
       "armorClass": 4,
       "armorPlateColliders": [
