@@ -684,6 +684,14 @@
         "Bodywear/armoredRigs/TV110/tv110_shared.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
+    },
+    {
+      "key": "Clothing/Lowers/Gorka/trousers_gorka_norm.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
     }
   ]
 }

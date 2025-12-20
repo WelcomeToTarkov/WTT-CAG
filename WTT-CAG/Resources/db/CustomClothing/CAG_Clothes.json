@@ -71,5 +71,30 @@
     "standing": 0,
     "currencyId": "MONEY_ROUBLES",
     "price": 25000
+  },
+  {
+    "type": "bottom",
+    "suiteId": "69444e6c364b799c1282765c",
+    "outfitId": "69444e6d9037e704d982765d",
+    "bottomId": "69444e6ecc8a80026382765e",
+    "locales": {
+      "en": {
+        "name": "GORKA E Trousers Normal",
+        "description": "Russian Gorka Trousers"
+      }
+    },
+    "bottomBundlePath": "Clothing/Lowers/Gorka/trousers_gorka_norm.bundle",
+    "traderId": "RAGMAN",
+    "side": [
+      "Bear",
+      "Usec"
+    ],
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 25000,
+    "questRequirements": [],
+    "achievementRequirements": []
   }
 ]
