@@ -17,8 +17,8 @@
     },
     "locales": {
       "en": {
-        "name": "Velocity Systems Mayflower Hybrid chest rig (MC)",
-        "shortName": "Hybrid",
+        "name": "Velocity Systems Mayflower Hybrid chest rig (MultiCam)",
+        "shortName": "Mayflower",
         "description": "The Lightweight load-bearing rig designed for flexibility and speed in combat zones. The Mayflower Hybrid offers a mix of fixed pouches and modular MOLLE real estate, letting operators carry rifle mags, pistol mags, and mission-specific gear without excess bulk. Multicam version."
       }
     },
@@ -67,7 +67,7 @@
     },
     "locales": {
       "en": {
-        "name": "Platatac Peacekeeper MK5 chest rig (Multicam Tropic)",
+        "name": "Platatac Peacekeeper Mk.5 chest rig (Multicam Tropic)",
         "shortName": "Peacekeeper",
         "description": "The Peacekeeper MK5 chest rig is a modern modular load-bearing chest rig developed by Platatac. Designed for long-duration operations, it features multiple integrated magazine pouches, utility compartments, and attachment points for additional gear. Multicam Tropic version."
       }
@@ -129,7 +129,7 @@
     },
     "locales": {
       "en": {
-        "name": "Platatac Peacekeeper MK5 chest rig (A-TACS FG)",
+        "name": "Platatac Peacekeeper Mk.5 chest rig (A-TACS FG)",
         "shortName": "Peacekeeper",
         "description": "The Peacekeeper MK5 chest rig is a modern modular load-bearing chest rig developed by Platatac. Designed for long-duration operations, it features multiple integrated magazine pouches, utility compartments, and attachment points for additional gear. A-TACS Foliage Green version."
       }
@@ -191,7 +191,7 @@
     },
     "locales": {
       "en": {
-        "name": "Platatac Peacekeeper MK5 chest rig (Coyote Tan)",
+        "name": "Platatac Peacekeeper Mk.5 chest rig (Coyote Tan)",
         "shortName": "Peacekeeper",
         "description": "The Peacekeeper MK5 chest rig is a modern modular load-bearing chest rig developed by Platatac. Designed for long-duration operations, it features multiple integrated magazine pouches, utility compartments, and attachment points for additional gear. Coyote Tan version."
       }
