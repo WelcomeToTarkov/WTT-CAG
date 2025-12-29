@@ -120,5 +120,113 @@
     "staticLootContainers": [],
     "addWeaponPreset": false,
     "weaponPresets": []
+  },
+  "6952df07f45848b047c90339": {
+    "itemTplToClone": "657112234269e9a568089eac",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/armor_plates/helmet_top.bundle",
+        "rcid": ""
+      },
+      "Durability": 35,
+      "MaxDurability": 35,
+      "RepairCost": 145,
+      "armorMaterial": "Combined",
+      "armorClass": 4,
+      "armorColliders": [
+        "ParietalHead"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Hybrid composite materials",
+        "shortName": "",
+        "description": "ceradyne_ihps_level4_helmet_armor_top"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 66582,
+    "handbookPriceRoubles": 24377,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6952e0430a05aecb1fc9033a": {
+    "itemTplToClone": "657112a4818110db4600aa66",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/armor_plates/helmet_back.bundle",
+        "rcid": ""
+      },
+      "Durability": 20,
+      "MaxDurability": 20,
+      "RepairCost": 133,
+      "armorMaterial": "Combined",
+      "armorClass": 4,
+      "armorColliders": [
+        "BackHead"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Hybrid composite materials",
+        "shortName": "",
+        "description": "ceradyne_ihps_level4_helmet_armor_ears"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 66582,
+    "handbookPriceRoubles": 24377,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6952e0b52f92620dc1c9033b": {
+    "itemTplToClone": "657112a4818110db4600aa66",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/armor_plates/helmet_ears.bundle",
+        "rcid": ""
+      },
+      "Durability": 15,
+      "MaxDurability": 15,
+      "RepairCost": 133,
+      "armorMaterial": "Combined",
+      "armorClass": 4,
+      "armorColliders": [
+        "Ears"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Hybrid composite materials",
+        "shortName": "",
+        "description": "ceradyne_ihps_level4_helmet_armor_ears"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 66582,
+    "handbookPriceRoubles": 13582,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": false,
+    "weaponPresets": []
   }
 }
