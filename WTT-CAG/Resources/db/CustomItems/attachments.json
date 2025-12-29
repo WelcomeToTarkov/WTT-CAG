@@ -775,5 +775,81 @@
         }
       }
     }
+  },
+  "6952e2acf69d4f7575c90345": {
+    "itemTplToClone": "5c0e66e2d174af02a96252f4",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/ihps/helmet_ihps_cover_mc.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.01,
+      "CanSellOnRagfair": true,
+      "Height": 1,
+      "Width": 1,
+      "ItemSound": "item_cloth_generic",
+      "Unlootable": false,
+      "CanPutIntoDuringTheRaid": false,
+      "Indestructibility": 0,
+      "ArmorType": "None",
+      "BluntThroughput": 1,
+      "armorClass": 0,
+      "armorColliders": [],
+      "mousePenalty": 0,
+      "speedPenaltyPercent": 0,
+      "Durability": 100,
+      "RicochetParams": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      },
+      "weaponErgonomicPenalty": 0,
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "IHPS helmet cover (MultiCam)",
+        "shortName": "IHPS",
+        "description": "A fabric camouflage cover tailored for the Ceradyne IHPS combat helmet used to help break up the helmet’s outline and reduce glare, offering a slight edge in concealment. MultiCam version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 3011,
+    "handbookPriceRoubles": 500,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "RAGMAN": {
+        "6952e55ac789bb8d2ec9034c": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 10
+          },
+          "barters": [
+            {
+              "count": 3390,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
   }
 }
