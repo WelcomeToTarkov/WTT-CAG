@@ -590,7 +590,7 @@
       ]
     },
     {
-      "key": "Headwear/helmets/ihps/ihps_shared.bundle",
+      "key": "Headwear/helmets/ihps/helmet_ihps_tan.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
@@ -598,65 +598,12 @@
       ]
     },
     {
-      "key": "Headwear/helmets/ihps/ihps_shell_blk.bundle",
+      "key": "Headwear/helmets/ihps/helmet_ihps_cover_mc.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle",
         "Headwear/helmets/ihps/ihps_shared.bundle"
-      ]
-    },
-    {
-      "key": "Headwear/helmets/ihps/ihps_shell_fde.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle",
-        "Headwear/helmets/ihps/ihps_shared.bundle"
-      ]
-    },
-    {
-      "key": "Headwear/helmets/ihps/ihps_cover_blk.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle",
-        "Headwear/helmets/ihps/ihps_shared.bundle"
-      ]
-    },
-    {
-      "key": "Headwear/helmets/ihps/ihps_cover_mc.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle",
-        "Headwear/helmets/ihps/ihps_shared.bundle"
-      ]
-    },
-    {
-      "key": "Headwear/helmets/ihps/ihps_cover_odg.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle",
-        "Headwear/helmets/ihps/ihps_shared.bundle"
-      ]
-    },
-    {
-      "key": "Headwear/helmets/ihps/ihps_cover_tan.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle",
-        "Headwear/helmets/ihps/ihps_shared.bundle"
-      ]
-    },
-    {
-      "key": "Bodywear/backpacks/PRC117G/satc1.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {
