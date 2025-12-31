@@ -469,7 +469,7 @@
       ]
     },
     {
-      "key": "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_peacekeeper_shared.bundle",
+      "key": "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_platatac_shared.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
@@ -477,29 +477,29 @@
       ]
     },
     {
-      "key": "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_peacekeeper_atacs.bundle",
+      "key": "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_platatac_atacs.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
-        "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_peacekeeper_shared.bundle",
+        "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_platatac_shared.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {
-      "key": "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_peacekeeper_coyote.bundle",
+      "key": "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_platatac_coyote.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
-        "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_peacekeeper_shared.bundle",
+        "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_platatac_shared.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {
-      "key": "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_peacekeeper_mctropic.bundle",
+      "key": "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_platatac_mctropic.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
-        "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_peacekeeper_shared.bundle",
+        "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_platatac_shared.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
@@ -634,6 +634,47 @@
     },
     {
       "key": "Clothing/Lowers/Gorka/trousers_gorka_norm.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Bodywear/unarmoredRigs/spiritus_34a/rig_spiritus_34a_mc.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Bodywear/unarmoredRigs/spiritus_34a/rig_spiritus_34a_od.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "Bodywear/unarmoredRigs/spiritus_34a/rig_spiritus_34a_mc.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Bodywear/armoredRigs/rig_6b46_emr.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Bodywear/unarmoredRigs/rig_poyas_a.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/masks/mask_hafm_kii_blk.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
