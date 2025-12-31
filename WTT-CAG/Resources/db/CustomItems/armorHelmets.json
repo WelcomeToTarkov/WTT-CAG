@@ -1,0 +1,185 @@
+{
+  "6952dd3e0a19ef4b6ac90335": {
+    "itemTplToClone": "5b40e2bc5acfc40016388216",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/ihps/helmet_ihps_tan.bundle",
+        "rcid": ""
+      },
+      "Weight": 1.48,
+      "mousePenalty": -1,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": -1.5,
+      "Slots": [
+        {
+          "_id": "6952deca8d70549268c90336",
+          "_mergeSlotWithChildren": true,
+          "_name": "mod_mount_000",
+          "_parent": "6952dd3e0a19ef4b6ac90335",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6952e2acf69d4f7575c90345"
+                ]
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": false
+        },
+        {
+          "_id": "6952decdd348f7e028c90338",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "6952dd3e0a19ef4b6ac90335",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6952df07f45848b047c90339"
+                ],
+                "Plate": "6952df07f45848b047c90339",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "6952decb929d296c73c90337",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "6952dd3e0a19ef4b6ac90335",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6952e0430a05aecb1fc9033a"
+                ],
+                "Plate": "6952e0430a05aecb1fc9033a",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "6952deca8d70549268c90336",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_ears",
+          "_parent": "6952dd3e0a19ef4b6ac90335",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6952e0b52f92620dc1c9033b"
+                ],
+                "Plate": "6952e0b52f92620dc1c9033b",
+                "armorColliders": [
+                  "Ears"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Ceradyne IHPS Ballistic helmet (Coyote Tan)",
+        "shortName": "IHPS",
+        "description": "A modular ballistic ballistic helmet system developed for U.S. SOCOM, the IHPS can be configured with front and side ARC rails, night vision shroud, and modular mandible or visor attachments while maintaining high ballistic protection. Its unique “crownless” suspension design reduces weight and improves balance for long-duration use without sacrificing protection."
+      }
+    },
+    "fleaPriceRoubles": 55382,
+    "handbookPriceRoubles": 4456,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 15
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 40
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "6952dd3e0a19ef4b6ac90335",
+        "_id": "6952eb13508b7defd6803882",
+        "_items": [
+          {
+            "_id": "6952eb0ad35dd9a01080387e",
+            "_tpl": "6952dd3e0a19ef4b6ac90335",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "6952eb109b8ea64fb4803881",
+            "_tpl": "6952df07f45848b047c90339",
+            "slotId": "Helmet_top",
+            "parentId": "6952eb0ad35dd9a01080387e"
+          },
+          {
+            "_id": "6952eb0fee3b50a1e4803880",
+            "_tpl": "6952e0430a05aecb1fc9033a",
+            "slotId": "Helmet_back",
+            "parentId": "6952eb0ad35dd9a01080387e"
+          },
+          {
+            "_id": "6952eb0f315ba1f6fa80387f",
+            "_tpl": "6952e0b52f92620dc1c9033b",
+            "slotId": "Helmet_ears",
+            "parentId": "6952eb0ad35dd9a01080387e"
+          }
+        ],
+        "_name": "IHPS Coyote Tan Stock Preset",
+        "_parent": "6952eb0ad35dd9a01080387e",
+        "_type": "Preset"
+      }
+    ],
+    "masterySections": []
+  }
+}
