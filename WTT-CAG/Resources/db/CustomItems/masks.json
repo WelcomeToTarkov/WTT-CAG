@@ -1262,5 +1262,80 @@
         }
       }
     }
+  },
+  "6954a787a8530d7fbd513bd8": {
+    "itemTplToClone": "6570aead4d84f81fd002a033",
+    "parentId": "5a341c4686f77469e155819e",
+    "handbookParentId": "5b47574386f77428ca22b32f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/masks/mask_hafm_kii_blk.bundle",
+        "rcid": ""
+      },
+      "ArmorMaterial": "UHMWPE",
+      "ArmorType": "Light",
+      "armorClass": "4",
+      "armorColliders": [ 
+         "HeadCommon",
+         "Jaw",
+         "Eyes"
+      ],
+      "BlocksEarpiece": false,
+      "BlocksEyewear": true,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "Durability": 35,
+      "MaxDurability": 35,
+      "ConflictingItems": [],
+      "Weight": 1.02,
+      "Height": 2,
+      "Width": 2,
+      "Indestructibility": 0.9,
+      "RicochetParams": {
+        "x": 0.9,
+        "y": 0.4,
+        "z": 70
+      },
+      "mousePenalty": -1.5,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": -1
+    },
+    "locales": {
+      "en": {
+        "name": "Compass Armor HAFM-KII Ballistic half-mask",
+        "shortName": "HAFM-KII",
+        "description": "A rugged half-mask built to provide additional facial protection without obstructing vision or mobility. Rated at Level III armor, this mask will handle most pistol and some intermediate cartridges. Manufacted by Compass Armor."
+      }
+    },
+    "addtoInventorySlots": [
+      "FaceCover"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 1022944,
+    "handbookPriceRoubles": 79582,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {}
   }
 }
