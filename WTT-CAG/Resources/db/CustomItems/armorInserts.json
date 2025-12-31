@@ -83,7 +83,7 @@
     "addtoModSlots": false,
     "modSlot": [],
     "addtoTraders": false,
-    "fleaPriceRoubles": 0,
+    "fleaPriceRoubles": 29357,
     "handbookPriceRoubles": 12913,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
@@ -114,7 +114,7 @@
     "addtoModSlots": false,
     "modSlot": [],
     "addtoTraders": false,
-    "fleaPriceRoubles": 0,
+    "fleaPriceRoubles": 29853,
     "handbookPriceRoubles": 12913,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
@@ -133,7 +133,7 @@
       "Durability": 35,
       "MaxDurability": 35,
       "RepairCost": 145,
-      "armorMaterial": "Combined",
+      "ArmorMaterial": "Combined",
       "armorClass": 4,
       "armorColliders": [
         "ParietalHead"
@@ -169,7 +169,7 @@
       "Durability": 20,
       "MaxDurability": 20,
       "RepairCost": 133,
-      "armorMaterial": "Combined",
+      "ArmorMaterial": "Combined",
       "armorClass": 4,
       "armorColliders": [
         "BackHead"
@@ -205,7 +205,7 @@
       "Durability": 15,
       "MaxDurability": 15,
       "RepairCost": 133,
-      "armorMaterial": "Combined",
+      "ArmorMaterial": "Combined",
       "armorClass": 4,
       "armorColliders": [
         "Ears"
