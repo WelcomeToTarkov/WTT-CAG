@@ -780,7 +780,15 @@
       ]
     },
     {
-      "key": "Bodywear/armoredRigs/rig_nfm_thor_od.bundle",
+      "key": "Bodywear/armoredRigs/NFM_THOR/rig_nfm_thor_od.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Bodywear/armoredRigs/NFM_THOR/rig_nfm_thor_mc.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
