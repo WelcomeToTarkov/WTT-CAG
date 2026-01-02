@@ -288,5 +288,31 @@
     "staticLootContainers": [],
     "addWeaponPreset": false,
     "weaponPresets": []
+  },
+  "69578fd565218682c87d8628": {
+    "itemTplToClone": "6575ce8bdc9932aed601c61e",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+      "Durability": 25,
+      "MaxDurability": 25
+    },
+    "locales": {
+      "en": {
+        "name": "Aramid insert",
+        "shortName": "",
+        "description": "Aramid groin insert for the NFM THOR MCVS-OV plate carrier."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 24320,
+    "handbookPriceRoubles": 22140,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": false,
+    "weaponPresets": []
   }
 }

@@ -1374,9 +1374,9 @@
             "filters": [
               {
                 "Filter": [
-                  "6575ce8bdc9932aed601c61e"
+                  "69578fd565218682c87d8628"
                 ],
-                "Plate": "6575ce8bdc9932aed601c61e",
+                "Plate": "69578fd565218682c87d8628",
                 "armorColliders": [
                   "Pelvis"
                 ],
@@ -1479,7 +1479,7 @@
           },
           {
             "_id": "69577b1fcffbaa94b79d4f96",
-            "_tpl": "6575ce8bdc9932aed601c61e",
+            "_tpl": "69578fd565218682c87d8628",
             "slotId": "Groin",
             "parentId": "69577b238b28b7c0339d4f9c"
           }
