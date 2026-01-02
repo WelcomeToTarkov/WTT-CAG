@@ -579,5 +579,342 @@
       }
     ],
     "masterySections": []
-  }
+  },
+  "680be1c97c53613b0016d45f": {
+    "itemTplToClone": "5aa7d193e5b5b000171d063f",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+        "ExaminedByDefault": true,
+        "Prefab": {
+            "path": "Headwear/helmets/am95/helmet_am95.bundle",
+            "rcid": ""
+        },
+        "Weight": 1.55,
+        "weaponErgonomicPenalty": -3.5,
+        "Slots": [
+            {
+                "_name": "Helmet_top",
+                "_id": "6737c9625feeb6963b451b38",
+                "_parent": "680be1c97c53613b0016d45f",
+                "_props": {
+                    "filters": [
+                        {
+                            "locked": true,
+                            "Plate": "657bbad7a1c61ee0c3036323",
+                            "Filter": [
+                                "657bbad7a1c61ee0c3036323"
+                            ],
+                            "armorColliders": [
+                                "ParietalHead"
+                            ],
+                            "armorPlateColliders": [],
+                            "bluntDamageReduceFromSoftArmor": false
+                        }
+                    ]
+                },
+                "_required": true,
+                "_mergeSlotWithChildren": true,
+                "_proto": "64479fdf9731c8fadc0642c1"
+            },
+            {
+                "_name": "Helmet_back",
+                "_id": "6737c95f052ddc64052ef219",
+                "_parent": "680be1c97c53613b0016d45f",
+                "_props": {
+                    "filters": [
+                        {
+                            "locked": true,
+                            "Plate": "657bbb31b30eca9763051183",
+                            "Filter": [
+                                "657bbb31b30eca9763051183"
+                            ],
+                            "armorColliders": [
+                                "BackHead"
+                            ],
+                            "armorPlateColliders": [],
+                            "bluntDamageReduceFromSoftArmor": false
+                        }
+                    ]
+                },
+                "_required": true,
+                "_mergeSlotWithChildren": true,
+                "_proto": "64479fdf9731c8fadc0642c1"
+            },
+            {
+                "_name": "Helmet_ears",
+                "_id": "6737c95cb6956e47de86ceef",
+                "_parent": "680be1c97c53613b0016d45f",
+                "_props": {
+                    "filters": [
+                        {
+                            "locked": true,
+                            "Plate": "657babc6f58ba5a6250107a2",
+                            "Filter": [
+                                "657babc6f58ba5a6250107a2"
+                            ],
+                            "armorColliders": [
+                                "Ears"
+                            ],
+                            "armorPlateColliders": [],
+                            "bluntDamageReduceFromSoftArmor": false
+                        }
+                    ]
+                },
+                "_required": true,
+                "_mergeSlotWithChildren": true,
+                "_proto": "64479fdf9731c8fadc0642c1"
+            }
+        ]
+    },
+    "locales": {
+        "en": {
+            "name": "Ulbrichts AM95 Ballistic Helmet",
+            "shortName": "AM95",
+            "description": "A surplus AM95 ballistic helmet designed specifically for European law enforcement officers, manufactured by Ulbrichts."
+        }
+    },
+    "clearClonedProps": false,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "ModdableItemWhitelist": [],
+    "ModdableItemBlacklist": [],
+    "fleaPriceRoubles": 57000,
+    "handbookPriceRoubles": 2580,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [
+        {
+            "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+            "Probability": 250
+        },
+        {
+            "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+            "Probability": 150
+        }
+    ],
+    "masteries": false,
+    "masterySections": [],
+    "addweaponpreset": true,
+    "weaponpresets": [
+        {
+            "_changeWeaponName": false,
+            "_encyclopedia": "680be1c97c53613b0016d45f",
+            "_id": "680be260b7976acb70f5dc95",
+            "_items": [
+                {
+                    "_id": "680be2639f5d04d65c22526c",
+                    "_tpl": "680be1c97c53613b0016d45f"
+                },
+                {
+                    "_id": "680be275e4d83de168209594",
+                    "_tpl": "657bbad7a1c61ee0c3036323",
+                    "parentId": "680be2639f5d04d65c22526c",
+                    "slotId": "Helmet_top"
+                },
+                {
+                    "_id": "680be27816fb5909a0a6fdfc",
+                    "_tpl": "657bbb31b30eca9763051183",
+                    "parentId": "680be2639f5d04d65c22526c",
+                    "slotId": "Helmet_back"
+                },
+                {
+                    "_id": "680be27b4e135435f4c590d8",
+                    "_tpl": "657babc6f58ba5a6250107a2",
+                    "parentId": "680be2639f5d04d65c22526c",
+                    "slotId": "Helmet_ears"
+                }
+            ],
+            "_name": "AM95 Standard",
+            "_parent": "680be2639f5d04d65c22526c",
+            "_type": "Preset"
+        }
+    ],
+    "traders": {}
+},
+"68e53709d997b0cebccfc880": {
+  "itemTplToClone": "5a7c4850e899ef00150be885",
+  "parentId": "5a341c4086f77401f2541505",
+  "handbookParentId": "5b47574386f77428ca22b330",
+  "overrideProperties": {
+      "Prefab": {
+          "path": "Headwear/helmets/b826/helmet_b826.bundle",
+          "rcid": ""
+      },
+      "Weight": 1.35,
+      "mousePenalty": -0.5,
+      "weaponErgonomicPenalty": -0.5,
+      "RepairCost": 510,
+      "Height": 2,
+      "Width": 2,
+      "Slots": [
+          {
+              "_name": "Helmet_top",
+              "_id": "68e549a6c3e6ff929a892b94",
+              "_parent": "68e53709d997b0cebccfc880",
+              "_props": {
+                  "filters": [
+                      {
+                          "Filter": [
+                              "68e55fb697f217f43c40e36b"
+                          ],
+                          "Plate": "68e55fb697f217f43c40e36b",
+                          "armorColliders": [
+                              "ParietalHead"
+                          ],
+                          "armorPlateColliders": [],
+                          "bluntDamageReduceFromSoftArmor": false,
+                          "locked": true
+                      }
+                  ]
+              },
+              "_required": false,
+              "_mergeSlotWithChildren": true,
+              "_proto": "64479fdf9731c8fadc0642c1"
+          },
+          {
+              "_name": "Helmet_back",
+              "_id": "68e549aca66889d042b65a6c",
+              "_parent": "68e53709d997b0cebccfc880",
+              "_props": {
+                  "filters": [
+                      {
+                          "Filter": [
+                              "68e560760a6bd28b1eefae60"
+                          ],
+                          "Plate": "68e560760a6bd28b1eefae60",
+                          "armorColliders": [
+                              "BackHead"
+                          ],
+                          "armorPlateColliders": [],
+                          "bluntDamageReduceFromSoftArmor": false,
+                          "locked": true
+                      }
+                  ]
+              },
+              "_required": true,
+              "_mergeSlotWithChildren": true,
+              "_proto": "64479fdf9731c8fadc0642c1"
+          },
+          {
+              "_id": "68e549f0b81c0ab9133531c8",
+              "_mergeSlotWithChildren": true,
+              "_name": "Helmet_ears",
+              "_parent": "68e53709d997b0cebccfc880",
+              "_props": {
+                "filters": [
+                  {
+                    "Filter": [
+                      "68e56084053c5f90684175f9"
+                    ],
+                    "Plate": "68e56084053c5f90684175f9",
+                    "armorColliders": [
+                      "Ears"
+                    ],
+                    "armorPlateColliders": [],
+                    "bluntDamageReduceFromSoftArmor": false,
+                    "locked": true
+                  }
+                ]
+              },
+              "_proto": "64479fdf9731c8fadc0642c1",
+              "_required": true
+            }
+      ]
+  },
+  "locales": {
+      "en": {
+          "name": "Gefechtshelm Schuberth B826",
+          "shortName": "B826",
+          "description": "The Gefechtshelm Schuberth B826 is the standard issue combat helmet of the Bundeswehr, first fielded in 1992 as a replacement of earlier M1A1 helmets that were previously used during the Cold War. It is made from Aramid composite materials and is used by all branches of the Bundeswehr."
+      }
+  },
+  "clearClonedProps": false,
+  "addtoInventorySlots": [
+      "Headwear"
+  ],
+  "addtoModSlots": false,
+  "modSlot": [],
+  "ModdableItemWhitelist": [],
+  "ModdableItemBlacklist": [],
+  "addtoTraders": false,
+  "traderId": "RAGMAN",
+  "traderItems": [
+      {
+          "unlimitedCount": true,
+          "stackObjectsCount": 2
+      }
+  ],
+  "barterScheme": [
+      {
+          "count": 53582,
+          "_tpl": "ROUBLES"
+      }
+  ],
+  "loyallevelitems": 3,
+  "fleaPriceRoubles": 46704,
+  "handbookPriceRoubles": 3903,
+  "addtoStaticLootContainers": true,
+  "StaticLootContainers": [
+      {
+          "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+          "Probability": 7
+      },
+      {
+          "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+          "Probability": 6
+      },
+      {
+          "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+          "Probability": 5
+      },
+      {
+          "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+          "Probability": 1
+      }
+  ],
+  "addweaponpreset": true,
+  "weaponpresets": [
+      {
+          "_changeWeaponName": false,
+          "_encyclopedia": "68e53709d997b0cebccfc880",
+          "_id": "68e54a77ffc1f0870d6c8299",
+          "_items": [
+              {
+                  "_id": "68e54a7b0077e00dd9d14ee1",
+                  "_tpl": "68e53709d997b0cebccfc880",
+                  "upd": {
+                      "Repairable": {
+                          "MaxDurability": 100,
+                          "Durability": 100
+                      }
+                  }
+              },
+              {
+                  "_id": "68e54a8b961cad8cf0c30861",
+                  "_tpl": "68e55fb697f217f43c40e36b",
+                  "slotId": "Helmet_top",
+                  "parentId": "68e54a7b0077e00dd9d14ee1"
+              },
+              {
+                  "_id": "68e54a8dbaa30af0c000c43e",
+                  "_tpl": "68e560760a6bd28b1eefae60",
+                  "slotId": "Helmet_back",
+                  "parentId": "68e54a7b0077e00dd9d14ee1"
+              },
+              {
+                  "_id": "68e54a94e9d1e0cf5b6e9916",
+                  "_tpl": "68e56084053c5f90684175f9",
+                  "slotId": "Helmet_ears",
+                  "parentId": "68e54a7b0077e00dd9d14ee1"
+              }
+          ],
+          "_name": "B826 Stock Preset",
+          "_parent": "68e54a7b0077e00dd9d14ee1",
+          "_type": "Preset"
+      }
+  ]
+}
 }

@@ -28,99 +28,6 @@
     "addWeaponPreset": false,
     "weaponPresets": []
   },
-  "68e55fb697f217f43c40e36b": {
-    "itemTplToClone": "657baaf0b7e9ca9a02045c02",
-    "parentId": "65649eb40bf0ed77b8044453",
-    "handbookParentId": "6564b96a189fe36f356d177c",
-    "overrideProperties": {
-      "Prefab": {
-        "path": "assets/content/items/equipment/armor_plates/helmet_top.bundle",
-        "rcid": ""
-      },
-      "Durability": 20,
-      "MaxDurability": 20,
-      "RepairCost": 130
-    },
-    "locales": {
-      "en": {
-        "name": "Reinforced layers of aramid fiber",
-        "shortName": "Reinforced layers of aramid fiber",
-        "description": "Reinforced layers of aramid fiber"
-      }
-    },
-    "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "addtoTraders": false,
-    "fleaPriceRoubles": 0,
-    "handbookPriceRoubles": 12913,
-    "addtoStaticLootContainers": false,
-    "staticLootContainers": [],
-    "addWeaponPreset": false,
-    "weaponPresets": []
-  },
-  "68e56084053c5f90684175f9": {
-    "itemTplToClone": "657babc6f58ba5a6250107a2",
-    "parentId": "65649eb40bf0ed77b8044453",
-    "handbookParentId": "6564b96a189fe36f356d177c",
-    "overrideProperties": {
-      "Prefab": {
-        "path": "assets/content/items/equipment/armor_plates/helmet_ears.bundle",
-        "rcid": ""
-      },
-      "Durability": 20,
-      "MaxDurability": 20,
-      "RepairCost": 130
-    },
-    "locales": {
-      "en": {
-        "name": "Reinforced layers of aramid fiber",
-        "shortName": "Reinforced layers of aramid fiber",
-        "description": "Reinforced layers of aramid fiber"
-      }
-    },
-    "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "addtoTraders": false,
-    "fleaPriceRoubles": 29357,
-    "handbookPriceRoubles": 12913,
-    "addtoStaticLootContainers": false,
-    "staticLootContainers": [],
-    "addWeaponPreset": false,
-    "weaponPresets": []
-  },
-  "68e560760a6bd28b1eefae60": {
-    "itemTplToClone": "657bab6ec6f689d3a205b85f",
-    "parentId": "65649eb40bf0ed77b8044453",
-    "handbookParentId": "6564b96a189fe36f356d177c",
-    "overrideProperties": {
-      "Prefab": {
-        "path": "assets/content/items/equipment/armor_plates/helmet_back.bundle",
-        "rcid": ""
-      },
-      "Durability": 20,
-      "MaxDurability": 20,
-      "RepairCost": 130
-    },
-    "locales": {
-      "en": {
-        "name": "Reinforced layers of aramid fiber",
-        "shortName": "Reinforced layers of aramid fiber",
-        "description": "Reinforced layers of aramid fiber"
-      }
-    },
-    "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "addtoTraders": false,
-    "fleaPriceRoubles": 29853,
-    "handbookPriceRoubles": 12913,
-    "addtoStaticLootContainers": false,
-    "staticLootContainers": [],
-    "addWeaponPreset": false,
-    "weaponPresets": []
-  },
   "6952df07f45848b047c90339": {
     "itemTplToClone": "657112234269e9a568089eac",
     "parentId": "65649eb40bf0ed77b8044453",
@@ -314,5 +221,105 @@
     "staticLootContainers": [],
     "addWeaponPreset": false,
     "weaponPresets": []
-  }
+  },
+  "68e55fb697f217f43c40e36b": {
+    "itemTplToClone": "657baaf0b7e9ca9a02045c02",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+        "Prefab": {
+            "path": "assets/content/items/equipment/armor_plates/helmet_top.bundle",
+            "rcid": ""
+        },
+        "Durability": 20,
+        "MaxDurability": 20,
+        "RepairCost": 130
+    },
+    "locales": {
+        "en": {
+            "name": "Reinforced layers of aramid fiber",
+            "shortName": "Reinforced layers of aramid fiber",
+            "description": "Reinforced layers of aramid fiber top inserts for the B826 helmet."
+        }
+    },
+    "clearClonedProps": false,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "ModdableItemWhitelist": [],
+    "ModdableItemBlacklist": [],
+    "addtoTraders": false,
+    "traderId": "PRAPOR",
+    "traderItems": [],
+    "barterScheme": [],
+    "loyallevelitems": 3,
+    "fleaPriceRoubles": 0,
+    "handbookPriceRoubles": 12913,
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [],
+    "addweaponpreset": false,
+    "weaponpresets": []
+},
+"68e560760a6bd28b1eefae60": {
+  "itemTplToClone": "657bab6ec6f689d3a205b85f",
+  "parentId": "65649eb40bf0ed77b8044453",
+  "handbookParentId": "6564b96a189fe36f356d177c",
+  "overrideProperties": {
+    "Prefab": {
+      "path": "assets/content/items/equipment/armor_plates/helmet_back.bundle",
+      "rcid": ""
+    },
+    "Durability": 20,
+    "MaxDurability": 20,
+    "RepairCost": 130
+  },
+  "locales": {
+    "en": {
+      "name": "Reinforced layers of aramid fiber",
+      "shortName": "Reinforced layers of aramid fiber",
+      "description": "Reinforced layers of aramid fiber back insert for the B826 helmet."
+    }
+  },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [],
+  "addtoTraders": false,
+  "fleaPriceRoubles": 29853,
+  "handbookPriceRoubles": 12913,
+  "addtoStaticLootContainers": false,
+  "staticLootContainers": [],
+  "addWeaponPreset": false,
+  "weaponPresets": []
+},
+"68e56084053c5f90684175f9": {
+  "itemTplToClone": "657babc6f58ba5a6250107a2",
+  "parentId": "65649eb40bf0ed77b8044453",
+  "handbookParentId": "6564b96a189fe36f356d177c",
+  "overrideProperties": {
+    "Prefab": {
+      "path": "assets/content/items/equipment/armor_plates/helmet_ears.bundle",
+      "rcid": ""
+    },
+    "Durability": 20,
+    "MaxDurability": 20,
+    "RepairCost": 130
+  },
+  "locales": {
+    "en": {
+      "name": "Reinforced layers of aramid fiber",
+      "shortName": "Reinforced layers of aramid fiber",
+      "description": "Reinforced layers of aramid fiber ear inserts for the B826 helmet."
+    }
+  },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [],
+  "addtoTraders": false,
+  "fleaPriceRoubles": 29357,
+  "handbookPriceRoubles": 12913,
+  "addtoStaticLootContainers": false,
+  "staticLootContainers": [],
+  "addWeaponPreset": false,
+  "weaponPresets": []
+}
 }
