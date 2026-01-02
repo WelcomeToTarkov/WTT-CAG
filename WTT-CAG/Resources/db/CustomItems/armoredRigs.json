@@ -475,5 +475,473 @@
         "_type": "Preset"
       }
     ]
+  },
+  "695751925e767177d0975afe": {
+    "itemTplToClone": "609e8540d5c319764c2bc2e9",
+    "parentId": "5448e5284bdc2dcb718b4567",
+    "handbookParentId": "5b5f6f8786f77447ed563642",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Bodywear/armoredRigs/rig_nfm_thor_od.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "BackgroundColor": "default",
+      "Weight": 1.85,
+      "Height": 3,
+      "Width": 3,
+      "mousePenalty": -1,
+      "speedPenaltyPercent": -2,
+      "weaponErgonomicPenalty": -1,
+      "RigLayoutName": "NFM_Thor_Vitya",
+      "Grids": [
+        {
+          "_id": "66040220520edabacbde7240",
+          "_name": "GridView (1)",
+          "_parent": "695751925e767177d0975afe",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "950d831bb1162fbfd84a1e74",
+          "_name": "GridView (2)",
+          "_parent": "695751925e767177d0975afe",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "b8a53c935dc25549d149dc8d",
+          "_name": "GridView (3)",
+          "_parent": "695751925e767177d0975afe",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "577581d2b2c62b1228c36b5a",
+          "_name": "GridView (4)",
+          "_parent": "695751925e767177d0975afe",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "2dc92a8fef12005c1c4d113d",
+          "_name": "GridView (5)",
+          "_parent": "695751925e767177d0975afe",
+          "_props": {
+            "cellsH": 2,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "f117f82028e70f1711d4df0e",
+          "_name": "GridView (6)",
+          "_parent": "695751925e767177d0975afe",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 1,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "f3275e24e852ba466e00dbc9",
+          "_name": "GridView (7)",
+          "_parent": "695751925e767177d0975afe",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 1,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ],
+      "Slots": [
+        {
+          "_id": "695752c8e80d9b0b58975b01",
+          "_mergeSlotWithChildren": true,
+          "_name": "Front_plate",
+          "_parent": "695751925e767177d0975afe",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fa76500d62bcd2e024080",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041",
+                  "65573fa5655447403702a816",
+                  "64afc71497cf3a403c01ff38"
+                ],
+                "Plate": "656f9fa0498d1b7e3e071d98",
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_chest"
+                ],
+                "bluntDamageReduceFromSoftArmor": true,
+                "locked": false
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": false
+        },
+        {
+          "_id": "695752cc9c61af8596975b02",
+          "_mergeSlotWithChildren": true,
+          "_name": "Back_plate",
+          "_parent": "695751925e767177d0975afe",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa76500d62bcd2e024080",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041",
+                  "65573fa5655447403702a816",
+                  "64afc71497cf3a403c01ff38"
+                ],
+                "Plate": "656f9fa0498d1b7e3e071d98",
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_back"
+                ],
+                "bluntDamageReduceFromSoftArmor": true,
+                "locked": false
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": false
+        },
+        {
+          "_id": "695752ce736b97c38b975b03",
+          "_mergeSlotWithChildren": true,
+          "_name": "Soft_armor_front",
+          "_parent": "695751925e767177d0975afe",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6572e5221b5bc1185508c24f"
+                ],
+                "Plate": "6572e5221b5bc1185508c24f",
+                "armorColliders": [
+                  "RibcageUp",
+                  "RibcageLow"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "695752d1c094efba40975b04",
+          "_mergeSlotWithChildren": true,
+          "_name": "Soft_armor_back",
+          "_parent": "695751925e767177d0975afe",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6572e52f73c0eabb700109a0"
+                ],
+                "Plate": "6572e52f73c0eabb700109a0",
+                "armorColliders": [
+                  "SpineDown",
+                  "SpineTop"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "695752d3efb6750319975b05",
+          "_mergeSlotWithChildren": true,
+          "_name": "Soft_armor_left",
+          "_parent": "695751925e767177d0975afe",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6572e53c73c0eabb700109a4"
+                ],
+                "Plate": "6572e53c73c0eabb700109a4",
+                "armorColliders": [
+                  "LeftSideChestDown"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "695752d5f316cbb72a975b06",
+          "_mergeSlotWithChildren": true,
+          "_name": "soft_armor_right",
+          "_parent": "695751925e767177d0975afe",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6572e54873c0eabb700109a8"
+                ],
+                "Plate": "6572e54873c0eabb700109a8",
+                "armorColliders": [
+                  "RightSideChestDown"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "NFM THOR MCVS Overt plate carrier (Olive Drab)",
+        "shortName": "THOR MCVS-OV",
+        "description": "The THOR MCVS-OV plate carrier is an individual load-bearing and ballistic protection rig designed to be as modular as possible while providing ample protection to the user. Manufactured by NFM Group. Olive Drab version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "traders": {},
+    "fleaPriceRoubles": 36823,
+    "handbookPriceRoubles": 5513,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "695751925e767177d0975afe",
+        "_id": "69575190a4f4315e88975afd",
+        "_items": [
+          {
+            "_id": "6957518b179ad39bbc975afc",
+            "_tpl": "695751925e767177d0975afe",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "695751998c537dc428975aff",
+            "_tpl": "656f9fa0498d1b7e3e071d98",
+            "slotId": "Front_plate",
+            "parentId": "6957518b179ad39bbc975afc"
+          },
+          {
+            "_id": "6957519ac69fe79a4e975b00",
+            "_tpl": "656f9fa0498d1b7e3e071d98",
+            "slotId": "Back_plate",
+            "parentId": "6957518b179ad39bbc975afc"
+          },
+          {
+            "_id": "6957530673be5027cc975b0a",
+            "_tpl": "6572e5221b5bc1185508c24f",
+            "slotId": "Soft_armor_front",
+            "parentId": "6957518b179ad39bbc975afc"
+          },
+          {
+            "_id": "69575306ab77b28d38975b09",
+            "_tpl": "6572e52f73c0eabb700109a0",
+            "slotId": "Soft_armor_back",
+            "parentId": "6957518b179ad39bbc975afc"
+          },
+          {
+            "_id": "69575305f61bfe3bcb975b08",
+            "_tpl": "6572e53c73c0eabb700109a4",
+            "slotId": "Soft_armor_left",
+            "parentId": "6957518b179ad39bbc975afc"
+          },
+          {
+            "_id": "695753044ec3cc50af975b07",
+            "_tpl": "6572e54873c0eabb700109a8",
+            "slotId": "soft_armor_right",
+            "parentId": "6957518b179ad39bbc975afc"
+          }
+        ],
+        "_name": "NFM THOR MCVS-OV Olive Drab Stock Preset",
+        "_parent": "6957518b179ad39bbc975afc",
+        "_type": "Preset"
+      }
+    ]
   }
 }

@@ -680,6 +680,112 @@
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
+    },
+    {
+      "key": "Headwear/helmets/opscore_xp/helmet_fast_xp_shared.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/opscore_xp/helmet_fast_xp_mc.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "Headwear/helmets/opscore_xp/helmet_fast_xp_shared.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/opscore_xp/helmet_fast_xp_tan.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "Headwear/helmets/opscore_xp/helmet_fast_xp_shared.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/opscore_xp/helmet_fast_xp_blk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "Headwear/helmets/opscore_xp/helmet_fast_xp_shared.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/opscore_xp/helmet_fast_xp_untar.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "Headwear/helmets/opscore_xp/helmet_fast_xp_shared.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/opscore_xp/helmet_fast_xp_cover_mc.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "Headwear/helmets/opscore_xp/helmet_fast_xp_shared.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/opscore_xp/helmet_fast_xp_cover_mcalp.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "Headwear/helmets/opscore_xp/helmet_fast_xp_shared.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/opscore_xp/helmet_fast_xp_cover_odrab.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "Headwear/helmets/opscore_xp/helmet_fast_xp_shared.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/opscore_xp/helmet_fast_xp_cover_mcblk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "Headwear/helmets/opscore_xp/helmet_fast_xp_shared.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/opscore_xp/helmet_fast_xp_cover_desert_night.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "Headwear/helmets/opscore_xp/helmet_fast_xp_shared.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/opscore_xp/helmet_fast_xp_cover_aor2.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "Headwear/helmets/opscore_xp/helmet_fast_xp_shared.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Bodywear/armoredRigs/rig_nfm_thor_od.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
     }
   ]
 }
