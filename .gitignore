@@ -7,3 +7,5 @@ node_modules
 tsconfig.json
 package-lock.json
 mod.code-workspace
+/.idea
+/WTT-CAG/obj
