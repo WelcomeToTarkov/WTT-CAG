@@ -394,22 +394,6 @@
       ]
     },
     {
-      "key": "Headwear/masks/mask_gasmask_pmk4blk.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
-      "key": "Headwear/masks/mask_gasmask_pmk4tan.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
       "key": "Headwear/masks/mask_gasmask_pmk4wht.bundle",
       "dependencyKeys": [
         "shaders",
@@ -789,6 +773,14 @@
     },
     {
       "key": "Bodywear/armoredRigs/NFM_THOR/rig_nfm_thor_mc.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Misc/armorPlates/plate_dfndr_iiia.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
