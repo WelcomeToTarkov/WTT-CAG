@@ -470,312 +470,6 @@
       }
     }
   },
-  "68e41eb267f7a14bfd34e16f": {
-    "itemTplToClone": "5c0e66e2d174af02a96252f4",
-    "parentId": "55818b224bdc2dde698b456f",
-    "handbookParentId": "5b5f755f86f77447ec5d770e",
-    "overrideProperties": {
-      "Prefab": {
-        "path": "Headwear/helmets/ihps/ihps_cover_mc.bundle",
-        "rcid": ""
-      },
-      "Weight": 0.01,
-      "CanSellOnRagfair": true,
-      "Height": 1,
-      "Width": 1,
-      "ItemSound": "item_cloth_generic",
-      "Unlootable": false,
-      "CanPutIntoDuringTheRaid": false,
-      "Indestructibility": 0,
-      "ArmorType": "None",
-      "BluntThroughput": 1,
-      "armorClass": 0,
-      "armorColliders": [],
-      "mousePenalty": 0,
-      "speedPenaltyPercent": 0,
-      "Durability": 100,
-      "RicochetParams": {
-        "x": 0,
-        "y": 0,
-        "z": 1
-      },
-      "weaponErgonomicPenalty": 0,
-      "Slots": [
-        {
-          "_name": "mod_equipment_000",
-          "_id": "68e41eb467c72cef3cbb438d",
-          "_parent": "68e41eb267f7a14bfd34e16f",
-          "_props": {
-            "filters": [
-              {
-                "Filter": [
-                  "6897d6a13858711f63d149c3"
-                ]
-              }
-            ]
-          },
-          "_required": false,
-          "_mergeSlotWithChildren": true,
-          "_proto": "64479fdf9731c8fadc0642c1"
-        },
-        {
-          "_name": "mod_mount_000",
-          "_id": "68e41eb6d540006f6731c743",
-          "_parent": "68e41eb267f7a14bfd34e16f",
-          "_props": {
-            "filters": [
-              {
-                "Filter": [
-                  "6898b5d1db78a51e440ffb0d",
-                  "6898b3df9fc5e87e7b16158d",
-                  "689f6510c0fc0a4d4925334f",
-                  "689f6557898dcc1c04a856e0",
-                  "68e41f357652f8af58a1b9f8",
-                  "68e41f5e47ce4e1391caa5b5",
-                  "68e41fb9e5443e5476974e20",
-                  "68e42008a969685c642fca53",
-                  "689f80187f8612e86998b619"
-                ]
-              }
-            ]
-          },
-          "_required": false,
-          "_mergeSlotWithChildren": true,
-          "_proto": "64479fdf9731c8fadc0642c1"
-        },
-        {
-          "_name": "mod_mount_001",
-          "_id": "68e420965cf6786bb2279595",
-          "_parent": "68e41eb267f7a14bfd34e16f",
-          "_props": {
-            "filters": [
-              {
-                "Filter": [
-                  "6898b5d1db78a51e440ffb0d",
-                  "6898b3df9fc5e87e7b16158d",
-                  "689f6510c0fc0a4d4925334f",
-                  "689f6557898dcc1c04a856e0",
-                  "68e41f357652f8af58a1b9f8",
-                  "68e41f5e47ce4e1391caa5b5",
-                  "68e41fb9e5443e5476974e20",
-                  "68e42008a969685c642fca53",
-                  "689f80187f8612e86998b619"
-                ]
-              }
-            ]
-          },
-          "_required": false,
-          "_mergeSlotWithChildren": true,
-          "_proto": "64479fdf9731c8fadc0642c1"
-        }
-      ]
-    },
-    "locales": {
-      "en": {
-        "name": "IHPS helmet cover (MultiCam)",
-        "shortName": "IHPS",
-        "description": "A fabric camouflage cover tailored for the IHPS Combat Helmet."
-      }
-    },
-    "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "addtoTraders": true,
-    "fleaPriceRoubles": 3011,
-    "handbookPriceRoubles": 500,
-    "addtoStaticLootContainers": true,
-    "staticLootContainers": [
-      {
-        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
-        "probability": 7
-      },
-      {
-        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
-        "probability": 6
-      }
-    ],
-    "addWeaponPreset": false,
-    "weaponPresets": [],
-    "traders": {
-      "RAGMAN": {
-        "6930973fc00b2b15fc617986": {
-          "barterSettings": {
-            "loyalLevel": 3,
-            "unlimitedCount": true,
-            "stackObjectsCount": 10
-          },
-          "barters": [
-            {
-              "count": 3233,
-              "_tpl": "MONEY_ROUBLES"
-            }
-          ]
-        }
-      }
-    }
-  },
-  "68e421a2216cf1469d6c6bf1": {
-    "itemTplToClone": "68e41eb267f7a14bfd34e16f",
-    "parentId": "55818b224bdc2dde698b456f",
-    "handbookParentId": "5b5f755f86f77447ec5d770e",
-    "overrideProperties": {
-      "Prefab": {
-        "path": "Headwear/helmets/ihps/ihps_cover_blk.bundle",
-        "rcid": ""
-      }
-    },
-    "locales": {
-      "en": {
-        "name": "IHPS helmet cover (Black)",
-        "shortName": "IHPS",
-        "description": "A fabric camouflage cover tailored for the IHPS Combat Helmet."
-      }
-    },
-    "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "addtoTraders": true,
-    "fleaPriceRoubles": 3011,
-    "handbookPriceRoubles": 500,
-    "addtoStaticLootContainers": true,
-    "staticLootContainers": [
-      {
-        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
-        "probability": 7
-      },
-      {
-        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
-        "probability": 6
-      }
-    ],
-    "addWeaponPreset": false,
-    "weaponPresets": [],
-    "traders": {
-      "RAGMAN": {
-        "6930973fc00b2b15fc617987": {
-          "barterSettings": {
-            "loyalLevel": 3,
-            "unlimitedCount": true,
-            "stackObjectsCount": 10
-          },
-          "barters": [
-            {
-              "count": 3233,
-              "_tpl": "MONEY_ROUBLES"
-            }
-          ]
-        }
-      }
-    }
-  },
-  "68e42207b9cb167bbeac1e4d": {
-    "itemTplToClone": "68e41eb267f7a14bfd34e16f",
-    "parentId": "55818b224bdc2dde698b456f",
-    "handbookParentId": "5b5f755f86f77447ec5d770e",
-    "overrideProperties": {
-      "Prefab": {
-        "path": "Headwear/helmets/ihps/ihps_cover_odg.bundle",
-        "rcid": ""
-      }
-    },
-    "locales": {
-      "en": {
-        "name": "IHPS helmet cover (Olive Drab)",
-        "shortName": "IHPS",
-        "description": "A fabric camouflage cover tailored for the IHPS Combat Helmet."
-      }
-    },
-    "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "addtoTraders": true,
-    "fleaPriceRoubles": 3011,
-    "handbookPriceRoubles": 500,
-    "addtoStaticLootContainers": true,
-    "staticLootContainers": [
-      {
-        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
-        "probability": 7
-      },
-      {
-        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
-        "probability": 6
-      }
-    ],
-    "addWeaponPreset": false,
-    "weaponPresets": [],
-    "traders": {
-      "RAGMAN": {
-        "6930973fc00b2b15fc617988": {
-          "barterSettings": {
-            "loyalLevel": 3,
-            "unlimitedCount": true,
-            "stackObjectsCount": 10
-          },
-          "barters": [
-            {
-              "count": 3233,
-              "_tpl": "MONEY_ROUBLES"
-            }
-          ]
-        }
-      }
-    }
-  },
-  "68e4221053effcaa2d3bd9d5": {
-    "itemTplToClone": "68e41eb267f7a14bfd34e16f",
-    "parentId": "55818b224bdc2dde698b456f",
-    "handbookParentId": "5b5f755f86f77447ec5d770e",
-    "overrideProperties": {
-      "Prefab": {
-        "path": "Headwear/helmets/ihps/ihps_cover_tan.bundle",
-        "rcid": ""
-      }
-    },
-    "locales": {
-      "en": {
-        "name": "IHPS helmet cover (Tan)",
-        "shortName": "IHPS",
-        "description": "A fabric camouflage cover tailored for the IHPS Combat Helmet."
-      }
-    },
-    "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "addtoTraders": true,
-    "fleaPriceRoubles": 3011,
-    "handbookPriceRoubles": 500,
-    "addtoStaticLootContainers": true,
-    "staticLootContainers": [
-      {
-        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
-        "probability": 7
-      },
-      {
-        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
-        "probability": 6
-      }
-    ],
-    "addWeaponPreset": false,
-    "weaponPresets": [],
-    "traders": {
-      "RAGMAN": {
-        "6930973fc00b2b15fc617989": {
-          "barterSettings": {
-            "loyalLevel": 3,
-            "unlimitedCount": true,
-            "stackObjectsCount": 10
-          },
-          "barters": [
-            {
-              "count": 3233,
-              "_tpl": "MONEY_ROUBLES"
-            }
-          ]
-        }
-      }
-    }
-  },
   "6952e2acf69d4f7575c90345": {
     "itemTplToClone": "5c0e66e2d174af02a96252f4",
     "parentId": "55818b224bdc2dde698b456f",
@@ -845,6 +539,352 @@
           "barters": [
             {
               "count": 3390,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "695572c471cdc428e9d8e2a6": {
+    "itemTplToClone": "5c0e66e2d174af02a96252f4",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/opscore_xp/helmet_fast_xp_cover_mc.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.01,
+      "CanSellOnRagfair": true,
+      "Height": 1,
+      "Width": 1,
+      "ItemSound": "item_cloth_generic",
+      "Unlootable": false,
+      "CanPutIntoDuringTheRaid": false,
+      "Indestructibility": 0,
+      "ArmorType": "None",
+      "BluntThroughput": 1,
+      "armorClass": 0,
+      "armorColliders": [],
+      "mousePenalty": 0,
+      "speedPenaltyPercent": 0,
+      "Durability": 100,
+      "RicochetParams": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      },
+      "weaponErgonomicPenalty": 0,
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "FAST XP helmet cover (MultiCam)",
+        "shortName": "FAST XP",
+        "description": "A fabric camouflage cover tailored for the Ops-Core FAST XP high cut helmet used to help break up the helmet’s outline and reduce glare, offering a slight edge in concealment. MultiCam version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 3011,
+    "handbookPriceRoubles": 500,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "RAGMAN": {
+        "6955730889003c4e23d8e2aa": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 10
+          },
+          "barters": [
+            {
+              "count": 2109,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "695572ff13710213b5d8e2a8": {
+    "itemTplToClone": "695572c471cdc428e9d8e2a6",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/opscore_xp/helmet_fast_xp_cover_mcalp.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "FAST XP helmet cover (MultiCam Alpine)",
+        "shortName": "FAST XP",
+        "description": "A fabric camouflage cover tailored for the Ops-Core FAST XP high cut helmet used to help break up the helmet’s outline and reduce glare, offering a slight edge in concealment. MultiCam Alpine version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 3011,
+    "handbookPriceRoubles": 500,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "RAGMAN": {
+        "69557306cb2adcbbc6d8e2a9": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 10
+          },
+          "barters": [
+            {
+              "count": 2109,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6955a797ea9f2f0f0bc5ccb2": {
+    "itemTplToClone": "695572c471cdc428e9d8e2a6",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/opscore_xp/helmet_fast_xp_cover_mcblk.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "FAST XP helmet cover (MultiCam Black)",
+        "shortName": "FAST XP",
+        "description": "A fabric camouflage cover tailored for the Ops-Core FAST XP high cut helmet used to help break up the helmet’s outline and reduce glare, offering a slight edge in concealment. MultiCam Black version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 3011,
+    "handbookPriceRoubles": 500,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "RAGMAN": {
+        "6955a795059a7c9decc5ccb1": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 10
+          },
+          "barters": [
+            {
+              "count": 2109,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6955a7fee96a66f2b6c5ccb3": {
+    "itemTplToClone": "695572c471cdc428e9d8e2a6",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/opscore_xp/helmet_fast_xp_cover_aor2.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "FAST XP helmet cover (AOR2)",
+        "shortName": "FAST XP",
+        "description": "A fabric camouflage cover tailored for the Ops-Core FAST XP high cut helmet used to help break up the helmet’s outline and reduce glare, offering a slight edge in concealment. AOR2 version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 3011,
+    "handbookPriceRoubles": 500,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "RAGMAN": {
+        "6955a7ffd61677addfc5ccb4": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 10
+          },
+          "barters": [
+            {
+              "count": 2109,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6955a83da2a2fb80a8c5ccb5": {
+    "itemTplToClone": "695572c471cdc428e9d8e2a6",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/opscore_xp/helmet_fast_xp_cover_desert_night.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "FAST XP helmet cover (DNC)",
+        "shortName": "FAST XP",
+        "description": "A fabric camouflage cover tailored for the Ops-Core FAST XP high cut helmet used to help break up the helmet’s outline and reduce glare, offering a slight edge in concealment. Desert Night version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 3011,
+    "handbookPriceRoubles": 500,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "RAGMAN": {
+        "6955a83f134a1452ddc5ccb6": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 10
+          },
+          "barters": [
+            {
+              "count": 2109,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6955a85cf6e2edacacc5ccb8": {
+    "itemTplToClone": "695572c471cdc428e9d8e2a6",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/opscore_xp/helmet_fast_xp_cover_odrab.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "FAST XP helmet cover (Olive Drab)",
+        "shortName": "FAST XP",
+        "description": "A fabric camouflage cover tailored for the Ops-Core FAST XP high cut helmet used to help break up the helmet’s outline and reduce glare, offering a slight edge in concealment. Olive Drab version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 3011,
+    "handbookPriceRoubles": 500,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "RAGMAN": {
+        "6955a85a3173c785d2c5ccb7": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 10
+          },
+          "barters": [
+            {
+              "count": 2109,
               "_tpl": "MONEY_ROUBLES"
             }
           ]

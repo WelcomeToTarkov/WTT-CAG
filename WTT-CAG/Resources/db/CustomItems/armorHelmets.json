@@ -181,5 +181,403 @@
       }
     ],
     "masterySections": []
+  },
+  "6955714f0a371ee4bed8e29e": {
+    "itemTplToClone": "5ac8d6885acfc400180ae7b0",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/opscore_xp/helmet_fast_xp_mc.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.83,
+      "mousePenalty": -1,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": -1,
+      "Slots": [
+        {
+          "_id": "695574b613d5bec310d8e2b7",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "6955714f0a371ee4bed8e29e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "695572ff13710213b5d8e2a8",
+                  "695572c471cdc428e9d8e2a6",
+                  "6955a797ea9f2f0f0bc5ccb2",
+                  "6955a7fee96a66f2b6c5ccb3",
+                  "6955a83da2a2fb80a8c5ccb5",
+                  "6955a85cf6e2edacacc5ccb8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "695574b5052e78fd36d8e2b6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "6955714f0a371ee4bed8e29e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ea058e01dbce517f324b3e2",
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "695574b3c333edfb40d8e2b5",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "6955714f0a371ee4bed8e29e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "695574b24c19132b09d8e2b4",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_001",
+          "_parent": "6955714f0a371ee4bed8e29e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16b9fffcdbcb0176308b34"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "695574b1ba1848b8bed8e2b3",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_002",
+          "_parent": "6955714f0a371ee4bed8e29e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0e66e2d174af02a96252f4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "695574ae174a337e34d8e2b2",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "6955714f0a371ee4bed8e29e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "695573f047936dde03d8e2ab"
+                ],
+                "Plate": "695573f047936dde03d8e2ab",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "695574abfb26eff1b4d8e2b1",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "6955714f0a371ee4bed8e29e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6955743c3cc456ac9fd8e2ac"
+                ],
+                "Plate": "6955743c3cc456ac9fd8e2ac",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Ops-Core FAST XP high cut helmet (MultiCam)",
+        "shortName": "FAST XP",
+        "description": "The FAST XP high cut helmet system provides an improvement upon the FAST MT super-high cut system by utilising a thicker shell to provide better ballistic durability and protection, at a light weight to minimise user injury."
+      }
+    },
+    "fleaPriceRoubles": 55382,
+    "handbookPriceRoubles": 4897,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 15
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 40
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "6955714f0a371ee4bed8e29e",
+        "_id": "695574759af1a23caad8e2b0",
+        "_items": [
+          {
+            "_id": "6955746e162379a60ad8e2ad",
+            "_tpl": "6955714f0a371ee4bed8e29e",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "69557473869533fe03d8e2ae",
+            "_tpl": "695573f047936dde03d8e2ab",
+            "slotId": "Helmet_top",
+            "parentId": "6955746e162379a60ad8e2ad"
+          },
+          {
+            "_id": "6955747444e938309ed8e2af",
+            "_tpl": "6955743c3cc456ac9fd8e2ac",
+            "slotId": "Helmet_back",
+            "parentId": "6955746e162379a60ad8e2ad"
+          }
+        ],
+        "_name": "FAST XP Multicam Stock Preset",
+        "_parent": "6955746e162379a60ad8e2ad",
+        "_type": "Preset"
+      }
+    ],
+    "masterySections": []
+  },
+  "6955a5d5094d2caaafc5ccac": {
+    "itemTplToClone": "6955714f0a371ee4bed8e29e",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/opscore_xp/helmet_fast_xp_tan.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Ops-Core FAST XP high cut helmet (Urban Tan)",
+        "shortName": "FAST XP",
+        "description": "The FAST XP high cut helmet system provides an improvement upon the FAST MT super-high cut system by utilising a thicker shell to provide better ballistic durability and protection, at a light weight to minimise user injury. Urban Tan version."
+      }
+    },
+    "fleaPriceRoubles": 55382,
+    "handbookPriceRoubles": 4897,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 15
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 40
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "6955a5d5094d2caaafc5ccac",
+        "_id": "6955a5da049021b1e7c5ccad",
+        "_items": [
+          {
+            "_id": "6955a5dbb41d24acabc5ccae",
+            "_tpl": "6955a5d5094d2caaafc5ccac",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "6955a5e4dc92616598c5ccb0",
+            "_tpl": "695573f047936dde03d8e2ab",
+            "slotId": "Helmet_top",
+            "parentId": "6955a5dbb41d24acabc5ccae"
+          },
+          {
+            "_id": "6955a5e3b2070b59c0c5ccaf",
+            "_tpl": "6955743c3cc456ac9fd8e2ac",
+            "slotId": "Helmet_back",
+            "parentId": "6955a5dbb41d24acabc5ccae"
+          }
+        ],
+        "_name": "FAST XP Urban Tan Stock Preset",
+        "_parent": "6955a5dbb41d24acabc5ccae",
+        "_type": "Preset"
+      }
+    ],
+    "masterySections": []
+  },
+  "69557794e5a97ebffec5cca7": {
+    "itemTplToClone": "6955714f0a371ee4bed8e29e",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/opscore_xp/helmet_fast_xp_blk.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Ops-Core FAST XP high cut helmet",
+        "shortName": "FAST XP",
+        "description": "The FAST XP high cut helmet system provides an improvement upon the FAST MT super-high cut system by utilising a thicker shell to provide better ballistic durability and protection, at a light weight to minimise user injury."
+      }
+    },
+    "fleaPriceRoubles": 55382,
+    "handbookPriceRoubles": 4897,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 15
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 40
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "69557794e5a97ebffec5cca7",
+        "_id": "6955779a677946dd64c5cca8",
+        "_items": [
+          {
+            "_id": "6955779aa4a0696a5ac5cca9",
+            "_tpl": "69557794e5a97ebffec5cca7",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "695577a1b14644d7bcc5ccab",
+            "_tpl": "695573f047936dde03d8e2ab",
+            "slotId": "Helmet_top",
+            "parentId": "6955779aa4a0696a5ac5cca9"
+          },
+          {
+            "_id": "695577a03b051a182ec5ccaa",
+            "_tpl": "6955743c3cc456ac9fd8e2ac",
+            "slotId": "Helmet_back",
+            "parentId": "6955779aa4a0696a5ac5cca9"
+          }
+        ],
+        "_name": "FAST XP Stock Preset",
+        "_parent": "6955779aa4a0696a5ac5cca9",
+        "_type": "Preset"
+      }
+    ],
+    "masterySections": []
   }
 }
