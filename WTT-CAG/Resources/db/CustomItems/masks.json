@@ -991,7 +991,7 @@
         "path": "Headwear/masks/mask_hafm_kii_blk.bundle",
         "rcid": ""
       },
-      "ConflictingItems":[
+      "ConflictingItems": [
         "59e770f986f7742cbe3164ef",
         "572b7d8524597762b472f9d1",
         "5aa2b87de5b5b00016327c25",
@@ -1022,10 +1022,10 @@
       "ArmorMaterial": "UHMWPE",
       "ArmorType": "Light",
       "armorClass": "4",
-      "armorColliders": [ 
-         "HeadCommon",
-         "Jaw",
-         "Eyes"
+      "armorColliders": [
+        "HeadCommon",
+        "Jaw",
+        "Eyes"
       ],
       "BlocksEarpiece": false,
       "BlocksEyewear": true,
