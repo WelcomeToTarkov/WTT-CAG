@@ -151,7 +151,7 @@
       ]
     },
     {
-      "key": "Headwear/helmets/mich_2000/mich2000_odg.bundle",
+      "key": "Headwear/helmets/mich_2000/mich2000_spray.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
