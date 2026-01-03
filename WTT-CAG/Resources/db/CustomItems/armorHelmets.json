@@ -591,11 +591,40 @@
             "rcid": ""
         },
         "Weight": 1.55,
+        "BlocksEarpiece": true,
         "weaponErgonomicPenalty": -3.5,
+        "ClientPlayerCompressorSendLevel": -4.5,
+        "CompressorAttack": 24,
+        "CompressorGain": 5,
+        "CompressorRelease": 164,
+        "CompressorThreshold": -25,
+        "Distortion": 0.12,
+        "DropSoundType": "None",
+        "DryVolume": -60,
+        "EQBand1Frequency": 187,
+        "EQBand1Gain": 1.3,
+        "EQBand1Q": 0.3,
+        "EQBand2Frequency": 482,
+        "EQBand2Gain": 1.3,
+        "EQBand2Q": 0.3,
+        "EQBand3Frequency": 4861,
+        "EQBand3Gain": 1.3,
+        "EQBand3Q": 0.6,
+        "EffectsReturnsCompressorSendLevel": -8,
+        "EffectsReturnsGroupVolume": -80,
+        "EnvCommonCompressorSendLevel": -8,
+        "EnvNatureCompressorSendLevel": -6,
+        "EnvTechnicalCompressorSendLevel": -9,
+        "GunsCompressorSendLevel": -7,
+        "HeadphonesMixerVolume": 0,
+        "HighpassFreq": 200,
+        "HighpassResonance": 2.47,
+        "NpcCompressorSendLevel": 0,
+        "ObservedPlayerCompressorSendLevel": 0,
         "Slots": [
             {
                 "_name": "Helmet_top",
-                "_id": "6737c9625feeb6963b451b38",
+                "_id": "6958a75f4812c70102fc2c74",
                 "_parent": "680be1c97c53613b0016d45f",
                 "_props": {
                     "filters": [
@@ -619,7 +648,7 @@
             },
             {
                 "_name": "Helmet_back",
-                "_id": "6737c95f052ddc64052ef219",
+                "_id": "6958a7601a93d986a8fc2c75",
                 "_parent": "680be1c97c53613b0016d45f",
                 "_props": {
                     "filters": [
@@ -643,7 +672,7 @@
             },
             {
                 "_name": "Helmet_ears",
-                "_id": "6737c95cb6956e47de86ceef",
+                "_id": "6958a762572052912afc2c76",
                 "_parent": "680be1c97c53613b0016d45f",
                 "_props": {
                     "filters": [
@@ -669,9 +698,9 @@
     },
     "locales": {
         "en": {
-            "name": "Ulbrichts AM95 Ballistic Helmet",
+            "name": "Ulbrichts AM95 ballistic helmet",
             "shortName": "AM95",
-            "description": "A surplus AM95 ballistic helmet designed specifically for European law enforcement officers, manufactured by Ulbrichts."
+            "description": "A surplus AM95 ballistic helmet designed specifically for European law enforcement officers with built-in ear-protection headsets. Manufactured by Ulbrichts."
         }
     },
     "clearClonedProps": false,
@@ -826,7 +855,7 @@
   },
   "locales": {
       "en": {
-          "name": "Gefechtshelm Schuberth B826",
+          "name": "Gefechtshelm Schuberth B826 ballistic helmet",
           "shortName": "B826",
           "description": "The Gefechtshelm Schuberth B826 is the standard issue combat helmet of the Bundeswehr, first fielded in 1992 as a replacement of earlier M1A1 helmets that were previously used during the Cold War. It is made from Aramid composite materials and is used by all branches of the Bundeswehr."
       }
