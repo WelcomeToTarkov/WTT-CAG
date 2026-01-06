@@ -314,5 +314,67 @@
     "staticLootContainers": [],
     "addWeaponPreset": false,
     "weaponPresets": []
+  },
+  "6959f5328aa6eaf6ea62b797": {
+    "itemTplToClone": "6575ef599c7cad336508e453",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/armor_plates/soft_armor_front.bundle",
+        "rcid": ""
+      },
+      "armorClass": "4",
+      "Durability": 33,
+      "MaxDurability": 33
+    },
+    "locales": {
+      "en": {
+        "name": "Aramid insert",
+        "shortName": "",
+        "description": "Aramid front insert soft armor for the Spiritus Systems LV-119 (Goons Edition)."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 34357,
+    "handbookPriceRoubles": 22913,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6959f60089e07cdf6f62b79d": {
+    "itemTplToClone": "6575ef599c7cad336508e453",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/armor_plates/soft_armor_back.bundle",
+        "rcid": ""
+      },
+      "armorClass": "4",
+      "Durability": 33,
+      "MaxDurability": 33
+    },
+    "locales": {
+      "en": {
+        "name": "Aramid insert",
+        "shortName": "",
+        "description": "Aramid rear insert soft armor for the Spiritus Systems LV-119 (Goons Edition)."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 34357,
+    "handbookPriceRoubles": 22913,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": false,
+    "weaponPresets": []
   }
 }
