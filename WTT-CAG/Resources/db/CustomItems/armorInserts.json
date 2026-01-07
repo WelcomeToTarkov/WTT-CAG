@@ -376,5 +376,105 @@
     "staticLootContainers": [],
     "addWeaponPreset": false,
     "weaponPresets": []
+  },
+  "695cff59392d1844af62173d": {
+    "itemTplToClone": "657f8b05f4c82973640b2348",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/armor_plates/helmet_ears.bundle",
+        "rcid": ""
+      },
+      "armorClass": "4",
+      "armorColliders": [
+        "Ears"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Hybrid composite materials",
+        "shortName": "",
+        "description": "Hybrid composite insert soft armor for the MSA ACH TC-2000 MICH helmet series."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 34357,
+    "handbookPriceRoubles": 24766,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "695e43673c56069c92c500cb": {
+    "itemTplToClone": "657f8b05f4c82973640b2348",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/armor_plates/helmet_top.bundle",
+        "rcid": ""
+      },
+      "Durability": 10,
+      "MaxDurability": 10,
+      "armorClass": "1",
+      "armorColliders": [
+        "ParietalHead"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Foam Padding insert",
+        "shortName": "",
+        "description": "A padded insert for use in the Pro-Tec Classic skate helmet."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 4456,
+    "handbookPriceRoubles": 3463,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "695e437b0ed0fcccdfc500cc": {
+    "itemTplToClone": "657f8b05f4c82973640b2348",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/armor_plates/helmet_back.bundle",
+        "rcid": ""
+      },
+      "Durability": 10,
+      "MaxDurability": 10,
+      "armorClass": "1",
+      "armorColliders": [
+        "BackHead"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Foam Padding insert",
+        "shortName": "",
+        "description": "A back padded insert for use in the Pro-Tec Classic skate helmet."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 4456,
+    "handbookPriceRoubles": 3463,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": false,
+    "weaponPresets": []
   }
 }

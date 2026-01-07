@@ -931,5 +931,580 @@
         "_type": "Preset"
       }
     ]
+  },
+  "695cfbcebab602cd85621736": {
+    "itemTplToClone": "5d5e7d28a4b936645d161203",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/mich_2000/mich2000_blk.bundle",
+        "rcid": ""
+      },
+      "Weight": 1.6,
+      "Height": 2,
+      "Width": 2,
+      "Slots": [
+        {
+          "_id": "695cfe371d9c400681621737",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "695cfbcebab602cd85621736",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "695cfe399fd25e3b1f621738",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_000",
+          "_parent": "695cfbcebab602cd85621736",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6897d6a13858711f63d149c3"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "695cfe399fd25e3b1f621738",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_001",
+          "_parent": "695cfbcebab602cd85621736",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "695cfe399fd25e3b1f621738",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_002",
+          "_parent": "695cfbcebab602cd85621736",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "695cfe3cdef1ce1d46621739",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "695cfbcebab602cd85621736",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0e66e2d174af02a96252f4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "695cfe3d5642df6acf62173a",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "695cfbcebab602cd85621736",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8a8d7db258e5600fe33d"
+                ],
+                "Plate": "657f8a8d7db258e5600fe33d",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "695cfe40d77766dc3a62173b",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "695cfbcebab602cd85621736",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8b05f4c82973640b2348"
+                ],
+                "Plate": "657f8b05f4c82973640b2348",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "695cff246593b83de162173c",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_ears",
+          "_parent": "695cfbcebab602cd85621736",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "695cff59392d1844af62173d"
+                ],
+                "Plate": "695cff59392d1844af62173d",
+                "armorColliders": [
+                  "Ears"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "MSA ACH TC-2000 MICH helmet",
+        "shortName": "TC-2000",
+        "description": "The MSA Advanced Combat Helmet (ACH) delivers advanced ballistic, fragmentation, and impact head protection, with comfort for long-term use. The helmet’s low-profile design reduces the risk of interference in target acquisition and ensures compatibility with NVGs and headsets."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 46704,
+    "handbookPriceRoubles": 3903,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "695cfbcebab602cd85621736",
+        "_id": "695d001f4e388220a462173e",
+        "_items": [
+          {
+            "_id": "695cfbc197cdceac7c621731",
+            "_tpl": "695cfbcebab602cd85621736",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "695d0022fab542cce062173f",
+            "_tpl": "657f8a8d7db258e5600fe33d",
+            "slotId": "Helmet_top",
+            "parentId": "695cfbc197cdceac7c621731"
+          },
+          {
+            "_id": "695d00229ed865a9bb621740",
+            "_tpl": "657f8b05f4c82973640b2348",
+            "slotId": "Helmet_back",
+            "parentId": "695cfbc197cdceac7c621731"
+          },
+          {
+            "_id": "695d0023ecb91b3f14621741",
+            "_tpl": "695cff59392d1844af62173d",
+            "slotId": "Helmet_ears",
+            "parentId": "695cfbc197cdceac7c621731"
+          }
+        ],
+        "_name": "MICH2000 Stock Preset",
+        "_parent": "695cfbc197cdceac7c621731",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "695d01c4146725a805621742": {
+    "itemTplToClone": "695cfbcebab602cd85621736",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/mich_2000/mich2000_fde.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "MSA ACH TC-2000 MICH helmet (Sand)",
+        "shortName": "TC-2000",
+        "description": "The MSA Advanced Combat Helmet (ACH) delivers advanced ballistic, fragmentation, and impact head protection, with comfort for long-term use. The helmet’s low-profile design reduces the risk of interference in target acquisition and ensures compatibility with NVGs and headsets. Sand version."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 46704,
+    "handbookPriceRoubles": 3903,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "695d01c4146725a805621742",
+        "_id": "695d062eb369248ac2621743",
+        "_items": [
+          {
+            "_id": "695d062e7cb9a698af621744",
+            "_tpl": "695d01c4146725a805621742",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "695d0635edc736b891621747",
+            "_tpl": "657f8a8d7db258e5600fe33d",
+            "slotId": "Helmet_top",
+            "parentId": "695d062e7cb9a698af621744"
+          },
+          {
+            "_id": "695d06351c085fddba621746",
+            "_tpl": "657f8b05f4c82973640b2348",
+            "slotId": "Helmet_back",
+            "parentId": "695d062e7cb9a698af621744"
+          },
+          {
+            "_id": "695d0634fb1398c0db621745",
+            "_tpl": "695cff59392d1844af62173d",
+            "slotId": "Helmet_ears",
+            "parentId": "695d062e7cb9a698af621744"
+          }
+        ],
+        "_name": "MICH2000 Sand Stock Preset",
+        "_parent": "695d062e7cb9a698af621744",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "695d06494fa4e6a2cc621749": {
+    "itemTplToClone": "695cfbcebab602cd85621736",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/mich_2000/mich2000_spray.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "MSA ACH TC-2000 MICH helmet (Mesh Spray)",
+        "shortName": "TC-2000",
+        "description": "The MSA Advanced Combat Helmet (ACH) delivers advanced ballistic, fragmentation, and impact head protection, with comfort for long-term use. The helmet’s low-profile design reduces the risk of interference in target acquisition and ensures compatibility with NVGs and headsets. Sand version."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 46704,
+    "handbookPriceRoubles": 3903,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "695d06494fa4e6a2cc621749",
+        "_id": "695d064e7b02e4dd5762174a",
+        "_items": [
+          {
+            "_id": "695d064f0120cd5e1b62174b",
+            "_tpl": "695d06494fa4e6a2cc621749",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "695d06564ed275c9ce62174e",
+            "_tpl": "657f8a8d7db258e5600fe33d",
+            "slotId": "Helmet_top",
+            "parentId": "695d064f0120cd5e1b62174b"
+          },
+          {
+            "_id": "695d0655817ec8a58f62174d",
+            "_tpl": "657f8b05f4c82973640b2348",
+            "slotId": "Helmet_back",
+            "parentId": "695d064f0120cd5e1b62174b"
+          },
+          {
+            "_id": "695d065407b0118d3862174c",
+            "_tpl": "695cff59392d1844af62173d",
+            "slotId": "Helmet_ears",
+            "parentId": "695d064f0120cd5e1b62174b"
+          }
+        ],
+        "_name": "MICH2000 Spray Stock Preset",
+        "_parent": "695d064f0120cd5e1b62174b",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "695e42dec3e738af38c500c6": {
+    "itemTplToClone": "5ea05cf85ad9772e6624305d",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/helmet_protec_blk.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.33,
+      "mousePenalty": 0,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": 0,
+      "Slots": [
+        {
+          "_id": "695e43b1a80c3a5d40c500d3",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "695e42dec3e738af38c500c6",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "695e43b0456820f239c500d2",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "695e42dec3e738af38c500c6",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "695e43673c56069c92c500cb"
+                ],
+                "Plate": "695e43673c56069c92c500cb",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "695e43a48bd2259040c500d0",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "695e42dec3e738af38c500c6",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "695e437b0ed0fcccdfc500cc"
+                ],
+                "Plate": "695e437b0ed0fcccdfc500cc",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Pro-Tec Classic modified skate helmet",
+        "shortName": "Pro-Tec",
+        "description": "A lightweight, high-impact ABS shell helmet originally designed for skate and BMX use, repurposed in the field by operators for bump protection and gear mounting due to its comfort and low profile. Seen worn historically by Special Forces units in conflict zones, it’s often modified with custom mounts to fit night vision devices and comms gear. Favored when weight and mobility are more critical than full ballistic protection. Manufactured by Pro-Tec."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 11284,
+    "handbookPriceRoubles": 3903,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "695e42dec3e738af38c500c6",
+        "_id": "695e43d79d6f1340edc500d4",
+        "_items": [
+          {
+            "_id": "695e414ed2dbd201dcc500c3",
+            "_tpl": "695e42dec3e738af38c500c6",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "695e43930d7c9f829dc500ce",
+            "_tpl": "695e43673c56069c92c500cb",
+            "slotId": "Helmet_top",
+            "parentId": "695e414ed2dbd201dcc500c3"
+          },
+          {
+            "_id": "695e4393a559fb1942c500cf",
+            "_tpl": "695e437b0ed0fcccdfc500cc",
+            "slotId": "Helmet_back",
+            "parentId": "695e414ed2dbd201dcc500c3"
+          }
+        ],
+        "_name": "helmet Pro-Tec Classic Stock Preset",
+        "_parent": "695e414ed2dbd201dcc500c3",
+        "_type": "Preset"
+      }
+    ]
   }
 }
