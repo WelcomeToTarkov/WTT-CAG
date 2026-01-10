@@ -541,7 +541,7 @@
       ]
     },
     {
-      "key": "Bodywear/armoredRigs/LV119/ss_lv119_goons.bundle",
+      "key": "Bodywear/armoredRigs/LV119/rig_lv119_goons.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
