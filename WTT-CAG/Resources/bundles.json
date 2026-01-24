@@ -575,29 +575,12 @@
       ]
     },
     {
-      "key": "Bodywear/armoredRigs/TV110/tv110_shared.bundle",
+      "key": "Bodywear/armoredRigs/TV110/rig_tv110_omon_blk.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
-      "key": "Bodywear/armoredRigs/TV110/tv110_emr.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "Bodywear/armoredRigs/TV110/tv110_shared.bundle",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
-      "key": "Bodywear/armoredRigs/TV110/tv110_mc.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "Bodywear/armoredRigs/TV110/tv110_shared.bundle",
-        "assets/commonassets/physics/physicsmaterials.bundle"
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/mods/magazines/mag_ak_izhmash_ak103_std_762x39_30.bundle"
       ]
     },
     {
@@ -764,6 +747,42 @@
     },
     {
       "key": "Headwear/helmets/helmet_protec_blk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Bodywear/armoredRigs/rig_iotv_gen4_taps.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/content/characters/character/vest/materials/item_equipment_armor_iotv_texture.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Clothing/Uppers/VKPO_EMR/top_ruaf_vkpo_emr.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/characters/character/prefabs/top_bear_fsbfastresponse.bundle"
+      ]
+    },
+    {
+      "key": "Clothing/Hands/VKPO_EMR/top_ruaf_vkpo_emr_skin.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/hands/hands_bear_fsbfastresponse.bundle",
+        "assets/content/characters/character/prefabs/top_bear_fsbfastresponse.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/nvgs/nvg_actinblack_dtnvg.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
