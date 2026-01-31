@@ -788,6 +788,109 @@
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
+    },
+    {
+      "key": "Bodywear/armoredRigs/JPC/rig_crye_jpc_coyote.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/equipment/rig_mbss/item_equipment_rig_mbss.bundle",
+        "assets/content/items/mods/magazines/mag_stanag_hk_416_steel_maritime_556x45_30.bundle",
+        "assets/content/items/mods/magazines/mag_stanag_troy_battlemag_556x45_30.bundle"
+      ]
+    },
+    {
+      "key": "Clothing/Uppers/USEC_GRYPHON/top_usec_gryphon_textures.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Clothing/Uppers/USEC_GRYPHON/top_usec_gryphon_partizan.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Clothing/Uppers/USEC_GRYPHON/top_usec_gryphon_textures.bundle",
+        "assets/content/characters/character/prefabs/top_bear_fsbfastresponse.bundle"
+      ]
+    },
+    {
+      "key": "Clothing/Uppers/USEC_GRYPHON/top_usec_gryphon_mc.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Clothing/Uppers/USEC_GRYPHON/top_usec_gryphon_textures.bundle",
+        "assets/content/characters/character/prefabs/top_bear_fsbfastresponse.bundle"
+      ]
+    },
+    {
+      "key": "Clothing/Hands/USEC_GRYPHON/hands_usec_gryphon_partizan.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Clothing/Uppers/USEC_GRYPHON/top_usec_gryphon_textures.bundle",
+        "assets/content/hands/bear/hands_bear_turtleneck_black.bundle"
+      ]
+    },
+    {
+      "key": "Clothing/Hands/USEC_GRYPHON/hands_usec_gryphon_mc.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Clothing/Uppers/USEC_GRYPHON/top_usec_gryphon_textures.bundle",
+        "assets/content/hands/bear/hands_bear_turtleneck_black.bundle"
+      ]
+    },
+    {
+      "key": "Bodywear/bodyArmor/cqc_rhino/armor_all_cqc_rhino_dpm.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/equipment/rig_custom_osprey_defence/item_equipment_rig_custom_osprey_defence.bundle"
+      ]
+    },
+    {
+      "key": "Bodywear/bodyArmor/cqc_rhino/armor_all_cqc_rhino_mtp.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/equipment/rig_custom_osprey_defence/item_equipment_rig_custom_osprey_defence.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/masks/gas_mask_m50_textures.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/masks/gas_mask_m50_green.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Headwear/masks/gas_mask_m50_textures.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/masks/gas_mask_m50_black.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Headwear/masks/gas_mask_m50_textures.bundle"
+      ]
     }
   ]
 }

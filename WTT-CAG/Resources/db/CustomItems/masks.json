@@ -83,7 +83,9 @@
       },
       "DeafStrength": "None",
       "BlocksEarpiece": true,
-      "BlocksEyewear": true
+      "BlocksEyewear": true,
+      "BlindnessProtection": 0,
+      "weaponErgonomicPenalty": -6
     },
     "locales": {
       "en": {
@@ -221,6 +223,8 @@
         "y": 0.1,
         "z": 80
       },
+      "BlindnessProtection": 0.05,
+      "weaponErgonomicPenalty": -9,
       "DeafStrength": "None",
       "BlocksEarpiece": false,
       "BlocksEyewear": true
@@ -288,6 +292,8 @@
         "path": "Headwear/masks/mask_gasmask_pmk4.bundle",
         "rcid": ""
       },
+      "BlindnessProtection": 0.15,
+      "weaponErgonomicPenalty": -8,
       "ConflictingItems": [
         "5a16b7e1fcdbcb00165aa6c9"
       ],
@@ -366,7 +372,9 @@
       "Prefab": {
         "path": "Headwear/masks/mask_gasmask_pmk4wht.bundle",
         "rcid": ""
-      }
+      },
+      "BlindnessProtection": 0.15,
+      "weaponErgonomicPenalty": -8
     },
     "locales": {
       "en": {
@@ -484,7 +492,7 @@
       },
       "mousePenalty": -1.5,
       "speedPenaltyPercent": 0,
-      "weaponErgonomicPenalty": -1
+      "weaponErgonomicPenalty": -4
     },
     "locales": {
       "en": {
@@ -510,6 +518,114 @@
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {}
+  },
+  "697df1cc71b3b5b6c5341071": {
+    "itemTplToClone": "60363c0c92ec1c31037959f5",
+    "parentId": "5a341c4686f77469e155819e",
+    "handbookParentId": "5b47574386f77428ca22b32f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/masks/gas_mask_m50_black.bundle",
+        "rcid": ""
+      },
+      "BlocksEyewear": true,
+      "BlocksFaceCover": true,
+      "BlocksEarpiece": false,
+      "BlocksHeadwear": false,
+      "BlindnessProtection": 0.1,
+      "weaponErgonomicPenalty": -10
+    },
+    "locales": {
+      "en": {
+        "name": "Avon M50 JSGPM gas mask",
+        "shortName": "M50",
+        "description": "The M50 Joint Service General Purpose Mask (JSGPM) is a lightweight, protective mask system designed to incorprate cutting-edge technologies to protect NATO allied forces from modern CBRN threats. Manufactured by Avon Technologies."
+      }
+    },
+    "addtoInventorySlots": [
+      "FaceCover"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 12852,
+    "handbookPriceRoubles": 3456,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 15
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {}
+  },
+  "697df3bad7387ce0f2341072": {
+    "itemTplToClone": "697df1cc71b3b5b6c5341071",
+    "parentId": "5a341c4686f77469e155819e",
+    "handbookParentId": "5b47574386f77428ca22b32f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/masks/gas_mask_m50_green.bundle",
+        "rcid": ""
+      },
+      "BlocksEyewear": true,
+      "BlocksFaceCover": true,
+      "BlocksEarpiece": false,
+      "BlocksHeadwear": false,
+      "BlindnessProtection": 0.1,
+      "weaponErgonomicPenalty": -10
+    },
+    "locales": {
+      "en": {
+        "name": "Avon M50 JSGPM gas mask (Olive)",
+        "shortName": "M50",
+        "description": "The M50 Joint Service General Purpose Mask (JSGPM) is a lightweight, protective mask system designed to incorprate cutting-edge technologies to protect NATO allied forces from modern CBRN threats. Manufactured by Avon Technologies."
+      }
+    },
+    "addtoInventorySlots": [
+      "FaceCover"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 12852,
+    "handbookPriceRoubles": 3456,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 15
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
