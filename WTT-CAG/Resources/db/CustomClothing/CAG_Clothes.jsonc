@@ -1,5 +1,29 @@
 [
-  {
+  { // VKPO EMR
+    "type": "top",
+    "suiteId": "6972a908819a59a18f6cb6ab",
+    "outfitId": "6972a909392a97e0846cb6ac",
+    "topId": "6972a909ff8a98e2e76cb6ad",
+    "handsId": "6972a90ae06aabba416cb6ae",
+    "locales": {
+      "en": {
+        "name": "BEAR VKPO (EMR)",
+        "description": "Field Jacket"
+      }
+    },
+    "topBundlePath": "Clothing/Uppers/VKPO_EMR/top_ruaf_vkpo_emr.bundle",
+    "handsBundlePath": "Clothing/Hands/VKPO_EMR/top_ruaf_vkpo_emr_skin.bundle",
+    "traderId": "RAGMAN",
+    "side": [
+      "Bear"
+    ],
+    "loyaltyLevel": 1,
+    "profileLevel": 15,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 155000
+  },
+  { // Vertx OPS Shell TTsKO
     "type": "top",
     "suiteId": "6897f88bbdb6ea2150fdd387",
     "outfitId": "6897f88be63381dd90219f16",
@@ -23,7 +47,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 1100000
   },
-  {
+  { // BEAR Telnik Tucked
     "type": "top",
     "suiteId": "68b5add84a45c1469fc5425c",
     "outfitId": "68b5add9f80e244d26313ddc",
@@ -47,7 +71,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 4500000
   },
-  {
+  { // "I went to the norvinsk zone and all I got was this lousy T-Shirt"
     "type": "top",
     "suiteId": "68e1b09954b6ec5478a99b86",
     "outfitId": "68e1b099c1a78f14e1f57157",
@@ -72,7 +96,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 25000
   },
-  {
+  { // Pigeon's Gorka Pants
     "type": "bottom",
     "suiteId": "69444e6c364b799c1282765c",
     "outfitId": "69444e6d9037e704d982765d",
@@ -96,5 +120,53 @@
     "price": 25000,
     "questRequirements": [],
     "achievementRequirements": []
+  },
+  { // USEC Gryphon Jacket (Partizan)
+    "type": "top",
+    "suiteId": "697b913d8b362e77c1f8b63f",
+    "outfitId": "697b913c03ef2fcb51f8b63e",
+    "topId": "697b913c16fd13d355f8b63d",
+    "handsId": "697b913b7b8ea00f06f8b63c",
+    "locales": {
+      "en": {
+        "name": "USEC Gryphon",
+        "description": "Tactical Jacket"
+      }
+    },
+    "topBundlePath": "Clothing/Uppers/USEC_GRYPHON/top_usec_gryphon_partizan.bundle",
+    "handsBundlePath": "Clothing/Hands/USEC_GRYPHON/hands_usec_gryphon_partizan.bundle",
+    "traderId": "RAGMAN",
+    "side": [
+      "Usec"
+    ],
+    "loyaltyLevel": 2,
+    "profileLevel": 22,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 220418
+  },
+  { // USEC Gryphon Jacket (Multicam)
+    "type": "top",
+    "suiteId": "697b91964c63608320f8b643",
+    "outfitId": "697b9195018a685acbf8b642",
+    "topId": "697b91945017257dd4f8b641",
+    "handsId": "697b9194e259dd2736f8b640",
+    "locales": {
+      "en": {
+        "name": "USEC Gryphon MC",
+        "description": "Tactical Jacket"
+      }
+    },
+    "topBundlePath": "Clothing/Uppers/USEC_GRYPHON/top_usec_gryphon_mc.bundle",
+    "handsBundlePath": "Clothing/Hands/USEC_GRYPHON/hands_usec_gryphon_mc.bundle",
+    "traderId": "RAGMAN",
+    "side": [
+      "Usec"
+    ],
+    "loyaltyLevel": 3,
+    "profileLevel": 35,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 220418
   }
 ]
