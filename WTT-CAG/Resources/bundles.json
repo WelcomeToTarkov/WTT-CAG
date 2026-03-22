@@ -25,30 +25,6 @@
       ]
     },
     {
-      "key": "Headwear/helmets/airframe_custom/helmet_airframe_c.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
-      "key": "Headwear/helmets/airframe_custom/helmet_airframe_c_fde.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
-      "key": "Headwear/helmets/airframe_custom/helmet_airframe_c_mc.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
       "key": "Headwear/helmets/b826/helmet_b826.bundle",
       "dependencyKeys": [
         "shaders",
