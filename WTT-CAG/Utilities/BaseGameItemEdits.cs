@@ -32,6 +32,9 @@ public class BaseGameItemEdits(
                         "6974cf52ee1fb8a0683b8d9d"
                     ]);
                     break; //Pushing DTNVGs to TATM mount
+                case "5f60b34a41e30a4ab12a6947":
+                    item.Properties.Prefab.Path = "Headwear/helmets/galvion_caiman/helmet_caiman_bump_grey.bundle";
+                    break; // Replacing the Caiman Helmet without overwriting the bundle because i need shit from that bundle lmao
             }
         }
     }

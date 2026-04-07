@@ -182,7 +182,7 @@
     ],
     "masterySections": []
   },
-  "6955714f0a371ee4bed8e29e": {
+  "6955714f0a371ee4bed8e29e": { // Ops-Core FAST XP (MultiCam)
     "itemTplToClone": "5ac8d6885acfc400180ae7b0",
     "parentId": "5a341c4086f77401f2541505",
     "handbookParentId": "5b47574386f77428ca22b330",
@@ -195,6 +195,7 @@
       "mousePenalty": -1,
       "speedPenaltyPercent": 0,
       "weaponErgonomicPenalty": -1,
+      "CanSellOnRagfair": true,
       "Slots": [
         {
           "_id": "695574b613d5bec310d8e2b7",
@@ -416,7 +417,7 @@
     ],
     "masterySections": []
   },
-  "6955a5d5094d2caaafc5ccac": {
+  "6955a5d5094d2caaafc5ccac": { // Ops-Core FAST XP (Urban Tan)
     "itemTplToClone": "6955714f0a371ee4bed8e29e",
     "parentId": "5a341c4086f77401f2541505",
     "handbookParentId": "5b47574386f77428ca22b330",
@@ -424,7 +425,8 @@
       "Prefab": {
         "path": "Headwear/helmets/opscore_xp/helmet_fast_xp_tan.bundle",
         "rcid": ""
-      }
+      },
+      "CanSellOnRagfair": true
     },
     "locales": {
       "en": {
@@ -498,7 +500,7 @@
     ],
     "masterySections": []
   },
-  "69557794e5a97ebffec5cca7": {
+  "69557794e5a97ebffec5cca7": { // Ops-Core FAST XP (Black)
     "itemTplToClone": "6955714f0a371ee4bed8e29e",
     "parentId": "5a341c4086f77401f2541505",
     "handbookParentId": "5b47574386f77428ca22b330",
@@ -506,7 +508,8 @@
       "Prefab": {
         "path": "Headwear/helmets/opscore_xp/helmet_fast_xp_blk.bundle",
         "rcid": ""
-      }
+      },
+      "CanSellOnRagfair": true
     },
     "locales": {
       "en": {
@@ -580,7 +583,7 @@
     ],
     "masterySections": []
   },
-  "680be1c97c53613b0016d45f": {
+  "680be1c97c53613b0016d45f": { // Ulbrichts AM95
     "itemTplToClone": "5aa7d193e5b5b000171d063f",
     "parentId": "5a341c4086f77401f2541505",
     "handbookParentId": "5b47574386f77428ca22b330",
@@ -766,7 +769,7 @@
     "traders": {},
     "masterySections": []
   },
-  "68e53709d997b0cebccfc880": {
+  "68e53709d997b0cebccfc880": { // Gefechtshelm Schuberth B826
     "itemTplToClone": "5a7c4850e899ef00150be885",
     "parentId": "5a341c4086f77401f2541505",
     "handbookParentId": "5b47574386f77428ca22b330",
@@ -932,7 +935,7 @@
       }
     ]
   },
-  "695cfbcebab602cd85621736": {
+  "695cfbcebab602cd85621736": { // MICH-2000 (Black)
     "itemTplToClone": "5d5e7d28a4b936645d161203",
     "parentId": "5a341c4086f77401f2541505",
     "handbookParentId": "5b47574386f77428ca22b330",
@@ -1182,7 +1185,7 @@
       }
     ]
   },
-  "695d01c4146725a805621742": {
+  "695d01c4146725a805621742": { // MICH-2000 (Sand)
     "itemTplToClone": "695cfbcebab602cd85621736",
     "parentId": "5a341c4086f77401f2541505",
     "handbookParentId": "5b47574386f77428ca22b330",
@@ -1268,7 +1271,7 @@
       }
     ]
   },
-  "695d06494fa4e6a2cc621749": {
+  "695d06494fa4e6a2cc621749": { // MICH-2000 (Mesh Spray)
     "itemTplToClone": "695cfbcebab602cd85621736",
     "parentId": "5a341c4086f77401f2541505",
     "handbookParentId": "5b47574386f77428ca22b330",
@@ -1350,6 +1353,1085 @@
         ],
         "_name": "MICH2000 Spray Stock Preset",
         "_parent": "695d064f0120cd5e1b62174b",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "697e3ac6cd228eab70411c78": { // Ops-Core FAST SF HC (Black)
+    "itemTplToClone": "5a154d5cfcdbcb001a3b00da",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/opscore_sfhc/helmet_ops_core_fast_sfhc_black.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.766,
+      "Height": 2,
+      "Width": 2,
+      "Slots": [
+        {
+          "_id": "697e409c8e0f78d2db411c90",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "697e3ac6cd228eab70411c78",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16badafcdbcb001865f72d",
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9",
+                  "697e37feb6af1bab60411c74"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "697e409beae5371ec7411c8f",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "697e3ac6cd228eab70411c78",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ea058e01dbce517f324b3e2",
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "697e409b44c16055db411c8e",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "697e3ac6cd228eab70411c78",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "697e4099f0969c51a7411c8d",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_001",
+          "_parent": "697e3ac6cd228eab70411c78",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16b9fffcdbcb0176308b34",
+                  "697e361f1c1def3c45411c73"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "697e40986aac94e7e9411c8c",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_002",
+          "_parent": "697e3ac6cd228eab70411c78",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0e66e2d174af02a96252f4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "697e409709b2868112411c8b",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "697e3ac6cd228eab70411c78",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "697e3c819edfc22e06411c81"
+                ],
+                "Plate": "697e3c819edfc22e06411c81",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "697e4095daf6a4135d411c8a",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "697e3ac6cd228eab70411c78",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "697e3c378ece32211d411c80"
+                ],
+                "Plate": "697e3c378ece32211d411c80",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Ops-Core FAST SF Legacy High Cut helmet (Black)",
+        "shortName": "FAST SFHC",
+        "description": "The FAST SF is the most common choice of helmet for U.S. SOCOM and many other elite Special Operations forces worldwide. Renowned for its modularity and sheer quantity of components and compatible systems. Black version."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 359682,
+    "handbookPriceRoubles": 18472,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 10
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "697e3ac6cd228eab70411c78",
+        "_id": "697e40912d7171bb67411c89",
+        "_items": [
+          {
+            "_id": "697e3abdb5e5766450411c75",
+            "_tpl": "697e3ac6cd228eab70411c78",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "697e3cb3f7ba29a899411c83",
+            "_tpl": "697e3c819edfc22e06411c81",
+            "slotId": "Helmet_top",
+            "parentId": "697e3abdb5e5766450411c75"
+          },
+          {
+            "_id": "697e3cb3ae7882aed5411c82",
+            "_tpl": "697e3c378ece32211d411c80",
+            "slotId": "Helmet_back",
+            "parentId": "697e3abdb5e5766450411c75"
+          }
+        ],
+        "_name": "Helmet OPSCORE FAST SFHC Black Stock Preset",
+        "_parent": "697e3abdb5e5766450411c75",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "697e3ffb791420d6a7411c88": { // Ops-Core FAST SF HC (Tan 499)
+    "itemTplToClone": "697e3ac6cd228eab70411c78",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/opscore_sfhc/helmet_ops_core_fast_sfhc_tan.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Ops-Core FAST SF Legacy High Cut helmet (Tan 499)",
+        "shortName": "FAST SFHC",
+        "description": "The FAST SF is the most common choice of helmet for U.S. SOCOM and many other elite Special Operations forces worldwide. Renowned for its modularity and sheer quantity of components and compatible systems. Tan 499 version."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 359682,
+    "handbookPriceRoubles": 18472,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 10
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "697e3ffb791420d6a7411c88",
+        "_id": "697e3ff3df2a1b7206411c85",
+        "_items": [
+          {
+            "_id": "697e3fefbd5195af8f411c84",
+            "_tpl": "697e3ffb791420d6a7411c88",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "697e3ff498653736b5411c86",
+            "_tpl": "697e3c819edfc22e06411c81",
+            "slotId": "Helmet_top",
+            "parentId": "697e3fefbd5195af8f411c84"
+          },
+          {
+            "_id": "697e3ff56c7963aad0411c87",
+            "_tpl": "697e3c378ece32211d411c80",
+            "slotId": "Helmet_back",
+            "parentId": "697e3fefbd5195af8f411c84"
+          }
+        ],
+        "_name": "Helmet OPSCORE FAST SFHC Tan Stock Preset",
+        "_parent": "697e3fefbd5195af8f411c84",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "69d2fa81c19b81119bb03961": { // Ops-Core FAST SF HC (MultiCam)
+    "itemTplToClone": "697e3ac6cd228eab70411c78",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/opscore_sfhc/helmet_ops_core_fast_sfhc_mc.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Ops-Core FAST SF Legacy High Cut helmet (MultiCam)",
+        "shortName": "FAST SFHC",
+        "description": "The FAST SF is the most common choice of helmet for U.S. SOCOM and many other elite Special Operations forces worldwide. Renowned for its modularity and sheer quantity of components and compatible systems. Tan 499 version."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 359682,
+    "handbookPriceRoubles": 18472,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 10
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "69d2fa81c19b81119bb03961",
+        "_id": "69d2fa86b6e975718bb03962",
+        "_items": [
+          {
+            "_id": "69d2fa87559e2a4d94b03963",
+            "_tpl": "69d2fa81c19b81119bb03961",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "69d2fa8bdbadb76c0bb03965",
+            "_tpl": "697e3c819edfc22e06411c81",
+            "slotId": "Helmet_top",
+            "parentId": "69d2fa87559e2a4d94b03963"
+          },
+          {
+            "_id": "69d2fa8b254cca24d2b03964",
+            "_tpl": "697e3c378ece32211d411c80",
+            "slotId": "Helmet_back",
+            "parentId": "69d2fa87559e2a4d94b03963"
+          }
+        ],
+        "_name": "Helmet OPSCORE FAST SFHC MC Stock Preset",
+        "_parent": "69d2fa87559e2a4d94b03963",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "69c866ea66512917657e7242": { // Ulbrichts F1000H (Ranger Green)
+    "itemTplToClone": "5a154d5cfcdbcb001a3b00da",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/f1000h/helmet_ulbrichts_f1000h_ranger_green.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": true,
+      "Weight": 1.6,
+      "Height": 2,
+      "Width": 2,
+      "ArmorMaterial": "Combined",
+      "Slots": [
+        {
+          "_id": "697e409beae5371ec7411c8f",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "697e3ac6cd228eab70411c78",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "697e409b44c16055db411c8e",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "697e3ac6cd228eab70411c78",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "697e40986aac94e7e9411c8c",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_002",
+          "_parent": "697e3ac6cd228eab70411c78",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0e66e2d174af02a96252f4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "697e409709b2868112411c8b",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "697e3ac6cd228eab70411c78",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69c867b0fc4a26d9547e7248"
+                ],
+                "Plate": "69c867b0fc4a26d9547e7248",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "697e4095daf6a4135d411c8a",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "697e3ac6cd228eab70411c78",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69c8679c04170dc4867e7247"
+                ],
+                "Plate": "69c8679c04170dc4867e7247",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Ulbrichts F1000H high-cut ballistic helmet (Ranger Green)",
+        "shortName": "F1000H",
+        "description": "The F1000H is a high-cut ballistic helmet from Ulbrichts' OPTIO series of helmet, made from a Titanium-Aramid hybrid to reduce backface deformation on impacts. These helmets are rated to withstand 7.62x39mm with the optional protective plate. Manufactured by Ulbrichts. Ranger Green versions."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 55962,
+    "handbookPriceRoubles": 2583,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 74
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 60
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 100
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "69c866ea66512917657e7242",
+        "_id": "69c866f08da362e0f67e7243",
+        "_items": [
+          {
+            "_id": "69c865cd81348b76bc7e723f",
+            "_tpl": "69c866ea66512917657e7242",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "69c866f2f43834e3db7e7244",
+            "_tpl": "69c867b0fc4a26d9547e7248",
+            "slotId": "Helmet_top",
+            "parentId": "69c865cd81348b76bc7e723f"
+          },
+          {
+            "_id": "69c866f21ca228702b7e7245",
+            "_tpl": "69c8679c04170dc4867e7247",
+            "slotId": "Helmet_back",
+            "parentId": "69c865cd81348b76bc7e723f"
+          }
+        ],
+        "_name": "Helmet F1000H Stock Preset",
+        "_parent": "69c865cd81348b76bc7e723f",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "69d422d93ea0e62623eb31e0": { // Caiman TL (Ballistic, Black)
+    "itemTplToClone": "5f60b34a41e30a4ab12a6947",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/galvion_caiman/helmet_caiman_ballistic_black.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": true,
+      "Weight": 1.71,
+      "Height": 2,
+      "Width": 2,
+      "ArmorMaterial": "UHMWPE",
+      "Slots": [
+        {
+          "_id": "69d423ea84056d47c7eb31e5",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "69d422d93ea0e62623eb31e0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5f60c076f2bcbb675b00dac2"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69d423ed6311cc78a4eb31e6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "69d422d93ea0e62623eb31e0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5f60bf4558eff926626a60f2",
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69d423ee5f27800389eb31e7",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "69d422d93ea0e62623eb31e0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69d423f1f130c522bdeb31e8",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_002",
+          "_parent": "69d422d93ea0e62623eb31e0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5f60b85bbdb8e27dee3dc985"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69d423f4883e55c53ceb31e9",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "69d422d93ea0e62623eb31e0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69d4241a7179e6df13eb31ec"
+                ],
+                "Plate": "69d4241a7179e6df13eb31ec",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "69d423f79597e41323eb31ea",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "69d422d93ea0e62623eb31e0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69d424178da70bbf80eb31eb"
+                ],
+                "Plate": "69d424178da70bbf80eb31eb",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Galvion Caiman TL ballistic helmet",
+        "shortName": "Caiman TL",
+        "description": "The Caiman TL helmet is a new generation of lightweight special forces helmet. A series of modular accessories enhances the package, providing users with lightweight, comfortable and maximum head protection. Manufactured by Galvion."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 72830,
+    "handbookPriceRoubles": 3566,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 74
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 60
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 100
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "69d422d93ea0e62623eb31e0",
+        "_id": "69d423a6f995f979fdeb31e1",
+        "_items": [
+          {
+            "_id": "69d423a88621af6688eb31e2",
+            "_tpl": "69d422d93ea0e62623eb31e0",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "69d423aed9c2d82a1aeb31e4",
+            "_tpl": "69d4241a7179e6df13eb31ec",
+            "slotId": "Helmet_top",
+            "parentId": "69d423a88621af6688eb31e2"
+          },
+          {
+            "_id": "69d423adeecb2a3111eb31e3",
+            "_tpl": "69d424178da70bbf80eb31eb",
+            "slotId": "Helmet_back",
+            "parentId": "69d423a88621af6688eb31e2"
+          }
+        ],
+        "_name": "Helmet Caiman TL Black Stock Preset",
+        "_parent": "69d423a88621af6688eb31e2",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "69d4257f0655878dcbeb31ed": { // Caiman TL (Ballistic, Olive Drab)
+    "itemTplToClone": "69d422d93ea0e62623eb31e0",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/galvion_caiman/helmet_caiman_ballistic_odg.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Galvion Caiman TL ballistic helmet (Olive Drab)",
+        "shortName": "Caiman TL",
+        "description": "The Caiman TL helmet is a new generation of lightweight special forces helmet. A series of modular accessories enhances the package, providing users with lightweight, comfortable and maximum head protection. Manufactured by Galvion. Olive Drab version."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 72830,
+    "handbookPriceRoubles": 3566,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 74
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 60
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 100
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "69d4257f0655878dcbeb31ed",
+        "_id": "69d44d1f385395f871eb3200",
+        "_items": [
+          {
+            "_id": "69d44d19c0e472795deb31fd",
+            "_tpl": "69d4257f0655878dcbeb31ed",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "69d44d1eab1f60797ceb31ff",
+            "_tpl": "69d4241a7179e6df13eb31ec",
+            "slotId": "Helmet_top",
+            "parentId": "69d44d19c0e472795deb31fd"
+          },
+          {
+            "_id": "69d44d1df0d47476dceb31fe",
+            "_tpl": "69d424178da70bbf80eb31eb",
+            "slotId": "Helmet_back",
+            "parentId": "69d44d19c0e472795deb31fd"
+          }
+        ],
+        "_name": "Helmet Caiman TL OD Stock Preset",
+        "_parent": "69d44d19c0e472795deb31fd",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "69d44c0cd9330f9cffeb31f3": { // BATLSKIN Cobra P2 ballistic helmet
+    "itemTplToClone": "5f60b34a41e30a4ab12a6947",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/batlskin_cobra/helmet_batlskin_cobra_tan.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": true,
+      "Weight": 1.306,
+      "Height": 2,
+      "Width": 2,
+      "RicochetParams": {
+        "x": 0.75,
+        "y": 0.75,
+        "z": 80
+      },
+      "Slots": [
+        {
+          "_id": "69d44c10072e291a41eb31f4",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "69d44c0cd9330f9cffeb31f3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5f60bf4558eff926626a60f2",
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69d44c1a813b60549eeb31f5",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_cover",
+          "_parent": "69d44c0cd9330f9cffeb31f3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69d44ec7654cae9510eb3203",
+                  "69d44b8eabb346e484eb31f1",
+                  "69d44b914ddaf5e11feb31f2"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69d44c1e5a1cddf1dceb31f7",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "69d44c0cd9330f9cffeb31f3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8ec5f4c82973640b234c"
+                ],
+                "Plate": "657f8ec5f4c82973640b234c",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "69d44c1e0fa2bb3db9eb31f6",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "69d44c0cd9330f9cffeb31f3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8f10f4c82973640b2350"
+                ],
+                "Plate": "657f8f10f4c82973640b2350",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_name": "Helmet_ears",
+          "_id": "69d44d7a02a45be7f6eb3202",
+          "_parent": "69d44c0cd9330f9cffeb31f3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657babc6f58ba5a6250107a2"
+                ],
+                "Plate": "657babc6f58ba5a6250107a2",
+                "armorColliders": [
+                  "Ears"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Galvion Batlskin Cobra P2 ballistic helmet (Tan)",
+        "shortName": "Cobra",
+        "description": "The Cobra P2 helmet is modernised take on the ACH helmet-shape designed for use by Western Military forces seeking a refined, yet classic helmet. The Cobra P2 offers comfort and compatibility with communications systems. Manufactured by Galvion."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 99203,
+    "handbookPriceRoubles": 12022,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 74
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 60
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 100
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "69d44c0cd9330f9cffeb31f3",
+        "_id": "69d44c63d80f1e947feb31fb",
+        "_items": [
+          {
+            "_id": "69d44c60c4034da585eb31fa",
+            "_tpl": "69d44c0cd9330f9cffeb31f3",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "69d44c5e101e8c019deb31f8",
+            "_tpl": "657f8ec5f4c82973640b234c",
+            "slotId": "Helmet_top",
+            "parentId": "69d44c60c4034da585eb31fa"
+          },
+          {
+            "_id": "69d44c5f7b2723727eeb31f9",
+            "_tpl": "657f8f10f4c82973640b2350",
+            "slotId": "Helmet_back",
+            "parentId": "69d44c60c4034da585eb31fa"
+          },
+          {
+            "_id": "69d44d683f507ff0c0eb3201",
+            "_tpl": "657babc6f58ba5a6250107a2",
+            "slotId": "Helmet_ears",
+            "parentId": "69d44c60c4034da585eb31fa"
+          }
+        ],
+        "_name": "Helmet BATLSKIN Stock Preset",
+        "_parent": "69d44c60c4034da585eb31fa",
         "_type": "Preset"
       }
     ]

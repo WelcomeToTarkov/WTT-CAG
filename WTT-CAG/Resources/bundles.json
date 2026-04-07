@@ -242,14 +242,6 @@
       ]
     },
     {
-      "key": "Headwear/masks/mask_gasmask_xm44.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
       "key": "Headwear/masks/mask_gasmask_msa.bundle",
       "dependencyKeys": [
         "shaders",
@@ -320,32 +312,6 @@
       ]
     },
     {
-      "key": "Headwear/helmets/batlskin_cobra/helmet_batlskin_shared.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
-      "key": "Headwear/helmets/batlskin_cobra/helmet_batlskin_mtp.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "Headwear/helmets/batlskin_cobra/helmet_batlskin_shared.bundle",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
-      "key": "Headwear/helmets/batlskin_cobra/helmet_batlskin_snowdrift.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "Headwear/helmets/batlskin_cobra/helmet_batlskin_shared.bundle",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
       "key": "Headwear/masks/mask_gasmask_pmk4.bundle",
       "dependencyKeys": [
         "shaders",
@@ -358,49 +324,6 @@
       "dependencyKeys": [
         "shaders",
         "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
-      "key": "Headwear/masks/mask_gasmask_m45.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
-      "key": "Headwear/helmets/galvion_caiman/helmet_caiman_ball_shared.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
-      "key": "Headwear/helmets/galvion_caiman/helmet_caiman_blk.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "Headwear/helmets/galvion_caiman/helmet_caiman_ball_shared.bundle",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
-      "key": "Headwear/helmets/galvion_caiman/helmet_caiman_fde.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "Headwear/helmets/galvion_caiman/helmet_caiman_ball_shared.bundle",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
-      "key": "Headwear/helmets/galvion_caiman/helmet_caiman_mc.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "Headwear/helmets/galvion_caiman/helmet_caiman_ball_shared.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
@@ -509,20 +432,11 @@
       ]
     },
     {
-      "key": "Bodywear/armoredRigs/LV119/ss_lv119_shared.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
       "key": "Bodywear/armoredRigs/LV119/rig_lv119_goons.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle",
-        "Bodywear/armoredRigs/LV119/ss_lv119_shared.bundle"
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {
@@ -722,14 +636,6 @@
       ]
     },
     {
-      "key": "Headwear/helmets/helmet_protec_blk.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
       "key": "Bodywear/armoredRigs/rig_iotv_gen4_taps.bundle",
       "dependencyKeys": [
         "shaders",
@@ -866,6 +772,155 @@
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle",
         "Headwear/masks/gas_mask_m50_textures.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/opscore_sfhc/helmet_fast_sfhc_textures.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/opscore_sfhc/helmet_ops_core_fast_sfhc_black.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Headwear/helmets/opscore_sfhc/helmet_fast_sfhc_textures.bundle",
+        "assets/content/items/equipment/helmet_opscore_fast/item_equipment_helmet_opscore_fast_tan.bundle",
+        "assets/content/items/equipment/helmet_opscore_fast/item_equipment_helmet_opscore_fast_black.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/opscore_sfhc/helmet_ops_core_fast_sfhc_tan.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Headwear/helmets/opscore_sfhc/helmet_fast_sfhc_textures.bundle",
+        "assets/content/items/equipment/helmet_opscore_fast/item_equipment_helmet_opscore_fast_tan.bundle",
+        "assets/content/items/equipment/helmet_opscore_fast/item_equipment_helmet_opscore_fast_black.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/opscore_sfhc/helmet_ops_core_fast_sfhc_mc.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Headwear/helmets/opscore_sfhc/helmet_fast_sfhc_textures.bundle",
+        "assets/content/items/equipment/helmet_opscore_fast/item_equipment_helmet_opscore_fast_tan.bundle",
+        "assets/content/items/equipment/helmet_opscore_fast/item_equipment_helmet_opscore_fast_black.bundle",
+        "Headwear/helmets/opscore_sfhc/helmet_ops_core_fast_sfhc_tan.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/opscore_sfhc/mask_ops_core_ballistic_mandible_tan.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/opscore_sfhc/mount_visor_ops_core_stepin.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Headwear/helmets/opscore_sfhc/helmet_fast_sfhc_textures.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/f1000h/helmet_ulbrichts_f1000h_ranger_green.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/galvion_caiman/caiman_shared.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/equipment/helmet_galvion_caiman/item_equipment_helmet_galvion_caiman.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/galvion_caiman/helmet_caiman_ballistic_black.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Headwear/helmets/galvion_caiman/caiman_shared.bundle",
+        "assets/content/items/equipment/helmet_galvion_caiman/item_equipment_helmet_galvion_caiman.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/galvion_caiman/helmet_caiman_ballistic_odg.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Headwear/helmets/galvion_caiman/caiman_shared.bundle",
+        "assets/content/items/equipment/helmet_galvion_caiman/item_equipment_helmet_galvion_caiman.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/galvion_caiman/helmet_caiman_bump_grey.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Headwear/helmets/galvion_caiman/caiman_shared.bundle",
+        "assets/content/items/equipment/helmet_galvion_caiman/item_equipment_helmet_galvion_caiman.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/batlskin_cobra/helmet_batlskin_cobra_tan.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/batlskin_cobra/batlskin_cover_shared.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/batlskin_cobra/helmet_batlskin_cover_mtp.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Headwear/helmets/batlskin_cobra/batlskin_cover_shared.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/batlskin_cobra/helmet_batlskin_cover_mcb.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Headwear/helmets/batlskin_cobra/batlskin_cover_shared.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/batlskin_cobra/helmet_batlskin_cover_nfp.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Headwear/helmets/batlskin_cobra/batlskin_cover_shared.bundle"
       ]
     }
   ]
