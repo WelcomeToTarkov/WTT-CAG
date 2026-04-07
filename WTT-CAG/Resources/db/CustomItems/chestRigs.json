@@ -340,7 +340,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "fleaPriceRoubles": 64310,
     "handbookPriceRoubles": 55320,
     "addtoStaticLootContainers": true,
@@ -364,23 +364,7 @@
     ],
     "addWeaponPreset": false,
     "weaponPresets": [],
-    "traders": {
-      "RAGMAN": {
-        "6930973fc00b2b15fc61798c": {
-          "barterSettings": {
-            "loyalLevel": 4,
-            "unlimitedCount": true,
-            "stackObjectsCount": 2
-          },
-          "barters": [
-            {
-              "count": 53582,
-              "_tpl": "MONEY_ROUBLES"
-            }
-          ]
-        }
-      }
-    }
+    "traders": {}
   },
   "68bb48062701bb673faca8af": {
     "itemTplToClone": "68bb4520b4883cef1fd7726e",
@@ -403,7 +387,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "fleaPriceRoubles": 64310,
     "handbookPriceRoubles": 55320,
     "addtoStaticLootContainers": true,
@@ -427,23 +411,7 @@
     ],
     "addWeaponPreset": false,
     "weaponPresets": [],
-    "traders": {
-      "RAGMAN": {
-        "6930973fc00b2b15fc61798d": {
-          "barterSettings": {
-            "loyalLevel": 4,
-            "unlimitedCount": true,
-            "stackObjectsCount": 2
-          },
-          "barters": [
-            {
-              "count": 53582,
-              "_tpl": "MONEY_ROUBLES"
-            }
-          ]
-        }
-      }
-    }
+    "traders": {}
   },
   "68bb484b1ea04700566271e9": {
     "itemTplToClone": "68bb4520b4883cef1fd7726e",
@@ -466,7 +434,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "fleaPriceRoubles": 64310,
     "handbookPriceRoubles": 55320,
     "addtoStaticLootContainers": true,
@@ -490,23 +458,7 @@
     ],
     "addWeaponPreset": false,
     "weaponPresets": [],
-    "traders": {
-      "RAGMAN": {
-        "6930973fc00b2b15fc61798e": {
-          "barterSettings": {
-            "loyalLevel": 4,
-            "unlimitedCount": true,
-            "stackObjectsCount": 2
-          },
-          "barters": [
-            {
-              "count": 53582,
-              "_tpl": "MONEY_ROUBLES"
-            }
-          ]
-        }
-      }
-    }
+    "traders": {}
   },
   "69534dfbedb3d1c75c40ffb3": {
     "itemTplToClone": "63611865ba5b90db0c0399d1",
@@ -799,24 +751,8 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "addtoTraders": true,
-    "traders": {
-      "RAGMAN": {
-        "6930973fc00b2b15fc61798f": {
-          "barterSettings": {
-            "loyalLevel": 3,
-            "unlimitedCount": true,
-            "stackObjectsCount": 99
-          },
-          "barters": [
-            {
-              "count": 702,
-              "_tpl": "MONEY_DOLLARS"
-            }
-          ]
-        }
-      }
-    },
+    "addtoTraders": false,
+    "traders": {},
     "fleaPriceRoubles": 88493,
     "handbookPriceRoubles": 46693,
     "addtoStaticLootContainers": true,
