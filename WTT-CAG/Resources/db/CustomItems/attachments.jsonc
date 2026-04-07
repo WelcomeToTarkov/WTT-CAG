@@ -875,7 +875,7 @@
         "y": 0.4,
         "z": 70
       },
-      "armorClass": "2",
+      "armorClass": "3",
       "armorColliders": [
         "Ears",
         "Jaw",
@@ -889,16 +889,16 @@
     },
     "locales": {
       "en": {
-        "name": "Ops-Core Force-on-Force Mandible",
-        "shortName": "FOF Mand.",
-        "description": "The Force-on-Force mandible provides protection for the mouth, nose, ear and neck areas with flexible armor which allows for the operator to still obtain a solid cheeck weld on their weapon."
+        "name": "Ops-Core FAST Ballstic Mandible",
+        "shortName": "FAST Mand.",
+        "description": "The FAST Ballistic mandible provides protection for the mouth, nose, ear and neck areas with flexible armor which allows for the operator to still obtain a solid cheeck weld on their weapon."
       }
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
     "addtoTraders": false,
-    "fleaPriceRoubles": 55669,
+    "fleaPriceRoubles": 110282,
     "handbookPriceRoubles": 34624,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [
