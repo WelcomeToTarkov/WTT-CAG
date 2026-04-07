@@ -35,7 +35,7 @@
       "Front_plate",
       "Back_plate"
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "fleaPriceRoubles": 66582,
     "handbookPriceRoubles": 11923,
     "addtoStaticLootContainers": false,
@@ -119,7 +119,7 @@
       "Front_plate",
       "Back_plate"
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "fleaPriceRoubles": 66582,
     "handbookPriceRoubles": 25024,
     "addtoStaticLootContainers": false,
