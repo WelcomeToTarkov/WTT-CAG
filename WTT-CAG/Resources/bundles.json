@@ -922,6 +922,15 @@
         "assets/commonassets/physics/physicsmaterials.bundle",
         "Headwear/helmets/batlskin_cobra/batlskin_cover_shared.bundle"
       ]
+    },
+    {
+      "key": "Headwear/helmets/tc500/helmet_msa_gallet_tc500_blk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/equipment/helmet_tc800/item_equipment_helmet_tc800.bundle"
+      ]
     }
   ]
 }

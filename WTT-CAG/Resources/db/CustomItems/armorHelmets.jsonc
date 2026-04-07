@@ -2435,5 +2435,226 @@
         "_type": "Preset"
       }
     ]
+  },
+  "69d58f2731285d616cf815b5": { // MSA Gallet TC 500 Low Cut combat helmet (Black)
+    "itemTplToClone": "5e4bfc1586f774264f7582d3",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/tc500/helmet_msa_gallet_tc500_blk.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": true,
+      "Weight": 1.306,
+      "Height": 2,
+      "Width": 2,
+      "Slots": [
+        {
+          "_id": "69d592631091511afbf815c6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "69d58f2731285d616cf815b5",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69d59262245449436bf815c5",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "69d58f2731285d616cf815b5",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69d592613d7cb76fa2f815c4",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "69d58f2731285d616cf815b5",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69d5925f5f596b884af815c3",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "69d58f2731285d616cf815b5",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f9c78ada5fadd1f07a58d"
+                ],
+                "Plate": "657f9c78ada5fadd1f07a58d",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "69d5925d40dbb49986f815c2",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "69d58f2731285d616cf815b5",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f9cb587e11c61f70bfaca"
+                ],
+                "Plate": "657f9cb587e11c61f70bfaca",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "69d5925d9bf3343552f815c1",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_ears",
+          "_parent": "69d58f2731285d616cf815b5",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69d591ddfc9f661295f815bb"
+                ],
+                "Plate": "69d591ddfc9f661295f815bb",
+                "armorColliders": [
+                  "Ears"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "MSA Gallet TC 500 Low Cut combat helmet (Black)",
+        "shortName": "TC 500",
+        "description": "The MSA TC 500 ballistic helmet, designed for use by tactical teams of police special forces, in combat and reconnaissance operations. It can be modified by various components."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 56292,
+    "handbookPriceRoubles": 2706,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 74
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 60
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 100
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "69d58f2731285d616cf815b5",
+        "_id": "69d5921bbc0cb1f23cf815c0",
+        "_items": [
+          {
+            "_id": "69d59217241b946a5df815bf",
+            "_tpl": "69d58f2731285d616cf815b5",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "69d59215f7901f8c42f815be",
+            "_tpl": "657f9c78ada5fadd1f07a58d",
+            "slotId": "Helmet_top",
+            "parentId": "69d59217241b946a5df815bf"
+          },
+          {
+            "_id": "69d59214da1a37e719f815bd",
+            "_tpl": "657f9cb587e11c61f70bfaca",
+            "slotId": "Helmet_back",
+            "parentId": "69d59217241b946a5df815bf"
+          },
+          {
+            "_id": "69d592131843d8df30f815bc",
+            "_tpl": "69d591ddfc9f661295f815bb",
+            "slotId": "Helmet_ears",
+            "parentId": "69d59217241b946a5df815bf"
+          }
+        ],
+        "_name": "Helmet TC 500 Stock Preset",
+        "_parent": "69d59217241b946a5df815bf",
+        "_type": "Preset"
+      }
+    ]
   }
 }

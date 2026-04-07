@@ -782,5 +782,38 @@
     "staticLootContainers": [],
     "addWeaponPreset": false,
     "weaponPresets": []
+  },
+  "69d591ddfc9f661295f815bb": { // TC-500 EAR ARMOR
+    "itemTplToClone": "657fa186d4caf976440afe42",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/armor_plates/helmet_ears.bundle",
+        "rcid": ""
+      },
+      "Name": "msa_tc500_level4_helmet_armor_ears",
+      "armorClass": 4,
+      "armorColliders": [
+        "Ears"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Hybrid composite materials",
+        "shortName": "",
+        "description": ""
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 66582,
+    "handbookPriceRoubles": 13582,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": false,
+    "weaponPresets": []
   }
 }
