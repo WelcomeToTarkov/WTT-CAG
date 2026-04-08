@@ -793,6 +793,8 @@
         "rcid": ""
       },
       "Name": "msa_tc500_level4_helmet_armor_ears",
+      "Durability": 14,
+      "MaxDurability": 14,
       "armorClass": 4,
       "armorColliders": [
         "Ears"
