@@ -931,6 +931,104 @@
         "assets/commonassets/physics/physicsmaterials.bundle",
         "assets/content/items/equipment/helmet_tc800/item_equipment_helmet_tc800.bundle"
       ]
+    },
+    {
+      "key": "Headwear/helmets/ibh/helmet_ilc_dover_ibh_black.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/tor-2/item_equipment_helmet_tor_2.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/tor-2/item_equipment_helmet_tor_2_black.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Headwear/helmets/tor-2/item_equipment_helmet_tor_2.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/tor-2/cover_tor_2_black.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/tor-2/cover_tor_2_atacs_fg.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Headwear/helmets/tor-2/cover_tor_2_black.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/tor-2/cover_tor_2_coyote_tan.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Headwear/helmets/tor-2/cover_tor_2_black.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/tor-2/cover_tor_2_emr.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Headwear/helmets/tor-2/cover_tor_2_black.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/tor-2/cover_tor_2_emr_winter.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Headwear/helmets/tor-2/cover_tor_2_black.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/6b27/helmet_6b27_shared_textures.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "StreamingAssets/assets/content/items/equipment/helmet_6b47/item_equipment_helmet_6b47.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/6b27/helmet_6b27_flora.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Headwear/helmets/6b27/helmet_6b27_shared_textures.bundle",
+        "assets/content/items/equipment/helmet_6b47/item_equipment_helmet_6b47.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/6b27/helmet_6b27_emr.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Headwear/helmets/6b27/helmet_6b27_shared_textures.bundle",
+        "assets/content/items/equipment/helmet_6b47/item_equipment_helmet_6b47.bundle"
+      ]
     }
   ]
 }

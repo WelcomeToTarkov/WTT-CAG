@@ -1881,7 +1881,7 @@
     "modSlot": [],
     "addtoTraders": false,
     "fleaPriceRoubles": 55962,
-    "handbookPriceRoubles": 2583,
+    "handbookPriceRoubles": 25029,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
@@ -2091,7 +2091,7 @@
     "modSlot": [],
     "addtoTraders": false,
     "fleaPriceRoubles": 72830,
-    "handbookPriceRoubles": 3566,
+    "handbookPriceRoubles": 36837,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
@@ -2171,7 +2171,7 @@
     "modSlot": [],
     "addtoTraders": false,
     "fleaPriceRoubles": 72830,
-    "handbookPriceRoubles": 3566,
+    "handbookPriceRoubles": 36837,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
@@ -2653,6 +2653,677 @@
         ],
         "_name": "Helmet TC 500 Stock Preset",
         "_parent": "69d59217241b946a5df815bf",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "69d59e8ce166d1833ff815cb": { // ILC Dover IBH ballistic helmet (Black)
+    "itemTplToClone": "5e4bfc1586f774264f7582d3",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/ibh/helmet_ilc_dover_ibh_black.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": true,
+      "Weight": 1.1,
+      "Height": 2,
+      "Width": 2,
+      "BlocksEarpiece": true,
+      "ClientPlayerCompressorSendLevel": -5.5, // Headset Settings
+      "CompressorAttack": 20,
+      "CompressorGain": 5,
+      "CompressorRelease": 150,
+      "CompressorThreshold": -21,
+      "AmbientCompressorSendLevel": -14,
+      "AmbientVolume": -50,
+      "Distortion": 0.08,
+      "DryVolume": -60,
+      "EQBand1Frequency": 420,
+      "EQBand1Gain": 1.2,
+      "EQBand1Q": 1.5,
+      "EQBand2Frequency": 1150,
+      "EQBand2Gain": 1.15,
+      "EQBand2Q": 0.8,
+      "EQBand3Frequency": 6000,
+      "EQBand3Gain": 1.1,
+      "EQBand3Q": 1,
+      "EffectsReturnsCompressorSendLevel": -80,
+      "EffectsReturnsGroupVolume": -8,
+      "EnvCommonCompressorSendLevel": -8,
+      "EnvNatureCompressorSendLevel": -6,
+      "EnvTechnicalCompressorSendLevel": -12,
+      "HighpassFreq": 220,
+      "HighpassResonance": 2.2,
+      "LowpassFreq": 22000,
+      "RolloffMultiplier": 1.09,
+      "Slots": [ // Actual slots
+        {
+          "_id": "69d59f6e1052a2b306f815cc",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "69d59e8ce166d1833ff815cb",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69d59f72f7029324a1f815cd",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "69d59e8ce166d1833ff815cb",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69d59f9b3d5c87e077f815d0"
+                ],
+                "Plate": "69d59f9b3d5c87e077f815d0",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "69d59f75c67f07917af815ce",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "69d59e8ce166d1833ff815cb",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69d59f889bb6212604f815cf"
+                ],
+                "Plate": "69d59f889bb6212604f815cf",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "ILC Dover IBH ballistic helmet (Black)",
+        "shortName": "IBH",
+        "description": "The Integrated Ballistic Helmet (IBH) is a helmet manufactured in the late 1990's for USSOCOM to issue to Navy SEALs. While limited, supply of these eventually reached the hands of the American FBI and other agencies like AFSOC. Manufactured by ILC Dover."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 34562,
+    "handbookPriceRoubles": 11245,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 74
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 60
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 100
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "69d59e8ce166d1833ff815cb",
+        "_id": "69d59e868ba1a57d0cf815ca",
+        "_items": [
+          {
+            "_id": "69d59e829c03a567a8f815c9",
+            "_tpl": "69d59e8ce166d1833ff815cb",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "69d59e8127abccde98f815c8",
+            "_tpl": "69d59f9b3d5c87e077f815d0",
+            "slotId": "Helmet_top",
+            "parentId": "69d59e829c03a567a8f815c9"
+          },
+          {
+            "_id": "69d59e80be3e52fc63f815c7",
+            "_tpl": "69d59f889bb6212604f815cf",
+            "slotId": "Helmet_back",
+            "parentId": "69d59e829c03a567a8f815c9"
+          }
+        ],
+        "_name": "Helmet IBH Stock Preset",
+        "_parent": "69d59e829c03a567a8f815c9",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "69d6dc1fabe158a296906d46": { // NPP KIASS Tor-2 helmet
+    "itemTplToClone": "65719f0775149d62ce0a670b",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/tor-2/item_equipment_helmet_tor_2_black.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5e4d34ca86f774264f758330",
+        "5f60cd6cf2bcbb675b00dac6"
+      ],
+      "Slots": [
+        {
+          "_id": "69d6dc741c30be704b906d4d",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_cover",
+          "_parent": "69d6dc1fabe158a296906d46",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69d6dcfb46cc268b92906d4e",
+                  "69d6df1e2053bc5e41906d4f",
+                  "69d6df883c2d93f229906d51",
+                  "69d6dfa9f3b8a5d1b4906d52",
+                  "69d6dfc41d822714a7906d53"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69d6dc447a7b8862b1906d47",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "69d6dc1fabe158a296906d46",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "65719f9ef392ad76c50a2ec8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69d6dc46e43af4f88b906d48",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "69d6dc1fabe158a296906d46",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69d6dc4812e1f268b1906d49",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "69d6dc1fabe158a296906d46",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69d6dc4a70f0945453906d4a",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "69d6dc1fabe158a296906d46",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657fa0fcd4caf976440afe3e"
+                ],
+                "Plate": "657fa0fcd4caf976440afe3e",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "69d6dc4c9980f132fa906d4b",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "69d6dc1fabe158a296906d46",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657fa168e9433140ad0baf8e"
+                ],
+                "Plate": "657fa168e9433140ad0baf8e",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "69d6dc4f66bd011b4f906d4c",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_ears",
+          "_parent": "69d6dc1fabe158a296906d46",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657fa186d4caf976440afe42"
+                ],
+                "Plate": "657fa186d4caf976440afe42",
+                "armorColliders": [
+                  "Ears"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "NPP KlASS Tor-2 helmet",
+        "shortName": "Tor-2",
+        "description": "NPP KlASS Tor-2 is an assault protective helmet with a removable bullet-resistant visor and an integrated system for installing additional equipment (NVG, headsets, tactical lights, cameras, IR strobe lights, etc.)."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 55962,
+    "handbookPriceRoubles": 25029,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 74
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 60
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 100
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "69d6dc1fabe158a296906d46",
+        "_id": "69d6e154d17db09cc7906d59",
+        "_items": [
+          {
+            "_id": "69d6e148e5a9ee4ee5906d57",
+            "_tpl": "69d6dc1fabe158a296906d46",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "69d6e146e78812f375906d56",
+            "_tpl": "657fa0fcd4caf976440afe3e",
+            "slotId": "Helmet_top",
+            "parentId": "69d6e148e5a9ee4ee5906d57"
+          },
+          {
+            "_id": "69d6e14603a502a0da906d55",
+            "_tpl": "657fa168e9433140ad0baf8e",
+            "slotId": "Helmet_back",
+            "parentId": "69d6e148e5a9ee4ee5906d57"
+          },
+          {
+            "_id": "69d6e145c9f2c14071906d54",
+            "_tpl": "657fa186d4caf976440afe42",
+            "slotId": "Helmet_ears",
+            "parentId": "69d6e148e5a9ee4ee5906d57"
+          }
+        ],
+        "_name": "Helmet Tor-2 Black Stock Preset",
+        "_parent": "69d6e148e5a9ee4ee5906d57",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "69e7344dc0d143efe0be98c2": { // 6B27 helmet (Flora cover)
+    "itemTplToClone": "5a7c4850e899ef00150be885",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/6b27/helmet_6b27_flora.bundle",
+        "rcid": ""
+      },
+      "Name": "helmet_ratnik_6b27_flora",
+      "Slots": [
+        {
+          "_id": "69e736403fe0ce38c3be98c8",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "69e7344dc0d143efe0be98c2",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657baaf0b7e9ca9a02045c02"
+                ],
+                "Plate": "657baaf0b7e9ca9a02045c02",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "69e73643c999a74ab5be98c9",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "69e7344dc0d143efe0be98c2",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657bab6ec6f689d3a205b85f"
+                ],
+                "Plate": "657bab6ec6f689d3a205b85f",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "69e7364492d50c4c0dbe98ca",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_ears",
+          "_parent": "69e7344dc0d143efe0be98c2",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657babc6f58ba5a6250107a2"
+                ],
+                "Plate": "657babc6f58ba5a6250107a2",
+                "armorColliders": [
+                  "Ears"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "6B27 helmet (Flora cover)",
+        "shortName": "6B27",
+        "description": "The 6B27 helmet is an aramid helmet developed by the Russian Armed Forces to replace the previous 6B7-1 series of helmets to be lighter, and more bouyant. These helmets, despite their outdated nature, still see use amongst RUAF and other militaries worldwide. Summer Flora cover version."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 26840,
+    "handbookPriceRoubles": 1692,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 74
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 60
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 100
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "69e7344dc0d143efe0be98c2",
+        "_id": "69e734f20f9cdac4e1be98c4",
+        "_items": [
+          {
+            "_id": "69e734ed041e1fb2adbe98c3",
+            "_tpl": "69e7344dc0d143efe0be98c2",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "69d6e146e78812f375906d56",
+            "_tpl": "657baaf0b7e9ca9a02045c02",
+            "slotId": "Helmet_top",
+            "parentId": "69e734ed041e1fb2adbe98c3"
+          },
+          {
+            "_id": "69d6e14603a502a0da906d55",
+            "_tpl": "657bab6ec6f689d3a205b85f",
+            "slotId": "Helmet_back",
+            "parentId": "69e734ed041e1fb2adbe98c3"
+          },
+          {
+            "_id": "69d6e145c9f2c14071906d54",
+            "_tpl": "657babc6f58ba5a6250107a2",
+            "slotId": "Helmet_ears",
+            "parentId": "69e734ed041e1fb2adbe98c3"
+          }
+        ],
+        "_name": "Helmet 6B27 Flora Stock Preset",
+        "_parent": "69e734ed041e1fb2adbe98c3",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "69e73666cbadfd79bdbe98ce": { // 6B27 helmet (EMR cover)
+    "itemTplToClone": "69e7344dc0d143efe0be98c2",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/6b27/helmet_6b27_emr.bundle",
+        "rcid": ""
+      },
+      "Name": "helmet_ratnik_6b27_emr"
+    },
+    "locales": {
+      "en": {
+        "name": "6B27 helmet (EMR cover)",
+        "shortName": "6B27",
+        "description": "The 6B27 helmet is an aramid helmet developed by the Russian Armed Forces to replace the previous 6B7-1 series of helmets to be lighter, and more bouyant. These helmets, despite their outdated nature, still see use amongst RUAF and other militaries worldwide. EMR cover version."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 26840,
+    "handbookPriceRoubles": 1692,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 74
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 60
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 100
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "69e73666cbadfd79bdbe98ce",
+        "_id": "69e7365ebe47fc28efbe98cc",
+        "_items": [
+          {
+            "_id": "69e7365a57c75c075ebe98cb",
+            "_tpl": "69e73666cbadfd79bdbe98ce",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "69e73680f1fdfe5100be98cf",
+            "_tpl": "657baaf0b7e9ca9a02045c02",
+            "slotId": "Helmet_top",
+            "parentId": "69e7365a57c75c075ebe98cb"
+          },
+          {
+            "_id": "69e736813100d477e5be98d0",
+            "_tpl": "657bab6ec6f689d3a205b85f",
+            "slotId": "Helmet_back",
+            "parentId": "69e7365a57c75c075ebe98cb"
+          },
+          {
+            "_id": "69e736817c08904f32be98d1",
+            "_tpl": "657babc6f58ba5a6250107a2",
+            "slotId": "Helmet_ears",
+            "parentId": "69e7365a57c75c075ebe98cb"
+          }
+        ],
+        "_name": "Helmet 6B27 EMR Stock Preset",
+        "_parent": "69e7365a57c75c075ebe98cb",
         "_type": "Preset"
       }
     ]
