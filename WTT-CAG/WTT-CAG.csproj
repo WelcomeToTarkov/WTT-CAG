@@ -16,7 +16,7 @@
     <PackageReference Include="SPTarkov.Common" Version="4.0.3" />
     <PackageReference Include="SPTarkov.DI" Version="4.0.3" />
     <PackageReference Include="SPTarkov.Server.Core" Version="4.0.3" />
-    <PackageReference Include="WTT-ServerCommonLib" Version="2.0.4" />
+    <PackageReference Include="WTT-ServerCommonLib" Version="2.0.18" />
   </ItemGroup>
 
   <ItemGroup>
@@ -25,6 +25,7 @@
     <Folder Include="Resources\db\CustomClothing\" />
     <Folder Include="Resources\db\CustomRigLayouts\" />
     <Folder Include="Resources\db\CustomSlotImages\" />
+    <Folder Include="Resources\db\FIXME\" />
   </ItemGroup>
 
   <ItemGroup>

@@ -17,7 +17,7 @@ public record ModMetadata : AbstractModMetadata
     public override List<string>? Incompatibilities { get; init; }
     public override Dictionary<string, Range>? ModDependencies { get; init; } = new()
     {
-        { "com.wtt.commonlib", new Range("~2.0.4") }
+        { "com.wtt.commonlib", new Range("~2.0.18") }
     };
     public override string? Url { get; init; }
     public override bool? IsBundleMod { get; init; } = true;
@@ -38,6 +38,7 @@ public class WTTCAG(
         await wttCommon.CustomClothingService.CreateCustomClothing(assembly); 
         wttCommon.CustomRigLayoutService.CreateRigLayouts(assembly); 
         wttCommon.CustomSlotImageService.CreateSlotImages(assembly);
+        await wttCommon.CustomHideoutRecipeService.CreateHideoutRecipes(assembly);
         await Task.CompletedTask;
     }
 }
