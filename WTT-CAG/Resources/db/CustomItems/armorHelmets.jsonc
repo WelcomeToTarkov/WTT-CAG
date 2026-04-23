@@ -3327,5 +3327,237 @@
         "_type": "Preset"
       }
     ]
+  },
+  "69e92bd85a9f81b04fa1e934": { // Galvion Viper P2 helmet (Black)
+    "itemTplToClone": "69d422d93ea0e62623eb31e0",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/galvion_viperp2/helmet_galvion_viper_p2_black.bundle",
+        "rcid": ""
+      },
+      "Name": "helmet_viper_p2_black",
+      "Weight": 0.93,
+      "Slots": [
+        {
+          "_id": "69e93e40b150e86850a1e93a",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "69e92bd85a9f81b04fa1e934",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69e93b4af8bcdaf3fda1e935",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "69e92bd85a9f81b04fa1e934",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69e93cb339ab9c5660a1e938"
+                ],
+                "Plate": "69e93cb339ab9c5660a1e938",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "69e93def7f7a66a4eda1e939",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "69e92bd85a9f81b04fa1e934",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69e93cb164025aa97ca1e937"
+                ],
+                "Plate": "69e93cb164025aa97ca1e937",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Galvion Batlskin Viper P2 high-cut helmet",
+        "shortName": "Viper P2",
+        "description": "A lightweight high-cut ballistic helmet engineered for modern combat systems, the Viper P2 \"Mission Ready+\" offers optimized coverage while maintaining a low profile. Constructed from advanced composite materials, it balances protection and weight, and features integrated ARC rails and a front NVG shroud for mounting accessories. Its high-cut design improves headset compatibility and situational awareness, making it well-suited for modular, mission-adaptable loadouts."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 45454,
+    "handbookPriceRoubles": 26840,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 74
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 60
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 100
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "69e92bd85a9f81b04fa1e934",
+        "_id": "69e7365ebe47fc28efbe98cc",
+        "_items": [
+          {
+            "_id": "69e7365a57c75c075ebe98cb",
+            "_tpl": "69e92bd85a9f81b04fa1e934",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "69e73680f1fdfe5100be98cf",
+            "_tpl": "69e93cb339ab9c5660a1e938",
+            "slotId": "Helmet_top",
+            "parentId": "69e7365a57c75c075ebe98cb"
+          },
+          {
+            "_id": "69e736813100d477e5be98d0",
+            "_tpl": "69e93cb164025aa97ca1e937",
+            "slotId": "Helmet_back",
+            "parentId": "69e7365a57c75c075ebe98cb"
+          }
+        ],
+        "_name": "Helmet Viper P2 Black Stock Preset",
+        "_parent": "69e7365a57c75c075ebe98cb",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "69e9629ebde4a54efca1e93f": { // Galvion Viper P2 helmet (Coyote Tan)
+    "itemTplToClone": "69e92bd85a9f81b04fa1e934",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/galvion_viperp2/helmet_galvion_viper_p2_tan.bundle",
+        "rcid": ""
+      },
+      "Name": "helmet_viper_p2_tan"
+    },
+    "locales": {
+      "en": {
+        "name": "Galvion Batlskin Viper P2 high-cut helmet (Coyote Tan)",
+        "shortName": "Viper P2",
+        "description": "A lightweight high-cut ballistic helmet engineered for modern combat systems, the Viper P2 \"Mission Ready+\" offers optimized coverage while maintaining a low profile. Constructed from advanced composite materials, it balances protection and weight, and features integrated ARC rails and a front NVG shroud for mounting accessories. Its high-cut design improves headset compatibility and situational awareness, making it well-suited for modular, mission-adaptable loadouts. Coyote Tan 499 version."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 45454,
+    "handbookPriceRoubles": 26840,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 74
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 60
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 100
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "69e9629ebde4a54efca1e93f",
+        "_id": "69e962c5836a2a038ca1e940",
+        "_items": [
+          {
+            "_id": "69e96298fe2731acf4a1e93b",
+            "_tpl": "69e9629ebde4a54efca1e93f",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "69e9629b2592f6c9d8a1e93d",
+            "_tpl": "69e93cb339ab9c5660a1e938",
+            "slotId": "Helmet_top",
+            "parentId": "69e96298fe2731acf4a1e93b"
+          },
+          {
+            "_id": "69e9629cb63f93811ca1e93e",
+            "_tpl": "69e93cb164025aa97ca1e937",
+            "slotId": "Helmet_back",
+            "parentId": "69e96298fe2731acf4a1e93b"
+          }
+        ],
+        "_name": "Helmet Viper P2 Tan Stock Preset",
+        "_parent": "69e96298fe2731acf4a1e93b",
+        "_type": "Preset"
+      }
+    ]
   }
 }

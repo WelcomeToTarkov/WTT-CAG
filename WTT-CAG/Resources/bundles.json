@@ -981,6 +981,25 @@
         "Headwear/helmets/6b27/helmet_6b27_shared_textures.bundle",
         "assets/content/items/equipment/helmet_6b47/item_equipment_helmet_6b47.bundle"
       ]
+    },
+    {
+      "key": "Headwear/helmets/galvion_viperp2/helmet_galvion_viper_p2_black.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/equipment/helmet_galvion_caiman/item_equipment_helmet_galvion_caiman.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/galvion_viperp2/helmet_galvion_viper_p2_tan.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Headwear/helmets/galvion_viperp2/helmet_galvion_viper_p2_black.bundle",
+        "assets/content/items/equipment/helmet_galvion_caiman/item_equipment_helmet_galvion_caiman.bundle"
+      ]
     }
   ]
 }
