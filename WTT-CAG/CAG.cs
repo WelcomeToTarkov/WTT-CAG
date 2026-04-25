@@ -1,7 +1,11 @@
 ﻿using System.Reflection;
 using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.DI;
+using SPTarkov.Server.Core.Models.Eft.Common.Tables;
 using SPTarkov.Server.Core.Models.Spt.Mod;
+using WTTCAG.Traders;
+using WTTServerCommonLib.Models;
+using Path = System.IO.Path;
 using Range = SemanticVersioning.Range;
 
 namespace WTTCAG;
@@ -32,8 +36,12 @@ public class WTTCAG(
     public async Task OnLoad()
     {
         Assembly assembly = Assembly.GetExecutingAssembly();
+        
+        TraderIds.Add("HOSER", "69eccbae0764116786033c2e");
+        
         await wttCommon.CustomItemServiceExtended.CreateCustomItems(assembly);
         await wttCommon.CustomLocaleService.CreateCustomLocales(assembly);
+        await wttCommon.CustomAssortSchemeService.CreateCustomAssortSchemes(assembly);
         await wttCommon.CustomBotLoadoutService.CreateCustomBotLoadouts(assembly);
         await wttCommon.CustomClothingService.CreateCustomClothing(assembly); 
         wttCommon.CustomRigLayoutService.CreateRigLayouts(assembly); 
