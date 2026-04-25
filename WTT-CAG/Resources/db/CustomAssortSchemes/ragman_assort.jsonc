@@ -1,0 +1,48 @@
+﻿{
+  "items": [
+    {
+      "_name": "Tor-2 (Black)",
+      "_id": "69ece14664102f4dcf033c36",
+      "_tpl": "69d6dc1fabe158a296906d46",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 200,
+        "BuyRestrictionMax": 2,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "69ece17ad28a386eae033c37",
+      "_tpl": "657fa0fcd4caf976440afe3e",
+      "slotId": "Helmet_top",
+      "parentId": "69ece14664102f4dcf033c36"
+    },
+    {
+      "_id": "69ece17ae3a2fccbcd033c38",
+      "_tpl": "657fa168e9433140ad0baf8e",
+      "slotId": "Helmet_back",
+      "parentId": "69ece14664102f4dcf033c36"
+    },
+    {
+      "_id": "69ece17b6df5b6b77c033c39",
+      "_tpl": "657fa186d4caf976440afe42",
+      "slotId": "Helmet_ears",
+      "parentId": "69ece14664102f4dcf033c36"
+    }
+  ],
+  "barter_scheme": {
+    "69ece14664102f4dcf033c36": [ // Tor-2 (Black)
+      [
+        {
+          "count": 58476,
+          "_tpl": "59faff1d86f7746c51718c9c"
+        }
+      ]
+    ]
+  },
+  "loyal_level_items": {
+    "69ece14664102f4dcf033c36": 3 // Tor-2 (Black)
+  }
+}
