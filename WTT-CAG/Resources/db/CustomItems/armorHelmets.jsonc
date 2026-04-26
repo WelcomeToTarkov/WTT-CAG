@@ -1,5 +1,5 @@
 {
-  "6952dd3e0a19ef4b6ac90335": {
+  "6952dd3e0a19ef4b6ac90335": { // Ceradyne IHPS helmet
     "itemTplToClone": "5b40e2bc5acfc40016388216",
     "parentId": "5a341c4086f77401f2541505",
     "handbookParentId": "5b47574386f77428ca22b330",
@@ -3556,6 +3556,221 @@
         ],
         "_name": "Helmet Viper P2 Tan Stock Preset",
         "_parent": "69e96298fe2731acf4a1e93b",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "69eb87e55af80595742360ab": { // 6B7-1M helmet
+    "itemTplToClone": "69e7344dc0d143efe0be98c2",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/6b7-1m/helmet_6b7-1m.bundle",
+        "rcid": ""
+      },
+      "Name": "helmet_ratnik_6b7-1m",
+      "Slots": [
+        {
+          "_id": "69eb8ea790f4376c3b2360ac",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_cover",
+          "_parent": "69eb87e55af80595742360ab",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69eb909f97db27e8a62360b4",
+                  "69eb93dceef81520ae2360b5"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69eb8eb1bb8dd700ea2360ad",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment",
+          "_parent": "69eb87e55af80595742360ab",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a800961159bd4315e3a1657",
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "626becf9582c3e319310b837",
+                  "6272370ee4013c5d7e31f418",
+                  "6272379924e29f06af4d5ecb",
+                  "5d2369418abbc306c62e0c80",
+                  "5b07dd285acfc4001754240d",
+                  "56def37dd2720bec348b456a",
+                  "5a7b483fe899ef0016170d15",
+                  "5a5f1ce64f39f90b401987bc",
+                  "560d657b4bdc2da74d8b4572",
+                  "5b3a337e5acfc4704b4a19a0",
+                  "5c5952732e2216398b5abda2",
+                  "6267c6396b642f77f56f5c1c",
+                  "57d17e212459775a1179a0f5"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69eb8eb4f15ddf66682360ae",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "69eb87e55af80595742360ab",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657baaf0b7e9ca9a02045c02"
+                ],
+                "Plate": "657baaf0b7e9ca9a02045c02",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "69eb8eb6f20f7a6bd72360af",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "69eb87e55af80595742360ab",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657bab6ec6f689d3a205b85f"
+                ],
+                "Plate": "657bab6ec6f689d3a205b85f",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "69eb8ebabbb2e07f1e2360b0",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_ears",
+          "_parent": "69eb87e55af80595742360ab",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657babc6f58ba5a6250107a2"
+                ],
+                "Plate": "657babc6f58ba5a6250107a2",
+                "armorColliders": [
+                  "Ears"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "6B7-1M helmet (Olive Drab)",
+        "shortName": "6B7-1M",
+        "description": "The 6B7-1M helmet is a helmet developed by the Russian Armed Forces to replace the previous 6B7 helmet to use a newer aramid-composite material. These helmets are still used by RUAF and other militaries worldwide. Olive Drab version."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 29872,
+    "handbookPriceRoubles": 2222,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 74
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 60
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 100
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "69eb87e55af80595742360ab",
+        "_id": "69eb87e5c5db7cb5c12360aa",
+        "_items": [
+          {
+            "_id": "69eb87a81c90d151992360a5",
+            "_tpl": "69eb87e55af80595742360ab",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "69eb8f648066c92e862360b1",
+            "_tpl": "657baaf0b7e9ca9a02045c02",
+            "slotId": "Helmet_top",
+            "parentId": "69eb87a81c90d151992360a5"
+          },
+          {
+            "_id": "69eb8f657bcc74c5792360b2",
+            "_tpl": "657bab6ec6f689d3a205b85f",
+            "slotId": "Helmet_back",
+            "parentId": "69eb87a81c90d151992360a5"
+          },
+          {
+            "_id": "69eb8f668c2cd957e72360b3",
+            "_tpl": "657babc6f58ba5a6250107a2",
+            "slotId": "Helmet_ears",
+            "parentId": "69eb87a81c90d151992360a5"
+          }
+        ],
+        "_name": "Helmet 6B7-1M Stock Preset",
+        "_parent": "69eb87a81c90d151992360a5",
         "_type": "Preset"
       }
     ]
