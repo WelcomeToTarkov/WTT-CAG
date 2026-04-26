@@ -2,15 +2,15 @@
 	"inventory": {
 		"equipment": {
 			"TacticalVest": {
-				"68d9a1c419128076a57b2378": 1
+				"6959f5cefa310a108862b798": 1
 			}
 		},
 		"mods": {
-			"68d9a1c419128076a57b2378": {
+			"6959f5cefa310a108862b798": {
 				"Front_plate": ["656fa53d94b480b8a500c0e4"],
 				"Back_plate": ["656fa53d94b480b8a500c0e4"],
-				"Soft_armor_front": ["6570e83223c1f638ef0b0ede"],
-				"Soft_armor_back": ["6570e83223c1f638ef0b0ede"]
+				"Soft_armor_front": ["6959f5328aa6eaf6ea62b797"],
+				"Soft_armor_back": ["6959f60089e07cdf6f62b79d"]
 			}
 		}
 	}
