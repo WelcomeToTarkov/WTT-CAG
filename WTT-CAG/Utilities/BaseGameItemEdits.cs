@@ -49,6 +49,7 @@ public class BaseGameItemEdits(
                     break; // Making the Caiman bump shit (Armor Back)
                 case "65719f0775149d62ce0a670b":
                     item.Properties.Prefab.Path = "Headwear/helmets/tor-2/item_equipment_helmet_tor_2.bundle"; // Tor-2 Prefab Path
+                    slotHelper.EnsureSlot(item, "mod_cover", "55d30c4c4bdc2db4468b457e", false, false, 0);
 
                     slotHelper.AddIdsToNamedSlot(item, "mod_cover",
                         "69d6dcfb46cc268b92906d4e",
