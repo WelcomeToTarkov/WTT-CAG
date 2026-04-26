@@ -1,4 +1,5 @@
-﻿using System.Reflection;
+﻿using System.ComponentModel;
+using System.Reflection;
 using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.DI;
 using SPTarkov.Server.Core.Models.Eft.Common.Tables;
@@ -21,7 +22,8 @@ public record ModMetadata : AbstractModMetadata
     public override List<string>? Incompatibilities { get; init; }
     public override Dictionary<string, Range>? ModDependencies { get; init; } = new()
     {
-        { "com.wtt.commonlib", new Range("~2.0.18") }
+        { "com.wtt.commonlib", new Range("~2.0.18") },
+        { "com.wtt.contentbackport", new Range("~1.0.0")}
     };
     public override string? Url { get; init; }
     public override bool? IsBundleMod { get; init; } = true;
