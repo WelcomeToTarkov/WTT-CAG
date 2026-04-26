@@ -1490,13 +1490,13 @@
       }
     ]
   },
-  "6959f5cefa310a108862b798": {
+  "6959f5cefa310a108862b798": { // Spiritus Systems LV-120 plate carrier (Goons Edition)
     "itemTplToClone": "609e8540d5c319764c2bc2e9",
     "parentId": "5448e5284bdc2dcb718b4567",
     "handbookParentId": "5b5f6f8786f77447ed563642",
     "overrideProperties": {
       "Prefab": {
-        "path": "Bodywear/armoredRigs/LV119/rig_lv119_goons.bundle",
+        "path": "Bodywear/armoredRigs/LV120/item_equipment_spiritus_lv120_goons.bundle",
         "rcid": ""
       },
       "ExaminedByDefault": true,
@@ -1507,15 +1507,15 @@
       "mousePenalty": -2,
       "speedPenaltyPercent": -2,
       "weaponErgonomicPenalty": -0,
-      "RigLayoutName": "LV119_Goons_Layout",
+      "RigLayoutName": "LV120_goons",
       "Grids": [
         {
-          "_id": "56c14ad47dc1e450ac2ffd63",
+          "_id": "69edec1d2bcb1dd33d4bee0b",
           "_name": "GridView (1)",
           "_parent": "6959f5cefa310a108862b798",
           "_props": {
             "cellsH": 1,
-            "cellsV": 2,
+            "cellsV": 1,
             "filters": [
               {
                 "ExcludedFilter": [
@@ -1534,7 +1534,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "35720fd6beb050a342a70891",
+          "_id": "69edec1c09176496c44bee0a",
           "_name": "GridView (2)",
           "_parent": "6959f5cefa310a108862b798",
           "_props": {
@@ -1558,7 +1558,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "2d47efd7f3db7439e47f81a2",
+          "_id": "69edec634e121665194bee0c",
           "_name": "GridView (3)",
           "_parent": "6959f5cefa310a108862b798",
           "_props": {
@@ -1582,11 +1582,11 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "9f98d0284ecb1c28c8b3df25",
+          "_id": "69edec6947f86452694bee0d",
           "_name": "GridView (4)",
           "_parent": "6959f5cefa310a108862b798",
           "_props": {
-            "cellsH": 2,
+            "cellsH": 1,
             "cellsV": 2,
             "filters": [
               {
@@ -1606,7 +1606,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "906e19a51d978b6a4dd8ca7b",
+          "_id": "69edec70bdc3420b2b4bee0e",
           "_name": "GridView (5)",
           "_parent": "6959f5cefa310a108862b798",
           "_props": {
@@ -1628,11 +1628,83 @@
             "minCount": 0
           },
           "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "85522c287e94467b7b6af18f",
+          "_name": "GridView (6)",
+          "_parent": "6959f5cefa310a108862b798",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "69edec7ad95fa369ba4bee0f",
+          "_name": "GridView (7)",
+          "_parent": "6959f5cefa310a108862b798",
+          "_props": {
+            "cellsH": 3,
+            "cellsV": 1,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "5448f3ac4bdc2dce718b4569"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "69edec7f85c46974f64bee10",
+          "_name": "GridView (8)",
+          "_parent": "6959f5cefa310a108862b798",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
         }
       ],
       "Slots": [
         {
-          "_id": "6959f5e79ce9dbca9462b799",
+          "_id": "69eded0191cce3809f4bee11",
           "_mergeSlotWithChildren": true,
           "_name": "Front_plate",
           "_parent": "6959f5cefa310a108862b798",
@@ -1675,7 +1747,7 @@
           "_required": false
         },
         {
-          "_id": "6959f5eb0330d9c71d62b79a",
+          "_id": "69eded03090c041a1f4bee12",
           "_mergeSlotWithChildren": true,
           "_name": "Back_plate",
           "_parent": "6959f5cefa310a108862b798",
@@ -1771,8 +1843,8 @@
     },
     "locales": {
       "en": {
-        "name": "Spiritus Systems LV-119 plate carrier (Goons Edition)",
-        "shortName": "LV-119 GE",
+        "name": "Spiritus Systems LV-120 plate carrier (Goons Edition)",
+        "shortName": "LV-120 GE",
         "description": "A highly customizable modular plate carrier by Spiritus Systems, built for maximum comfort in combat. Goons version."
       }
     },
@@ -1781,8 +1853,8 @@
     "modSlot": [],
     "addtoTraders": false,
     "traders": {},
-    "fleaPriceRoubles": 55926,
-    "handbookPriceRoubles": 8413,
+    "fleaPriceRoubles": 88838,
+    "handbookPriceRoubles": 23058,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
@@ -1844,7 +1916,7 @@
             "parentId": "6959f4ea9de4365f2562b791"
           }
         ],
-        "_name": "LV-119 Goons Stock Preset",
+        "_name": "LV-120 Goons Stock Preset",
         "_parent": "6959f4ea9de4365f2562b791",
         "_type": "Preset"
       }
