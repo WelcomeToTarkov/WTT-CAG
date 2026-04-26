@@ -28,7 +28,7 @@
     "addWeaponPreset": false,
     "weaponPresets": []
   },
-  "6952df07f45848b047c90339": {
+  "6952df07f45848b047c90339": { // IHPS TOP ARMOR
     "itemTplToClone": "657112234269e9a568089eac",
     "parentId": "65649eb40bf0ed77b8044453",
     "handbookParentId": "6564b96a189fe36f356d177c",
@@ -64,7 +64,7 @@
     "addWeaponPreset": false,
     "weaponPresets": []
   },
-  "6952e0430a05aecb1fc9033a": {
+  "6952e0430a05aecb1fc9033a": { // IHPS BACK ARMOR
     "itemTplToClone": "657112a4818110db4600aa66",
     "parentId": "65649eb40bf0ed77b8044453",
     "handbookParentId": "6564b96a189fe36f356d177c",
@@ -100,7 +100,7 @@
     "addWeaponPreset": false,
     "weaponPresets": []
   },
-  "6952e0b52f92620dc1c9033b": {
+  "6952e0b52f92620dc1c9033b": { // IHPS EAR ARMOR
     "itemTplToClone": "657112a4818110db4600aa66",
     "parentId": "65649eb40bf0ed77b8044453",
     "handbookParentId": "6564b96a189fe36f356d177c",
@@ -136,7 +136,7 @@
     "addWeaponPreset": false,
     "weaponPresets": []
   },
-  "695573f047936dde03d8e2ab": {
+  "695573f047936dde03d8e2ab": { // FAST XP TOP ARMOR
     "itemTplToClone": "657f8ec5f4c82973640b234c",
     "parentId": "65649eb40bf0ed77b8044453",
     "handbookParentId": "6564b96a189fe36f356d177c",
@@ -145,8 +145,8 @@
         "path": "assets/content/items/equipment/armor_plates/helmet_top.bundle",
         "rcid": ""
       },
-      "Durability": 30,
-      "MaxDurability": 30
+      "Durability": 35,
+      "MaxDurability": 35
     },
     "locales": {
       "en": {
@@ -166,7 +166,7 @@
     "addWeaponPreset": false,
     "weaponPresets": []
   },
-  "6955743c3cc456ac9fd8e2ac": {
+  "6955743c3cc456ac9fd8e2ac": { // FAST XP BACK ARMOR
     "itemTplToClone": "657f8f10f4c82973640b2350",
     "parentId": "65649eb40bf0ed77b8044453",
     "handbookParentId": "6564b96a189fe36f356d177c",
@@ -175,8 +175,8 @@
         "path": "assets/content/items/equipment/armor_plates/helmet_back.bundle",
         "rcid": ""
       },
-      "Durability": 30,
-      "MaxDurability": 30
+      "Durability": 35,
+      "MaxDurability": 35
     },
     "locales": {
       "en": {
@@ -196,7 +196,7 @@
     "addWeaponPreset": false,
     "weaponPresets": []
   },
-  "69578fd565218682c87d8628": {
+  "69578fd565218682c87d8628": { // NFM THOR Groin Insert
     "itemTplToClone": "6575ce8bdc9932aed601c61e",
     "parentId": "65649eb40bf0ed77b8044453",
     "handbookParentId": "6564b96a189fe36f356d177c",
@@ -222,7 +222,7 @@
     "addWeaponPreset": false,
     "weaponPresets": []
   },
-  "68e55fb697f217f43c40e36b": {
+  "68e55fb697f217f43c40e36b": { // B826 TOP ARMOR
     "itemTplToClone": "657baaf0b7e9ca9a02045c02",
     "parentId": "65649eb40bf0ed77b8044453",
     "handbookParentId": "6564b96a189fe36f356d177c",
@@ -253,7 +253,7 @@
     "addWeaponPreset": false,
     "weaponPresets": []
   },
-  "68e560760a6bd28b1eefae60": {
+  "68e560760a6bd28b1eefae60": { // B826 BACK ARMOR
     "itemTplToClone": "657bab6ec6f689d3a205b85f",
     "parentId": "65649eb40bf0ed77b8044453",
     "handbookParentId": "6564b96a189fe36f356d177c",
@@ -284,7 +284,7 @@
     "addWeaponPreset": false,
     "weaponPresets": []
   },
-  "68e56084053c5f90684175f9": {
+  "68e56084053c5f90684175f9": { // B826 EAR ARMOR
     "itemTplToClone": "657babc6f58ba5a6250107a2",
     "parentId": "65649eb40bf0ed77b8044453",
     "handbookParentId": "6564b96a189fe36f356d177c",
@@ -377,7 +377,7 @@
     "addWeaponPreset": false,
     "weaponPresets": []
   },
-  "695cff59392d1844af62173d": {
+  "695cff59392d1844af62173d": { // TC-2000 MICH EAR ARMOR
     "itemTplToClone": "657f8b05f4c82973640b2348",
     "parentId": "65649eb40bf0ed77b8044453",
     "handbookParentId": "6564b96a189fe36f356d177c",
@@ -409,75 +409,7 @@
     "addWeaponPreset": false,
     "weaponPresets": []
   },
-  "695e43673c56069c92c500cb": {
-    "itemTplToClone": "657f8b05f4c82973640b2348",
-    "parentId": "65649eb40bf0ed77b8044453",
-    "handbookParentId": "6564b96a189fe36f356d177c",
-    "overrideProperties": {
-      "Prefab": {
-        "path": "assets/content/items/equipment/armor_plates/helmet_top.bundle",
-        "rcid": ""
-      },
-      "Durability": 10,
-      "MaxDurability": 10,
-      "armorClass": "1",
-      "armorColliders": [
-        "ParietalHead"
-      ]
-    },
-    "locales": {
-      "en": {
-        "name": "Foam Padding insert",
-        "shortName": "",
-        "description": "A padded insert for use in the Pro-Tec Classic skate helmet."
-      }
-    },
-    "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "addtoTraders": false,
-    "fleaPriceRoubles": 4456,
-    "handbookPriceRoubles": 3463,
-    "addtoStaticLootContainers": false,
-    "staticLootContainers": [],
-    "addWeaponPreset": false,
-    "weaponPresets": []
-  },
-  "695e437b0ed0fcccdfc500cc": {
-    "itemTplToClone": "657f8b05f4c82973640b2348",
-    "parentId": "65649eb40bf0ed77b8044453",
-    "handbookParentId": "6564b96a189fe36f356d177c",
-    "overrideProperties": {
-      "Prefab": {
-        "path": "assets/content/items/equipment/armor_plates/helmet_back.bundle",
-        "rcid": ""
-      },
-      "Durability": 10,
-      "MaxDurability": 10,
-      "armorClass": "1",
-      "armorColliders": [
-        "BackHead"
-      ]
-    },
-    "locales": {
-      "en": {
-        "name": "Foam Padding insert",
-        "shortName": "",
-        "description": "A back padded insert for use in the Pro-Tec Classic skate helmet."
-      }
-    },
-    "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "addtoTraders": false,
-    "fleaPriceRoubles": 4456,
-    "handbookPriceRoubles": 3463,
-    "addtoStaticLootContainers": false,
-    "staticLootContainers": [],
-    "addWeaponPreset": false,
-    "weaponPresets": []
-  },
-  "697e3c819edfc22e06411c81": {
+  "697e3c819edfc22e06411c81": { // FAST SF TOP ARMOR
     "itemTplToClone": "657f8f10f4c82973640b2350",
     "parentId": "65649eb40bf0ed77b8044453",
     "handbookParentId": "6564b96a189fe36f356d177c",
@@ -487,8 +419,8 @@
         "rcid": ""
       },
       "Name": "helmet_armor_fast_sfhc_top",
-      "Durability": 35,
-      "MaxDurability": 35,
+      "Durability": 25,
+      "MaxDurability": 25,
       "armorClass": "4",
       "armorColliders": [
         "ParietalHead"
@@ -522,8 +454,8 @@
         "rcid": ""
       },
       "Name": "helmet_armor_fast_sfhc_back",
-      "Durability": 35,
-      "MaxDurability": 35,
+      "Durability": 25,
+      "MaxDurability": 25,
       "armorClass": "4",
       "armorColliders": [
         "BackHead"
@@ -953,6 +885,184 @@
     "addtoTraders": false,
     "fleaPriceRoubles": 4456,
     "handbookPriceRoubles": 3463,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "69ecba4873ac005b2b033c1c": { // FirstSpear Siege-R Front Insert
+    "itemTplToClone": "6575ce8bdc9932aed601c61e",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/armor_plates/soft_armor_front.bundle",
+        "rcid": ""
+      },
+      "Name": "siege-r_level3_soft_armor_front",
+      "Durability": 44,
+      "MaxDurability": 44,
+      "armorClass": "3",
+      "armorColliders": [
+        "RibcageUp",
+        "RibcageLow"
+      ]
+      
+    },
+    "locales": {
+      "en": {
+        "name": "Aramid insert",
+        "shortName": "",
+        "description": ""
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 24320,
+    "handbookPriceRoubles": 27770,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "69ecbc581f8fd62bbe033c1d": { // FirstSpear Siege-R Rear Insert
+    "itemTplToClone": "6575ce8bdc9932aed601c61e",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/armor_plates/soft_armor_back.bundle",
+        "rcid": ""
+      },
+      "Name": "siege-r_level3_soft_armor_back",
+      "Durability": 44,
+      "MaxDurability": 44,
+      "armorClass": "3",
+      "armorColliders": [
+        "SpineTop",
+        "SpineDown"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Aramid insert",
+        "shortName": "",
+        "description": ""
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 24320,
+    "handbookPriceRoubles": 27770,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "69ecbe642b0d7b9636033c1e": { // FirstSpear Siege-R Left Insert
+    "itemTplToClone": "6575ce8bdc9932aed601c61e",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/armor_plates/soft_armor_left.bundle",
+        "rcid": ""
+      },
+      "Name": "siege-r_level3_soft_armor_left",
+      "Durability": 16,
+      "MaxDurability": 16,
+      "armorClass": "3",
+      "armorColliders": [
+        "LeftSideChestDown"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Aramid insert",
+        "shortName": "",
+        "description": ""
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 24320,
+    "handbookPriceRoubles": 11111,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "69ecbe82df41d4414b033c1f": { // FirstSpear Siege-R Right Insert
+    "itemTplToClone": "6575ce8bdc9932aed601c61e",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/armor_plates/soft_armor_right.bundle",
+        "rcid": ""
+      },
+      "Name": "siege-r_level3_soft_armor_right",
+      "Durability": 16,
+      "MaxDurability": 16,
+      "armorClass": "3",
+      "armorColliders": [
+        "RightSideChestDown"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Aramid insert",
+        "shortName": "",
+        "description": ""
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 24320,
+    "handbookPriceRoubles": 11111,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "69ecb991006b94deed033c1b": { // FirstSpear Siege-R Groin Insert
+    "itemTplToClone": "6575ce8bdc9932aed601c61e",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/armor_plates/groin.bundle",
+        "rcid": ""
+      },
+      "Name": "siege-r_level3_soft_armor_groin",
+      "Durability": 28,
+      "MaxDurability": 28,
+      "armorClass": "3",
+      "armorColliders": [
+        "Pelvis"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Aramid insert",
+        "shortName": "",
+        "description": ""
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 24320,
+    "handbookPriceRoubles": 27770,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
     "addWeaponPreset": false,

@@ -50,15 +50,6 @@
       ]
     },
     {
-      "key": "Headwear/helmets/ate_hhv_helmet/helmet_hhv_wraith.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "Headwear/helmets/ate_hhv_helmet/helmet_hhv_common.bundle",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
       "key": "Attachments/ms2000_helmet.bundle",
       "dependencyKeys": [
         "shaders",
@@ -84,19 +75,10 @@
       ]
     },
     {
-      "key": "Bodywear/unarmoredRigs/mayflowerHybrid/mayflower_shared.bundle",
+      "key": "Bodywear/unarmoredRigs/smersh/item_equipment_rig_smersh_newgen.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
-      "key": "Bodywear/unarmoredRigs/mayflowerHybrid/mayflower_mc.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "Bodywear/unarmoredRigs/mayflowerHybrid/mayflower_shared.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
@@ -381,14 +363,6 @@
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle",
         "Headwear/eyewear/oakley_holbrook/holbrook_glass_shared.bundle"
-      ]
-    },
-    {
-      "key": "Bodywear/armoredRigs/LV119/rig_lv119_goons.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {
@@ -999,6 +973,91 @@
         "assets/commonassets/physics/physicsmaterials.bundle",
         "Headwear/helmets/galvion_viperp2/helmet_galvion_viper_p2_black.bundle",
         "assets/content/items/equipment/helmet_galvion_caiman/item_equipment_helmet_galvion_caiman.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/6b7-1m/helmet_6b7-1m.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/equipment/helmet_6b47/item_equipment_helmet_6b47.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/6b7-1m/cover_6b7-1m_emr.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/equipment/helmet_6b47/item_equipment_helmet_6b47.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/6b7-1m/cover_tape_6b7_orange.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/equipment/helmet_6b47/item_equipment_helmet_6b47.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/6b7-1m/cover_tape_6b7_blue.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/equipment/helmet_6b47/item_equipment_helmet_6b47.bundle",
+        "Headwear/helmets/6b7-1m/cover_tape_6b7_orange.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/6b7-1m/cover_tape_6b7_green.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/equipment/helmet_6b47/item_equipment_helmet_6b47.bundle",
+        "Headwear/helmets/6b7-1m/cover_tape_6b7_orange.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/6b7-1m/cover_tape_6b7_yellow.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/equipment/helmet_6b47/item_equipment_helmet_6b47.bundle",
+        "Headwear/helmets/6b7-1m/cover_tape_6b7_orange.bundle"
+      ]
+    },
+    {
+      "key": "Bodywear/bodyArmor/siege-r/item_equipment_firstspear_siege-r_breacher.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Bodywear/bodyArmor/siege-r/item_equipment_firstspear_siege-r_slick.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Bodywear/bodyArmor/siege-r/item_equipment_firstspear_siege-r_breacher.bundle"
+      ]
+    },
+    {
+      "key": "Bodywear/armoredRigs/LV120/item_equipment_spiritus_lv120_goons.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/mods/magazines/mag_stanag_troy_battlemag_556x45_30.bundle",
+        "assets/content/items/equipment/armor_ss_precision_boss_big_pipe/item_equipment_rig_boss_big_pipe.bundle",
+        "assets/content/items/equipment/rig_jpc_first_gen_mil_spec_v1/item_equipment_rig_jpc_first_gen_mil_spec_v1.bundle"
       ]
     }
   ]
