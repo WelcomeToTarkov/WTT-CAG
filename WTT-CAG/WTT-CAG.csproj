@@ -21,7 +21,6 @@
 
   <ItemGroup>
     <Folder Include="Resources\bundles\" />
-    <Folder Include="Resources\db\CustomBotLoadouts\" />
     <Folder Include="Resources\db\CustomClothing\" />
     <Folder Include="Resources\db\CustomRigLayouts\" />
     <Folder Include="Resources\db\CustomSlotImages\" />
