@@ -1,25 +1,174 @@
 {
-  "68bd04c1cee1ad932ea3c3aa": {
+  "68bd04c1cee1ad932ea3c3aa": { // Smersh NEWGEN
     "itemTplToClone": "63611865ba5b90db0c0399d1",
     "parentId": "5448e5284bdc2dcb718b4567",
     "handbookParentId": "5b5f6f8786f77447ed563642",
     "overrideProperties": {
       "Prefab": {
-        "path": "Bodywear/unarmoredRigs/mayflowerHybrid/mayflower_mc.bundle",
+        "path": "Bodywear/unarmoredRigs/smersh/item_equipment_rig_smersh_newgen.bundle",
         "rcid": ""
       },
+      "Name": "item_equipment_rig_smersh_newgen_olive",
       "ExaminedByDefault": true,
-      "Weight": 1.556,
-      "Height": 3,
+      "Weight": 1.2,
+      "Height": 4,
       "Width": 3,
-      "RigLayoutName": "6h112",
-      "Slots": []
+      "RigLayoutName": "Smersh_AK",
+      "Slots": [],
+      "Grids": [
+        {
+          "_id": "69ec74c5313ca9e0d47c90c0",
+          "_name": "GridView (1)",
+          "_parent": "68bd04c1cee1ad932ea3c3aa",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 1,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "69ec74c6b79f61cf3c7c90c1",
+          "_name": "GridView (2)",
+          "_parent": "68bd04c1cee1ad932ea3c3aa",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "69ec74c89be51db20d7c90c2",
+          "_name": "GridView (3)",
+          "_parent": "68bd04c1cee1ad932ea3c3aa",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "69ec74c9888854c52d7c90c3",
+          "_name": "GridView (4)",
+          "_parent": "68bd04c1cee1ad932ea3c3aa",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "69ec74cb6a0e590d817c90c4",
+          "_name": "GridView (5)",
+          "_parent": "68bd04c1cee1ad932ea3c3aa",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "69ec74cc6ad06f38a47c90c5",
+          "_name": "GridView (6)",
+          "_parent": "68bd04c1cee1ad932ea3c3aa",
+          "_props": {
+            "cellsH": 3,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a",
+                  "5795f317245977243854e041",
+                  "5b5f6f8786f77447ed563642"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ]
     },
     "locales": {
       "en": {
-        "name": "Velocity Systems Mayflower Hybrid chest rig (MultiCam)",
-        "shortName": "Mayflower",
-        "description": "The Lightweight load-bearing rig designed for flexibility and speed in combat zones. The Mayflower Hybrid offers a mix of fixed pouches and modular MOLLE real estate, letting operators carry rifle mags, pistol mags, and mission-specific gear without excess bulk. Multicam version."
+        "name": "SSO Smersh \"New-Gen\" chest rig (Olive Drab)",
+        "shortName": "Smersh",
+        "description": "The modernised Smersh rig provides a balanced platform for carrying essential equipment. Built from durable, lightweight materials, it features an updated harness system and modular pouch layout for improved weight distribution and accessibility. Manufactured by SSO."
       }
     },
     "addtoInventorySlots": [],
@@ -50,7 +199,7 @@
     "addWeaponPreset": false,
     "weaponPresets": []
   },
-  "68bb4520b4883cef1fd7726e": {
+  "68bb4520b4883cef1fd7726e": { // Platatac Peacekeeper (MCT)
     "itemTplToClone": "5e9db13186f7742f845ee9d3",
     "parentId": "5448e5284bdc2dcb718b4567",
     "handbookParentId": "5b5f6f8786f77447ed563642",
@@ -366,7 +515,7 @@
     "weaponPresets": [],
     "traders": {}
   },
-  "68bb48062701bb673faca8af": {
+  "68bb48062701bb673faca8af": { // Platatac Peacekeeper (ATACS FG)
     "itemTplToClone": "68bb4520b4883cef1fd7726e",
     "parentId": "5448e5284bdc2dcb718b4567",
     "handbookParentId": "5b5f6f8786f77447ed563642",
@@ -413,7 +562,7 @@
     "weaponPresets": [],
     "traders": {}
   },
-  "68bb484b1ea04700566271e9": {
+  "68bb484b1ea04700566271e9": { // Platatac Peacekeeper (Coyote)
     "itemTplToClone": "68bb4520b4883cef1fd7726e",
     "parentId": "5448e5284bdc2dcb718b4567",
     "handbookParentId": "5b5f6f8786f77447ed563642",
@@ -460,7 +609,7 @@
     "weaponPresets": [],
     "traders": {}
   },
-  "69534dfbedb3d1c75c40ffb3": {
+  "69534dfbedb3d1c75c40ffb3": { // Spiritus 34A (Multicam)
     "itemTplToClone": "63611865ba5b90db0c0399d1",
     "parentId": "5448e5284bdc2dcb718b4567",
     "handbookParentId": "5b5f6f8786f77447ed563642",
@@ -777,7 +926,7 @@
     "addWeaponPreset": false,
     "weaponPresets": []
   },
-  "6953624c2484d8d5f5f6cd44": {
+  "6953624c2484d8d5f5f6cd44": { // Spiritus 34A (Olive Drab)
     "itemTplToClone": "69534dfbedb3d1c75c40ffb3",
     "parentId": "5448e5284bdc2dcb718b4567",
     "handbookParentId": "5b5f6f8786f77447ed563642",
@@ -828,7 +977,7 @@
     "addWeaponPreset": false,
     "weaponPresets": []
   },
-  "69542293d807443265f80e82": {
+  "69542293d807443265f80e82": { // Poyas A gear rig
     "itemTplToClone": "5c0e6a1586f77404597b4965",
     "parentId": "5448e5284bdc2dcb718b4567",
     "handbookParentId": "5b5f6f8786f77447ed563642",
