@@ -1059,6 +1059,47 @@
         "assets/content/items/equipment/armor_ss_precision_boss_big_pipe/item_equipment_rig_boss_big_pipe.bundle",
         "assets/content/items/equipment/rig_jpc_first_gen_mil_spec_v1/item_equipment_rig_jpc_first_gen_mil_spec_v1.bundle"
       ]
+    },
+    {
+      "key": "Bodywear/backpacks/arcteryx_leaf30/bag_arcteryx_assault_30l_mc.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Bodywear/backpacks/arcteryx_leaf30/bag_arcteryx_assault_30l_blk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Bodywear/backpacks/arcteryx_leaf30/bag_arcteryx_assault_30l_mc.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/pants_usec_cryeac.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/tshirt_usec_cryeac.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/hands/usec/usec_hands_skin.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
     }
   ]
 }
