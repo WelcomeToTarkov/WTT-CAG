@@ -1130,7 +1130,17 @@
       "dependencyKeys": [
         "shaders",
         "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Headwear/helmets/crye_airframe/item_equipment_cover_crye_shared.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/crye_airframe/item_equipment_helmet_crye_airframe_black.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Headwear/helmets/crye_airframe/item_equipment_cover_crye_shared.bundle"
       ]
     },
     {
@@ -1192,6 +1202,15 @@
         "shaders",
         "cubemaps",
         "Headwear/helmets/crye_airframe/item_equipment_cover_crye_shared.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/crye_airframe/item_equipment_cover_crye_kryptek.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "Headwear/helmets/crye_airframe/item_equipment_cover_crye_t_block.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     }
