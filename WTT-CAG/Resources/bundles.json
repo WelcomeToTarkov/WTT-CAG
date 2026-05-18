@@ -1206,11 +1206,11 @@
       ]
     },
     {
-      "key": "Headwear/helmets/crye_airframe/item_equipment_cover_crye_kryptek.bundle",
+      "key": "Headwear/helmets/crye_airframe/item_equipment_cover_crye_t_block.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
-        "Headwear/helmets/crye_airframe/item_equipment_cover_crye_t_block.bundle",
+        "Headwear/helmets/crye_airframe/item_equipment_cover_crye_shared.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     }

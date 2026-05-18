@@ -3913,7 +3913,7 @@
             ]
           },
           "_proto": "64479fdf9731c8fadc0642c1",
-          "_required": true
+          "_required": false
         },
         {
           "_id": "6a09be6fb640032bd5b4a861",
@@ -3937,7 +3937,7 @@
             ]
           },
           "_proto": "64479fdf9731c8fadc0642c1",
-          "_required": true
+          "_required": false
         }
       ]
     },
@@ -3980,12 +3980,12 @@
     "weaponPresets": [
       {
         "_changeWeaponName": false,
-        "_encyclopedia": "6955714f0a371ee4bed8e29e",
+        "_encyclopedia": "6a09bd2d7ec30ec140b4a85e",
         "_id": "695574759af1a23caad8e2b0",
         "_items": [
           {
-            "_id": "6955746e162379a60ad8e2ad",
-            "_tpl": "6955714f0a371ee4bed8e29e",
+            "_id": "6a0b2981c3cfccdac5c4d566",
+            "_tpl": "6a09bd2d7ec30ec140b4a85e",
             "upd": {
               "Repairable": {
                 "MaxDurability": 100,
@@ -3994,20 +3994,20 @@
             }
           },
           {
-            "_id": "69557473869533fe03d8e2ae",
+            "_id": "6a0b29779fb151622fc4d564",
             "_tpl": "695573f047936dde03d8e2ab",
             "slotId": "Helmet_top",
-            "parentId": "6955746e162379a60ad8e2ad"
+            "parentId": "6a0b2981c3cfccdac5c4d566"
           },
           {
-            "_id": "6955747444e938309ed8e2af",
+            "_id": "6a0b2979496a13af8ac4d565",
             "_tpl": "6955743c3cc456ac9fd8e2ac",
             "slotId": "Helmet_back",
-            "parentId": "6955746e162379a60ad8e2ad"
+            "parentId": "6a0b2981c3cfccdac5c4d566"
           }
         ],
-        "_name": "FAST XP Multicam Stock Preset",
-        "_parent": "6955746e162379a60ad8e2ad",
+        "_name": "Airframe FDE Stock Preset",
+        "_parent": "6a0b2981c3cfccdac5c4d566",
         "_type": "Preset"
       }
     ],
@@ -4151,7 +4151,7 @@
             ]
           },
           "_proto": "64479fdf9731c8fadc0642c1",
-          "_required": true
+          "_required": false
         },
         {
           "_id": "6a09be6fb640032bd5b4a861",
@@ -4175,13 +4175,13 @@
             ]
           },
           "_proto": "64479fdf9731c8fadc0642c1",
-          "_required": true
+          "_required": false
         }
       ]
     },
     "locales": {
       "en": {
-        "name": "Crye Precision AirFrame helmet (Tan)",
+        "name": "Crye Precision AirFrame helmet (Black)",
         "shortName": "AirFrame",
         "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. The unique overlapping shell design of the AirFrame creates an integrated vent that provides passive cooling and can reduce the damaging effects of explosive blast waves. Highly modular. Manufactured by Crye Precision."
       }
@@ -4218,11 +4218,11 @@
     "weaponPresets": [
       {
         "_changeWeaponName": false,
-        "_encyclopedia": "6955714f0a371ee4bed8e29e",
-        "_id": "695574759af1a23caad8e2b0",
+        "_encyclopedia": "6a0b240373d8e8a532c4d55a",
+        "_id": "6a0b2b962e895eb1c7c4d567",
         "_items": [
           {
-            "_id": "6955746e162379a60ad8e2ad",
+            "_id": "6a0b2baf8d023baf3dc4d56b",
             "_tpl": "6955714f0a371ee4bed8e29e",
             "upd": {
               "Repairable": {
@@ -4232,20 +4232,20 @@
             }
           },
           {
-            "_id": "69557473869533fe03d8e2ae",
+            "_id": "6a0b2b9e747f34ac89c4d569",
             "_tpl": "695573f047936dde03d8e2ab",
             "slotId": "Helmet_top",
-            "parentId": "6955746e162379a60ad8e2ad"
+            "parentId": "6a0b2baf8d023baf3dc4d56b"
           },
           {
-            "_id": "6955747444e938309ed8e2af",
+            "_id": "6a0b2b9fe81d7bcc14c4d56a",
             "_tpl": "6955743c3cc456ac9fd8e2ac",
             "slotId": "Helmet_back",
-            "parentId": "6955746e162379a60ad8e2ad"
+            "parentId": "6a0b2baf8d023baf3dc4d56b"
           }
         ],
-        "_name": "FAST XP Multicam Stock Preset",
-        "_parent": "6955746e162379a60ad8e2ad",
+        "_name": "Airframe Black Stock Preset",
+        "_parent": "6a0b2baf8d023baf3dc4d56b",
         "_type": "Preset"
       }
     ],
