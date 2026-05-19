@@ -1499,6 +1499,7 @@
         "path": "Bodywear/armoredRigs/LV120/item_equipment_spiritus_lv120_goons.bundle",
         "rcid": ""
       },
+      "BlocksArmorVest": true,
       "ExaminedByDefault": true,
       "BackgroundColor": "default",
       "Weight": 1.73,
