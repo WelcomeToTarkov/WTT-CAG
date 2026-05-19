@@ -3774,5 +3774,481 @@
         "_type": "Preset"
       }
     ]
+  },
+  "6a09bd2d7ec30ec140b4a85e": { // Crye airframe (FDE)
+    "itemTplToClone": "5c17a7ed2e2216152142459c",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/crye_airframe/item_equipment_helmet_crye_airframe.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.83,
+      "mousePenalty": -1,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": -1,
+      "CanSellOnRagfair": true,
+      "Slots": [
+        {
+          "_id": "69d44c1a813b60549eeb31f5",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_cover",
+          "_parent": "69d44c0cd9330f9cffeb31f3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a0a1bef44d169794db4a862",
+                  "6a0a1d1b98bfa8da0db4a863",
+                  "6a0a22700f67790a19b4a864",
+                  "6a0a2299714cddeb91b4a865",
+                  "6a0a22bbfc1a34cac6b4a866",
+                  "6a0a22edf4bbd75165b4a867",
+                  "6a0a230b3d283d711cb4a868"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "695574b613d5bec310d8e2b7",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "6955714f0a371ee4bed8e29e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "695574b5052e78fd36d8e2b6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "6955714f0a371ee4bed8e29e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ea058e01dbce517f324b3e2",
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "695574b3c333edfb40d8e2b5",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "6955714f0a371ee4bed8e29e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "695574b24c19132b09d8e2b4",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_001",
+          "_parent": "6955714f0a371ee4bed8e29e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c178a942e22164bef5ceca3",
+                  "5c1793902e221602b21d3de2"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+                {
+          "_id": "6a09be6d22afc9106bb4a860",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "6a09bd2d7ec30ec140b4a85e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f9897f4c82973640b235e"
+                ],
+                "Plate": "695573f047936dde03d8e2ab",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": false
+        },
+        {
+          "_id": "6a09be6fb640032bd5b4a861",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "6a09bd2d7ec30ec140b4a85e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f9897f4c82973640b235e"
+                ],
+                "Plate": "6955743c3cc456ac9fd8e2ac",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Crye Precision AirFrame helmet (Tan)",
+        "shortName": "AirFrame",
+        "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. The unique overlapping shell design of the AirFrame creates an integrated vent that provides passive cooling and can reduce the damaging effects of explosive blast waves. Highly modular. Manufactured by Crye Precision."
+      }
+    },
+    "fleaPriceRoubles": 55382,
+    "handbookPriceRoubles": 4897,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 15
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 40
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "6a09bd2d7ec30ec140b4a85e",
+        "_id": "695574759af1a23caad8e2b0",
+        "_items": [
+          {
+            "_id": "6a0b2981c3cfccdac5c4d566",
+            "_tpl": "6a09bd2d7ec30ec140b4a85e",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "6a0b29779fb151622fc4d564",
+            "_tpl": "695573f047936dde03d8e2ab",
+            "slotId": "Helmet_top",
+            "parentId": "6a0b2981c3cfccdac5c4d566"
+          },
+          {
+            "_id": "6a0b2979496a13af8ac4d565",
+            "_tpl": "6955743c3cc456ac9fd8e2ac",
+            "slotId": "Helmet_back",
+            "parentId": "6a0b2981c3cfccdac5c4d566"
+          }
+        ],
+        "_name": "Airframe FDE Stock Preset",
+        "_parent": "6a0b2981c3cfccdac5c4d566",
+        "_type": "Preset"
+      }
+    ],
+    "masterySections": []
+  },
+  "6a0b240373d8e8a532c4d55a": { // Crye airframe (black)
+    "itemTplToClone": "5c17a7ed2e2216152142459c",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/crye_airframe/item_equipment_helmet_crye_airframe_black.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.83,
+      "mousePenalty": -1,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": -1,
+      "CanSellOnRagfair": true,
+      "Slots": [
+        {
+          "_id": "69d44c1a813b60549eeb31f5",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_cover",
+          "_parent": "69d44c0cd9330f9cffeb31f3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a0a1bef44d169794db4a862",
+                  "6a0a1d1b98bfa8da0db4a863",
+                  "6a0a22700f67790a19b4a864",
+                  "6a0a2299714cddeb91b4a865",
+                  "6a0a22bbfc1a34cac6b4a866",
+                  "6a0a22edf4bbd75165b4a867",
+                  "6a0a230b3d283d711cb4a868"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "695574b613d5bec310d8e2b7",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "6955714f0a371ee4bed8e29e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "695574b5052e78fd36d8e2b6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "6955714f0a371ee4bed8e29e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ea058e01dbce517f324b3e2",
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "695574b3c333edfb40d8e2b5",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "6955714f0a371ee4bed8e29e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "695574b24c19132b09d8e2b4",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_001",
+          "_parent": "6955714f0a371ee4bed8e29e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c178a942e22164bef5ceca3",
+                  "5c1793902e221602b21d3de2"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a09be6d22afc9106bb4a860",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "6a09bd2d7ec30ec140b4a85e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f9897f4c82973640b235e"
+                ],
+                "Plate": "695573f047936dde03d8e2ab",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": false
+        },
+        {
+          "_id": "6a09be6fb640032bd5b4a861",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "6a09bd2d7ec30ec140b4a85e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f9897f4c82973640b235e"
+                ],
+                "Plate": "6955743c3cc456ac9fd8e2ac",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Crye Precision AirFrame helmet (Black)",
+        "shortName": "AirFrame",
+        "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. The unique overlapping shell design of the AirFrame creates an integrated vent that provides passive cooling and can reduce the damaging effects of explosive blast waves. Highly modular. Manufactured by Crye Precision."
+      }
+    },
+    "fleaPriceRoubles": 55382,
+    "handbookPriceRoubles": 4897,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 15
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 40
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "6a0b240373d8e8a532c4d55a",
+        "_id": "6a0b2b962e895eb1c7c4d567",
+        "_items": [
+          {
+            "_id": "6a0b2baf8d023baf3dc4d56b",
+            "_tpl": "6955714f0a371ee4bed8e29e",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "6a0b2b9e747f34ac89c4d569",
+            "_tpl": "695573f047936dde03d8e2ab",
+            "slotId": "Helmet_top",
+            "parentId": "6a0b2baf8d023baf3dc4d56b"
+          },
+          {
+            "_id": "6a0b2b9fe81d7bcc14c4d56a",
+            "_tpl": "6955743c3cc456ac9fd8e2ac",
+            "slotId": "Helmet_back",
+            "parentId": "6a0b2baf8d023baf3dc4d56b"
+          }
+        ],
+        "_name": "Airframe Black Stock Preset",
+        "_parent": "6a0b2baf8d023baf3dc4d56b",
+        "_type": "Preset"
+      }
+    ],
+    "masterySections": []
   }
 }

@@ -168,5 +168,30 @@
     "standing": 0,
     "currencyId": "MONEY_ROUBLES",
     "price": 220418
+  },
+  { // Helikon outback pants
+    "type": "bottom",
+    "suiteId": "6a084db2c9cd52c8e5582e4f",
+    "outfitId": "6a084db305e3856b71582e50",
+    "bottomId": "6a084db451fbd49c29582e51",
+    "locales": {
+      "en": {
+        "name": "Helikon hybrid outback Pants",
+        "description": "Helikon hybrid outback Pants"
+      }
+    },
+    "bottomBundlePath": "Clothing/Lowers/Helikon/pants_helikon_outback.bundle",
+    "traderId": "RAGMAN",
+    "side": [
+      "Bear",
+      "Usec"
+    ],
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 25000,
+    "questRequirements": [],
+    "achievementRequirements": []
   }
 ]
