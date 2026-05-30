@@ -109,8 +109,8 @@
     "addtoModSlots": false,
     "modSlot": [],
     "addtoTraders": false,
-    "fleaPriceRoubles": 3011,
-    "handbookPriceRoubles": 500,
+    "fleaPriceRoubles": 340,
+    "handbookPriceRoubles": 211,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
@@ -125,7 +125,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "RAGMAN": {
+      "HOSER": {
         "6930973fc00b2b15fc61797f": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -134,7 +134,7 @@
           },
           "barters": [
             {
-              "count": 2112,
+              "count": 252,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -163,8 +163,8 @@
     "addtoModSlots": false,
     "modSlot": [],
     "addtoTraders": false,
-    "fleaPriceRoubles": 3011,
-    "handbookPriceRoubles": 500,
+    "fleaPriceRoubles": 340,
+    "handbookPriceRoubles": 211,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
@@ -179,7 +179,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "RAGMAN": {
+      "HOSER": {
         "6930973fc00b2b15fc617980": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -188,7 +188,7 @@
           },
           "barters": [
             {
-              "count": 2112,
+              "count": 252,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -217,8 +217,8 @@
     "addtoModSlots": false,
     "modSlot": [],
     "addtoTraders": false,
-    "fleaPriceRoubles": 3011,
-    "handbookPriceRoubles": 500,
+    "fleaPriceRoubles": 340,
+    "handbookPriceRoubles": 211,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
@@ -233,7 +233,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "RAGMAN": {
+      "HOSER": {
         "6930973fc00b2b15fc617981": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -242,7 +242,7 @@
           },
           "barters": [
             {
-              "count": 2112,
+              "count": 252,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -271,8 +271,8 @@
     "addtoModSlots": false,
     "modSlot": [],
     "addtoTraders": false,
-    "fleaPriceRoubles": 3011,
-    "handbookPriceRoubles": 500,
+    "fleaPriceRoubles": 340,
+    "handbookPriceRoubles": 211,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
@@ -287,7 +287,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "RAGMAN": {
+      "HOSER": {
         "6930973fc00b2b15fc617982": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -296,7 +296,7 @@
           },
           "barters": [
             {
-              "count": 2112,
+              "count": 252,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -325,8 +325,8 @@
     "addtoModSlots": false,
     "modSlot": [],
     "addtoTraders": false,
-    "fleaPriceRoubles": 3011,
-    "handbookPriceRoubles": 500,
+    "fleaPriceRoubles": 340,
+    "handbookPriceRoubles": 211,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
@@ -341,7 +341,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "RAGMAN": {
+      "HOSER": {
         "6930973fc00b2b15fc617983": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -350,7 +350,7 @@
           },
           "barters": [
             {
-              "count": 2112,
+              "count": 252,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -379,8 +379,8 @@
     "addtoModSlots": false,
     "modSlot": [],
     "addtoTraders": false,
-    "fleaPriceRoubles": 3011,
-    "handbookPriceRoubles": 500,
+    "fleaPriceRoubles": 340,
+    "handbookPriceRoubles": 211,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
@@ -395,7 +395,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "RAGMAN": {
+      "HOSER": {
         "6930973fc00b2b15fc617984": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -404,7 +404,7 @@
           },
           "barters": [
             {
-              "count": 2112,
+              "count": 252,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -471,7 +471,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "RAGMAN": {
+      "HOSER": {
         "6952e55ac789bb8d2ec9034c": {
           "barterSettings": {
             "loyalLevel": 4,
@@ -547,7 +547,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "RAGMAN": {
+      "HOSER": {
         "6955730889003c4e23d8e2aa": {
           "barterSettings": {
             "loyalLevel": 4,
@@ -601,7 +601,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "RAGMAN": {
+      "HOSER": {
         "69557306cb2adcbbc6d8e2a9": {
           "barterSettings": {
             "loyalLevel": 4,
@@ -655,7 +655,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "RAGMAN": {
+      "HOSER": {
         "6955a795059a7c9decc5ccb1": {
           "barterSettings": {
             "loyalLevel": 4,
@@ -709,7 +709,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "RAGMAN": {
+      "HOSER": {
         "6955a7ffd61677addfc5ccb4": {
           "barterSettings": {
             "loyalLevel": 4,
@@ -763,7 +763,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "RAGMAN": {
+      "HOSER": {
         "6955a83f134a1452ddc5ccb6": {
           "barterSettings": {
             "loyalLevel": 4,
@@ -817,7 +817,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "RAGMAN": {
+      "HOSER": {
         "6955a85a3173c785d2c5ccb7": {
           "barterSettings": {
             "loyalLevel": 4,
@@ -1330,83 +1330,6 @@
     "weaponPresets": [],
     "traders": {}
   },
-  "69eb909f97db27e8a62360b4": {
-    // 6B7-1M cover (EMR)
-    "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
-    "parentId": "57bef4c42459772e8d35a53b",
-    "handbookParentId": "5b5f704686f77447ec5d76d7",
-    "overrideProperties": {
-      "Prefab": {
-        "path": "Headwear/helmets/6b7-1m/cover_6b7-1m_emr.bundle",
-        "rcid": ""
-      }
-    },
-    "locales": {
-      "en": {
-        "name": "6B7-1M helmet cover (EMR)",
-        "shortName": "6B7-1M",
-        "description": "An EMR anti-glare cover for the 6B7-1M helmet."
-      }
-    },
-    "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "addtoTraders": false,
-    "fleaPriceRoubles": 550,
-    "handbookPriceRoubles": 125,
-    "addtoStaticLootContainers": true,
-    "staticLootContainers": [
-      {
-        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
-        "probability": 7
-      },
-      {
-        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
-        "probability": 6
-      }
-    ],
-    "addWeaponPreset": false,
-    "weaponPresets": [],
-    "traders": {}
-  },
-    "69eb93dceef81520ae2360b5": { // 6B7-1M tape (Orange)
-      "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
-      "parentId": "57bef4c42459772e8d35a53b",
-      "handbookParentId": "5b5f704686f77447ec5d76d7",
-      "overrideProperties": {
-        "Prefab": {
-          "path": "Headwear/helmets/6b7-1m/cover_tape_6b7_orange.bundle",
-          "rcid": ""
-        }
-      },
-      "locales": {
-        "en": {
-          "name": "6B7-1M helmet tape (Orange)",
-          "shortName": "6B7-1M",
-          "description": "Orange identification tape for the 6B7-1M helmet. Orange is the colour typically used by RUAF troops in Tarkov to identify each-other."
-        }
-      },
-      "addtoInventorySlots": [],
-      "addtoModSlots": false,
-      "modSlot": [],
-      "addtoTraders": false,
-      "fleaPriceRoubles": 550,
-      "handbookPriceRoubles": 125,
-      "addtoStaticLootContainers": true,
-      "staticLootContainers": [
-        {
-          "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
-          "probability": 7
-        },
-        {
-          "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
-          "probability": 6
-        }
-      ],
-      "addWeaponPreset": false,
-      "weaponPresets": [],
-      "traders": {}
-    },
   "6a0a1bef44d169794db4a862": { // Airframe cover multicam
     "itemTplToClone": "5c0e66e2d174af02a96252f4",
     "parentId": "55818b224bdc2dde698b456f",
@@ -1440,7 +1363,7 @@
     },
     "locales": {
       "en": {
-        "name": "Crye Airframe helmet cover (Multicam)",
+        "name": "Crye Airframe helmet cover (MultiCam)",
         "shortName": "Airframe",
         "description": "A fabric camouflage cover tailored for the Crye Airframe used to help break up the helmet’s outline and reduce glare, offering a slight edge in concealment."
       }
@@ -1465,7 +1388,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "RAGMAN": {
+      "HOSER": {
         "6930973fc00b2b15fc61797f": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -1540,7 +1463,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "RAGMAN": {
+      "HOSER": {
         "6930973fc00b2b15fc61797f": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -1615,7 +1538,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "RAGMAN": {
+      "HOSER": {
         "6930973fc00b2b15fc61797f": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -1665,7 +1588,7 @@
     },
     "locales": {
       "en": {
-        "name": "Crye Airframe helmet cover (6 pattern choc chip)",
+        "name": "Crye Airframe helmet cover (DBDU)",
         "shortName": "Airframe",
         "description": "A fabric camouflage cover tailored for the Crye Airframe used to help break up the helmet’s outline and reduce glare, offering a slight edge in concealment."
       }
@@ -1674,7 +1597,7 @@
     "addtoModSlots": false,
     "modSlot": [],
     "addtoTraders": false,
-    "fleaPriceRoubles": 3011,
+    "fleaPriceRoubles": 753,
     "handbookPriceRoubles": 500,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -1690,7 +1613,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "RAGMAN": {
+      "HOSER": {
         "6930973fc00b2b15fc61797f": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -1699,7 +1622,7 @@
           },
           "barters": [
             {
-              "count": 2112,
+              "count": 653,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -1741,7 +1664,7 @@
     },
     "locales": {
       "en": {
-        "name": "Crye Airframe helmet cover (desert night camo)",
+        "name": "Crye Airframe helmet cover (DNC)",
         "shortName": "Airframe",
         "description": "A fabric camouflage cover tailored for the Crye Airframe used to help break up the helmet’s outline and reduce glare, offering a slight edge in concealment."
       }
@@ -1750,7 +1673,7 @@
     "addtoModSlots": false,
     "modSlot": [],
     "addtoTraders": false,
-    "fleaPriceRoubles": 3011,
+    "fleaPriceRoubles": 753,
     "handbookPriceRoubles": 500,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -1766,7 +1689,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "RAGMAN": {
+      "HOSER": {
         "6930973fc00b2b15fc61797f": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -1775,7 +1698,7 @@
           },
           "barters": [
             {
-              "count": 2112,
+              "count": 653,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -1816,7 +1739,7 @@
     },
     "locales": {
       "en": {
-        "name": "Crye Airframe helmet cover (kryptek)",
+        "name": "Crye Airframe helmet cover (Kryptek Mandrake)",
         "shortName": "Airframe",
         "description": "A fabric camouflage cover tailored for the Crye Airframe used to help break up the helmet’s outline and reduce glare, offering a slight edge in concealment."
       }
@@ -1825,7 +1748,7 @@
     "addtoModSlots": false,
     "modSlot": [],
     "addtoTraders": false,
-    "fleaPriceRoubles": 3011,
+    "fleaPriceRoubles": 753,
     "handbookPriceRoubles": 500,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -1841,7 +1764,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "RAGMAN": {
+      "HOSER": {
         "6930973fc00b2b15fc61797f": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -1850,7 +1773,7 @@
           },
           "barters": [
             {
-              "count": 2112,
+              "count": 653,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -1858,7 +1781,7 @@
       }
     }
   },
-  "6a0a230b3d283d711cb4a868": { // Airframe cover t_block
+  "6a0a230b3d283d711cb4a868": { // Airframe cover (T Block)
     "itemTplToClone": "5c0e66e2d174af02a96252f4",
     "parentId": "55818b224bdc2dde698b456f",
     "handbookParentId": "5b5f755f86f77447ec5d770e",
@@ -1891,7 +1814,7 @@
     },
     "locales": {
       "en": {
-        "name": "Crye Airframe helmet cover (t block)",
+        "name": "Crye Airframe helmet cover (T-Block)",
         "shortName": "Airframe",
         "description": "A fabric camouflage cover tailored for the Crye Airframe used to help break up the helmet’s outline and reduce glare, offering a slight edge in concealment."
       }
@@ -1900,7 +1823,7 @@
     "addtoModSlots": false,
     "modSlot": [],
     "addtoTraders": false,
-    "fleaPriceRoubles": 3011,
+    "fleaPriceRoubles": 753,
     "handbookPriceRoubles": 500,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -1916,7 +1839,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "RAGMAN": {
+      "HOSER": {
         "6930973fc00b2b15fc61797f": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -1925,7 +1848,7 @@
           },
           "barters": [
             {
-              "count": 2112,
+              "count": 653,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
