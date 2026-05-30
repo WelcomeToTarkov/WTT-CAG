@@ -169,6 +169,56 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 220418
   },
+  { // Arc'teryx LEAF Gen.1 top (AOR1)
+    "type": "top",
+    "suiteId": "6a0b5a7272af73915595699e",
+    "outfitId": "6a0b5a721b73c0f2df95699f",
+    "topId": "6a0b5a73ab6bd78a5f9569a0",
+    "handsId": "6a0b5a7305287f5b4b9569a1",
+    "locales": {
+      "en": {
+        "name": "Arc'teryx LEAF Gen.1 (AOR1)",
+        "description": "Tactical Jacket"
+      }
+    },
+    "topBundlePath": "Clothing/Uppers/bear_leaf/top_bear_leaf_gen1_fleck.bundle",
+    "handsBundlePath": "Clothing/Hands/bear_leaf/hands_bear_leaf_gen1_fleck.bundle",
+    "traderId": "69eccbae0764116786033c2e",
+    "side": [
+      "Usec",
+      "Bear"
+    ],
+    "loyaltyLevel": 2,
+    "profileLevel": 15,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 220418
+  },
+  { // Arc'teryx LEAF Gen.1 top (CADPAT M.T.)
+    "type": "top",
+    "suiteId": "6a178f39aed887bc0bc8e8c8",
+    "outfitId": "6a178f399344af2a8cc8e8c9",
+    "topId": "6a178f3a38a2eb9089c8e8ca",
+    "handsId": "6a178f3bc335cc8a9ac8e8cb",
+    "locales": {
+      "en": {
+        "name": "Arc'teryx LEAF Gen.1 (CADPAT M.T.)",
+        "description": "Tactical Jacket"
+      }
+    },
+    "topBundlePath": "Clothing/Uppers/bear_leaf/top_bear_leaf_gen1_cadpat.bundle",
+    "handsBundlePath": "Clothing/Hands/bear_leaf/hands_bear_leaf_gen1_cadpat.bundle",
+    "traderId": "69eccbae0764116786033c2e",
+    "side": [
+      "Usec",
+      "Bear"
+    ],
+    "loyaltyLevel": 2,
+    "profileLevel": 15,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 220418
+  },
   { // Helikon outback pants
     "type": "bottom",
     "suiteId": "6a084db2c9cd52c8e5582e4f",
@@ -176,18 +226,18 @@
     "bottomId": "6a084db451fbd49c29582e51",
     "locales": {
       "en": {
-        "name": "Helikon hybrid outback Pants",
-        "description": "Helikon hybrid outback Pants"
+        "name": "Helikon-Tex Outback",
+        "description": "Combat Pants"
       }
     },
     "bottomBundlePath": "Clothing/Lowers/Helikon/pants_helikon_outback.bundle",
-    "traderId": "RAGMAN",
+    "traderId": "69eccbae0764116786033c2e",
     "side": [
       "Bear",
       "Usec"
     ],
     "loyaltyLevel": 1,
-    "profileLevel": 1,
+    "profileLevel": 11,
     "standing": 0,
     "currencyId": "MONEY_ROUBLES",
     "price": 25000,
