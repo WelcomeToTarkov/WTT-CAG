@@ -3277,5 +3277,1488 @@
         "_type": "Preset"
       }
     ]
+  },
+  "6a1445f45e02d6066dff6c1c": { // Shellback Tactical Rampage 2.0 plate carrier (Pointman, Wolf Grey)
+    "itemTplToClone": "66b6296d7994640992013b17",
+    "parentId": "5448e5284bdc2dcb718b4567",
+    "handbookParentId": "5b5f6f8786f77447ed563642",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Bodywear/armoredRigs/RAMPAGE2/rig_shellback_rampage_breacher_gry.bundle",
+        "rcid": ""
+      },
+      "BlocksArmorVest": true,
+      "ExaminedByDefault": true,
+      "BackgroundColor": "default",
+      "Weight": 3.64,
+      "Height": 4,
+      "Width": 3,
+      "mousePenalty": -0.5,
+      "speedPenaltyPercent": -2.5,
+      "weaponErgonomicPenalty": -1,
+      "RigLayoutName": "Rampage_Breacher",
+      "Grids": [
+        {
+          "_id": "711f6223edd108a50ef75fe9",
+          "_name": "GridView (1)",
+          "_parent": "6a1445f45e02d6066dff6c1c",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "5448f3ac4bdc2dce718b4569",
+                  "5448f3a64bdc2d60728b456a",
+                  "5448f39d4bdc2d0a728b4568"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "4a676f06c8b5ab4c09dbd6b4",
+          "_name": "GridView (2)",
+          "_parent": "6a1445f45e02d6066dff6c1c",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 3,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "c1b84b23363dde14a8553a4f",
+          "_name": "GridView (3)",
+          "_parent": "6a1445f45e02d6066dff6c1c",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 3,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "105fbef410692af232ff65d6",
+          "_name": "GridView (4)",
+          "_parent": "6a1445f45e02d6066dff6c1c",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 3,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "c7a28975dc1103e99d1c2382",
+          "_name": "GridView (5)",
+          "_parent": "6a1445f45e02d6066dff6c1c",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 3,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "2aea4cc3a7eab7af0709fd49",
+          "_name": "GridView (6)",
+          "_parent": "6a1445f45e02d6066dff6c1c",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 1,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "543be6564bdc2df4348b4568"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "426a6ff46554b2d890466092",
+          "_name": "GridView (7)",
+          "_parent": "6a1445f45e02d6066dff6c1c",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 1,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "04c708d8dd78ba04cbc98414",
+          "_name": "GridView (8)",
+          "_parent": "6a1445f45e02d6066dff6c1c",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 1,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "61a608b8c94c0e047cd336ed",
+          "_name": "GridView (9)",
+          "_parent": "6a1445f45e02d6066dff6c1c",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 1,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ],
+      "Slots": [
+        {
+          "_id": "6a1446d0de284d7e85ff6c26",
+          "_mergeSlotWithChildren": true,
+          "_name": "Front_plate",
+          "_parent": "6a1445f45e02d6066dff6c1c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fa76500d62bcd2e024080",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041",
+                  "65573fa5655447403702a816",
+                  "64afc71497cf3a403c01ff38"
+                ],
+                "Plate": "656fa53d94b480b8a500c0e4",
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_chest"
+                ],
+                "bluntDamageReduceFromSoftArmor": true,
+                "locked": false
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": false
+        },
+        {
+          "_id": "6a1446cea843ca1ceaff6c25",
+          "_mergeSlotWithChildren": true,
+          "_name": "Back_plate",
+          "_parent": "6a1445f45e02d6066dff6c1c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa76500d62bcd2e024080",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041",
+                  "65573fa5655447403702a816",
+                  "64afc71497cf3a403c01ff38"
+                ],
+                "Plate": "656fa53d94b480b8a500c0e4",
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_back"
+                ],
+                "bluntDamageReduceFromSoftArmor": true,
+                "locked": false
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": false
+        },
+        {
+          "_id": "6a1446ccb2d5f7bfcaff6c24",
+          "_mergeSlotWithChildren": true,
+          "_name": "Soft_armor_front",
+          "_parent": "6a1445f45e02d6066dff6c1c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a144c135e1350ad4aff6c2e"
+                ],
+                "Plate": "6a144c135e1350ad4aff6c2e",
+                "armorColliders": [
+                  "RibcageUp",
+                  "RibcageLow"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "6a1446cb672dd6d9a8ff6c23",
+          "_mergeSlotWithChildren": true,
+          "_name": "Soft_armor_back",
+          "_parent": "6a1445f45e02d6066dff6c1c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a144c14993da637d6ff6c2f"
+                ],
+                "Plate": "6a144c14993da637d6ff6c2f",
+                "armorColliders": [
+                  "SpineDown",
+                  "SpineTop"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "6a1446c9096db19ad6ff6c22",
+          "_mergeSlotWithChildren": true,
+          "_name": "Groin",
+          "_parent": "6a1445f45e02d6066dff6c1c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69ecb991006b94deed033c1b"
+                ],
+                "Plate": "69ecb991006b94deed033c1b",
+                "armorColliders": [
+                  "Pelvis"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Shellback Rampage 2.0 plate carrier (Wolf Grey)",
+        "shortName": "Rampage",
+        "description": "A lightweight and combat-ready plate carrier designed with large amounts of MOLLE webbing to mount gear. This particular carrier is set up for pointman/breacher applications, featuring front armor and breaching gear. Manufactured by Shellback Tactical. Wolf Grey version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "traders": {},
+    "fleaPriceRoubles": 75732,
+    "handbookPriceRoubles": 45584,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "6a1445f45e02d6066dff6c1c",
+        "_id": "6a144bdb65ddaaf5b7ff6c2d",
+        "_items": [
+          {
+            "_id": "6a144bbd450159355cff6c2c",
+            "_tpl": "6a1445f45e02d6066dff6c1c",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "6a144bbb2c758e2823ff6c2b",
+            "_tpl": "656fae5f7c2d57afe200c0d7",
+            "slotId": "Front_plate",
+            "parentId": "6a144bbd450159355cff6c2c"
+          },
+          {
+            "_id": "6a144bbacca47d88d4ff6c2a",
+            "_tpl": "656fae5f7c2d57afe200c0d7",
+            "slotId": "Back_plate",
+            "parentId": "6a144bbd450159355cff6c2c"
+          },
+          {
+            "_id": "6a144bb91fcd2abf91ff6c29",
+            "_tpl": "6a144c135e1350ad4aff6c2e",
+            "slotId": "Soft_armor_front",
+            "parentId": "6a144bbd450159355cff6c2c"
+          },
+          {
+            "_id": "6a144bb86e616c5864ff6c28",
+            "_tpl": "6a144c14993da637d6ff6c2f",
+            "slotId": "Soft_armor_back",
+            "parentId": "6a144bbd450159355cff6c2c"
+          },
+          {
+            "_id": "6a144bb8624e7ceda0ff6c27",
+            "_tpl": "69ecb991006b94deed033c1b",
+            "slotId": "Groin",
+            "parentId": "6a144bbd450159355cff6c2c"
+          }
+        ],
+        "_name": "Rampage 2.0 Pointman Stock Preset",
+        "_parent": "6a144bbd450159355cff6c2c",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "6a18c320614dfcaac696e174": { // Ferro Concepts The Slickster plate carrier (MultiCam)
+    "itemTplToClone": "66b6296d7994640992013b17",
+    "parentId": "5448e5284bdc2dcb718b4567",
+    "handbookParentId": "5b5f6f8786f77447ed563642",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Bodywear/armoredRigs/SLICKSTER/cr_ferro_slickster_multicam.bundle",
+        "rcid": ""
+      },
+      "BlocksArmorVest": true,
+      "ExaminedByDefault": true,
+      "BackgroundColor": "default",
+      "Weight": 3.64,
+      "Height": 4,
+      "Width": 3,
+      "mousePenalty": -0.5,
+      "speedPenaltyPercent": -2.5,
+      "weaponErgonomicPenalty": -1,
+      "RigLayoutName": "slickster_rig",
+      "Grids": [
+        {
+          "_id": "6a18c692759c8407de96e17b",
+          "_name": "GridView (1)",
+          "_parent": "6a18c320614dfcaac696e174",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "5711a57d8fa7cda6f7957b5c",
+          "_name": "GridView (2)",
+          "_parent": "6a18c320614dfcaac696e174",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "7d0e4c32af1415fb5e125293",
+          "_name": "GridView (3)",
+          "_parent": "6a18c320614dfcaac696e174",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "0ed8ffc2fd3e367b4951b152",
+          "_name": "GridView (4)",
+          "_parent": "6a18c320614dfcaac696e174",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "179adad3a53568d5840caa4f",
+          "_name": "GridView (5)",
+          "_parent": "6a18c320614dfcaac696e174",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "2e914dc93daccce2f8dbc26a",
+          "_name": "GridView (6)",
+          "_parent": "6a18c320614dfcaac696e174",
+          "_props": {
+            "cellsH": 2,
+            "cellsV": 1,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "a92291d7f01a7825e13548c6",
+          "_name": "GridView (7)",
+          "_parent": "6a18c320614dfcaac696e174",
+          "_props": {
+            "cellsH": 2,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "2cdc4e8ca15f311321cca519",
+          "_name": "GridView (8)",
+          "_parent": "6a18c320614dfcaac696e174",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 1,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ],
+      "Slots": [
+        {
+          "_id": "6a18c330f08dfa3aaf96e175",
+          "_mergeSlotWithChildren": true,
+          "_name": "Front_plate",
+          "_parent": "6a18c320614dfcaac696e174",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fa76500d62bcd2e024080",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041",
+                  "65573fa5655447403702a816",
+                  "64afc71497cf3a403c01ff38"
+                ],
+                "Plate": "656f9d5900d62bcd2e02407c",
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_chest"
+                ],
+                "bluntDamageReduceFromSoftArmor": true,
+                "locked": false
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": false
+        },
+        {
+          "_id": "6a18c33d77d0d1649696e176",
+          "_mergeSlotWithChildren": true,
+          "_name": "Back_plate",
+          "_parent": "6a18c320614dfcaac696e174",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa76500d62bcd2e024080",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041",
+                  "65573fa5655447403702a816",
+                  "64afc71497cf3a403c01ff38"
+                ],
+                "Plate": "656f9d5900d62bcd2e02407c",
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_back"
+                ],
+                "bluntDamageReduceFromSoftArmor": true,
+                "locked": false
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Ferro Concepts Slickster plate carrier (MultiCam)",
+        "shortName": "Slickster",
+        "description": "The Slickster is a slim plate carrier designed as a minimalistic multi-mission plate carrier for law enforcement and military use as part of Ferro's wider ADAPT system. This carrier features internal pouches on the cummerbund that allows for more storage of standard magazines or any other item that may fit. Manufactured by Ferro Concepts."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "traders": {},
+    "fleaPriceRoubles": 49838,
+    "handbookPriceRoubles": 25201,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "6a18c320614dfcaac696e174",
+        "_id": "6a18c31d8b1ee396a896e173",
+        "_items": [
+          {
+            "_id": "6a18c2dfb40e358d9a96e16e",
+            "_tpl": "6a18c320614dfcaac696e174",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "6a18c53592a71551ad96e17a",
+            "_tpl": "656f9d5900d62bcd2e02407c",
+            "slotId": "Front_plate",
+            "parentId": "6a18c2dfb40e358d9a96e16e"
+          },
+          {
+            "_id": "6a18c53480914c49e196e179",
+            "_tpl": "656f9d5900d62bcd2e02407c",
+            "slotId": "Back_plate",
+            "parentId": "6a18c2dfb40e358d9a96e16e"
+          }
+        ],
+        "_name": "RIG Ferro Slickster MC Stock Preset",
+        "_parent": "6a18c2dfb40e358d9a96e16e",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "6a19eb984e57885c89e456e0": { // Custom Gear CGPC3 plate carrier (Vz95)
+    "itemTplToClone": "61bcc89aef0f505f0c6cd0fc",
+    "parentId": "5448e5284bdc2dcb718b4567",
+    "handbookParentId": "5b5f6f8786f77447ed563642",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Bodywear/armoredRigs/CGPC3/cr_customgear_cgpc3_vz95.bundle",
+        "rcid": ""
+      },
+      "BlocksArmorVest": true,
+      "ExaminedByDefault": true,
+      "BackgroundColor": "default",
+      "Weight": 2.7,
+      "Height": 3,
+      "Width": 3,
+      "mousePenalty": -1,
+      "speedPenaltyPercent": -1,
+      "weaponErgonomicPenalty": -0,
+      "Slots": [
+        {
+          "_id": "6a18c330f08dfa3aaf96e175",
+          "_mergeSlotWithChildren": true,
+          "_name": "Front_plate",
+          "_parent": "6a18c320614dfcaac696e174",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fa76500d62bcd2e024080",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041",
+                  "65573fa5655447403702a816",
+                  "64afc71497cf3a403c01ff38"
+                ],
+                "Plate": "656fa99800d62bcd2e024088",
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_chest"
+                ],
+                "bluntDamageReduceFromSoftArmor": true,
+                "locked": false
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": false
+        },
+        {
+          "_id": "6a18c33d77d0d1649696e176",
+          "_mergeSlotWithChildren": true,
+          "_name": "Back_plate",
+          "_parent": "6a18c320614dfcaac696e174",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa76500d62bcd2e024080",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041",
+                  "65573fa5655447403702a816",
+                  "64afc71497cf3a403c01ff38"
+                ],
+                "Plate": "656fa99800d62bcd2e024088",
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_back"
+                ],
+                "bluntDamageReduceFromSoftArmor": true,
+                "locked": false
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": false
+        },
+        {
+          "_id": "6a19f00778c3a07d08e456e9",
+          "_mergeSlotWithChildren": true,
+          "_name": "Soft_armor_front",
+          "_parent": "6a18c320614dfcaac696e174",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a19f0127eaab3073de456ea"
+                ],
+                "Plate": "6a19f0127eaab3073de456ea",
+                "armorColliders": [
+                  "RibcageUp"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "6a19efbf81cb463c87e456e8",
+          "_mergeSlotWithChildren": true,
+          "_name": "Soft_armor_back",
+          "_parent": "6a18c320614dfcaac696e174",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a19ef9b89f9ba0ba8e456e7"
+                ],
+                "Plate": "6a19ef9b89f9ba0ba8e456e7",
+                "armorColliders": [
+                  "SpineTop"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "6a19f07fe30a2bb67ae456ef",
+          "_mergeSlotWithChildren": true,
+          "_name": "Soft_armor_left",
+          "_parent": "6a18c320614dfcaac696e174",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a19f059c67d7ac4b3e456ee"
+                ],
+                "Plate": "6a19f059c67d7ac4b3e456ee",
+                "armorColliders": [
+                  "LeftSideChestDown"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "6a19f089e486169a9fe456f1",
+          "_mergeSlotWithChildren": true,
+          "_name": "Soft_armor_right",
+          "_parent": "6a18c320614dfcaac696e174",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a19f08ef6fa855c23e456f2"
+                ],
+                "Plate": "6a19f08ef6fa855c23e456f2",
+                "armorColliders": [
+                  "RightSideChestDown"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Custom Gear CGPC3 plate carrier (Vz 95)",
+        "shortName": "CGPC3",
+        "description": "The CGPC3 (Plate Carrier 3) is a Czech-designed modular armor carrier intended for military, law enforcement, and civilian tactical applications. The CGPC3 features a low-profile, ergonomic construction that distributes weight evenly across the shoulders and torso, reducing fatigue during extended operations. Its streamlined design minimizes bulk without sacrificing modularity, allowing operators to carry essential equipment while maintaining freedom of movement in confined spaces, dense terrain, and urban environments. Manufactured by Custom Gear."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "traders": {},
+    "fleaPriceRoubles": 55389,
+    "handbookPriceRoubles": 3503,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "6a19eb984e57885c89e456e0",
+        "_id": "6a19f11f13ffeb6c2ce456f5",
+        "_items": [
+          {
+            "_id": "6a19eb9267f62f2f49e456de",
+            "_tpl": "6a19eb984e57885c89e456e0",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "6a19ed2646ce2dbba7e456e1",
+            "_tpl": "656f9d5900d62bcd2e02407c",
+            "slotId": "Front_plate",
+            "parentId": "6a19eb9267f62f2f49e456de"
+          },
+          {
+            "_id": "6a19ed27d63e0db60ce456e2",
+            "_tpl": "656f9d5900d62bcd2e02407c",
+            "slotId": "Back_plate",
+            "parentId": "6a19eb9267f62f2f49e456de"
+          },
+          {
+            "_id": "6a19f021ba93180e5be456eb",
+            "_tpl": "6a19f0127eaab3073de456ea",
+            "slotId": "Soft_armor_front",
+            "parentId": "6a19eb9267f62f2f49e456de"
+          },
+          {
+            "_id": "6a19f04674c4d9c82ee456ed",
+            "_tpl": "6a19ef9b89f9ba0ba8e456e7",
+            "slotId": "Soft_armor_back",
+            "parentId": "6a19eb9267f62f2f49e456de"
+          },
+          {
+            "_id": "6a19f0e8a6ebad08d7e456f4",
+            "_tpl": "6a19f059c67d7ac4b3e456ee",
+            "slotId": "Soft_armor_left",
+            "parentId": "6a19eb9267f62f2f49e456de"
+          },
+          {
+            "_id": "6a19f0e8cb47a2357fe456f3",
+            "_tpl": "6a19f08ef6fa855c23e456f2",
+            "slotId": "Soft_armor_right",
+            "parentId": "6a19eb9267f62f2f49e456de"
+          }
+        ],
+        "_name": "RIG CustomGear CGPC3 Stock Preset",
+        "_parent": "6a19eb9267f62f2f49e456de",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "6a1a35f3d10a03f857de3059": { // Custom Gear CGPC3 plate carrier
+    "itemTplToClone": "5ab8dced86f774646209ec87",
+    "parentId": "5448e5284bdc2dcb718b4567",
+    "handbookParentId": "5b5f6f8786f77447ed563642",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Bodywear/armoredRigs/CGPC3/cr_customgear_cgpc3_blk.bundle",
+        "rcid": ""
+      },
+      "BlocksArmorVest": true,
+      "ExaminedByDefault": true,
+      "BackgroundColor": "default",
+      "Weight": 3.1,
+      "Height": 4,
+      "Width": 3,
+      "mousePenalty": -1,
+      "speedPenaltyPercent": -1.5,
+      "weaponErgonomicPenalty": -1,
+      "Slots": [
+        {
+          "_id": "6a1a35f89a6f9e6bb9de305a",
+          "_mergeSlotWithChildren": true,
+          "_name": "Front_plate",
+          "_parent": "6a1a35f3d10a03f857de3059",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fa76500d62bcd2e024080",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041",
+                  "65573fa5655447403702a816",
+                  "64afc71497cf3a403c01ff38"
+                ],
+                "Plate": "656fafe3498d1b7e3e071da4",
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_chest"
+                ],
+                "bluntDamageReduceFromSoftArmor": true,
+                "locked": false
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": false
+        },
+        {
+          "_id": "6a1a35fbae66a26ff9de305b",
+          "_mergeSlotWithChildren": true,
+          "_name": "Back_plate",
+          "_parent": "6a1a35f3d10a03f857de3059",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa76500d62bcd2e024080",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041",
+                  "65573fa5655447403702a816",
+                  "64afc71497cf3a403c01ff38"
+                ],
+                "Plate": "656fafe3498d1b7e3e071da4",
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_back"
+                ],
+                "bluntDamageReduceFromSoftArmor": true,
+                "locked": false
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": false
+        },
+        {
+          "_id": "6a1a373f8fac903f5bde306b",
+          "_mergeSlotWithChildren": true,
+          "_name": "Soft_armor_front",
+          "_parent": "6a1a35f3d10a03f857de3059",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a19f0127eaab3073de456ea"
+                ],
+                "Plate": "6a19f0127eaab3073de456ea",
+                "armorColliders": [
+                  "RibcageUp"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "6a1a373d0a271b8da5de306a",
+          "_mergeSlotWithChildren": true,
+          "_name": "Soft_armor_back",
+          "_parent": "6a1a35f3d10a03f857de3059",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a19ef9b89f9ba0ba8e456e7"
+                ],
+                "Plate": "6a19ef9b89f9ba0ba8e456e7",
+                "armorColliders": [
+                  "SpineTop"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "6a1a3851c3389877f0de306c",
+          "_mergeSlotWithChildren": true,
+          "_name": "Groin",
+          "_parent": "6a1a35f3d10a03f857de3059",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a1a386c91a31e3f14de306e"
+                ],
+                "Plate": "6a1a386c91a31e3f14de306e",
+                "armorColliders": [
+                  "RibcageLow",
+                  "Pelvis"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "6a1a373b2d9c626fa3de3068",
+          "_mergeSlotWithChildren": true,
+          "_name": "Soft_armor_left",
+          "_parent": "6a1a35f3d10a03f857de3059",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a19f059c67d7ac4b3e456ee"
+                ],
+                "Plate": "6a19f059c67d7ac4b3e456ee",
+                "armorColliders": [
+                  "LeftSideChestDown"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "6a1a373ca0f105dd14de3069",
+          "_mergeSlotWithChildren": true,
+          "_name": "Soft_armor_right",
+          "_parent": "6a1a35f3d10a03f857de3059",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a19f08ef6fa855c23e456f2"
+                ],
+                "Plate": "6a19f08ef6fa855c23e456f2",
+                "armorColliders": [
+                  "RightSideChestDown"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Custom Gear CGPC3 TQS plate carrier",
+        "shortName": "CGPC3",
+        "description": "The CGPC3 (Plate Carrier 3) is a Czech-designed modular armor carrier intended for military, law enforcement, and civilian tactical applications. The CGPC3 features a low-profile, ergonomic construction that distributes weight evenly across the shoulders and torso, reducing fatigue during extended operations. Its streamlined design minimizes bulk without sacrificing modularity, allowing operators to carry essential equipment while maintaining freedom of movement in confined spaces, dense terrain, and urban environments. Manufactured by Custom Gear."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "traders": {},
+    "fleaPriceRoubles": 55389,
+    "handbookPriceRoubles": 3503,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "6a1a35f3d10a03f857de3059",
+        "_id": "6a1a360bac4f3de796de3060",
+        "_items": [
+          {
+            "_id": "6a1a360c82c8c0ea8dde3061",
+            "_tpl": "6a1a35f3d10a03f857de3059",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "6a1a361771adbc6b27de3062",
+            "_tpl": "656fafe3498d1b7e3e071da4",
+            "slotId": "Front_plate",
+            "parentId": "6a1a360c82c8c0ea8dde3061"
+          },
+          {
+            "_id": "6a1a3617461d8d394fde3063",
+            "_tpl": "656fafe3498d1b7e3e071da4",
+            "slotId": "Back_plate",
+            "parentId": "6a1a360c82c8c0ea8dde3061"
+          },
+          {
+            "_id": "6a1a3618956cd0eba5de3064",
+            "_tpl": "6a19f0127eaab3073de456ea",
+            "slotId": "Soft_armor_front",
+            "parentId": "6a1a360c82c8c0ea8dde3061"
+          },
+          {
+            "_id": "6a1a36185f8aa5d899de3065",
+            "_tpl": "6a19ef9b89f9ba0ba8e456e7",
+            "slotId": "Soft_armor_back",
+            "parentId": "6a1a360c82c8c0ea8dde3061"
+          },
+          {
+            "_id": "6a1a361963ce0f0d5bde3066",
+            "_tpl": "6a19f059c67d7ac4b3e456ee",
+            "slotId": "Soft_armor_left",
+            "parentId": "6a1a360c82c8c0ea8dde3061"
+          },
+          {
+            "_id": "6a1a361a7811340a8fde3067",
+            "_tpl": "6a19f08ef6fa855c23e456f2",
+            "slotId": "Soft_armor_right",
+            "parentId": "6a1a360c82c8c0ea8dde3061"
+          },
+          {
+            "_id": "6a1a3879f55a77a572de306f",
+            "_tpl": "6a1a386c91a31e3f14de306e",
+            "slotId": "Groin",
+            "parentId": "6a1a360c82c8c0ea8dde3061"
+          }
+        ],
+        "_name": "RIG CustomGear CGPC3 BLK Stock Preset",
+        "_parent": "6a1a360c82c8c0ea8dde3061",
+        "_type": "Preset"
+      }
+    ]
   }
 }
