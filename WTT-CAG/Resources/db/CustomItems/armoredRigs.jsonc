@@ -2586,7 +2586,7 @@
     ]
   },
   "69786ec0c5d74f55c1c91ceb": { // Crye Precision JPC 2.0 (Coyote Brown)
-    "itemTplToClone": "5c0e746986f7741453628fe5",
+    "itemTplToClone": "639343fce101f4caa40a4ef3",
     "parentId": "5448e5284bdc2dcb718b4567",
     "handbookParentId": "5b5f6f8786f77447ed563642",
     "overrideProperties": {
@@ -2594,277 +2594,11 @@
         "path": "Bodywear/armoredRigs/JPC/rig_crye_jpc_coyote.bundle",
         "rcid": ""
       },
-      "RigLayoutName": "wtt_crye_jpc",
-      "Grids": [
-        {
-          "_id": "4e1c48beff8e679b25c7ef10",
-          "_name": "GridView (1)",
-          "_parent": "69786ec0c5d74f55c1c91ceb",
-          "_props": {
-            "cellsH": 1,
-            "cellsV": 1,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "54009119af1c881c07000029"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        },
-        {
-          "_id": "9cd055e740d8614d603fac85",
-          "_name": "GridView (2)",
-          "_parent": "69786ec0c5d74f55c1c91ceb",
-          "_props": {
-            "cellsH": 1,
-            "cellsV": 1,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "54009119af1c881c07000029"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        },
-        {
-          "_id": "b28a54d9210fcf88f44e56b6",
-          "_name": "GridView (3)",
-          "_parent": "69786ec0c5d74f55c1c91ceb",
-          "_props": {
-            "cellsH": 1,
-            "cellsV": 2,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "54009119af1c881c07000029"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        },
-        {
-          "_id": "5ef082f69bfa6c992f782c59",
-          "_name": "GridView (4)",
-          "_parent": "69786ec0c5d74f55c1c91ceb",
-          "_props": {
-            "cellsH": 1,
-            "cellsV": 2,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "54009119af1c881c07000029"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        },
-        {
-          "_id": "7ed4c04945ae0d9526a721d9",
-          "_name": "GridView (5)",
-          "_parent": "69786ec0c5d74f55c1c91ceb",
-          "_props": {
-            "cellsH": 1,
-            "cellsV": 2,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "54009119af1c881c07000029"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        },
-        {
-          "_id": "fb4a5f20e3d8223d93ecd183",
-          "_name": "GridView (6)",
-          "_parent": "69786ec0c5d74f55c1c91ceb",
-          "_props": {
-            "cellsH": 1,
-            "cellsV": 2,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "54009119af1c881c07000029"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        },
-        {
-          "_id": "14ac328217abd4a151e5c2f7",
-          "_name": "GridView (7)",
-          "_parent": "69786ec0c5d74f55c1c91ceb",
-          "_props": {
-            "cellsH": 1,
-            "cellsV": 1,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "5448f3ac4bdc2dce718b4569"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        },
-        {
-          "_id": "b28b7b8fa0eb3bcb72267f14",
-          "_name": "GridView (8)",
-          "_parent": "69786ec0c5d74f55c1c91ceb",
-          "_props": {
-            "cellsH": 1,
-            "cellsV": 1,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "5448f3ac4bdc2dce718b4569"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        },
-        {
-          "_id": "74cbe7e7bd29d8c275394d4e",
-          "_name": "GridView (9)",
-          "_parent": "69786ec0c5d74f55c1c91ceb",
-          "_props": {
-            "cellsH": 2,
-            "cellsV": 2,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "54009119af1c881c07000029"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        },
-        {
-          "_id": "de9bb6505bac7ab552f0e018",
-          "_name": "GridView (10)",
-          "_parent": "69786ec0c5d74f55c1c91ceb",
-          "_props": {
-            "cellsH": 1,
-            "cellsV": 2,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "54009119af1c881c07000029"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        },
-        {
-          "_id": "36304002237a3d3ed3af239f",
-          "_name": "GridView (11)",
-          "_parent": "69786ec0c5d74f55c1c91ceb",
-          "_props": {
-            "cellsH": 1,
-            "cellsV": 2,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "54009119af1c881c07000029"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        }
-      ],
+      "RigLayoutName": "Banshee",
       "RarityPvE": "Rare",
       "RepairCost": 108,
-      "ExaminedByDefault": false,
-      "CanSellOnRagfair": false,
+      "ExaminedByDefault": true,
+      "CanSellOnRagfair": true,
       "Weight": 1.73,
       "Height": 3,
       "Width": 3,
@@ -3014,6 +2748,822 @@
         ],
         "_name": "Vest JPC Coyote Stock Preset",
         "_parent": "69786dc10d0db6c9a1c91ce4",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "6a1b1aafbeb04b2149da1b1a": { // Crye Precision JPC 2.0 (MultiCam Tropic)
+    "itemTplToClone": "69786ec0c5d74f55c1c91ceb",
+    "parentId": "5448e5284bdc2dcb718b4567",
+    "handbookParentId": "5b5f6f8786f77447ed563642",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Bodywear/armoredRigs/JPC/cr_crye_jpc_mct_saw.bundle",
+        "rcid": ""
+      },
+      "RigLayoutName": "crye_jpc_heavy",
+      "Grids": [
+        {
+          "_id": "6a1b3620289e03ee02da1b1b",
+          "_name": "GridView (1)",
+          "_parent": "6a1b1aafbeb04b2149da1b1a",
+          "_props": {
+            "cellsH": 2,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "72ef2b746b42535c97befbc4",
+          "_name": "GridView (2)",
+          "_parent": "6a1b1aafbeb04b2149da1b1a",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "42199bea0f6ade2fc20f0b88",
+          "_name": "GridView (3)",
+          "_parent": "6a1b1aafbeb04b2149da1b1a",
+          "_props": {
+            "cellsH": 2,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "9ffa4dcfd55e0eec163bc837",
+          "_name": "GridView (4)",
+          "_parent": "6a1b1aafbeb04b2149da1b1a",
+          "_props": {
+            "cellsH": 2,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "e1602477194a1608e8223cc4",
+          "_name": "GridView (5)",
+          "_parent": "6a1b1aafbeb04b2149da1b1a",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 1,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "1eaedd97f22b7f303365c6f5",
+          "_name": "GridView (6)",
+          "_parent": "6a1b1aafbeb04b2149da1b1a",
+          "_props": {
+            "cellsH": 2,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "768c53c92247ee35e97b4a2b",
+          "_name": "GridView (7)",
+          "_parent": "6a1b1aafbeb04b2149da1b1a",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 1,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "0d25a6ba61d3909a25b33d49",
+          "_name": "GridView (8)",
+          "_parent": "6a1b1aafbeb04b2149da1b1a",
+          "_props": {
+            "cellsH": 3,
+            "cellsV": 1,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ],
+      "RarityPvE": "Rare",
+      "RepairCost": 108,
+      "ExaminedByDefault": true,
+      "CanSellOnRagfair": true,
+      "Weight": 3.85,
+      "Height": 4,
+      "Width": 3,
+      "BlocksArmorVest": true,
+      "SearchSound": "looting_body_extended",
+      "ArmorMaterial": "Aramid",
+      "ArmorType": "Light",
+      "BluntThroughput": 0.35,
+      "MetascoreGroup": "Utility",
+      "armorClass": 0,
+      "armorZone": [],
+      "mousePenalty": -1,
+      "speedPenaltyPercent": -2.5,
+      "weaponErgonomicPenalty": -2,
+      "Slots": [
+        {
+          "_name": "Front_plate",
+          "_id": "6a1b46c9b991d304e9da1b21",
+          "_parent": "6a1b1aafbeb04b2149da1b1a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa76500d62bcd2e024080",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041",
+                  "6943c85be2f21398e70378cc"
+                ],
+                "Plate": "655746010177119f4a097ff7",
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_chest"
+                ],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Back_plate",
+          "_id": "6a1b46cb8380b6a3e3da1b22",
+          "_parent": "6a1b1aafbeb04b2149da1b1a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa76500d62bcd2e024080",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041",
+                  "6943c85be2f21398e70378cc"
+                ],
+                "Plate": "655746010177119f4a097ff7",
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_back"
+                ],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Crye Precision JPC 2.0 plate carrier (MultiCam Tropic)",
+        "shortName": "JPC",
+        "description": "The widely beloved Jumpable Plate Carrier (JPC) was designed to maximize operator mobility by reducing weight and bulk. Its modular system allows for personalized loadouts and quick gear adjustments depending on the mission. Manufactured by Crye Precision. MultiCam Tropic version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "traders": {},
+    "fleaPriceRoubles": 144947,
+    "handbookPriceRoubles": 3485,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "6a1b1aafbeb04b2149da1b1a",
+        "_id": "6a1b46c0e6496623ecda1b20",
+        "_items": [
+          {
+            "_id": "6a1b4683c7ec8bd35eda1b1c",
+            "_tpl": "6a1b1aafbeb04b2149da1b1a",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "6a1b4900b8484f560cda1b23",
+            "_tpl": "655746010177119f4a097ff7",
+            "slotId": "Front_plate",
+            "parentId": "6a1b4683c7ec8bd35eda1b1c"
+          },
+          {
+            "_id": "6a1b49010744b2485dda1b24",
+            "_tpl": "655746010177119f4a097ff7",
+            "slotId": "Back_plate",
+            "parentId": "6a1b4683c7ec8bd35eda1b1c"
+          }
+        ],
+        "_name": "Vest JPC MCT Stock Preset",
+        "_parent": "6a1b4683c7ec8bd35eda1b1c",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "6a1f343a0dd59223dd9ff57d": { // Crye Precision JPC 2.0 (Black Division)
+    "itemTplToClone": "69786ec0c5d74f55c1c91ceb",
+    "parentId": "5448e5284bdc2dcb718b4567",
+    "handbookParentId": "5b5f6f8786f77447ed563642",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Bodywear/armoredRigs/JPC/cr_crye_jpc_blackdiv.bundle",
+        "rcid": ""
+      },
+      "RigLayoutName": "crye_jpc_blackdiv",
+      "Grids": [
+        {
+          "_id": "1a198a4ddf61bfaa974c50d8",
+          "_name": "GridView (1)",
+          "_parent": "6a1f343a0dd59223dd9ff57d",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 3,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "316cecfbfc3d579b71080896",
+          "_name": "GridView (2)",
+          "_parent": "6a1f343a0dd59223dd9ff57d",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 3,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "2c00aa9dcdc827607aa6377a",
+          "_name": "GridView (3)",
+          "_parent": "6a1f343a0dd59223dd9ff57d",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 3,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "e47afb3f29d991a8f3cb3318",
+          "_name": "GridView (4)",
+          "_parent": "6a1f343a0dd59223dd9ff57d",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "ab1a59089cbb67b39fb0df51",
+          "_name": "GridView (5)",
+          "_parent": "6a1f343a0dd59223dd9ff57d",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "8af9e26b057179945d5a8c1f",
+          "_name": "GridView (6)",
+          "_parent": "6a1f343a0dd59223dd9ff57d",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 1,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "c58eb6741bc2d97cc42336e4",
+          "_name": "GridView (7)",
+          "_parent": "6a1f343a0dd59223dd9ff57d",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 1,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "a05cd047833816205e9966d2",
+          "_name": "GridView (8)",
+          "_parent": "6a1f343a0dd59223dd9ff57d",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 1,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ],
+      "RarityPvE": "Rare",
+      "RepairCost": 133,
+      "ExaminedByDefault": false,
+      "CanSellOnRagfair": false,
+      "Weight": 2.19,
+      "Height": 4,
+      "Width": 3,
+      "BlocksArmorVest": true,
+      "SearchSound": "looting_body_extended",
+      "ArmorMaterial": "Aramid",
+      "ArmorType": "Light",
+      "BluntThroughput": 0.35,
+      "MetascoreGroup": "Utility",
+      "armorClass": 0,
+      "armorZone": [],
+      "mousePenalty": -1,
+      "speedPenaltyPercent": -1,
+      "weaponErgonomicPenalty": -2,
+      "Slots": [
+        {
+          "_name": "Front_plate",
+          "_id": "6a1f3bc9d300328ff79ff580",
+          "_parent": "6a1f343a0dd59223dd9ff57d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa76500d62bcd2e024080",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041",
+                  "6943c85be2f21398e70378cc"
+                ],
+                "Plate": "655746010177119f4a097ff7",
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_chest"
+                ],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Back_plate",
+          "_id": "6a1f3bcb987d527edf9ff581",
+          "_parent": "6a1f343a0dd59223dd9ff57d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa76500d62bcd2e024080",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041",
+                  "6943c85be2f21398e70378cc"
+                ],
+                "Plate": "655746010177119f4a097ff7",
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_back"
+                ],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Right_side_plate",
+          "_id": "6a1f3bcb987d527edf9ff581",
+          "_parent": "6a1f343a0dd59223dd9ff57d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6557458f83942d705f0c4962",
+                  "64afdb577bb3bfe8fe03fd1d",
+                  "64afd81707e2cf40e903a316"
+                ],
+                "Plate": "6557458f83942d705f0c4962",
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SSAPI_side_right_high"
+                ],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Left_side_plate",
+          "_id": "6a1f3bebad3183b1a29ff582",
+          "_parent": "6a1f343a0dd59223dd9ff57d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6557458f83942d705f0c4962",
+                  "64afdb577bb3bfe8fe03fd1d",
+                  "64afd81707e2cf40e903a316"
+                ],
+                "Plate": "6557458f83942d705f0c4962",
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SSAPI_side_left_high"
+                ],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Groin",
+          "_id": "6a1f4e570f321895909ff588",
+          "_parent": "6a1f343a0dd59223dd9ff57d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69578fd565218682c87d8628"
+                ],
+                "Plate": "69578fd565218682c87d8628",
+                "armorColliders": [
+                  "Pelvis"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": true,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Crye Precision JPC 2.0 plate carrier (Black Division)",
+        "shortName": "JPC",
+        "description": "The widely beloved Jumpable Plate Carrier (JPC) was designed to maximize operator mobility by reducing weight and bulk. Its modular system allows for personalized loadouts and quick gear adjustments depending on the mission. Manufactured by Crye Precision. Black Division version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "traders": {},
+    "fleaPriceRoubles": 83726,
+    "handbookPriceRoubles": 13328,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "6a1f343a0dd59223dd9ff57d",
+        "_id": "6a1f3c5ab5a72152749ff583",
+        "_items": [
+          {
+            "_id": "6a1f28b9b629af7f199ff57b",
+            "_tpl": "6a1f343a0dd59223dd9ff57d",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "6a1f3c5d0f20b5226b9ff584",
+            "_tpl": "655746010177119f4a097ff7",
+            "slotId": "Front_plate",
+            "parentId": "6a1f28b9b629af7f199ff57b"
+          },
+          {
+            "_id": "6a1f3c5e52773f530f9ff585",
+            "_tpl": "655746010177119f4a097ff7",
+            "slotId": "Back_plate",
+            "parentId": "6a1f28b9b629af7f199ff57b"
+          },
+          {
+            "_id": "6a1f3c5f2944ffa2a59ff586",
+            "_tpl": "64afdb577bb3bfe8fe03fd1d",
+            "slotId": "Left_side_plate",
+            "parentId": "6a1f28b9b629af7f199ff57b"
+          },
+          {
+            "_id": "6a1f3c6098a67505a09ff587",
+            "_tpl": "64afdb577bb3bfe8fe03fd1d",
+            "slotId": "Right_side_plate",
+            "parentId": "6a1f28b9b629af7f199ff57b"
+          },
+          {
+            "_id": "6a1f4ea060b01d02969ff589",
+            "_tpl": "69578fd565218682c87d8628",
+            "slotId": "Groin",
+            "parentId": "6a1f28b9b629af7f199ff57b"
+          }
+        ],
+        "_name": "Vest JPC Black Division Stock Preset",
+        "_parent": "6a1f28b9b629af7f199ff57b",
         "_type": "Preset"
       }
     ]
