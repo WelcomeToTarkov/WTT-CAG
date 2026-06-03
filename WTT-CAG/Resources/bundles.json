@@ -64,6 +64,30 @@
       ]
     },
     {
+      "key": "Bodywear/armoredRigs/JPC/cr_crye_jpc_blackdiv.bundle",
+      "dependencyKeys": [
+        "assets/content/items/equipment/rig_arscpc/cr_arscpc.bundle",
+        "assets/content/items/mods/magazines/mag_stanag_magpul_pmag_gen_m3_556x45_40_fde.bundle",
+        "assets/content/items/equipment/rig_spiritus_icebreaker/item_equipment_armor_spiritus_icebreaker.bundle",
+        "shaders",
+        "cubemaps",
+        "Bodywear/armoredRigs/JPC/cr_crye_jpc_sharedmaps.bundle",
+        "assets/content/items/mods/magazines/mag_stanag_magpul_pmag_gen_m3_556x45_40_blk.bundle"
+      ]
+    },
+    {
+      "key": "Bodywear/armoredRigs/JPC/cr_crye_jpc_mct_saw.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "Bodywear/armoredRigs/JPC/cr_crye_jpc_sharedmaps.bundle"
+      ]
+    },
+    {
+      "key": "Bodywear/armoredRigs/JPC/cr_crye_jpc_sharedmaps.bundle",
+      "dependencyKeys": []
+    },
+    {
       "key": "Bodywear/armoredRigs/JPC/rig_crye_jpc_coyote.bundle",
       "dependencyKeys": [
         "assets/content/items/mods/magazines/mag_stanag_troy_battlemag_556x45_30.bundle",
@@ -240,6 +264,15 @@
         "cubemaps",
         "shaders",
         "Bodywear/bodyArmor/siege-r/item_equipment_firstspear_siege-r_breacher.bundle"
+      ]
+    },
+    {
+      "key": "Bodywear/unarmoredRigs/cr_rothco_tap_ucp.bundle",
+      "dependencyKeys": [
+        "assets/content/items/equipment/rig_arscpc/cr_arscpc.bundle",
+        "assets/content/items/mods/magazines/mag_stanag_colt_ar15_std_556x45_30.bundle",
+        "shaders",
+        "cubemaps"
       ]
     },
     {
@@ -834,11 +867,13 @@
       ]
     },
     {
-      "key": "Headwear/helmets/opscore_xp/helmet_fast_xp_blk.bundle",
+      "key": "Headwear/helmets/opscore_xp/helmet_bronetorg_btsh6_olive.bundle",
       "dependencyKeys": [
         "cubemaps",
-        "fast_xp_shared",
-        "shaders"
+        "shaders",
+        "Headwear/helmets/opscore_xp/helmet_opscore_fast_xp_blk.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/equipment/helmet_opscore_fast/item_equipment_helmet_opscore_fast_black.bundle"
       ]
     },
     {
@@ -884,23 +919,36 @@
       ]
     },
     {
-      "key": "Headwear/helmets/opscore_xp/helmet_fast_xp_mc.bundle",
-      "dependencyKeys": [
-        "cubemaps",
-        "fast_xp_shared",
-        "shaders"
-      ]
-    },
-    {
       "key": "Headwear/helmets/opscore_xp/helmet_fast_xp_shared.bundle",
       "dependencyKeys": []
     },
     {
-      "key": "Headwear/helmets/opscore_xp/helmet_fast_xp_tan.bundle",
+      "key": "Headwear/helmets/opscore_xp/helmet_opscore_fast_xp_blk.bundle",
       "dependencyKeys": [
         "cubemaps",
-        "fast_xp_shared",
-        "shaders"
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/equipment/helmet_opscore_fast/item_equipment_helmet_opscore_fast_black.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/opscore_xp/helmet_opscore_fast_xp_mc.bundle",
+      "dependencyKeys": [
+        "assets/content/items/equipment/helmet_opscore_fast/item_equipment_helmet_opscore_fast_tan.bundle",
+        "cubemaps",
+        "shaders",
+        "Headwear/helmets/opscore_xp/helmet_opscore_fast_xp_blk.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/opscore_xp/helmet_opscore_fast_xp_tan.bundle",
+      "dependencyKeys": [
+        "assets/content/items/equipment/helmet_opscore_fast/item_equipment_helmet_opscore_fast_tan.bundle",
+        "cubemaps",
+        "shaders",
+        "Headwear/helmets/opscore_xp/helmet_opscore_fast_xp_blk.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {

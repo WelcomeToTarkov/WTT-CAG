@@ -188,14 +188,14 @@
     "handbookParentId": "5b47574386f77428ca22b330",
     "overrideProperties": {
       "Prefab": {
-        "path": "Headwear/helmets/opscore_xp/helmet_fast_xp_mc.bundle",
+        "path": "Headwear/helmets/opscore_xp/helmet_opscore_fast_xp_mc.bundle",
         "rcid": ""
       },
       "Weight": 0.83,
       "mousePenalty": -1,
       "speedPenaltyPercent": 0,
       "weaponErgonomicPenalty": -1,
-      "CanSellOnRagfair": true,
+      "CanSellOnRagfair": false,
       "Slots": [
         {
           "_id": "695574b613d5bec310d8e2b7",
@@ -423,10 +423,10 @@
     "handbookParentId": "5b47574386f77428ca22b330",
     "overrideProperties": {
       "Prefab": {
-        "path": "Headwear/helmets/opscore_xp/helmet_fast_xp_tan.bundle",
+        "path": "Headwear/helmets/opscore_xp/helmet_opscore_fast_xp_tan.bundle",
         "rcid": ""
       },
-      "CanSellOnRagfair": true
+      "CanSellOnRagfair": false
     },
     "locales": {
       "en": {
@@ -506,10 +506,10 @@
     "handbookParentId": "5b47574386f77428ca22b330",
     "overrideProperties": {
       "Prefab": {
-        "path": "Headwear/helmets/opscore_xp/helmet_fast_xp_blk.bundle",
+        "path": "Headwear/helmets/opscore_xp/helmet_opscore_fast_xp_blk.bundle",
         "rcid": ""
       },
-      "CanSellOnRagfair": true
+      "CanSellOnRagfair": false
     },
     "locales": {
       "en": {
@@ -578,6 +578,241 @@
         ],
         "_name": "FAST XP Stock Preset",
         "_parent": "6955779aa4a0696a5ac5cca9",
+        "_type": "Preset"
+      }
+    ],
+    "masterySections": []
+  },
+  "6a1cb540948a4782f605dfd0": { // BroneTorg BTSh-6
+    "itemTplToClone": "5ac8d6885acfc400180ae7b0",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/opscore_xp/helmet_bronetorg_btsh6_olive.bundle",
+        "rcid": ""
+      },
+      "Weight": 1.6,
+      "mousePenalty": -2,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": -2,
+      "CanSellOnRagfair": true,
+      "Slots": [
+        {
+          "_id": "6a1cb86ae17d831fc205dfd3",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "6a1cb540948a4782f605dfd0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "695572ff13710213b5d8e2a8",
+                  "695572c471cdc428e9d8e2a6",
+                  "6955a797ea9f2f0f0bc5ccb2",
+                  "6955a7fee96a66f2b6c5ccb3",
+                  "6955a83da2a2fb80a8c5ccb5",
+                  "6955a85cf6e2edacacc5ccb8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a1cb86ecd21216e8b05dfd4",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "6a1cb540948a4782f605dfd0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ea058e01dbce517f324b3e2",
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a1cb8766040bbec4a05dfd6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "6a1cb540948a4782f605dfd0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a1cb878ba2df8009405dfd7",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_001",
+          "_parent": "6a1cb540948a4782f605dfd0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16b9fffcdbcb0176308b34"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a1cb87a3d43888c5a05dfd8",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_002",
+          "_parent": "6a1cb540948a4782f605dfd0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0e66e2d174af02a96252f4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a1cb87c8ea2064f2b05dfd9",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "6a1cb540948a4782f605dfd0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a1cb67a820f1fcf1b05dfd2"
+                ],
+                "Plate": "6a1cb67a820f1fcf1b05dfd2",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "6a1cb87e13b6d5e9e805dfda",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "6a1cb540948a4782f605dfd0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a1cb64d378df173dd05dfd1"
+                ],
+                "Plate": "6a1cb64d378df173dd05dfd1",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "BroneTorg BTSh-6 \"Sapsan\" high cut helmet",
+        "shortName": "BTSh-6",
+        "description": "The BTSh-6 \"Sapsan\" helmet is a Russian-made clone of the ever-popular FAST XP (\"Extra Protection\") shell, designed to be lightweight and provide ample protection. Compared to the Ops-Core counterpart, it provides somewhat lesser protection but overall will still protect the user from shrapnel and some small-caliber rounds. Manufactured by BroneTorg. Olive Drab version."
+      }
+    },
+    "fleaPriceRoubles": 50000,
+    "handbookPriceRoubles": 25000,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 15
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 40
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "6a1cb540948a4782f605dfd0",
+        "_id": "6a1cb8847938d67f0d05dfdb",
+        "_items": [
+          {
+            "_id": "6a1cb8845b5e4c14af05dfdc",
+            "_tpl": "6a1cb540948a4782f605dfd0",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "6a1cb88f5986539fab05dfde",
+            "_tpl": "6a1cb67a820f1fcf1b05dfd2",
+            "slotId": "Helmet_top",
+            "parentId": "6a1cb8845b5e4c14af05dfdc"
+          },
+          {
+            "_id": "6a1cb88fe06a05fb9c05dfdd",
+            "_tpl": "6a1cb64d378df173dd05dfd1",
+            "slotId": "Helmet_back",
+            "parentId": "6a1cb8845b5e4c14af05dfdc"
+          }
+        ],
+        "_name": "BTSh-6 ODG Stock Preset",
+        "_parent": "6a1cb8845b5e4c14af05dfdc",
         "_type": "Preset"
       }
     ],

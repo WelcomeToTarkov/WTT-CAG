@@ -1316,5 +1316,77 @@
     "staticLootContainers": [],
     "addWeaponPreset": false,
     "weaponPresets": []
+  },
+  "6a1cb67a820f1fcf1b05dfd2": { // BTSh TOP ARMOR
+    "itemTplToClone": "657112234269e9a568089eac",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/armor_plates/helmet_top.bundle",
+        "rcid": ""
+      },
+      "Durability": 22,
+      "MaxDurability": 22,
+      "RepairCost": 145,
+      "ArmorMaterial": "Combined",
+      "armorClass": 3,
+      "armorColliders": [
+        "ParietalHead"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Hybrid composite materials",
+        "shortName": "",
+        "description": ""
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 66582,
+    "handbookPriceRoubles": 24377,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6a1cb64d378df173dd05dfd1": { // BTSh-6 BACK ARMOR
+    "itemTplToClone": "657112a4818110db4600aa66",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/armor_plates/helmet_back.bundle",
+        "rcid": ""
+      },
+      "Durability": 23,
+      "MaxDurability": 23,
+      "RepairCost": 133,
+      "ArmorMaterial": "Combined",
+      "armorClass": 3,
+      "armorColliders": [
+        "BackHead"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Hybrid composite materials",
+        "shortName": "",
+        "description": ""
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 66582,
+    "handbookPriceRoubles": 24377,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": false,
+    "weaponPresets": []
   }
 }
