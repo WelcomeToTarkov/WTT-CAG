@@ -1272,5 +1272,67 @@
     ],
     "addWeaponPreset": false,
     "weaponPresets": []
+  },
+  "6a20786972368005446cde7c": { // RothCo Tactical Assault Panel
+    "itemTplToClone": "603648ff5a45383c122086ac",
+    "parentId": "5448e5284bdc2dcb718b4567",
+    "handbookParentId": "5b5f6f8786f77447ed563642",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Bodywear/unarmoredRigs/cr_rothco_tap_ucp.bundle",
+        "rcid": ""
+      },
+      "Name": "item_equipment_rig_rothco_tap_ucp",
+      "ExaminedByDefault": true,
+      "Weight": 0.75,
+      "Height": 4,
+      "Width": 4,
+      "RigLayoutName": "azimut1",
+      "mousePenalty": 0,
+      "speedPenaltyPercent": -2,
+      "weaponErgonomicPenalty": -1
+    },
+    "locales": {
+      "en": {
+        "name": "RothCo Tactical Assault Panel chest rig (UCP)",
+        "shortName": "TAPS",
+        "description": "The Tactical Assault Panel is a modular chest rig system based on the same versatile design used by the U.S. Army, featuring 6 integrated mag pouches with a further 2 utility pouches ideal for Radio systems or medical items. Manufactured by RothCo."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 38309,
+    "handbookPriceRoubles": 30128,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_SUPPLY_CRATE",
+        "probability": 200
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 100
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_GROUND_CACHE",
+        "probability": 100
+      },
+      {
+        "containerName": "6582e6d7b14c3f72eb071420",
+        "probability": 100
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": []
   }
 }
