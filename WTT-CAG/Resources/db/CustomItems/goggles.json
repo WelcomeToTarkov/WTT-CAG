@@ -33,8 +33,8 @@
     },
     "locales": {
       "en": {
-        "name": "ACTinBLACK DTNVG night vision goggles (White Phosphorus)",
-        "shortName": "DTNVG",
+        "name": "ACTinBLACK DTNVS night vision goggles (White Phos.)",
+        "shortName": "DTNVS",
         "description": "High-end dual-tube night vision binoculars built for professional use with rugged, lightweight construction and articulating pods that flip up to save power and clear your view. Offers 1x magnification and long battery life for extended operation."
       }
     },
@@ -86,8 +86,8 @@
     },
     "locales": {
       "en": {
-        "name": "ACTinBLACK DTNVG night vision goggles (Green Phosphorus)",
-        "shortName": "DTNVG",
+        "name": "ACTinBLACK DTNVS night vision goggles (Green Phos.)",
+        "shortName": "DTNVS",
         "description": "High-end dual-tube night vision binoculars built for professional use with rugged, lightweight construction and articulating pods that flip up to save power and clear your view. Offers 1x magnification and long battery life for extended operation."
       }
     },
