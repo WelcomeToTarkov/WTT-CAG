@@ -5,7 +5,7 @@
     "handbookParentId": "5b47574386f77428ca22b330",
     "overrideProperties": {
       "Prefab": {
-        "path": "Headwear/helmets/ihps/helmet_ihps_tan.bundle",
+        "path": "Headwear/helmets/ihps/item_equipment_helmet_ihps.bundle",
         "rcid": ""
       },
       "Weight": 1.48,
@@ -16,13 +16,32 @@
         {
           "_id": "6952deca8d70549268c90336",
           "_mergeSlotWithChildren": true,
-          "_name": "mod_mount_000",
+          "_name": "mod_cover",
           "_parent": "6952dd3e0a19ef4b6ac90335",
           "_props": {
             "filters": [
               {
                 "Filter": [
-                  "6952e2acf69d4f7575c90345"
+                  "6952e2acf69d4f7575c90345",
+                  "6a3404f599063c08f6488012"
+                ]
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": false
+        },
+        {
+          "_id": "6a34045051db7f74f1488011",
+          "_mergeSlotWithChildren": true,
+          "_name": "mod_nvg",
+          "_parent": "6952dd3e0a19ef4b6ac90335",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
                 ]
               }
             ]
@@ -2512,7 +2531,80 @@
                 "Filter": [
                   "69d44ec7654cae9510eb3203",
                   "69d44b8eabb346e484eb31f1",
-                  "69d44b914ddaf5e11feb31f2"
+                  "69d44b914ddaf5e11feb31f2",
+                  "6a25f0258842dada135ac1cf"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a25f0729b005b53655ac1d1",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "69d44c0cd9330f9cffeb31f3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a800961159bd4315e3a1657",
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "626becf9582c3e319310b837",
+                  "6272370ee4013c5d7e31f418",
+                  "6272379924e29f06af4d5ecb",
+                  "5d2369418abbc306c62e0c80",
+                  "5b07dd285acfc4001754240d",
+                  "56def37dd2720bec348b456a",
+                  "5a7b483fe899ef0016170d15",
+                  "5a5f1ce64f39f90b401987bc",
+                  "560d657b4bdc2da74d8b4572",
+                  "5b3a337e5acfc4704b4a19a0",
+                  "5c5952732e2216398b5abda2",
+                  "6267c6396b642f77f56f5c1c",
+                  "57d17e212459775a1179a0f5"
+
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a25f0729b005b53655ac1d1",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_001",
+          "_parent": "69d44c0cd9330f9cffeb31f3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a800961159bd4315e3a1657",
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "626becf9582c3e319310b837",
+                  "6272370ee4013c5d7e31f418",
+                  "6272379924e29f06af4d5ecb",
+                  "5d2369418abbc306c62e0c80",
+                  "5b07dd285acfc4001754240d",
+                  "56def37dd2720bec348b456a",
+                  "5a7b483fe899ef0016170d15",
+                  "5a5f1ce64f39f90b401987bc",
+                  "560d657b4bdc2da74d8b4572",
+                  "5b3a337e5acfc4704b4a19a0",
+                  "5c5952732e2216398b5abda2",
+                  "6267c6396b642f77f56f5c1c",
+                  "57d17e212459775a1179a0f5"
+
                 ],
                 "Shift": 0
               }
@@ -4485,5 +4577,599 @@
       }
     ],
     "masterySections": []
+  },
+  "6a25f8ba887e6d4ba05ac1d2": { // LShZ-1+ V.2 low-cut helmet
+    "itemTplToClone": "5b432d215acfc4771e1c6624",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/lshz/item_equipment_helmet_lshz_lowcut.bundle",
+        "rcid": ""
+      },
+      "Name": "item_equipment_helmet_LSHZ_low",
+      "CanSellOnRagfair": true,
+      "Weight": 1.13,
+      "Height": 2,
+      "Width": 2,
+      "Slots": [
+        {
+          "_id": "6a25fa1ed47ee412765ac1d4",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "6a25f8ba887e6d4ba05ac1d2",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a25fa2053504e6d425ac1d5",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "6a25f8ba887e6d4ba05ac1d2",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a25fa2240150eb4bb5ac1d6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "6a25f8ba887e6d4ba05ac1d2",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a25fa25a74c6145d65ac1d8",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_cover",
+          "_parent": "6a25f8ba887e6d4ba05ac1d2",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a32bd63cdc9d6712b6ffae0",
+                  "6a32b342d54ecde6786ffadf",
+                  "6a32bd8954d48c508b6ffae1",
+                  "6a32c1e01b484ff5e86ffae2",
+                  "6a32c3bfef7e9753a16ffae3"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a25fa274397c3bbca5ac1d9",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "6a25f8ba887e6d4ba05ac1d2",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657bb92fa1c61ee0c303631f"
+                ],
+                "Plate": "657bb92fa1c61ee0c303631f",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "6a25fa29e3ca30ad6d5ac1da",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "6a25f8ba887e6d4ba05ac1d2",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657bb99db30eca976305117f"
+                ],
+                "Plate": "657bb99db30eca976305117f",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "6a25fa29e3ca30ad6d5ac1da",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_ears",
+          "_parent": "6a25f8ba887e6d4ba05ac1d2",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a25fa66b3bd14dfd55ac1db"
+                ],
+                "Plate": "6a25fa66b3bd14dfd55ac1db",
+                "armorColliders": [
+                  "Ears"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "LShZ-1+ lightweight low-cut helmet (Olive Drab)",
+        "shortName": "LShZ-1+",
+        "description": "A lightweight protective helmet made in Russia. Basically a cheap copy of Ops-Core FAST helmet with lower characteristics."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 35393,
+    "handbookPriceRoubles": 1806,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 74
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 60
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 100
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "6a25f8ba887e6d4ba05ac1d2",
+        "_id": "6a25fb060751e902885ac1e3",
+        "_items": [
+          {
+            "_id": "6a25fae45ea9d002635ac1df",
+            "_tpl": "6a25f8ba887e6d4ba05ac1d2",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "6a25fb027c04bd2ff85ac1e2",
+            "_tpl": "657bb92fa1c61ee0c303631f",
+            "slotId": "Helmet_top",
+            "parentId": "6a25fae45ea9d002635ac1df"
+          },
+          {
+            "_id": "6a25fae213fd25a5d25ac1dd",
+            "_tpl": "657bb99db30eca976305117f",
+            "slotId": "Helmet_back",
+            "parentId": "6a25fae45ea9d002635ac1df"
+          },
+          {
+            "_id": "6a25faf8bed8aa9cf85ac1e1",
+            "_tpl": "6a25fa66b3bd14dfd55ac1db",
+            "slotId": "Helmet_ears",
+            "parentId": "6a25fae45ea9d002635ac1df"
+          }
+        ],
+        "_name": "Helmet LShZ-1+ Stock Preset",
+        "_parent": "6a25fae45ea9d002635ac1df",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "6a304d8f2e80b27b3547da3d": { // Team Wendy RifleTech high-cut ballistic helmet
+    "itemTplToClone": "5e00c1ad86f774747333222c",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/rifletech/helmet_team_wendy_rifletech_black.bundle",
+        "rcid": ""
+      },
+      "Name": "item_equipment_helmet_team_wendy_rifletech_black",
+      "CanSellOnRagfair": false,
+      "Weight": 1.58,
+      "Height": 2,
+      "Width": 2,
+      "Slots": [
+        {
+          "_id": "6a3066584e7ac306ed47da4b",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "6a304d8f2e80b27b3547da3d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5e00cfa786f77469dc6e5685",
+                  "5e01f31d86f77465cf261343",
+                  "66b5f69ea7f72d197e70bcdb",
+                  "66b5f6a28ca68c6461709ed8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a3066578fe679defc47da4a",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "6a304d8f2e80b27b3547da3d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a3066567439e82e0d47da49",
+          "_mergeSlotWithChildren": true,
+          "_name": "helmet_top",
+          "_parent": "6a304d8f2e80b27b3547da3d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a30647d65d28228b247da43"
+                ],
+                "Plate": "6a30647d65d28228b247da43",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "6a3066537045cc7c8b47da48",
+          "_mergeSlotWithChildren": true,
+          "_name": "helmet_back",
+          "_parent": "6a304d8f2e80b27b3547da3d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a306477339ba897cc47da42"
+                ],
+                "Plate": "6a306477339ba897cc47da42",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Team Wendy RIFLETECH ballistic helmet",
+        "shortName": "RIFLETECH",
+        "description": "A modern rifle-rated ballistic helmet manufactured by Team Wendy. Built using advanced polyethylene composite materials and a seamless shell architecture, the RIFLETECH offers protection against a wide range of battlefield threats while maintaining reduced weight compared to conventional combat helmets. Equipped with an Air FIT liner system, CAM FIT retention harness, integrated night vision shroud, and modular side rails for mounting tactical accessories."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 65636,
+    "handbookPriceRoubles": 40000,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 74
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 60
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 100
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "6a304d8f2e80b27b3547da3d",
+        "_id": "6a3142685377344b03cad9f6",
+        "_items": [
+          {
+            "_id": "6a30652ad7e71a239547da46",
+            "_tpl": "6a304d8f2e80b27b3547da3d",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "6a3065260d085cdd5147da45",
+            "_tpl": "6a30647d65d28228b247da43",
+            "slotId": "helmet_top",
+            "parentId": "6a30652ad7e71a239547da46"
+          },
+          {
+            "_id": "6a306525e61d53870847da44",
+            "_tpl": "6a306477339ba897cc47da42",
+            "slotId": "helmet_back",
+            "parentId": "6a30652ad7e71a239547da46"
+          }
+        ],
+        "_name": "Helmet RIFLETECH BLK Stock Preset",
+        "_parent": "6a30652ad7e71a239547da46",
+        "_type": "Preset"
+      }
+    ]
+  },
+  "6a306685334612b9d847da50": { // Team Wendy RifleTech high-cut ballistic helmet (MC)
+    "itemTplToClone": "6a304d8f2e80b27b3547da3d", // Cloning the black one for other changes (lazy)
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/rifletech/helmet_team_wendy_rifletech_mc.bundle",
+        "rcid": ""
+      },
+      "Name": "item_equipment_helmet_team_wendy_rifletech_mc",
+      "CanSellOnRagfair": false,
+      "Weight": 1.58,
+      "Height": 2,
+      "Width": 2,
+      "Slots": [
+        {
+          "_id": "6a30676620b9b2c88347da51",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "6a306685334612b9d847da50",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5e00cfa786f77469dc6e5685",
+                  "5e01f31d86f77465cf261343",
+                  "66b5f69ea7f72d197e70bcdb",
+                  "66b5f6a28ca68c6461709ed8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a306c319d5913157047da55",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "6a306685334612b9d847da50",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a306c420f210f35c047da56",
+          "_mergeSlotWithChildren": true,
+          "_name": "helmet_top",
+          "_parent": "6a306685334612b9d847da50",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a30647d65d28228b247da43"
+                ],
+                "Plate": "6a30647d65d28228b247da43",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "6a30676eb37616e9ba47da54",
+          "_mergeSlotWithChildren": true,
+          "_name": "helmet_back",
+          "_parent": "6a306685334612b9d847da50",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a306477339ba897cc47da42"
+                ],
+                "Plate": "6a306477339ba897cc47da42",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Team Wendy RIFLETECH ballistic helmet (MultiCam)",
+        "shortName": "RIFLETECH",
+        "description": "A modern rifle-rated ballistic helmet manufactured by Team Wendy. Built using advanced polyethylene composite materials and a seamless shell architecture, the RIFLETECH offers protection against a wide range of battlefield threats while maintaining reduced weight compared to conventional combat helmets. Equipped with an Air FIT liner system, CAM FIT retention harness, integrated night vision shroud, and modular side rails for mounting tactical accessories. MultiCam version."
+      }
+    },
+    "addtoInventorySlots": [
+      "Headwear"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 65636,
+    "handbookPriceRoubles": 40000,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 74
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 60
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 100
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "6a306685334612b9d847da50",
+        "_id": "6a3143a2fe3ceffba5cad9f7",
+        "_items": [
+          {
+            "_id": "6a3143a3a5ea25d72ccad9f8",
+            "_tpl": "6a306685334612b9d847da50",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "6a3143a73d00a3a0ebcad9f9",
+            "_tpl": "6a30647d65d28228b247da43",
+            "slotId": "helmet_top",
+            "parentId": "6a3143a3a5ea25d72ccad9f8"
+          },
+          {
+            "_id": "6a3143a74211f4e031cad9fa",
+            "_tpl": "6a306477339ba897cc47da42",
+            "slotId": "helmet_back",
+            "parentId": "6a3143a3a5ea25d72ccad9f8"
+          }
+        ],
+        "_name": "Helmet RIFLETECH FDE Stock Preset",
+        "_parent": "6a3143a3a5ea25d72ccad9f8",
+        "_type": "Preset"
+      }
+    ]
   }
 }

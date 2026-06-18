@@ -1388,5 +1388,113 @@
     "staticLootContainers": [],
     "addWeaponPreset": false,
     "weaponPresets": []
+  },
+  "6a25fa66b3bd14dfd55ac1db": { // LShZ-1+ Low Cut EARS
+    "itemTplToClone": "657112a4818110db4600aa66",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/armor_plates/helmet_ears.bundle",
+        "rcid": ""
+      },
+      "Durability": 15,
+      "MaxDurability": 15,
+      "RepairCost": 133,
+      "ArmorMaterial": "Combined",
+      "armorClass": 3,
+      "armorColliders": [
+        "Ears"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Hybrid composite materials",
+        "shortName": "",
+        "description": ""
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 33038,
+    "handbookPriceRoubles": 13582,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6a30647d65d28228b247da43": { // RIFLETECH TOP ARMOR
+    "itemTplToClone": "657112234269e9a568089eac",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/armor_plates/helmet_top.bundle",
+        "rcid": ""
+      },
+      "Durability": 24,
+      "MaxDurability": 24,
+      "RepairCost": 200,
+      "ArmorMaterial": "UHMWPE",
+      "armorClass": 5,
+      "armorColliders": [
+        "ParietalHead"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Hybrid composite materials",
+        "shortName": "",
+        "description": ""
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 66582,
+    "handbookPriceRoubles": 24377,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6a306477339ba897cc47da42": { // RIFLETECH BACK ARMOR
+    "itemTplToClone": "657112a4818110db4600aa66",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/armor_plates/helmet_back.bundle",
+        "rcid": ""
+      },
+      "Durability": 24,
+      "MaxDurability": 24,
+      "RepairCost": 200,
+      "ArmorMaterial": "UHMWPE",
+      "armorClass": 5,
+      "armorColliders": [
+        "BackHead"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Hybrid composite materials",
+        "shortName": "",
+        "description": ""
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 66582,
+    "handbookPriceRoubles": 24377,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": false,
+    "weaponPresets": []
   }
 }

@@ -58,6 +58,21 @@ public class BaseGameItemEdits(
                         "69d6dfa9f3b8a5d1b4906d52",
                         "69d6dfc41d822714a7906d53"); // Tor-2 Modslots
                     break;
+                case "5b432d215acfc4771e1c6624":
+                    item.Properties.Prefab.Path = "Headwear/helmets/lshz/item_equipment_helmet_lshz_highcut.bundle"; // LShZ prefab path
+                    slotHelper.EnsureSlot(item, "mod_cover", "55d30c4c4bdc2db4468b457e", false, false, 0);
+                    slotHelper.AddIdsToNamedSlot(item, "mod_cover",
+                        "6a32bd63cdc9d6712b6ffae0",
+                        "6a32b342d54ecde6786ffadf",
+                        "6a32bd8954d48c508b6ffae1",
+                        "6a32c1e01b484ff5e86ffae2",
+                        "6a32c3bfef7e9753a16ffae3"); // LShZ (HC) new slot
+
+                    ModifySlotFilters(item, 0, 0, [
+                        "5a16b672fcdbcb001912fa83",
+                        "5a16b7e1fcdbcb00165aa6c9"
+                    ]); // LShZ removal of side armor
+                    break;
             }
         }
     }

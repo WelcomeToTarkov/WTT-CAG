@@ -329,7 +329,23 @@
       ]
     },
     {
+      "key": "Clothing/Hands/bear_leaf/hands_arcteryx_leaf_aor1.bundle",
+      "dependencyKeys": [
+        "Clothing/Uppers/bear_leaf/top_bear_leaf_gen1_fleck.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "Clothing/Hands/bear_leaf/hands_arcteryx_leaf_cadpat.bundle",
+      "dependencyKeys": [
+        "Clothing/Uppers/bear_leaf/top_bear_leaf_gen1_fleck.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "Clothing/Hands/bear_leaf/hands_arcteryx_leaf_dpm.bundle",
       "dependencyKeys": [
         "Clothing/Uppers/bear_leaf/top_bear_leaf_gen1_fleck.bundle",
         "shaders",
@@ -411,6 +427,21 @@
       "key": "Clothing/Uppers/BEAR_CONTRACTOR/contractor_tshirt_lousy.bundle",
       "dependencyKeys": [
         "shaders"
+      ]
+    },
+    {
+      "key": "Clothing/Uppers/bear_leaf/top_arcteryx_leaf_aor1.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "Clothing/Uppers/bear_leaf/top_arcteryx_leaf_dpm.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "Clothing/Uppers/bear_leaf/top_bear_leaf_gen1_fleck.bundle",
+        "cubemaps"
       ]
     },
     {
@@ -497,6 +528,13 @@
       "key": "Headwear/eyewear/oakley_holbrook/holbrook_prpl.bundle",
       "dependencyKeys": [
         "holbrook_glass_shared",
+        "shaders"
+      ]
+    },
+    {
+      "key": "Headwear/hats/item_equipment_tracer_tactical_nvg_strap.bundle",
+      "dependencyKeys": [
+        "cubemaps",
         "shaders"
       ]
     },
@@ -610,32 +648,41 @@
     {
       "key": "Headwear/helmets/batlskin_cobra/helmet_batlskin_cobra_tan.bundle",
       "dependencyKeys": [
+        "cubemaps",
         "shaders",
-        "cubemaps"
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {
       "key": "Headwear/helmets/batlskin_cobra/helmet_batlskin_cover_mcb.bundle",
       "dependencyKeys": [
-        "Headwear/helmets/batlskin_cobra/batlskin_cover_shared.bundle",
+        "cubemaps",
         "shaders",
-        "cubemaps"
+        "Headwear/helmets/batlskin_cobra/batlskin_cover_shared.bundle"
       ]
     },
     {
       "key": "Headwear/helmets/batlskin_cobra/helmet_batlskin_cover_mtp.bundle",
       "dependencyKeys": [
-        "Headwear/helmets/batlskin_cobra/batlskin_cover_shared.bundle",
+        "cubemaps",
         "shaders",
-        "cubemaps"
+        "Headwear/helmets/batlskin_cobra/batlskin_cover_shared.bundle"
       ]
     },
     {
       "key": "Headwear/helmets/batlskin_cobra/helmet_batlskin_cover_nfp.bundle",
       "dependencyKeys": [
-        "Headwear/helmets/batlskin_cobra/batlskin_cover_shared.bundle",
+        "cubemaps",
         "shaders",
-        "cubemaps"
+        "Headwear/helmets/batlskin_cobra/batlskin_cover_shared.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/batlskin_cobra/helmet_cover_batlskin_irishdpm.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "Headwear/helmets/batlskin_cobra/batlskin_cover_shared.bundle"
       ]
     },
     {
@@ -774,17 +821,87 @@
       ]
     },
     {
-      "key": "Headwear/helmets/ihps/helmet_ihps_cover_mc.bundle",
+      "key": "Headwear/helmets/ihps/helmet_ihps_common.bundle",
+      "dependencyKeys": []
+    },
+    {
+      "key": "Headwear/helmets/ihps/item_equipment_helmet_ihps.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "Headwear/helmets/ihps/helmet_ihps_common.bundle",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/ihps/mount_ihps_cover_ocp.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "Headwear/helmets/ihps/helmet_ihps_common.bundle",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/ihps/mount_ihps_cover_tan.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "Headwear/helmets/ihps/helmet_ihps_common.bundle",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/lshz/item_equipment_helmet_lshz_highcut.bundle",
+      "dependencyKeys": [
+        "Headwear/helmets/lshz/item_equipment_helmet_lshz_lowcut.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/lshz/item_equipment_helmet_lshz_lowcut.bundle",
       "dependencyKeys": [
         "cubemaps",
         "shaders"
       ]
     },
     {
-      "key": "Headwear/helmets/ihps/helmet_ihps_tan.bundle",
+      "key": "Headwear/helmets/lshz/mount_lshz_cover_atacs_au.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "Headwear/helmets/lshz/mount_lshz_cover_emr.bundle",
+        "shaders",
+        "assets/systems/effects/particlesystems/effects.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/lshz/mount_lshz_cover_atacs_fg.bundle",
+      "dependencyKeys": [
+        "Headwear/helmets/lshz/mount_lshz_cover_emr.bundle",
+        "shaders",
+        "assets/systems/effects/particlesystems/effects.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/lshz/mount_lshz_cover_black.bundle",
+      "dependencyKeys": [
+        "Headwear/helmets/lshz/mount_lshz_cover_emr.bundle",
+        "shaders",
+        "assets/systems/effects/particlesystems/effects.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/lshz/mount_lshz_cover_emr.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "assets/systems/effects/particlesystems/effects.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/lshz/mount_lshz_cover_mc.bundle",
+      "dependencyKeys": [
+        "Headwear/helmets/lshz/mount_lshz_cover_emr.bundle",
+        "shaders",
+        "assets/systems/effects/particlesystems/effects.bundle"
       ]
     },
     {
@@ -1026,6 +1143,21 @@
     {
       "key": "Headwear/helmets/pasgt_bk3/helmet_pasgt_shared.bundle",
       "dependencyKeys": []
+    },
+    {
+      "key": "Headwear/helmets/rifletech/helmet_team_wendy_rifletech_black.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/rifletech/helmet_team_wendy_rifletech_mc.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "Headwear/helmets/rifletech/helmet_team_wendy_rifletech_black.bundle",
+        "cubemaps"
+      ]
     },
     {
       "key": "Headwear/helmets/tc500/helmet_msa_gallet_tc500_blk.bundle",

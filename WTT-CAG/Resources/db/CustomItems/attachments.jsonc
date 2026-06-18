@@ -413,12 +413,12 @@
     }
   },
   "6952e2acf69d4f7575c90345": {  // IHPS helmet cover (MultiCam)
-    "itemTplToClone": "5c0e66e2d174af02a96252f4",
-    "parentId": "55818b224bdc2dde698b456f",
-    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
+    "parentId": "57bef4c42459772e8d35a53b",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
     "overrideProperties": {
       "Prefab": {
-        "path": "Headwear/helmets/ihps/helmet_ihps_cover_mc.bundle",
+        "path": "Headwear/helmets/ihps/mount_ihps_cover_ocp.bundle",
         "rcid": ""
       },
       "Weight": 0.01,
@@ -446,16 +446,92 @@
     },
     "locales": {
       "en": {
-        "name": "IHPS helmet cover (MultiCam)",
+        "name": "IHPS cover (OCP)",
         "shortName": "IHPS",
-        "description": "A fabric camouflage cover tailored for the Ceradyne IHPS combat helmet used to help break up the helmet’s outline and reduce glare, offering a slight edge in concealment. MultiCam version."
+        "description": "A fabric camouflage cover tailored for the Ceradyne IHPS combat helmet used to help break up the helmet’s outline and reduce glare, offering a slight edge in concealment. OCP version."
       }
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
     "addtoTraders": false,
-    "fleaPriceRoubles": 3011,
+    "fleaPriceRoubles": 650,
+    "handbookPriceRoubles": 500,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "HOSER": {
+        "6952e55ac789bb8d2ec9034c": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 10
+          },
+          "barters": [
+            {
+              "count": 3390,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a3404f599063c08f6488012": {  // IHPS helmet cover (Tan)
+    "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
+    "parentId": "57bef4c42459772e8d35a53b",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/ihps/mount_ihps_cover_tan.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.01,
+      "CanSellOnRagfair": true,
+      "Height": 1,
+      "Width": 1,
+      "ItemSound": "item_cloth_generic",
+      "Unlootable": false,
+      "CanPutIntoDuringTheRaid": false,
+      "Indestructibility": 0,
+      "ArmorType": "None",
+      "BluntThroughput": 1,
+      "armorClass": 0,
+      "armorColliders": [],
+      "mousePenalty": 0,
+      "speedPenaltyPercent": 0,
+      "Durability": 100,
+      "RicochetParams": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      },
+      "weaponErgonomicPenalty": 0,
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "IHPS cover (Coyote Tan)",
+        "shortName": "IHPS",
+        "description": "A fabric camouflage cover tailored for the Ceradyne IHPS combat helmet used to help break up the helmet’s outline and reduce glare, offering a slight edge in concealment. OCP version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 650,
     "handbookPriceRoubles": 500,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -1079,6 +1155,44 @@
         "name": "BATLSKIN Cobra helmet cover (MultiCam Black)",
         "shortName": "Cobra",
         "description": "A fabric camouflage cover tailored for the Galvion BATLSKIN Cobra ballistic helmet. MC Black version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 2222,
+    "handbookPriceRoubles": 500,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {}
+  },
+  "6a25f0258842dada135ac1cf": { // BATLSKIN Cobra helmet cover (Irish DPM)
+    "itemTplToClone": "69d44ec7654cae9510eb3203",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/batlskin_cobra/helmet_cover_batlskin_irishdpm.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "BATLSKIN Cobra helmet cover (Irish DPM)",
+        "shortName": "Cobra",
+        "description": "A fabric camouflage cover tailored for the Galvion BATLSKIN Cobra ballistic helmet. Irish DPM version."
       }
     },
     "addtoInventorySlots": [],
@@ -1855,6 +1969,195 @@
         }
       }
     }
+  },
+  "6a32b342d54ecde6786ffadf": { // LShZ Cover
+    "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/lshz/mount_lshz_cover_emr.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "LShZ-1+ cover (EMR)",
+        "shortName": "LShZ",
+        "description": "A fabric camouflage cover tailored for the LShZ-1+ lightweight helmet."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 1500,
+    "handbookPriceRoubles": 800,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {}
+  },
+  "6a32bd63cdc9d6712b6ffae0": { // LShZ Cover
+    "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/lshz/mount_lshz_cover_atacs_fg.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "LShZ-1+ cover (A-TACS FG)",
+        "shortName": "LShZ",
+        "description": "A fabric camouflage cover tailored for the LShZ-1+ lightweight helmet."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 1500,
+    "handbookPriceRoubles": 800,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {}
+  },
+  "6a32bd8954d48c508b6ffae1": { // LShZ Cover (ATACS AU)
+    "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/lshz/mount_lshz_cover_atacs_au.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "LShZ-1+ cover (A-TACS AU)",
+        "shortName": "LShZ",
+        "description": "A fabric camouflage cover tailored for the LShZ-1+ lightweight helmet."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 1500,
+    "handbookPriceRoubles": 800,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {}
+  },
+  "6a32c1e01b484ff5e86ffae2": { // LShZ Cover (Black)
+    "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/lshz/mount_lshz_cover_black.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "LShZ-1+ cover (Black)",
+        "shortName": "LShZ",
+        "description": "A fabric camouflage cover tailored for the LShZ-1+ lightweight helmet."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 1500,
+    "handbookPriceRoubles": 800,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {}
+  },
+  "6a32c3bfef7e9753a16ffae3": { // LShZ Cover (Black)
+    "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/lshz/mount_lshz_cover_mc.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "LShZ-1+ cover (MultiCam)",
+        "shortName": "LShZ",
+        "description": "A fabric camouflage cover tailored for the LShZ-1+ lightweight helmet."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 1500,
+    "handbookPriceRoubles": 800,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {}
   }
-  
 }
