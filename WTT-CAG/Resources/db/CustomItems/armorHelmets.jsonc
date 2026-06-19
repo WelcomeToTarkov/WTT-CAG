@@ -5171,5 +5171,215 @@
         "_type": "Preset"
       }
     ]
+  },
+  "6a3596f269cf78088785c432": { // FORT Kiver RSP
+    "itemTplToClone": "5b40e2bc5acfc40016388216",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/kiver_rsp/item_equipment_helmet_fort_kiver_rsp.bundle",
+        "rcid": ""
+      },
+      "Weight": 2,
+      "mousePenalty": -2,
+      "speedPenaltyPercent": -3,
+      "weaponErgonomicPenalty": -1,
+      "RicochetParams": {
+        "x": 0.85,
+        "y": 0.35,
+        "z": 70
+      },
+      "ArmorMaterial": "UHMWPE",
+      "ArmorType": "Light",
+      "Slots": [
+        {
+          "_id": "6a3599f4970475ddeb85c441",
+          "_mergeSlotWithChildren": true,
+          "_name": "mod_cover",
+          "_parent": "6a3596f269cf78088785c432",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a359b9f33f60a4f7a85c447",
+                  "6a359beed1c05df6e185c448",
+                  "6a359c0a41516351d285c449"
+                ]
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": false
+        },
+        {
+          "_id": "6a3599f5f52f30cd2f85c442",
+          "_mergeSlotWithChildren": true,
+          "_name": "mod_nvg",
+          "_parent": "6a3596f269cf78088785c432",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ]
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": false
+        },
+        {
+          "_id": "6a3599f77b0ee3d3db85c443",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "6a3596f269cf78088785c432",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657bae18b7e9ca9a02045c0a"
+                ],
+                "Plate": "657bae18b7e9ca9a02045c0a",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "6a3599f8cb20fdc51b85c444",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "6a3596f269cf78088785c432",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657baeaacfcf63c951052db3"
+                ],
+                "Plate": "657baeaacfcf63c951052db3",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "6a3599f9907b7a39a085c445",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_ears",
+          "_parent": "6a3596f269cf78088785c432",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657baecbc6f689d3a205b863"
+                ],
+                "Plate": "657baecbc6f689d3a205b863",
+                "armorColliders": [
+                  "Ears"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "FORT Kiver RSP ballistic helmet",
+        "shortName": "Kiver RSP",
+        "description": "The FORT Kiver RSP ballistic helmet is designed for use by officers of special law enforcement and defense agencies of the Russian Federation"
+      }
+    },
+    "fleaPriceRoubles": 10582,
+    "handbookPriceRoubles": 4456,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 15
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 40
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "6a3596f269cf78088785c432",
+        "_id": "6a3598a11ae44b1fee85c439",
+        "_items": [
+          {
+            "_id": "6a3598a23ac58852b685c43a",
+            "_tpl": "6a3596f269cf78088785c432",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "6a3598fafcded2a9da85c440",
+            "_tpl": "6952df07f45848b047c90339",
+            "slotId": "Helmet_top",
+            "parentId": "6a3598a23ac58852b685c43a"
+          },
+          {
+            "_id": "6a3598f976a1de08b285c43f",
+            "_tpl": "6952e0430a05aecb1fc9033a",
+            "slotId": "Helmet_back",
+            "parentId": "6a3598a23ac58852b685c43a"
+          },
+          {
+            "_id": "6a3598f8fff7cf713e85c43e",
+            "_tpl": "6952e0b52f92620dc1c9033b",
+            "slotId": "Helmet_ears",
+            "parentId": "6a3598a23ac58852b685c43a"
+          }
+        ],
+        "_name": "Kiver RSP Stock Preset",
+        "_parent": "6a3598a23ac58852b685c43a",
+        "_type": "Preset"
+      }
+    ],
+    "masterySections": []
   }
 }

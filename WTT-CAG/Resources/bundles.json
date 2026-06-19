@@ -851,6 +851,42 @@
       ]
     },
     {
+      "key": "Headwear/helmets/kiver_rsp/helmet_kiver_rsp_common.bundle",
+      "dependencyKeys": []
+    },
+    {
+      "key": "Headwear/helmets/kiver_rsp/item_equipment_helmet_fort_kiver_rsp.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "Headwear/helmets/kiver_rsp/helmet_kiver_rsp_common.bundle",
+        "shaders"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/kiver_rsp/kiver_cover_atacs.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "Headwear/helmets/kiver_rsp/helmet_kiver_rsp_common.bundle",
+        "shaders"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/kiver_rsp/kiver_cover_emr.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "Headwear/helmets/kiver_rsp/helmet_kiver_rsp_common.bundle",
+        "shaders"
+      ]
+    },
+    {
+      "key": "Headwear/helmets/kiver_rsp/kiver_cover_mc.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "Headwear/helmets/kiver_rsp/helmet_kiver_rsp_common.bundle",
+        "shaders"
+      ]
+    },
+    {
       "key": "Headwear/helmets/lshz/item_equipment_helmet_lshz_highcut.bundle",
       "dependencyKeys": [
         "Headwear/helmets/lshz/item_equipment_helmet_lshz_lowcut.bundle",

@@ -2159,5 +2159,119 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {}
+  },
+  "6a359b9f33f60a4f7a85c447": { // Kiver RSP cover (EMR)
+    "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/kiver_rsp/kiver_cover_emr.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Kiver RSP cover (EMR)",
+        "shortName": "Kiver RSP",
+        "description": "A fabric camouflage cover tailored for the Kiver RSP ballistic helmet."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 1500,
+    "handbookPriceRoubles": 800,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {}
+  },
+  "6a359beed1c05df6e185c448": { // Kiver RSP cover (MultiCam)
+    "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/kiver_rsp/kiver_cover_mc.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Kiver RSP cover (MultiCam)",
+        "shortName": "Kiver RSP",
+        "description": "A fabric camouflage cover tailored for the Kiver RSP ballistic helmet."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 1500,
+    "handbookPriceRoubles": 800,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {}
+  },
+  "6a359c0a41516351d285c449": { // Kiver RSP cover (A-TACS FG)
+    "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/kiver_rsp/kiver_cover_atacs.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Kiver RSP cover (A-TACS FG)",
+        "shortName": "Kiver RSP",
+        "description": "A fabric camouflage cover tailored for the Kiver RSP ballistic helmet."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 1500,
+    "handbookPriceRoubles": 800,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {}
   }
 }
