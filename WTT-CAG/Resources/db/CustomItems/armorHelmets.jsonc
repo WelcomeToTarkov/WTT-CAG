@@ -5381,5 +5381,194 @@
       }
     ],
     "masterySections": []
+  },
+  "689a138a035e1c4298c32357": { // BK-3
+    "itemTplToClone": "5a7c4850e899ef00150be885",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/pasgt_bk3/item_equipment_helmet_sb_bk3.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [],
+      "Weight": 1.644,
+      "Height": 2,
+      "Width": 2,
+      "weaponErgonomicPenalty": -1.75,
+      "mousePenalty": -1.5,
+      "speedPenaltyPercent": 1,
+      "BlocksEarpiece": true,
+      "Slots": [
+        {
+          "_name": "mod_cover",
+          "_id": "6a36a2b65825da09ae289f2e",
+          "_parent": "689a138a035e1c4298c32357",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "689a1818a272a33734640f2c",
+                  "689a1a005d2915b23e564474",
+                  "689a1a2ff797960777c1300c",
+                  "689a1a614ddad2e5404cd6b5"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "6a36a2b5ab25553df8289f2d",
+          "_parent": "689a138a035e1c4298c32357",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657baaf0b7e9ca9a02045c02"
+                ],
+                "Plate": "657baaf0b7e9ca9a02045c02",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "6a36a2b73db5bcf436289f2f",
+          "_parent": "689a138a035e1c4298c32357",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657bab6ec6f689d3a205b85f"
+                ],
+                "Plate": "657bab6ec6f689d3a205b85f",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_ears",
+          "_id": "6a36a2b91d02013bd0289f30",
+          "_parent": "689a138a035e1c4298c32357",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657babc6f58ba5a6250107a2"
+                ],
+                "Plate": "657babc6f58ba5a6250107a2",
+                "armorColliders": [
+                  "Ears"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Šestan-Busch BK3 ballistic helmet (Olive Drab)",
+        "shortName": "BK3",
+        "description": "The BK3 helmet is a Croatian ballistic combat helmet based on the classic U.S. military PASGT design. Offers dependable protection against shrapnel and small-caliber threats, though it is heavier and bulkier than modern alternatives."
+      }
+    },
+    "fleaPriceRoubles": 10582,
+    "handbookPriceRoubles": 4456,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 15
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 40
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "689a138a035e1c4298c32357",
+        "_id": "6a36a57729895b10a1289f32",
+        "_items": [
+          {
+            "_id": "6a36a578d82bde39d7289f33",
+            "_tpl": "689a138a035e1c4298c32357",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "6a36a57d83b386c8a1289f34",
+            "_tpl": "657baaf0b7e9ca9a02045c02",
+            "slotId": "Helmet_top",
+            "parentId": "6a36a578d82bde39d7289f33"
+          },
+          {
+            "_id": "6a36a57ef8f18ff5cf289f35",
+            "_tpl": "657bab6ec6f689d3a205b85f",
+            "slotId": "Helmet_back",
+            "parentId": "6a36a578d82bde39d7289f33"
+          },
+          {
+            "_id": "6a36a57f678d61d1ae289f36",
+            "_tpl": "657babc6f58ba5a6250107a2",
+            "slotId": "Helmet_ears",
+            "parentId": "6a36a578d82bde39d7289f33"
+          }
+        ],
+        "_name": "BK-3 Stock Preset",
+        "_parent": "6a36a578d82bde39d7289f33",
+        "_type": "Preset"
+      }
+    ]
   }
 }

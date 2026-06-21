@@ -857,33 +857,33 @@
     {
       "key": "Headwear/helmets/kiver_rsp/item_equipment_helmet_fort_kiver_rsp.bundle",
       "dependencyKeys": [
-        "cubemaps",
         "Headwear/helmets/kiver_rsp/helmet_kiver_rsp_common.bundle",
-        "shaders"
+        "shaders",
+        "cubemaps"
       ]
     },
     {
       "key": "Headwear/helmets/kiver_rsp/kiver_cover_atacs.bundle",
       "dependencyKeys": [
-        "cubemaps",
+        "shaders",
         "Headwear/helmets/kiver_rsp/helmet_kiver_rsp_common.bundle",
-        "shaders"
+        "cubemaps"
       ]
     },
     {
       "key": "Headwear/helmets/kiver_rsp/kiver_cover_emr.bundle",
       "dependencyKeys": [
-        "cubemaps",
+        "shaders",
         "Headwear/helmets/kiver_rsp/helmet_kiver_rsp_common.bundle",
-        "shaders"
+        "cubemaps"
       ]
     },
     {
       "key": "Headwear/helmets/kiver_rsp/kiver_cover_mc.bundle",
       "dependencyKeys": [
-        "cubemaps",
         "Headwear/helmets/kiver_rsp/helmet_kiver_rsp_common.bundle",
-        "shaders"
+        "shaders",
+        "cubemaps"
       ]
     },
     {
@@ -1105,80 +1105,43 @@
       ]
     },
     {
-      "key": "Headwear/helmets/pasgt_bk3/helmet_pasgt_blk.bundle",
+      "key": "Headwear/helmets/pasgt_bk3/helmet_cover_bk3_cadpat.bundle",
       "dependencyKeys": [
+        "Headwear/helmets/pasgt_bk3/item_equipment_helmet_sb_bk3.bundle",
         "cubemaps",
-        "helmet_pasgt_shared",
         "shaders"
       ]
     },
     {
-      "key": "Headwear/helmets/pasgt_bk3/helmet_pasgt_cover_choc.bundle",
+      "key": "Headwear/helmets/pasgt_bk3/helmet_cover_bk3_dcu.bundle",
       "dependencyKeys": [
+        "Headwear/helmets/pasgt_bk3/item_equipment_helmet_sb_bk3.bundle",
         "cubemaps",
-        "helmet_pasgt_shared",
         "shaders"
       ]
     },
     {
-      "key": "Headwear/helmets/pasgt_bk3/helmet_pasgt_cover_dcu.bundle",
+      "key": "Headwear/helmets/pasgt_bk3/helmet_cover_bk3_jigsaw.bundle",
       "dependencyKeys": [
+        "Headwear/helmets/pasgt_bk3/item_equipment_helmet_sb_bk3.bundle",
         "cubemaps",
-        "helmet_pasgt_shared",
         "shaders"
       ]
     },
     {
-      "key": "Headwear/helmets/pasgt_bk3/helmet_pasgt_cover_goggles.bundle",
+      "key": "Headwear/helmets/pasgt_bk3/helmet_cover_bk3_m81.bundle",
       "dependencyKeys": [
+        "Headwear/helmets/pasgt_bk3/item_equipment_helmet_sb_bk3.bundle",
         "cubemaps",
-        "helmet_pasgt_shared",
         "shaders"
       ]
     },
     {
-      "key": "Headwear/helmets/pasgt_bk3/helmet_pasgt_cover_mc.bundle",
+      "key": "Headwear/helmets/pasgt_bk3/item_equipment_helmet_sb_bk3.bundle",
       "dependencyKeys": [
         "cubemaps",
-        "helmet_pasgt_shared",
         "shaders"
       ]
-    },
-    {
-      "key": "Headwear/helmets/pasgt_bk3/helmet_pasgt_cover_ttsko.bundle",
-      "dependencyKeys": [
-        "cubemaps",
-        "helmet_pasgt_shared",
-        "shaders"
-      ]
-    },
-    {
-      "key": "Headwear/helmets/pasgt_bk3/helmet_pasgt_cover_winter.bundle",
-      "dependencyKeys": [
-        "cubemaps",
-        "helmet_pasgt_shared",
-        "shaders"
-      ]
-    },
-    {
-      "key": "Headwear/helmets/pasgt_bk3/helmet_pasgt_cover_woodland.bundle",
-      "dependencyKeys": [
-        "cubemaps",
-        "helmet_pasgt_shared",
-        "shaders"
-      ]
-    },
-    {
-      "key": "Headwear/helmets/pasgt_bk3/helmet_pasgt_olive.bundle",
-      "dependencyKeys": [
-        "cubemaps",
-        "helmet_pasgt_shared",
-        "shaders"
-      ]
-    },
-    {
-      "key": "Headwear/helmets/pasgt_bk3/helmet_pasgt_shared.bundle",
-      "dependencyKeys": []
     },
     {
       "key": "Headwear/helmets/rifletech/helmet_team_wendy_rifletech_black.bundle",
