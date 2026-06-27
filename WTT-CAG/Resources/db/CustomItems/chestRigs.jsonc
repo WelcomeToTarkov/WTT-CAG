@@ -205,7 +205,7 @@
     "handbookParentId": "5b5f6f8786f77447ed563642",
     "overrideProperties": {
       "Prefab": {
-        "path": "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_platatac_mctropic.bundle",
+        "path": "Bodywear/unarmoredRigs/peacekeeper/item_equipment_rig_peacekeeper_mc_tropic.bundle",
         "rcid": ""
       },
       "Weight": 1.24,
@@ -214,12 +214,12 @@
       "RigLayoutName": "PTac_PK_MK3_Layout",
       "Grids": [
         {
-          "_id": "e725ecad2b2e98d4e70706aa",
+          "_id": "b0f105a6d4b97749b562cb01",
           "_name": "GridView (1)",
           "_parent": "68bb4520b4883cef1fd7726e",
           "_props": {
             "cellsH": 1,
-            "cellsV": 2,
+            "cellsV": 3,
             "filters": [
               {
                 "ExcludedFilter": [
@@ -238,7 +238,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "5fcca09dd2c7f5af276e8859",
+          "_id": "9a7c02a8ed830d920d6d37da",
           "_name": "GridView (2)",
           "_parent": "68bb4520b4883cef1fd7726e",
           "_props": {
@@ -262,7 +262,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "3e7489bbec571bac6b7eaf5e",
+          "_id": "db2a1df78bfea6d73158cd3e",
           "_name": "GridView (3)",
           "_parent": "68bb4520b4883cef1fd7726e",
           "_props": {
@@ -286,12 +286,12 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "3b41f85c4737c1cc044d2403",
+          "_id": "272534de59757cd6a774704a",
           "_name": "GridView (4)",
           "_parent": "68bb4520b4883cef1fd7726e",
           "_props": {
-            "cellsH": 3,
-            "cellsV": 1,
+            "cellsH": 1,
+            "cellsV": 2,
             "filters": [
               {
                 "ExcludedFilter": [
@@ -310,7 +310,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "d318cf89f19e893b32daf54e",
+          "_id": "665e6b80df63d66453553daf",
           "_name": "GridView (5)",
           "_parent": "68bb4520b4883cef1fd7726e",
           "_props": {
@@ -334,12 +334,12 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "0c04fe90a7207599c73c88e7",
+          "_id": "655b14a78542f85052c82cad",
           "_name": "GridView (6)",
           "_parent": "68bb4520b4883cef1fd7726e",
           "_props": {
             "cellsH": 1,
-            "cellsV": 3,
+            "cellsV": 2,
             "filters": [
               {
                 "ExcludedFilter": [
@@ -358,7 +358,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "3b0d155df8105034c36af850",
+          "_id": "02b6f2e62ccdd14ec1624c60",
           "_name": "GridView (7)",
           "_parent": "68bb4520b4883cef1fd7726e",
           "_props": {
@@ -382,7 +382,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "d616eb7f8da66d5041c30c8b",
+          "_id": "dd133c1ba74c8927a2e47714",
           "_name": "GridView (8)",
           "_parent": "68bb4520b4883cef1fd7726e",
           "_props": {
@@ -406,60 +406,12 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "1a1f842b99528e8183e776ad",
+          "_id": "1c5b548f4cd6cfdcb007bce0",
           "_name": "GridView (9)",
           "_parent": "68bb4520b4883cef1fd7726e",
           "_props": {
-            "cellsH": 1,
-            "cellsV": 2,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "54009119af1c881c07000029"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        },
-        {
-          "_id": "f1beaeccbd2b7a3c885a00dc",
-          "_name": "GridView (10)",
-          "_parent": "68bb4520b4883cef1fd7726e",
-          "_props": {
-            "cellsH": 1,
-            "cellsV": 2,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "54009119af1c881c07000029"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        },
-        {
-          "_id": "08f9857cf899e3e69fbd240e",
-          "_name": "GridView (11)",
-          "_parent": "68bb4520b4883cef1fd7726e",
-          "_props": {
-            "cellsH": 1,
-            "cellsV": 2,
+            "cellsH": 3,
+            "cellsV": 1,
             "filters": [
               {
                 "ExcludedFilter": [
@@ -521,16 +473,16 @@
     "handbookParentId": "5b5f6f8786f77447ed563642",
     "overrideProperties": {
       "Prefab": {
-        "path": "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_platatac_atacs.bundle",
+        "path": "Bodywear/unarmoredRigs/peacekeeper/item_equipment_rig_peacekeeper_dpm_desert.bundle",
         "rcid": ""
       },
       "RigLayoutName": "PTac_PK_MK3_Layout"
     },
     "locales": {
       "en": {
-        "name": "Platatac Peacekeeper Mk.5 chest rig (A-TACS FG)",
+        "name": "Platatac Peacekeeper Mk.5 chest rig (DPM Desert)",
         "shortName": "Peacekeeper",
-        "description": "The Peacekeeper MK5 chest rig is a modern modular load-bearing chest rig developed by Platatac. Designed for long-duration operations, it features multiple integrated magazine pouches, utility compartments, and attachment points for additional gear. A-TACS Foliage Green version."
+        "description": "The Peacekeeper MK5 chest rig is a modern modular load-bearing chest rig developed by Platatac. Designed for long-duration operations, it features multiple integrated magazine pouches, utility compartments, and attachment points for additional gear. DPM Desert version."
       }
     },
     "addtoInventorySlots": [],
@@ -568,7 +520,7 @@
     "handbookParentId": "5b5f6f8786f77447ed563642",
     "overrideProperties": {
       "Prefab": {
-        "path": "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_platatac_coyote.bundle",
+        "path": "Bodywear/unarmoredRigs/peacekeeper/item_equipment_rig_peacekeeper_coyote.bundle",
         "rcid": ""
       },
       "RigLayoutName": "PTac_PK_MK3_Layout"
@@ -1285,7 +1237,7 @@
       "Name": "item_equipment_rig_rothco_tap_ucp",
       "ExaminedByDefault": true,
       "Weight": 0.75,
-      "Height": 4,
+      "Height": 3,
       "Width": 4,
       "RigLayoutName": "azimut1",
       "mousePenalty": 0,

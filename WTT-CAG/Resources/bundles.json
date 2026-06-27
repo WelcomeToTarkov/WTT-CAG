@@ -276,32 +276,30 @@
       ]
     },
     {
-      "key": "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_platatac_atacs.bundle",
+      "key": "Bodywear/unarmoredRigs/peacekeeper/item_equipment_rig_peacekeeper_coyote.bundle",
       "dependencyKeys": [
         "cubemaps",
-        "rig_platatac_pk_shared",
-        "shaders"
+        "shaders",
+        "assets/content/items/mods/magazines/mag_ak_izhmash_6l29_556x45_30.bundle"
       ]
     },
     {
-      "key": "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_platatac_coyote.bundle",
+      "key": "Bodywear/unarmoredRigs/peacekeeper/item_equipment_rig_peacekeeper_dpm_desert.bundle",
       "dependencyKeys": [
         "cubemaps",
-        "rig_platatac_pk_shared",
-        "shaders"
+        "shaders",
+        "Bodywear/unarmoredRigs/peacekeeper/item_equipment_rig_peacekeeper_coyote.bundle",
+        "assets/content/items/mods/magazines/mag_ak_izhmash_6l29_556x45_30.bundle"
       ]
     },
     {
-      "key": "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_platatac_mctropic.bundle",
+      "key": "Bodywear/unarmoredRigs/peacekeeper/item_equipment_rig_peacekeeper_mc_tropic.bundle",
       "dependencyKeys": [
         "cubemaps",
-        "rig_platatac_pk_shared",
-        "shaders"
+        "shaders",
+        "Bodywear/unarmoredRigs/peacekeeper/item_equipment_rig_peacekeeper_coyote.bundle",
+        "assets/content/items/mods/magazines/mag_ak_izhmash_6l29_556x45_30.bundle"
       ]
-    },
-    {
-      "key": "Bodywear/unarmoredRigs/platatacPeacekeeper/rig_platatac_shared.bundle",
-      "dependencyKeys": []
     },
     {
       "key": "Bodywear/unarmoredRigs/rig_poyas_a.bundle",
