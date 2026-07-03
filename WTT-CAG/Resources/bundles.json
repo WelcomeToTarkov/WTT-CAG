@@ -989,14 +989,14 @@
     {
       "key": "Headwear/helmets/mich_2000/mich2000_blk.bundle",
       "dependencyKeys": [
-        "mich2000_shared.bundle",
+        "Headwear/helmets/mich_2000/mich2000_shared.bundle",
         "shaders"
       ]
     },
     {
       "key": "Headwear/helmets/mich_2000/mich2000_fde.bundle",
       "dependencyKeys": [
-        "mich2000_shared.bundle",
+        "Headwear/helmets/mich_2000/mich2000_shared.bundle",
         "shaders"
       ]
     },
@@ -1007,7 +1007,7 @@
     {
       "key": "Headwear/helmets/mich_2000/mich2000_spray.bundle",
       "dependencyKeys": [
-        "mich2000_shared.bundle",
+        "Headwear/helmets/mich_2000/mich2000_shared.bundle",
         "shaders"
       ]
     },
