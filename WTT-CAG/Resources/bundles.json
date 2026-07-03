@@ -276,6 +276,31 @@
       ]
     },
     {
+      "key": "Bodywear/unarmoredRigs/microfight/item_equipment_chestrig_ss_microfight_blk.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/usable_items/item_meds_cat/client_assets.bundle",
+        "assets/content/items/mods/magazines/mag_stanag_hk_416_steel_maritime_556x45_30.bundle",
+        "cubemaps",
+        "shaders",
+        "Bodywear/unarmoredRigs/microfight/item_equipment_chestrig_ss_microfight_m81.bundle",
+        "assets/content/weapons/usable_items/item_bandage/item_bandage_med_assets.bundle",
+        "assets/content/items/mods/magazines/mag_deagle_magnum_research_std_127x33_7.bundle",
+        "assets/content/items/equipment/rig_mbss/item_equipment_rig_mbss.bundle"
+      ]
+    },
+    {
+      "key": "Bodywear/unarmoredRigs/microfight/item_equipment_chestrig_ss_microfight_m81.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/usable_items/item_meds_cat/client_assets.bundle",
+        "assets/content/items/mods/magazines/mag_stanag_hk_416_steel_maritime_556x45_30.bundle",
+        "cubemaps",
+        "shaders",
+        "assets/content/weapons/usable_items/item_bandage/item_bandage_med_assets.bundle",
+        "assets/content/items/mods/magazines/mag_deagle_magnum_research_std_127x33_7.bundle",
+        "assets/content/items/equipment/rig_mbss/item_equipment_rig_mbss.bundle"
+      ]
+    },
+    {
       "key": "Bodywear/unarmoredRigs/peacekeeper/item_equipment_rig_peacekeeper_coyote.bundle",
       "dependencyKeys": [
         "cubemaps",
@@ -532,6 +557,29 @@
     {
       "key": "Headwear/hats/item_equipment_tracer_tactical_nvg_strap.bundle",
       "dependencyKeys": [
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "Headwear/headsets/headset_atlanticsig_revx_coyote.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Headwear/headsets/headset_opscore_amp_blk.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "Headwear/headsets/headset_opscore_amp_fde.bundle",
+      "dependencyKeys": [
+        "Headwear/headsets/headset_opscore_amp_blk.bundle",
         "cubemaps",
         "shaders"
       ]
