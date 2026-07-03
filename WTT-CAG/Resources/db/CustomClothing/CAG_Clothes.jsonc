@@ -181,8 +181,8 @@
         "description": "Tactical Jacket"
       }
     },
-    "topBundlePath": "Clothing/Uppers/bear_leaf/top_bear_leaf_gen1_fleck.bundle",
-    "handsBundlePath": "Clothing/Hands/bear_leaf/hands_bear_leaf_gen1_fleck.bundle",
+    "topBundlePath": "Clothing/Uppers/bear_leaf/top_leaf_aor1.bundle",
+    "handsBundlePath": "Clothing/Hands/bear_leaf/hands_leaf_aor1.bundle", 
     "traderId": "69eccbae0764116786033c2e",
     "side": [
       "Usec",
@@ -202,12 +202,12 @@
     "handsId": "6a178f3bc335cc8a9ac8e8cb",
     "locales": {
       "en": {
-        "name": "Arc'teryx LEAF Gen.1 (CADPAT M.T.)",
+        "name": "Arc'teryx LEAF Gen.1 (Irish DPM)",
         "description": "Tactical Jacket"
       }
     },
-    "topBundlePath": "Clothing/Uppers/bear_leaf/top_bear_leaf_gen1_cadpat.bundle",
-    "handsBundlePath": "Clothing/Hands/bear_leaf/hands_bear_leaf_gen1_cadpat.bundle",
+    "topBundlePath": "Clothing/Uppers/bear_leaf/top_leaf_idpm.bundle",
+    "handsBundlePath": "Clothing/Hands/bear_leaf/hands_leaf_idpm.bundle",
     "traderId": "69eccbae0764116786033c2e",
     "side": [
       "Usec",

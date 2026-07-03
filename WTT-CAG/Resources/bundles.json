@@ -352,33 +352,17 @@
       ]
     },
     {
-      "key": "Clothing/Hands/bear_leaf/hands_arcteryx_leaf_aor1.bundle",
+      "key": "Clothing/Hands/bear_leaf/hands_leaf_aor1.bundle",
       "dependencyKeys": [
-        "Clothing/Uppers/bear_leaf/top_bear_leaf_gen1_fleck.bundle",
+        "Clothing/Uppers/bear_leaf/top_leaf_aor1.bundle",
         "shaders",
         "cubemaps"
       ]
     },
     {
-      "key": "Clothing/Hands/bear_leaf/hands_arcteryx_leaf_cadpat.bundle",
+      "key": "Clothing/Hands/bear_leaf/hands_leaf_idpm.bundle",
       "dependencyKeys": [
-        "Clothing/Uppers/bear_leaf/top_bear_leaf_gen1_fleck.bundle",
-        "shaders",
-        "cubemaps"
-      ]
-    },
-    {
-      "key": "Clothing/Hands/bear_leaf/hands_arcteryx_leaf_dpm.bundle",
-      "dependencyKeys": [
-        "Clothing/Uppers/bear_leaf/top_bear_leaf_gen1_fleck.bundle",
-        "shaders",
-        "cubemaps"
-      ]
-    },
-    {
-      "key": "Clothing/Hands/bear_leaf/hands_bear_leaf_gen1_fleck.bundle",
-      "dependencyKeys": [
-        "Clothing/Uppers/bear_leaf/top_bear_leaf_gen1_fleck.bundle",
+        "Clothing/Uppers/bear_leaf/top_leaf_aor1.bundle",
         "shaders",
         "cubemaps"
       ]
@@ -453,32 +437,17 @@
       ]
     },
     {
-      "key": "Clothing/Uppers/bear_leaf/top_arcteryx_leaf_aor1.bundle",
+      "key": "Clothing/Uppers/bear_leaf/top_leaf_aor1.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps"
       ]
     },
     {
-      "key": "Clothing/Uppers/bear_leaf/top_arcteryx_leaf_dpm.bundle",
+      "key": "Clothing/Uppers/bear_leaf/top_leaf_idpm.bundle",
       "dependencyKeys": [
         "shaders",
-        "Clothing/Uppers/bear_leaf/top_bear_leaf_gen1_fleck.bundle",
-        "cubemaps"
-      ]
-    },
-    {
-      "key": "Clothing/Uppers/bear_leaf/top_bear_leaf_gen1_cadpat.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "Clothing/Uppers/bear_leaf/top_bear_leaf_gen1_fleck.bundle",
-        "cubemaps"
-      ]
-    },
-    {
-      "key": "Clothing/Uppers/bear_leaf/top_bear_leaf_gen1_fleck.bundle",
-      "dependencyKeys": [
-        "shaders",
+        "Clothing/Uppers/bear_leaf/top_leaf_aor1.bundle",
         "cubemaps"
       ]
     },
@@ -989,14 +958,14 @@
     {
       "key": "Headwear/helmets/mich_2000/mich2000_blk.bundle",
       "dependencyKeys": [
-        "Headwear/helmets/mich_2000/mich2000_shared.bundle",
+        "mich2000_shared",
         "shaders"
       ]
     },
     {
       "key": "Headwear/helmets/mich_2000/mich2000_fde.bundle",
       "dependencyKeys": [
-        "Headwear/helmets/mich_2000/mich2000_shared.bundle",
+        "mich2000_shared",
         "shaders"
       ]
     },
@@ -1007,7 +976,7 @@
     {
       "key": "Headwear/helmets/mich_2000/mich2000_spray.bundle",
       "dependencyKeys": [
-        "Headwear/helmets/mich_2000/mich2000_shared.bundle",
+        "mich2000_shared",
         "shaders"
       ]
     },
