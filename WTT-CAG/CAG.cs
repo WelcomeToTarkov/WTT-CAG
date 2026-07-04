@@ -43,7 +43,6 @@ public class WTTCAG(
         
         await wttCommon.CustomItemServiceExtended.CreateCustomItems(assembly);
         await wttCommon.CustomLocaleService.CreateCustomLocales(assembly);
-        await wttCommon.CustomAssortSchemeService.CreateCustomAssortSchemes(assembly);
         await wttCommon.CustomBotLoadoutService.CreateCustomBotLoadouts(assembly);
         await wttCommon.CustomClothingService.CreateCustomClothing(assembly); 
         wttCommon.CustomRigLayoutService.CreateRigLayouts(assembly); 
