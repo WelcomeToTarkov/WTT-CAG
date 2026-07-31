@@ -31,7 +31,7 @@
     {
       "key": "assets/content/items/equipment/helmet_un/item_equipment_helmet_un.bundle",
       "dependencyKeys": [
-        "mich2000_shared",
+        "Headwear/helmets/mich_2000/mich2000_shared.bundle",
         "shaders"
       ]
     },
@@ -1007,14 +1007,14 @@
     {
       "key": "Headwear/helmets/mich_2000/mich2000_blk.bundle",
       "dependencyKeys": [
-        "mich2000_shared",
+        "Headwear/helmets/mich_2000/mich2000_shared.bundle",
         "shaders"
       ]
     },
     {
       "key": "Headwear/helmets/mich_2000/mich2000_fde.bundle",
       "dependencyKeys": [
-        "mich2000_shared",
+        "Headwear/helmets/mich_2000/mich2000_shared.bundle",
         "shaders"
       ]
     },
@@ -1025,7 +1025,7 @@
     {
       "key": "Headwear/helmets/mich_2000/mich2000_spray.bundle",
       "dependencyKeys": [
-        "mich2000_shared",
+        "Headwear/helmets/mich_2000/mich2000_shared.bundle",
         "shaders"
       ]
     },
