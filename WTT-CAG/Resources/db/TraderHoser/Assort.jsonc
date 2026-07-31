@@ -255,13 +255,242 @@
       "parentId": "hideout",
       "slotId": "hideout",
       "upd":
-      {
-        "UnlimitedCount": true,
-        "StackObjectsCount": 100,
-        "BuyRestrictionMax": 1,
-        "BuyRestrictionCurrent": 0
-      }
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    // -  -  -  -   -   -   -   -   -   -   -  CHESTRIGS  -   -   -   -   -   -   -   -   -   -
+
+    {
+      "_id": "69653b6560fcf0a0300ac549", // SSO Smersh "New-Gen" chest rig (Olive Drab) - LL1 - Roubles (1)
+      "_tpl": "68bd04c1cee1ad932ea3c3aa",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac54a", // Platatac Peacekeeper Mk.5 chest rig (Multicam Tropic) - LL1 - Roubles (1)
+      "_tpl": "68bb4520b4883cef1fd7726e",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac54b", // Platatac Peacekeeper Mk.5 chest rig (DPM Desert) - LL1 - Roubles (1)
+      "_tpl": "68bb48062701bb673faca8af",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac54c", // Platatac Peacekeeper Mk.5 chest rig (Coyote Tan) - LL1 - Roubles (1)
+      "_tpl": "68bb484b1ea04700566271e9",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac54d", // Spiritus Systems 34 Alpha load-bearing chest rig (MultiCam) - LL1 - Roubles (1)
+      "_tpl": "69534dfbedb3d1c75c40ffb3",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac54e", // Spiritus Systems 34 Alpha load-bearing chest rig (Olive Drab) - LL1 - Roubles (1)
+      "_tpl": "6953624c2484d8d5f5f6cd44",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac54f", // Poyas-A gear rig - LL1 - Roubles (1)
+      "_tpl": "69542293d807443265f80e82",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac550", // RothCo Tactical Assault Panel chest rig (UCP) - LL1 - Roubles (1)
+      "_tpl": "6a20786972368005446cde7c",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac551", // Spiritus Systems Micro Fight Mk.4 chest rig - LL1 - Roubles (1)
+      "_tpl": "6a47082f9a8887ee1e21a491",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac552", // Spiritus Systems Micro Fight Mk.4 chest rig (M81 Woodland) - LL1 - Roubles (1)
+      "_tpl": "6a47097eb301124e6d21a493",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac553", // Spiritus Systems Thing 3 chest rig (Coyote Tan) - LL1 - Roubles (1)
+      "_tpl": "6a476b0f33f2ed750908aff7",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac554", // Spiritus Systems Thing 3 chest rig (Ranger Green) - LL1 - Roubles (1)
+      "_tpl": "6a476c75ded8afadee08affa",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac555", // Eberlestock Recon Bino Modular chest rig (Grey) - LL1 - Roubles (1)
+      "_tpl": "6a4897243ed9e6f8d7039c85",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    // -  -  -  -   -   -   -   -   -   -   -  BACKPACKS  -   -   -   -   -   -   -   -   -   -
+
+    {
+      "_id": "69653b6560fcf0a0300ac556", // Bergan F2 military backpack - LL1 - Roubles (1)
+      "_tpl": "68bf98e1f2f8268bb7c10592",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac557", // Arc'teryx LEAF 30L assault pack (MultiCam) - LL1 - Roubles (1)
+      "_tpl": "69f9c3a90471f43d0b158eef",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac558", // Arc'teryx LEAF 30L assault pack - LL1 - Roubles (1)
+      "_tpl": "69f9c49fd1ae750b94158ef1",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
     }
+    
   ],
   "barter_scheme": 
   {
@@ -311,7 +540,55 @@
     "69653b6560fcf0a0300ac547":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
     // Oakley Holbrook glasses (Colored Lenses) - LL1 - Roubles (1)
-    "69653b6560fcf0a0300ac548":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ]
+    "69653b6560fcf0a0300ac548":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // SSO Smersh "New-Gen" chest rig (Olive Drab) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac549":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Platatac Peacekeeper Mk.5 chest rig (Multicam Tropic) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac54a":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Platatac Peacekeeper Mk.5 chest rig (DPM Desert) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac54b":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Platatac Peacekeeper Mk.5 chest rig (Coyote Tan) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac54c":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Spiritus Systems 34 Alpha load-bearing chest rig (MultiCam) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac54d":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Spiritus Systems 34 Alpha load-bearing chest rig (Olive Drab) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac54e":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Poyas-A gear rig - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac54f":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // RothCo Tactical Assault Panel chest rig (UCP) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac550":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Spiritus Systems Micro Fight Mk.4 chest rig - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac551":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Spiritus Systems Micro Fight Mk.4 chest rig (M81 Woodland) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac552":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Spiritus Systems Thing 3 chest rig (Coyote Tan) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac553":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Spiritus Systems Thing 3 chest rig (Ranger Green) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac554":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Eberlestock Recon Bino Modular chest rig (Grey) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac555":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Bergan F2 military backpack - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac556":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Arc'teryx LEAF 30L assault pack (MultiCam) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac557":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Arc'teryx LEAF 30L assault pack - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac558":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ]
   },
   "loyal_level_items":
   {
@@ -330,6 +607,22 @@
     "69653b6560fcf0a0300ac545": 1, // ACTinBLACK DTNVS night vision goggles (White Phos.) - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac546": 1, // ACTinBLACK DTNVS night vision goggles (Green Phos.) - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac547": 1, // Oakley Holbrook glasses - LL1 - Roubles (1)
-    "69653b6560fcf0a0300ac548": 1  // Oakley Holbrook glasses (Colored Lenses) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac548": 1, // Oakley Holbrook glasses (Colored Lenses) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac549": 1, // SSO Smersh "New-Gen" chest rig (Olive Drab) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac54a": 1, // Platatac Peacekeeper Mk.5 chest rig (Multicam Tropic) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac54b": 1, // Platatac Peacekeeper Mk.5 chest rig (DPM Desert) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac54c": 1, // Platatac Peacekeeper Mk.5 chest rig (Coyote Tan) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac54d": 1, // Spiritus Systems 34 Alpha load-bearing chest rig (MultiCam) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac54e": 1, // Spiritus Systems 34 Alpha load-bearing chest rig (Olive Drab) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac54f": 1, // Poyas-A gear rig - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac550": 1, // RothCo Tactical Assault Panel chest rig (UCP) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac551": 1, // Spiritus Systems Micro Fight Mk.4 chest rig - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac552": 1, // Spiritus Systems Micro Fight Mk.4 chest rig (M81 Woodland) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac553": 1, // Spiritus Systems Thing 3 chest rig (Coyote Tan) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac554": 1, // Spiritus Systems Thing 3 chest rig (Ranger Green) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac555": 1, // Eberlestock Recon Bino Modular chest rig (Grey) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac556": 1, // Bergan F2 military backpack - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac557": 1, // Arc'teryx LEAF 30L assault pack (MultiCam) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac558": 1 // Arc'teryx LEAF 30L assault pack - LL1 - Roubles (1)
   }
 }

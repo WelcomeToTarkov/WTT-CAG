@@ -3569,7 +3569,7 @@
     ]
   },
   "69e73666cbadfd79bdbe98ce": { // 6B27 helmet (EMR cover)
-    "itemTplToClone": "69e7344dc0d143efe0be98c2",
+    "itemTplToClone": "69e7344dc0d143efe0be98c2", // Cloning the Flora Version
     "parentId": "5a341c4086f77401f2541505",
     "handbookParentId": "5b47574386f77428ca22b330",
     "overrideProperties": {
@@ -3618,10 +3618,10 @@
       {
         "_changeWeaponName": false,
         "_encyclopedia": "69e73666cbadfd79bdbe98ce",
-        "_id": "69e7365ebe47fc28efbe98cc",
+        "_id": "6a6cd3efdd7d601422bea3ee",
         "_items": [
           {
-            "_id": "69e7365a57c75c075ebe98cb",
+            "_id": "6a6cd3f109cc133e0abea3ef",
             "_tpl": "69e73666cbadfd79bdbe98ce",
             "upd": {
               "Repairable": {
@@ -3631,26 +3631,26 @@
             }
           },
           {
-            "_id": "69e73680f1fdfe5100be98cf",
+            "_id": "6a6cd3f5323fde40adbea3f0",
             "_tpl": "657baaf0b7e9ca9a02045c02",
             "slotId": "Helmet_top",
-            "parentId": "69e7365a57c75c075ebe98cb"
+            "parentId": "6a6cd3f109cc133e0abea3ef"
           },
           {
-            "_id": "69e736813100d477e5be98d0",
+            "_id": "6a6cd3f65e488b7dccbea3f1",
             "_tpl": "657bab6ec6f689d3a205b85f",
             "slotId": "Helmet_back",
-            "parentId": "69e7365a57c75c075ebe98cb"
+            "parentId": "6a6cd3f109cc133e0abea3ef"
           },
           {
-            "_id": "69e736817c08904f32be98d1",
+            "_id": "6a6cd3f70fb89c363ebea3f2",
             "_tpl": "657babc6f58ba5a6250107a2",
             "slotId": "Helmet_ears",
-            "parentId": "69e7365a57c75c075ebe98cb"
+            "parentId": "6a6cd3f109cc133e0abea3ef"
           }
         ],
         "_name": "Helmet 6B27 EMR Stock Preset",
-        "_parent": "69e7365a57c75c075ebe98cb",
+        "_parent": "6a6cd3f109cc133e0abea3ef",
         "_type": "Preset"
       }
     ]
