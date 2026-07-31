@@ -445,6 +445,50 @@
               "BuyRestrictionMax": 1,
               "BuyRestrictionCurrent": 0
             }
+    },
+
+    // -  -  -  -   -   -   -   -   -   -   -  BACKPACKS  -   -   -   -   -   -   -   -   -   -
+
+    {
+      "_id": "69653b6560fcf0a0300ac556", // Bergan F2 military backpack - LL1 - Roubles (1)
+      "_tpl": "68bf98e1f2f8268bb7c10592",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac557", // Arc'teryx LEAF 30L assault pack (MultiCam) - LL1 - Roubles (1)
+      "_tpl": "69f9c3a90471f43d0b158eef",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac558", // Arc'teryx LEAF 30L assault pack - LL1 - Roubles (1)
+      "_tpl": "69f9c49fd1ae750b94158ef1",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
     }
     
   ],
@@ -535,7 +579,16 @@
     "69653b6560fcf0a0300ac554":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
     // Eberlestock Recon Bino Modular chest rig (Grey) - LL1 - Roubles (1)
-    "69653b6560fcf0a0300ac555":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ]
+    "69653b6560fcf0a0300ac555":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Bergan F2 military backpack - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac556":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Arc'teryx LEAF 30L assault pack (MultiCam) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac557":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Arc'teryx LEAF 30L assault pack - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac558":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ]
   },
   "loyal_level_items":
   {
@@ -567,6 +620,9 @@
     "69653b6560fcf0a0300ac552": 1, // Spiritus Systems Micro Fight Mk.4 chest rig (M81 Woodland) - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac553": 1, // Spiritus Systems Thing 3 chest rig (Coyote Tan) - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac554": 1, // Spiritus Systems Thing 3 chest rig (Ranger Green) - LL1 - Roubles (1)
-    "69653b6560fcf0a0300ac555": 1 // Eberlestock Recon Bino Modular chest rig (Grey) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac555": 1, // Eberlestock Recon Bino Modular chest rig (Grey) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac556": 1, // Bergan F2 military backpack - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac557": 1, // Arc'teryx LEAF 30L assault pack (MultiCam) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac558": 1 // Arc'teryx LEAF 30L assault pack - LL1 - Roubles (1)
   }
 }
