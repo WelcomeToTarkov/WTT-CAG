@@ -173,6 +173,50 @@
               "BuyRestrictionMax": 1,
               "BuyRestrictionCurrent": 0
             }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac543", // Ops-Core AMP headset - LL1 - Roubles (1)
+      "_tpl": "6a4709b1251cadcb5d21a494",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac544", // Ops-Core AMP headset (Coyote Tan) - LL1 - Roubles (1)
+      "_tpl": "6a4709fce8b57eddf421a495",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    // -  -  -  -   -   -   -   -   -   -   -  GOGGLES  -   -   -   -   -   -   -   -   -   -
+
+    {
+      "_id": "69653b6560fcf0a0300ac545", // ACTinBLACK DTNVS night vision goggles (White Phos.) - LL1 - Roubles (1)
+      "_tpl": "6974ce066e50d4be623b8d9b",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
     }
   ],
   "barter_scheme": 
@@ -205,7 +249,16 @@
     "69653b6560fcf0a0300ac541":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
     // Atlantic Signal REV-X hybrid headset (Coyote Brown) - LL1 - Roubles (1)
-    "69653b6560fcf0a0300ac542":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ]
+    "69653b6560fcf0a0300ac542":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Ops-Core AMP headset - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac543":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Ops-Core AMP headset (Coyote Tan) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac544":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // ACTinBLACK DTNVS night vision goggles (White Phos.) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac545":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ]
   },
   "loyal_level_items":
   {
@@ -218,6 +271,9 @@
     "69653b6560fcf0a0300ac53f": 1, // Avon M50 JSGPM gas mask - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac540": 1, // Avon M50 JSGPM gas mask (Olive) - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac541": 1, // Avon FM12 gas mask - LL1 - Roubles (1)
-    "69653b6560fcf0a0300ac542": 1  // Atlantic Signal REV-X hybrid headset (Coyote Brown) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac542": 1, // Atlantic Signal REV-X hybrid headset (Coyote Brown) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac543": 1, // Ops-Core AMP headset - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac544": 1, // Ops-Core AMP headset (Coyote Tan) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac545": 1  // ACTinBLACK DTNVS night vision goggles (White Phos.) - LL1 - Roubles (1)
   }
 }
