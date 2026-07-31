@@ -220,8 +220,8 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac545", // ACTinBLACK DTNVS night vision goggles (White Phos.) - LL1 - Roubles (1)
-      "_tpl": "6974ce066e50d4be623b8d9b",
+      "_id": "69653b6560fcf0a0300ac546", // ACTinBLACK DTNVS night vision goggles (Green Phos.) - LL1 - Roubles (1) - LL1 - Roubles (1)
+      "_tpl": "6974cf52ee1fb8a0683b8d9d",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd":
@@ -231,6 +231,36 @@
               "BuyRestrictionMax": 1,
               "BuyRestrictionCurrent": 0
             }
+    },
+
+    // -  -  -  -   -   -   -   -   -   -   -  EYEWEAR  -   -   -   -   -   -   -   -   -   -
+    
+    {
+      "_id": "69653b6560fcf0a0300ac548", // Oakley Holbrook glasses (Colored Lenses) - LL1 - Roubles (1)
+      "_tpl": "68c976b771f2a8984783fdf9",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac547", // Oakley Holbrook glasses - LL1 - Roubles (1)
+      "_tpl": "68c97696add4b269e8234d18",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+      {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100,
+        "BuyRestrictionMax": 1,
+        "BuyRestrictionCurrent": 0
+      }
     }
   ],
   "barter_scheme": 
@@ -272,7 +302,16 @@
     "69653b6560fcf0a0300ac544":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
     // ACTinBLACK DTNVS night vision goggles (White Phos.) - LL1 - Roubles (1)
-    "69653b6560fcf0a0300ac545":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ]
+    "69653b6560fcf0a0300ac545":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // ACTinBLACK DTNVS night vision goggles (Green Phos.) - LL1 - Roubles (1) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac546":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Oakley Holbrook glasses - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac547":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Oakley Holbrook glasses (Colored Lenses) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac548":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ]
   },
   "loyal_level_items":
   {
@@ -288,6 +327,9 @@
     "69653b6560fcf0a0300ac542": 1, // Atlantic Signal REV-X hybrid headset (Coyote Brown) - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac543": 1, // Ops-Core AMP headset - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac544": 1, // Ops-Core AMP headset (Coyote Tan) - LL1 - Roubles (1)
-    "69653b6560fcf0a0300ac545": 1  // ACTinBLACK DTNVS night vision goggles (White Phos.) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac545": 1, // ACTinBLACK DTNVS night vision goggles (White Phos.) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac546": 1, // ACTinBLACK DTNVS night vision goggles (Green Phos.) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac547": 1, // Oakley Holbrook glasses - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac548": 1  // Oakley Holbrook glasses (Colored Lenses) - LL1 - Roubles (1)
   }
 }
