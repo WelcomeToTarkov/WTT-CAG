@@ -23,7 +23,8 @@ public record ModMetadata : AbstractModMetadata
     public override Dictionary<string, Range>? ModDependencies { get; init; } = new()
     {
         { "com.wtt.commonlib", new Range("~2.0.22") },
-        { "com.wtt.contentbackport", new Range("^1.1.0")}
+        { "com.wtt.contentbackport", new Range("^1.1.0") },
+        { "com.wtt.armory", new Range("~2.0.0") }
     };
     public override string? Url { get; init; }
     public override bool? IsBundleMod { get; init; } = true;
