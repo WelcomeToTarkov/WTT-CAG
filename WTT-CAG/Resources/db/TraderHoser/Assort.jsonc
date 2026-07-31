@@ -1,0 +1,223 @@
+﻿{
+  "items": 
+  [
+    {
+      "_id": "69ecddbac4ac0c1322033c30", // FAST SF custom build with GPNVGS - LL1 - Roubles (1)
+      "_tpl": "697e3ffb791420d6a7411c88",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69ece05e38e60aa6e7033c34",
+                      "_tpl": "697e3c819edfc22e06411c81",
+                      "slotId": "Helmet_top",
+                      "parentId": "69ecddbac4ac0c1322033c30"
+                    },
+                    {
+                      "_id": "69ece05f1fdb0c737c033c35",
+                      "_tpl": "697e3c378ece32211d411c80",
+                      "slotId": "Helmet_back",
+                      "parentId": "69ecddbac4ac0c1322033c30"
+                    },
+                    {
+                      "_id": "69ecde3fe2ca010be2033c31",
+                      "_tpl": "697e37feb6af1bab60411c74",
+                      "parentId": "69ecddbac4ac0c1322033c30",
+                      "slotId": "mod_equipment_000"
+                    },
+                    {
+                      "_id": "69ecde686a4b7e1f4f033c32",
+                      "_tpl": "697e361f1c1def3c45411c73",
+                      "parentId": "69ecddbac4ac0c1322033c30",
+                      "slotId": "mod_equipment_001"
+                    },
+                    {
+                      "_id": "69ecde686a4b7e1f4f033c33",
+                      "_tpl": "5c0558060db834001b735271",
+                      "parentId": "69ecddbac4ac0c1322033c30",
+                      "slotId": "mod_nvg"
+                    },
+    
+    // -  -  -  -   -   -   -   -   -   -   -  MASKS  -   -   -   -   -   -   -   -   -   -
+
+    {
+      "_id": "69653b6560fcf0a0300ac53a", // PMG gas mask - LL1 - Roubles (1)
+      "_tpl": "689b7d32e920d74a02e5a63c",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac53b", // MSA Millennium gas mask - LL1 - Roubles (1)
+      "_tpl": "689cefd7c6d829d1c30a8404",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac53c", // PMK-4 Ratnik gas mask - LL1 - Roubles (1)
+      "_tpl": "68a60e568c72b73e32842085",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac53d", // PMK-4 "Arktika" Ratnik gas mask - LL1 - Roubles (1)
+      "_tpl": "68a8dac9242e2efa4a35ecc0",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac53e", // Compass Armor HAFM-KII Ballistic half-mask - LL1 - Roubles (1)
+      "_tpl": "6954a787a8530d7fbd513bd8",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac53f", // Avon M50 JSGPM gas mask - LL1 - Roubles (1)
+      "_tpl": "697df1cc71b3b5b6c5341071",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac540", // Avon M50 JSGPM gas mask (Olive) - LL1 - Roubles (1)
+      "_tpl": "697df3bad7387ce0f2341072",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac541", // Avon FM12 gas mask - LL1 - Roubles (1)
+      "_tpl": "6a090656da8c0b1a1fb424eb",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    // -  -  -  -   -   -   -   -   -   -   -  HEADSETS  -   -   -   -   -   -   -   -   -   -
+
+    {
+      "_id": "69653b6560fcf0a0300ac542", // Atlantic Signal REV-X hybrid headset (Coyote Brown) - LL1 - Roubles (1)
+      "_tpl": "6a343ff7cee26b50ce488014",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    }
+  ],
+  "barter_scheme": 
+  {
+    // FAST SF custom build with GPNVGS - LL1 - Roubles (1)
+    "69ecddbac4ac0c1322033c30":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // PMG gas mask - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac53a":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // MSA Millennium gas mask - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac53b":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // PMK-4 Ratnik gas mask - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac53c":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // PMK-4 "Arktika" Ratnik gas mask - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac53d":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Compass Armor HAFM-KII Ballistic half-mask - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac53e":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Avon M50 JSGPM gas mask - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac53f":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Avon M50 JSGPM gas mask (Olive) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac540":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Avon FM12 gas mask - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac541":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Atlantic Signal REV-X hybrid headset (Coyote Brown) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac542":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ]
+  },
+  "loyal_level_items":
+  {
+    "69ecddbac4ac0c1322033c30": 1, // FAST SF custom build with GPNVGS - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac53a": 1, // PMG gas mask - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac53b": 1, // MSA Millennium gas mask - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac53c": 1, // PMK-4 Ratnik gas mask - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac53d": 1, // PMK-4 "Arktika" Ratnik gas mask - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac53e": 1, // Compass Armor HAFM-KII Ballistic half-mask - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac53f": 1, // Avon M50 JSGPM gas mask - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac540": 1, // Avon M50 JSGPM gas mask (Olive) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac541": 1, // Avon FM12 gas mask - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac542": 1  // Atlantic Signal REV-X hybrid headset (Coyote Brown) - LL1 - Roubles (1)
+  }
+}
