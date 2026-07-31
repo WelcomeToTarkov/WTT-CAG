@@ -217,6 +217,20 @@
               "BuyRestrictionMax": 1,
               "BuyRestrictionCurrent": 0
             }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac545", // ACTinBLACK DTNVS night vision goggles (White Phos.) - LL1 - Roubles (1)
+      "_tpl": "6974ce066e50d4be623b8d9b",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
     }
   ],
   "barter_scheme": 

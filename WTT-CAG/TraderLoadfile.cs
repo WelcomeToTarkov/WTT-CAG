@@ -32,7 +32,7 @@ public class WTTCAG_traderload(
         
         var traderImagePath = Path.Combine(pathToMod, "db/TraderHoser/Hoser.jpg");
         
-        var traderBase = modHelper.GetJsonDataFromFile<TraderBase>(pathToMod, "db/TraderHoser/base.json");
+        var traderBase = modHelper.GetJsonDataFromFile<TraderBase>(pathToMod, "db/TraderHoser/base.jsonc");
 
         // Create a helper class and use it to register our traders image/icon + set its stock refresh time
         imageRouter.AddRoute(traderBase.Avatar.Replace(".jpg", ""), traderImagePath);
@@ -52,7 +52,7 @@ public class WTTCAG_traderload(
         addCustomTraderHelper.AddTraderToLocales(traderBase, "Hoser", "A Canadian PMC of unknown allegiance who split from his section during the Blue Fire. Now hiding along the Shoreline, he mostly deals in imported tactical equipment, scavenged from USEC shipping containers or RUAF supply caches.");
 
         // Get the assort data from JSON
-        var assort = modHelper.GetJsonDataFromFile<TraderAssort>(pathToMod, "db/TraderHoser/assort.json");
+        var assort = modHelper.GetJsonDataFromFile<TraderAssort>(pathToMod, "db/TraderHoser/assort.jsonc");
 
         // Save the data we loaded above into the trader we've made
         addCustomTraderHelper.OverwriteTraderAssort(traderBase.Id, assort);
