@@ -1,8 +1,11 @@
 ﻿{
-  "items": 
+  "items":
   [
+
+    // -  -  -  -   -   -   -   -   -   -   -  ARMOR HELMETS  -   -   -   -   -   -   -   -   -   -    
+    
     {
-      "_id": "69ecddbac4ac0c1322033c30", // FAST SF custom build with GPNVGS - LL1 - Roubles (1)
+      "_id": "69ecddbac4ac0c1322033c30", // FAST SF custom build with GPNVGS - LL1 - Barter (1 Physical Bitcoin)
       "_tpl": "697e3ffb791420d6a7411c88",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -43,6 +46,836 @@
                       "_tpl": "5c0558060db834001b735271",
                       "parentId": "69ecddbac4ac0c1322033c30",
                       "slotId": "mod_nvg"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac582", // Ceradyne IHPS Ballistic helmet (Coyote Tan) - LL1 - Roubles (1)
+      "_tpl": "6952dd3e0a19ef4b6ac90335",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac583",
+                      "_tpl": "6952df07f45848b047c90339",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac582"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac584",
+                      "_tpl": "6952e0430a05aecb1fc9033a",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac582"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac585",
+                      "_tpl": "6952e0b52f92620dc1c9033b",
+                      "slotId": "Helmet_ears",
+                      "parentId": "69653b6560fcf0a0300ac582"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac586", // Ops-Core FAST XP high cut helmet (MultiCam) - LL1 - Roubles (1)
+      "_tpl": "6955714f0a371ee4bed8e29e",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac587",
+                      "_tpl": "695573f047936dde03d8e2ab",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac586"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac588",
+                      "_tpl": "6955743c3cc456ac9fd8e2ac",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac586"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac589", // Ops-Core FAST XP high cut helmet (Urban Tan) - LL1 - Roubles (1)
+      "_tpl": "6955a5d5094d2caaafc5ccac",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac58a",
+                      "_tpl": "695573f047936dde03d8e2ab",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac589"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac58b",
+                      "_tpl": "6955743c3cc456ac9fd8e2ac",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac589"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac58c", // Ops-Core FAST XP high cut helmet - LL1 - Roubles (1)
+      "_tpl": "69557794e5a97ebffec5cca7",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac58d",
+                      "_tpl": "695573f047936dde03d8e2ab",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac58c"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac58e",
+                      "_tpl": "6955743c3cc456ac9fd8e2ac",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac58c"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac58f", // BroneTorg BTSh-6 "Sapsan" high cut helmet - LL1 - Roubles (1)
+      "_tpl": "6a1cb540948a4782f605dfd0",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0 
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac590",
+                      "_tpl": "6a1cb67a820f1fcf1b05dfd2",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac58f"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac591",
+                      "_tpl": "6a1cb64d378df173dd05dfd1",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac58f"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac592", // Ulbrichts AM95 ballistic helmet - LL1 - Roubles (1)
+      "_tpl": "680be1c97c53613b0016d45f",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac593",
+                      "_tpl": "657bbad7a1c61ee0c3036323",
+                      "parentId": "69653b6560fcf0a0300ac592",
+                      "slotId": "Helmet_top"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac594",
+                      "_tpl": "657bbb31b30eca9763051183",
+                      "parentId": "69653b6560fcf0a0300ac592",
+                      "slotId": "Helmet_back"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac595",
+                      "_tpl": "657babc6f58ba5a6250107a2",
+                      "parentId": "69653b6560fcf0a0300ac592",
+                      "slotId": "Helmet_ears"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac596", // Gefechtshelm Schuberth B826 ballistic helmet - LL1 - Roubles (1)
+      "_tpl": "68e53709d997b0cebccfc880",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0 
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac597",
+                      "_tpl": "68e55fb697f217f43c40e36b",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac596"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac598",
+                      "_tpl": "68e560760a6bd28b1eefae60",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac596"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac599",
+                      "_tpl": "68e56084053c5f90684175f9",
+                      "slotId": "Helmet_ears",
+                      "parentId": "69653b6560fcf0a0300ac596"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac59a", // MSA ACH TC-2000 MICH helmet - LL1 - Roubles (1)
+      "_tpl": "695cfbcebab602cd85621736",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac59b",
+                      "_tpl": "657f8a8d7db258e5600fe33d",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac59a"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac59c",
+                      "_tpl": "657f8b05f4c82973640b2348",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac59a"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac59d",
+                      "_tpl": "695cff59392d1844af62173d",
+                      "slotId": "Helmet_ears",
+                      "parentId": "69653b6560fcf0a0300ac59a"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac59e", // MSA ACH TC-2000 MICH helmet (Mesh Spray) - LL1 - Roubles (1)
+      "_tpl": "695d06494fa4e6a2cc621749",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac59f",
+                      "_tpl": "657f8a8d7db258e5600fe33d",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac59e"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5a0",
+                      "_tpl": "657f8b05f4c82973640b2348",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac59e"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5a1",
+                      "_tpl": "695cff59392d1844af62173d",
+                      "slotId": "Helmet_ears",
+                      "parentId": "69653b6560fcf0a0300ac59e"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac5a2", // Ops-Core FAST SF Legacy High Cut helmet (Black) - LL1 - Roubles (1)
+      "_tpl": "697e3ac6cd228eab70411c78",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0 
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5a3",
+                      "_tpl": "697e3c819edfc22e06411c81",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac5a2"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5a4",
+                      "_tpl": "697e3c378ece32211d411c80",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac5a2"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac5a5", // Ops-Core FAST SF Legacy High Cut helmet (Tan 499) - LL1 - Roubles (1)
+      "_tpl": "697e3ffb791420d6a7411c88",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5a6",
+                      "_tpl": "697e3c819edfc22e06411c81",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac5a5"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5a7",
+                      "_tpl": "697e3c378ece32211d411c80",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac5a5"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac5a8", // Ops-Core FAST SF Legacy High Cut helmet (MultiCam) - LL1 - Roubles (1)
+      "_tpl": "69d2fa81c19b81119bb03961",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5a9",
+                      "_tpl": "697e3c819edfc22e06411c81",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac5a8"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5aa",
+                      "_tpl": "697e3c378ece32211d411c80",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac5a8"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac5ab", // Ulbrichts F1000H high-cut ballistic helmet (Ranger Green) - LL1 - Roubles (1)
+      "_tpl": "69c866ea66512917657e7242",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5ac",
+                      "_tpl": "69c867b0fc4a26d9547e7248",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac5ab"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5ad",
+                      "_tpl": "69c8679c04170dc4867e7247",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac5ab"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac5ae", // Galvion Caiman TL ballistic helmet - LL1 - Roubles (1)
+      "_tpl": "69d422d93ea0e62623eb31e0",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5af",
+                      "_tpl": "69d4241a7179e6df13eb31ec",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac5ae"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5b0",
+                      "_tpl": "69d424178da70bbf80eb31eb",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac5ae"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac5b1", // Galvion Caiman TL ballistic helmet (Olive Drab) - LL1 - Roubles (1)
+      "_tpl": "69d4257f0655878dcbeb31ed",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5b2",
+                      "_tpl": "69d4241a7179e6df13eb31ec",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac5b1"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5b3",
+                      "_tpl": "69d424178da70bbf80eb31eb",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac5b1"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac5b4", // Galvion Batlskin Cobra P2 ballistic helmet (Tan) - LL1 - Roubles (1)
+      "_tpl": "69d44c0cd9330f9cffeb31f3",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5b5",
+                      "_tpl": "657f8ec5f4c82973640b234c",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac5b4"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5b6",
+                      "_tpl": "657f8f10f4c82973640b2350",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac5b4"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5b7",
+                      "_tpl": "657babc6f58ba5a6250107a2",
+                      "slotId": "Helmet_ears",
+                      "parentId": "69653b6560fcf0a0300ac5b4"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac5b8", // MSA Gallet TC 500 Low Cut combat helmet (Black) - LL1 - Roubles (1)
+      "_tpl": "69d58f2731285d616cf815b5",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5b9",
+                      "_tpl": "657f9c78ada5fadd1f07a58d",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac5b8"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5ba",
+                      "_tpl": "657f9cb587e11c61f70bfaca",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac5b8"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5bb",
+                      "_tpl": "69d591ddfc9f661295f815bb",
+                      "slotId": "Helmet_ears",
+                      "parentId": "69653b6560fcf0a0300ac5b8"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac5bc", // ILC Dover IBH ballistic helmet (Black) - LL1 - Roubles (1)
+      "_tpl": "69d59e8ce166d1833ff815cb",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5bd",
+                      "_tpl": "69d59f9b3d5c87e077f815d0",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac5bc"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5be",
+                      "_tpl": "69d59f889bb6212604f815cf",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac5bc"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac5bf", // NPP KlASS Tor-2 helmet - LL1 - Roubles (1)
+      "_tpl": "69d6dc1fabe158a296906d46",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5c0",
+                      "_tpl": "657fa0fcd4caf976440afe3e",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac5bf"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5c1",
+                      "_tpl": "657fa168e9433140ad0baf8e",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac5bf"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5c2",
+                      "_tpl": "657fa186d4caf976440afe42",
+                      "slotId": "Helmet_ears",
+                      "parentId": "69653b6560fcf0a0300ac5bf"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac5c3", // 6B27 helmet (Flora cover) - LL1 - Roubles (1)
+      "_tpl": "69e7344dc0d143efe0be98c2",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5c4",
+                      "_tpl": "657baaf0b7e9ca9a02045c02",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac5c3"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5c5",
+                      "_tpl": "657bab6ec6f689d3a205b85f",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac5c3"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5c6",
+                      "_tpl": "657babc6f58ba5a6250107a2",
+                      "slotId": "Helmet_ears",
+                      "parentId": "69653b6560fcf0a0300ac5c3"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac5c7", // 6B27 helmet (EMR cover) - LL1 - Roubles (1)
+      "_tpl": "69e73666cbadfd79bdbe98ce",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5c8",
+                      "_tpl": "657baaf0b7e9ca9a02045c02",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac5c7"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5c9",
+                      "_tpl": "657bab6ec6f689d3a205b85f",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac5c7"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5ca",
+                      "_tpl": "657babc6f58ba5a6250107a2",
+                      "slotId": "Helmet_ears",
+                      "parentId": "69653b6560fcf0a0300ac5c7"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac5cb", // Galvion Batlskin Viper P2 high-cut helmet - LL1 - Roubles (1)
+      "_tpl": "69e92bd85a9f81b04fa1e934",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5cc",
+                      "_tpl": "69e93cb339ab9c5660a1e938",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac5cb"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5cd",
+                      "_tpl": "69e93cb164025aa97ca1e937",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac5cb"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac5ce", // Galvion Batlskin Viper P2 high-cut helmet (Coyote Tan) - LL1 - Roubles (1)
+      "_tpl": "69e9629ebde4a54efca1e93f",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0 
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5cf",
+                      "_tpl": "69e93cb339ab9c5660a1e938",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac5ce"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5d0",
+                      "_tpl": "69e93cb164025aa97ca1e937",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac5ce"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac5d1", // 6B7-1M helmet (Olive Drab) - LL1 - Roubles (1)
+      "_tpl": "69eb87e55af80595742360ab",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5d2",
+                      "_tpl": "657baaf0b7e9ca9a02045c02",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac5d1"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5d3",
+                      "_tpl": "657bab6ec6f689d3a205b85f",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac5d1"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5d4",
+                      "_tpl": "657babc6f58ba5a6250107a2",
+                      "slotId": "Helmet_ears",
+                      "parentId": "69653b6560fcf0a0300ac5d1"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac5d5", // Crye Precision AirFrame helmet (Tan) - LL1 - Roubles (1)
+      "_tpl": "6a09bd2d7ec30ec140b4a85e",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5d6",
+                      "_tpl": "695573f047936dde03d8e2ab",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac5d5"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5d7",
+                      "_tpl": "6955743c3cc456ac9fd8e2ac",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac5d5"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac5d8", // Crye Precision AirFrame helmet (Black) - LL1 - Roubles (1)
+      "_tpl": "6955714f0a371ee4bed8e29e",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5d9",
+                      "_tpl": "695573f047936dde03d8e2ab",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac5d8"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5da",
+                      "_tpl": "6955743c3cc456ac9fd8e2ac",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac5d8"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac5db", // LShZ-1+ lightweight low-cut helmet (Olive Drab) - LL1 - Roubles (1)
+      "_tpl": "6a25f8ba887e6d4ba05ac1d2",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0 
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5dc",
+                      "_tpl": "657bb92fa1c61ee0c303631f",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac5db"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5dd",
+                      "_tpl": "657bb99db30eca976305117f",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac5db"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5de",
+                      "_tpl": "6a25fa66b3bd14dfd55ac1db",
+                      "slotId": "Helmet_ears",
+                      "parentId": "69653b6560fcf0a0300ac5db"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac5df", // Team Wendy RIFLETECH ballistic helmet - LL1 - Roubles (1)
+      "_tpl": "6a304d8f2e80b27b3547da3d",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5e0",
+                      "_tpl": "6a30647d65d28228b247da43",
+                      "slotId": "helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac5df"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5e1",
+                      "_tpl": "6a306477339ba897cc47da42",
+                      "slotId": "helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac5df"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac5e2", // Team Wendy RIFLETECH ballistic helmet (MultiCam) - LL1 - Roubles (1)
+      "_tpl": "6a306685334612b9d847da50",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5e3",
+                      "_tpl": "6a30647d65d28228b247da43",
+                      "slotId": "helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac5e2"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5e4",
+                      "_tpl": "6a306477339ba897cc47da42",
+                      "slotId": "helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac5e2"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac5e5", // FORT Kiver RSP ballistic helmet - LL1 - Roubles (1)
+      "_tpl": "6a3596f269cf78088785c432",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5e6",
+                      "_tpl": "6952df07f45848b047c90339",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac5e5"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5e7",
+                      "_tpl": "6952e0430a05aecb1fc9033a",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac5e5"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5e8",
+                      "_tpl": "6952e0b52f92620dc1c9033b",
+                      "slotId": "Helmet_ears",
+                      "parentId": "69653b6560fcf0a0300ac5e5"
+                    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac5e9", // Šestan-Busch BK3 ballistic helmet (Olive Drab) - LL1 - Roubles (1)
+      "_tpl": "689a138a035e1c4298c32357",
+      "upd": 
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 200,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5ea",
+                      "_tpl": "657baaf0b7e9ca9a02045c02",
+                      "slotId": "Helmet_top",
+                      "parentId": "69653b6560fcf0a0300ac5e9"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5eb",
+                      "_tpl": "657bab6ec6f689d3a205b85f",
+                      "slotId": "Helmet_back",
+                      "parentId": "69653b6560fcf0a0300ac5e9"
+                    },
+                    {
+                      "_id": "69653b6560fcf0a0300ac5ec",
+                      "_tpl": "657babc6f58ba5a6250107a2",
+                      "slotId": "Helmet_ears",
+                      "parentId": "69653b6560fcf0a0300ac5e9"
                     },
     
     // -  -  -  -   -   -   -   -   -   -   -  MASKS  -   -   -   -   -   -   -   -   -   -
@@ -1077,6 +1910,99 @@
     // FAST SF custom build with GPNVGS - LL1 - Roubles (1)
     "69ecddbac4ac0c1322033c30":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
 
+    // Ceradyne IHPS Ballistic helmet (Coyote Tan) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac582":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // Ops-Core FAST XP high cut helmet (MultiCam) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac586":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // Ops-Core FAST XP high cut helmet (Urban Tan) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac589":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // Ops-Core FAST XP high cut helmet - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac58c":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // BroneTorg BTSh-6 "Sapsan" high cut helmet - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac58f":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // Ulbrichts AM95 ballistic helmet - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac592":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // Gefechtshelm Schuberth B826 ballistic helmet - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac596":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // MSA ACH TC-2000 MICH helmet - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac59a":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // MSA ACH TC-2000 MICH helmet (Mesh Spray) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac59e":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // Ops-Core FAST SF Legacy High Cut helmet (Black) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5a2":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // Ops-Core FAST SF Legacy High Cut helmet (Tan 499) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5a5":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // Ops-Core FAST SF Legacy High Cut helmet (MultiCam) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5a8":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // Ulbrichts F1000H high-cut ballistic helmet (Ranger Green) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5ab":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // Galvion Caiman TL ballistic helmet - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5ae":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // Galvion Caiman TL ballistic helmet (Olive Drab) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5b1":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // Galvion Batlskin Cobra P2 ballistic helmet (Tan) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5b4":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // MSA Gallet TC 500 Low Cut combat helmet (Black) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5b8":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // ILC Dover IBH ballistic helmet (Black) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5bc":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // NPP KlASS Tor-2 helmet - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5bf":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // 6B27 helmet (Flora cover) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5c3":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // 6B27 helmet (EMR cover) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5c7":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // Galvion Batlskin Viper P2 high-cut helmet - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5cb":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // Galvion Batlskin Viper P2 high-cut helmet (Coyote Tan) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5ce":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // 6B7-1M helmet (Olive Drab) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5d1":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // Crye Precision AirFrame helmet (Tan) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5d5":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // Crye Precision AirFrame helmet (Black) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5d8":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // LShZ-1+ lightweight low-cut helmet (Olive Drab) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5db":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // Team Wendy RIFLETECH ballistic helmet - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5df":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // Team Wendy RIFLETECH ballistic helmet (MultiCam) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5e2":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // FORT Kiver RSP ballistic helmet - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5e5":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
+    // Šestan-Busch BK3 ballistic helmet (Olive Drab) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5e9":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
+
     // PMG gas mask - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac53a":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
@@ -1296,6 +2222,37 @@
   "loyal_level_items":
   {
     "69ecddbac4ac0c1322033c30": 1, // FAST SF custom build with GPNVGS - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac582": 1, // Ceradyne IHPS Ballistic helmet (Coyote Tan) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac586": 1, // Ops-Core FAST XP high cut helmet (MultiCam) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac589": 1, // Ops-Core FAST XP high cut helmet (Urban Tan) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac58c": 1, // Ops-Core FAST XP high cut helmet - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac58f": 1, // BroneTorg BTSh-6 "Sapsan" high cut helmet - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac592": 1, // Ulbrichts AM95 ballistic helmet - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac596": 1, // Gefechtshelm Schuberth B826 ballistic helmet - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac59a": 1, // MSA ACH TC-2000 MICH helmet - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac59e": 1, // MSA ACH TC-2000 MICH helmet (Mesh Spray) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5a2": 1, // Ops-Core FAST SF Legacy High Cut helmet (Black) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5a5": 1, // Ops-Core FAST SF Legacy High Cut helmet (Tan 499) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5a8": 1, // Ops-Core FAST SF Legacy High Cut helmet (MultiCam) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5ab": 1, // Ulbrichts F1000H high-cut ballistic helmet (Ranger Green) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5ae": 1, // Galvion Caiman TL ballistic helmet - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5b1": 1, // Galvion Caiman TL ballistic helmet (Olive Drab) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5b4": 1, // Galvion Batlskin Cobra P2 ballistic helmet (Tan) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5b8": 1, // MSA Gallet TC 500 Low Cut combat helmet (Black) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5bc": 1, // ILC Dover IBH ballistic helmet (Black) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5bf": 1, // NPP KlASS Tor-2 helmet - LL1 - Roubles 
+    "69653b6560fcf0a0300ac5c3": 1, // 6B27 helmet (Flora cover) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5c7": 1, // 6B27 helmet (EMR cover) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5cb": 1, // Galvion Batlskin Viper P2 high-cut helmet - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5ce": 1, // Galvion Batlskin Viper P2 high-cut helmet (Coyote Tan) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5d1": 1, // 6B7-1M helmet (Olive Drab) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5d5": 1, // Crye Precision AirFrame helmet (Tan) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5d8": 1, // Crye Precision AirFrame helmet (Black) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5db": 1, // LShZ-1+ lightweight low-cut helmet (Olive Drab) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5df": 1, // Team Wendy RIFLETECH ballistic helmet - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5e2": 1, // Team Wendy RIFLETECH ballistic helmet (MultiCam) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5e5": 1, // FORT Kiver RSP ballistic helmet - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac5e9": 1, // Šestan-Busch BK3 ballistic helmet (Olive Drab) - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac53a": 1, // PMG gas mask - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac53b": 1, // MSA Millennium gas mask - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac53c": 1, // PMK-4 Ratnik gas mask - LL1 - Roubles (1)
