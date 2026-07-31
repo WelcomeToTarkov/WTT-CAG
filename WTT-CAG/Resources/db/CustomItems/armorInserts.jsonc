@@ -865,8 +865,8 @@
         "rcid": ""
       },
       "Name": "helmet_armor_viper_p2_back",
-      "Durability": 32,
-      "MaxDurability": 32,
+      "Durability": 21,
+      "MaxDurability": 21,
       "armorClass": "4",
       "armorColliders": [
         "BackHead"
@@ -890,149 +890,6 @@
     "addWeaponPreset": false,
     "weaponPresets": []
   },
-  "69ecba4873ac005b2b033c1c": { // FirstSpear Siege-R Front Insert
-    "itemTplToClone": "6575ce8bdc9932aed601c61e",
-    "parentId": "65649eb40bf0ed77b8044453",
-    "handbookParentId": "6564b96a189fe36f356d177c",
-    "overrideProperties": {
-      "Prefab": {
-        "path": "assets/content/items/equipment/armor_plates/soft_armor_front.bundle",
-        "rcid": ""
-      },
-      "Name": "siege-r_level3_soft_armor_front",
-      "Durability": 44,
-      "MaxDurability": 44,
-      "armorClass": "3",
-      "armorColliders": [
-        "RibcageUp",
-        "RibcageLow"
-      ]
-      
-    },
-    "locales": {
-      "en": {
-        "name": "Aramid insert",
-        "shortName": "",
-        "description": ""
-      }
-    },
-    "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "addtoTraders": false,
-    "fleaPriceRoubles": 24320,
-    "handbookPriceRoubles": 27770,
-    "addtoStaticLootContainers": false,
-    "staticLootContainers": [],
-    "addWeaponPreset": false,
-    "weaponPresets": []
-  },
-  "69ecbc581f8fd62bbe033c1d": { // FirstSpear Siege-R Rear Insert
-    "itemTplToClone": "6575ce8bdc9932aed601c61e",
-    "parentId": "65649eb40bf0ed77b8044453",
-    "handbookParentId": "6564b96a189fe36f356d177c",
-    "overrideProperties": {
-      "Prefab": {
-        "path": "assets/content/items/equipment/armor_plates/soft_armor_back.bundle",
-        "rcid": ""
-      },
-      "Name": "siege-r_level3_soft_armor_back",
-      "Durability": 44,
-      "MaxDurability": 44,
-      "armorClass": "3",
-      "armorColliders": [
-        "SpineTop",
-        "SpineDown"
-      ]
-    },
-    "locales": {
-      "en": {
-        "name": "Aramid insert",
-        "shortName": "",
-        "description": ""
-      }
-    },
-    "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "addtoTraders": false,
-    "fleaPriceRoubles": 24320,
-    "handbookPriceRoubles": 27770,
-    "addtoStaticLootContainers": false,
-    "staticLootContainers": [],
-    "addWeaponPreset": false,
-    "weaponPresets": []
-  },
-  "69ecbe642b0d7b9636033c1e": { // FirstSpear Siege-R Left Insert
-    "itemTplToClone": "6575ce8bdc9932aed601c61e",
-    "parentId": "65649eb40bf0ed77b8044453",
-    "handbookParentId": "6564b96a189fe36f356d177c",
-    "overrideProperties": {
-      "Prefab": {
-        "path": "assets/content/items/equipment/armor_plates/soft_armor_left.bundle",
-        "rcid": ""
-      },
-      "Name": "siege-r_level3_soft_armor_left",
-      "Durability": 16,
-      "MaxDurability": 16,
-      "armorClass": "3",
-      "armorColliders": [
-        "LeftSideChestDown"
-      ]
-    },
-    "locales": {
-      "en": {
-        "name": "Aramid insert",
-        "shortName": "",
-        "description": ""
-      }
-    },
-    "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "addtoTraders": false,
-    "fleaPriceRoubles": 24320,
-    "handbookPriceRoubles": 11111,
-    "addtoStaticLootContainers": false,
-    "staticLootContainers": [],
-    "addWeaponPreset": false,
-    "weaponPresets": []
-  },
-  "69ecbe82df41d4414b033c1f": { // FirstSpear Siege-R Right Insert
-    "itemTplToClone": "6575ce8bdc9932aed601c61e",
-    "parentId": "65649eb40bf0ed77b8044453",
-    "handbookParentId": "6564b96a189fe36f356d177c",
-    "overrideProperties": {
-      "Prefab": {
-        "path": "assets/content/items/equipment/armor_plates/soft_armor_right.bundle",
-        "rcid": ""
-      },
-      "Name": "siege-r_level3_soft_armor_right",
-      "Durability": 16,
-      "MaxDurability": 16,
-      "armorClass": "3",
-      "armorColliders": [
-        "RightSideChestDown"
-      ]
-    },
-    "locales": {
-      "en": {
-        "name": "Aramid insert",
-        "shortName": "",
-        "description": ""
-      }
-    },
-    "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "addtoTraders": false,
-    "fleaPriceRoubles": 24320,
-    "handbookPriceRoubles": 11111,
-    "addtoStaticLootContainers": false,
-    "staticLootContainers": [],
-    "addWeaponPreset": false,
-    "weaponPresets": []
-  },
   "69ecb991006b94deed033c1b": { // FirstSpear Siege-R Groin Insert
     "itemTplToClone": "6575ce8bdc9932aed601c61e",
     "parentId": "65649eb40bf0ed77b8044453",
@@ -1047,6 +904,42 @@
       "MaxDurability": 28,
       "armorClass": "3",
       "armorColliders": [
+        "Pelvis"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Aramid insert",
+        "shortName": "",
+        "description": ""
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 24320,
+    "handbookPriceRoubles": 27770,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6a4d59765060c94ff39ee76e": { // TV119 Groin
+    "itemTplToClone": "6575ce8bdc9932aed601c61e",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/armor_plates/groin.bundle",
+        "rcid": ""
+      },
+      "Name": "tv119_level3_soft_armor_groin",
+      "Durability": 31,
+      "MaxDurability": 31,
+      "armorClass": "3",
+      "armorColliders": [
+        "RibcageLow",
         "Pelvis"
       ]
     },
@@ -1492,6 +1385,76 @@
     "addtoTraders": false,
     "fleaPriceRoubles": 66582,
     "handbookPriceRoubles": 24377,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6a544e49fef7b3ad4ae36356": { // Goplit-S Front
+    "itemTplToClone": "6575ce8bdc9932aed601c61e",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/armor_plates/soft_armor_front.bundle",
+        "rcid": ""
+      },
+      "Name": "goplit_level2_soft_armor_front",
+      "Durability": 37,
+      "MaxDurability": 37,
+      "armorClass": "2",
+      "armorColliders": [
+        "RibcageUp"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Aramid insert",
+        "shortName": "",
+        "description": ""
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 24320,
+    "handbookPriceRoubles": 27770,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6a544e4699afbb25d4e36355": { // Goplit-S Rear
+    "itemTplToClone": "6575ce8bdc9932aed601c61e",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/armor_plates/soft_armor_back.bundle",
+        "rcid": ""
+      },
+      "Name": "goplit_level2_soft_armor_back",
+      "Durability": 37,
+      "MaxDurability": 37,
+      "armorClass": "2",
+      "armorColliders": [
+        "SpineTop"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Aramid insert",
+        "shortName": "",
+        "description": ""
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 24320,
+    "handbookPriceRoubles": 27770,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
     "addWeaponPreset": false,

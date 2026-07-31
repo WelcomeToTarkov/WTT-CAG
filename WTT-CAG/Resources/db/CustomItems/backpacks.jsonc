@@ -5,13 +5,13 @@
     "handbookParentId": "5b5f6f6c86f774093f2ecf0b",
     "overrideProperties": {
       "Prefab": {
-        "path": "Bodywear/backpacks/Bergan/backpack_bergan_blk.bundle",
+        "path": "Bodywear/backpacks/Bergan/backpack_f2_bergan.bundle",
         "rcid": ""
       },
       "ExaminedByDefault": true,
       "Weight": 3.65,
       "Height": 6,
-      "Width": 5,
+      "Width": 4,
       "CanSellOnRagfair": true,
       "weaponErgonomicPenalty": -8,
       "speedPenaltyPercent": -6,
@@ -78,58 +78,6 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {}
-  },
-  "68bf9b6916aea1b1243e07ec": { // F2 Bergan (MultiCam Alpine)
-    "itemTplToClone": "68bf98e1f2f8268bb7c10592",
-    "parentId": "5448e53e4bdc2d60728b4567",
-    "handbookParentId": "5b5f6f6c86f774093f2ecf0b",
-    "overrideProperties": {
-      "Prefab": {
-        "path": "Bodywear/backpacks/Bergan/backpack_bergan_mcalp.bundle",
-        "rcid": ""
-      }
-    },
-    "locales": {
-      "en": {
-        "name": "Bergan F2 military backpack (MultiCam Alpine)",
-        "shortName": "Bergan",
-        "description": "The Bergan F2 backpack is a military-issues backpack similar to that of the Pilgrim Tourist backpack, as such it holds a similar capacity of around 55 liters. MultiCam Alpine version."
-      }
-    },
-    "addtoInventorySlots": [
-      "Backpack"
-    ],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "addtoTraders": false,
-    "fleaPriceRoubles": 91912,
-    "handbookPriceRoubles": 78999,
-    "addtoStaticLootContainers": true,
-    "staticLootContainers": [
-      {
-        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
-        "probability": 1500
-      }
-    ],
-    "addWeaponPreset": false,
-    "weaponPresets": [],
-    "traders": {
-      "RAGMAN": {
-        "6930973fc00b2b15fc61798b": {
-          "barterSettings": {
-            "loyalLevel": 4,
-            "unlimitedCount": true,
-            "stackObjectsCount": 1
-          },
-          "barters": [
-            {
-              "count": 100052,
-              "_tpl": "MONEY_ROUBLES"
-            }
-          ]
-        }
-      }
-    }
   },
   "69f9c3a90471f43d0b158eef": { // Arc'teryx LEAF 30L assault pack (MultiCam)
     "itemTplToClone": "639346cc1c8f182ad90c8972",

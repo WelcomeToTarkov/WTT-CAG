@@ -15,15 +15,15 @@ public record ModMetadata : AbstractModMetadata
 {
     public override string ModGuid { get; init; } = "com.wtt.cag";
     public override string Name { get; init; } = "WTT-CAG";
-    public override string Author { get; init; } = "GrooveypenguinX, ProbablyEukyre, Tron, Wireman";
+    public override string Author { get; init; } = "GrooveypenguinX, ProbablyEukyre, Tron";
     public override List<string>? Contributors { get; init; } = null;
     public override SemanticVersioning.Version Version { get; init; } = new(typeof(ModMetadata).Assembly.GetName().Version?.ToString(3));
     public override Range SptVersion { get; init; } = new("~4.0.1");
     public override List<string>? Incompatibilities { get; init; }
     public override Dictionary<string, Range>? ModDependencies { get; init; } = new()
     {
-        { "com.wtt.commonlib", new Range("~2.0.18") },
-        { "com.wtt.contentbackport", new Range("~1.0.0")}
+        { "com.wtt.commonlib", new Range("~2.0.22") },
+        { "com.wtt.contentbackport", new Range("^1.1.0")}
     };
     public override string? Url { get; init; }
     public override bool? IsBundleMod { get; init; } = true;
