@@ -773,6 +773,272 @@
               "BuyRestrictionMax": 1,
               "BuyRestrictionCurrent": 0
             }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac56d", // NPP KIASS Tor-2 helmet cover (A-TACS FG) - LL1 - Roubles (1)
+      "_tpl": "69d6df1e2053bc5e41906d4f",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac56e", // NPP KIASS Tor-2 helmet cover (Coyote Tan) - LL1 - Roubles (1)
+      "_tpl": "69d6df883c2d93f229906d51",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac56f", // NPP KIASS Tor-2 helmet cover (EMR) - LL1 - Roubles (1)
+      "_tpl": "69d6dfa9f3b8a5d1b4906d52",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac570", // NPP KIASS Tor-2 helmet cover (EMR Winter) - LL1 - Roubles (1)
+      "_tpl": "69d6dfc41d822714a7906d53",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac571", // Crye Airframe helmet cover (MultiCam) - LL1 - Roubles (1)
+      "_tpl": "6a0a1bef44d169794db4a862",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac572", // Crye Airframe helmet cover (AOR1) - LL1 - Roubles (1)
+      "_tpl": "6a0a1d1b98bfa8da0db4a863",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac573", // Crye Airframe helmet cover (AOR2) - LL1 - Roubles (1)
+      "_tpl": "6a0a22700f67790a19b4a864",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac574", // Crye Airframe helmet cover (DBDU) - LL1 - Roubles (1)
+      "_tpl": "6a0a2299714cddeb91b4a865",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac575", // Crye Airframe helmet cover (DNC) - LL1 - Roubles (1)
+      "_tpl": "6a0a22bbfc1a34cac6b4a866",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac576", // Crye Airframe helmet cover (Kryptek Mandrake) - LL1 - Roubles (1)
+      "_tpl": "6a0a22edf4bbd75165b4a867",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac577", // Crye Airframe helmet cover (T-Block) - LL1 - Roubles (1)
+      "_tpl": "6a0a230b3d283d711cb4a868",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac578", // LShZ-1+ cover (EMR) - LL1 - Roubles (1)
+      "_tpl": "6a32b342d54ecde6786ffadf",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac579", // LShZ-1+ cover (A-TACS FG) - LL1 - Roubles (1)
+      "_tpl": "6a32bd63cdc9d6712b6ffae0",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac57a", // LShZ-1+ cover (A-TACS AU) - LL1 - Roubles (1)
+      "_tpl": "6a32bd8954d48c508b6ffae1",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac57b", // LShZ-1+ cover (Black) - LL1 - Roubles (1)
+      "_tpl": "6a32c1e01b484ff5e86ffae2",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac57c", // LShZ-1+ cover (MultiCam) - LL1 - Roubles (1)
+      "_tpl": "6a32c3bfef7e9753a16ffae3",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac57d", // Kiver RSP cover (EMR) - LL1 - Roubles (1)
+      "_tpl": "6a359b9f33f60a4f7a85c447",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac57e", // Kiver RSP cover (MultiCam) - LL1 - Roubles (1)
+      "_tpl": "6a359beed1c05df6e185c448",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac57f", // Kiver RSP cover (A-TACS FG) - LL1 - Roubles (1)
+      "_tpl": "6a359c0a41516351d285c449",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
     }
     
   ],
@@ -932,7 +1198,64 @@
     "69653b6560fcf0a0300ac56b":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
     // NPP KIASS Tor-2 helmet cover (Black) - LL1 - Roubles (1)
-    "69653b6560fcf0a0300ac56c":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ]
+    "69653b6560fcf0a0300ac56c":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // NPP KIASS Tor-2 helmet cover (A-TACS FG) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac56d":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // NPP KIASS Tor-2 helmet cover (Coyote Tan) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac56e":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // NPP KIASS Tor-2 helmet cover (EMR) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac56f":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // NPP KIASS Tor-2 helmet cover (EMR Winter) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac570":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Crye Airframe helmet cover (MultiCam) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac571":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Crye Airframe helmet cover (AOR1) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac572":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Crye Airframe helmet cover (AOR2) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac573":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Crye Airframe helmet cover (DBDU) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac574":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Crye Airframe helmet cover (DNC) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac575":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Crye Airframe helmet cover (Kryptek Mandrake) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac576":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Crye Airframe helmet cover (T-Block) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac577":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // LShZ-1+ cover (EMR) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac578":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // LShZ-1+ cover (A-TACS FG) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac579":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // LShZ-1+ cover (A-TACS AU) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac57a":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // LShZ-1+ cover (Black) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac57b":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // LShZ-1+ cover (MultiCam) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac57c":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Kiver RSP cover (EMR) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac57d":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Kiver RSP cover (MultiCam) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac57e":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Kiver RSP cover (A-TACS FG) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac57f":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ]
   },
   "loyal_level_items":
   {
@@ -987,6 +1310,25 @@
     "69653b6560fcf0a0300ac569": 1, // BATLSKIN Cobra helmet cover (MultiCam Black) - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac56a": 1, // BATLSKIN Cobra helmet cover (Irish DPM) - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac56b": 1, // BATLSKIN Cobra helmet cover (NFP Woodland) - LL1 - Roubles (1)
-    "69653b6560fcf0a0300ac56c": 1  // NPP KIASS Tor-2 helmet cover (Black) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac56c": 1, // NPP KIASS Tor-2 helmet cover (Black) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac56d": 1, // NPP KIASS Tor-2 helmet cover (A-TACS FG) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac56e": 1, // NPP KIASS Tor-2 helmet cover (Coyote Tan) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac56f": 1, // NPP KIASS Tor-2 helmet cover (EMR) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac570": 1, // NPP KIASS Tor-2 helmet cover (EMR Winter) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac571": 1, // Crye Airframe helmet cover (MultiCam) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac572": 1, // Crye Airframe helmet cover (AOR1) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac573": 1, // Crye Airframe helmet cover (AOR2) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac574": 1, // Crye Airframe helmet cover (DBDU) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac575": 1, // Crye Airframe helmet cover (DNC) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac576": 1, // Crye Airframe helmet cover (Kryptek Mandrake) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac577": 1, // Crye Airframe helmet cover (T-Block) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac578": 1, // LShZ-1+ cover (EMR) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac579": 1, // LShZ-1+ cover (A-TACS FG) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac57a": 1, // LShZ-1+ cover (A-TACS AU) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac57b": 1, // LShZ-1+ cover (Black) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac57c": 1, // LShZ-1+ cover (MultiCam) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac57d": 1, // Kiver RSP cover (EMR) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac57e": 1, // Kiver RSP cover (MultiCam) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac57f": 1  // Kiver RSP cover (A-TACS FG) - LL1 - Roubles (1)
   }
 }
