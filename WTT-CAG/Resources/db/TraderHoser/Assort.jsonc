@@ -1039,6 +1039,36 @@
               "BuyRestrictionMax": 1,
               "BuyRestrictionCurrent": 0
             }
+    },
+
+    // -  -  -  -   -   -   -   -   -   -   -  ARMOR PLATES  -   -   -   -   -   -   -   -   -   -
+
+    {
+      "_id": "69653b6560fcf0a0300ac580", // Granit Br3 ballistic plate - LL1 - Roubles (1)
+      "_tpl": "68a553f9e1f415c456114c6a",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac581", // DFNDR Armor SAPI Level III++ ballistic plate - LL1 - Roubles (1)
+      "_tpl": "69579caededef04b864ee4c6",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
     }
     
   ],
@@ -1255,7 +1285,13 @@
     "69653b6560fcf0a0300ac57e":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
     // Kiver RSP cover (A-TACS FG) - LL1 - Roubles (1)
-    "69653b6560fcf0a0300ac57f":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ]
+    "69653b6560fcf0a0300ac57f":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Granit Br3 ballistic plate - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac580":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // DFNDR Armor SAPI Level III++ ballistic plate - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac581":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ]
   },
   "loyal_level_items":
   {
@@ -1329,6 +1365,8 @@
     "69653b6560fcf0a0300ac57c": 1, // LShZ-1+ cover (MultiCam) - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac57d": 1, // Kiver RSP cover (EMR) - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac57e": 1, // Kiver RSP cover (MultiCam) - LL1 - Roubles (1)
-    "69653b6560fcf0a0300ac57f": 1  // Kiver RSP cover (A-TACS FG) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac57f": 1, // Kiver RSP cover (A-TACS FG) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac580": 1, // Granit Br3 ballistic plate - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac581": 1  // DFNDR Armor SAPI Level III++ ballistic plate - LL1 - Roubles (1)
   }
 }
