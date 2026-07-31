@@ -349,7 +349,8 @@
             }
     },
 
-    {
+    
+  /* {
       "_id": "69653b6560fcf0a0300ac54f", // Poyas-A gear rig - LL1 - Roubles (1)
       "_tpl": "69542293d807443265f80e82",
       "parentId": "hideout",
@@ -361,8 +362,9 @@
               "BuyRestrictionMax": 1,
               "BuyRestrictionCurrent": 0
             }
-    },
+    }, */
 
+    
     {
       "_id": "69653b6560fcf0a0300ac550", // RothCo Tactical Assault Panel chest rig (UCP) - LL1 - Roubles (1)
       "_tpl": "6a20786972368005446cde7c",
@@ -489,13 +491,295 @@
               "BuyRestrictionMax": 1,
               "BuyRestrictionCurrent": 0
             }
+    },
+
+    // -  -  -  -   -   -   -   -   -   -   -  ATTACHMENTS  -   -   -   -   -   -   -   -   -   -
+
+    {
+      "_id": "69653b6560fcf0a0300ac559", // MS2000 Helmet-mounted Marker - LL1 - Roubles (1)
+      "_tpl": "6897d6a13858711f63d149c3",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac55a", // BK3 helmet cover (CADPAT) - LL1 - Roubles (1)
+      "_tpl": "689a1818a272a33734640f2c",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac55b", // BK3 helmet cover (DCU) - LL1 - Roubles (1)
+      "_tpl": "689a1a005d2915b23e564474",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac55c", // BK3 helmet cover (Jigsaw) - LL1 - Roubles (1)
+      "_tpl": "689a1a2ff797960777c1300c",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac55d", // BK3 helmet cover (M81) - LL1 - Roubles (1)
+      "_tpl": "689a1a614ddad2e5404cd6b5",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac55e", // IHPS cover (OCP) - LL1 - Roubles (1)
+      "_tpl": "6952e2acf69d4f7575c90345",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac55f", // IHPS cover (Coyote Tan) - LL1 - Roubles (1)
+      "_tpl": "6a3404f599063c08f6488012",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac560", // FAST XP helmet cover (MultiCam) - LL1 - Roubles (1)
+      "_tpl": "695572c471cdc428e9d8e2a6",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac561", // FAST XP helmet cover (MultiCam Alpine) - LL1 - Roubles (1)
+      "_tpl": "695572ff13710213b5d8e2a8",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac562", // FAST XP helmet cover (MultiCam Black) - LL1 - Roubles (1)
+      "_tpl": "6955a797ea9f2f0f0bc5ccb2",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac563", // FAST XP helmet cover (AOR2) - LL1 - Roubles (1)
+      "_tpl": "6955a7fee96a66f2b6c5ccb3",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac564", // FAST XP helmet cover (DNC) - LL1 - Roubles (1)
+      "_tpl": "6955a83da2a2fb80a8c5ccb5",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac565", // FAST XP helmet cover (Olive Drab) - LL1 - Roubles (1)
+      "_tpl": "6955a85cf6e2edacacc5ccb8",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac566", // Ops-Core FAST Ballstic Mandible - LL1 - Roubles (1)
+      "_tpl": "697e361f1c1def3c45411c73",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac567", // Ops-Core STEP-IN Visor - LL1 - Roubles (1)
+      "_tpl": "697e37feb6af1bab60411c74",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac568", // BATLSKIN Cobra helmet cover (MTP) - LL1 - Roubles (1)
+      "_tpl": "69d44ec7654cae9510eb3203",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac569", // BATLSKIN Cobra helmet cover (MultiCam Black) - LL1 - Roubles (1)
+      "_tpl": "69d44b8eabb346e484eb31f1",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac56a", // BATLSKIN Cobra helmet cover (Irish DPM) - LL1 - Roubles (1)
+      "_tpl": "6a25f0258842dada135ac1cf",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac56b", // BATLSKIN Cobra helmet cover (NFP Woodland) - LL1 - Roubles (1)
+      "_tpl": "69d44b914ddaf5e11feb31f2",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
+    },
+
+    {
+      "_id": "69653b6560fcf0a0300ac56c", // NPP KIASS Tor-2 helmet cover (Black) - LL1 - Roubles (1)
+      "_tpl": "69d6dcfb46cc268b92906d4e",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+            {
+              "UnlimitedCount": true,
+              "StackObjectsCount": 100,
+              "BuyRestrictionMax": 1,
+              "BuyRestrictionCurrent": 0
+            }
     }
     
   ],
   "barter_scheme": 
   {
     // FAST SF custom build with GPNVGS - LL1 - Roubles (1)
-    "69ecddbac4ac0c1322033c30":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+    "69ecddbac4ac0c1322033c30":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
 
     // PMG gas mask - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac53a":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
@@ -561,7 +845,7 @@
     "69653b6560fcf0a0300ac54e":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
     // Poyas-A gear rig - LL1 - Roubles (1)
-    "69653b6560fcf0a0300ac54f":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+    //"69653b6560fcf0a0300ac54f":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
     // RothCo Tactical Assault Panel chest rig (UCP) - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac550":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
@@ -588,7 +872,67 @@
     "69653b6560fcf0a0300ac557":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
     // Arc'teryx LEAF 30L assault pack - LL1 - Roubles (1)
-    "69653b6560fcf0a0300ac558":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ]
+    "69653b6560fcf0a0300ac558":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // MS2000 Helmet-mounted Marker - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac559":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // BK3 helmet cover (CADPAT) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac55a":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // BK3 helmet cover (DCU) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac55b":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // BK3 helmet cover (Jigsaw) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac55c":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // BK3 helmet cover (M81) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac55d":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // IHPS cover (OCP) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac55e":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // IHPS cover (Coyote Tan) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac55f":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // FAST XP helmet cover (MultiCam) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac560":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // FAST XP helmet cover (MultiCam Alpine) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac561":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // FAST XP helmet cover (MultiCam Black) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac562":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // FAST XP helmet cover (AOR2) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac563":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // FAST XP helmet cover (DNC) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac564":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // FAST XP helmet cover (Olive Drab) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac565":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Ops-Core FAST Ballstic Mandible - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac566":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // Ops-Core STEP-IN Visor - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac567":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // BATLSKIN Cobra helmet cover (MTP) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac568":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // BATLSKIN Cobra helmet cover (MultiCam Black) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac569":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // BATLSKIN Cobra helmet cover (Irish DPM) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac56a":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // BATLSKIN Cobra helmet cover (NFP Woodland) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac56b":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+
+    // NPP KIASS Tor-2 helmet cover (Black) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac56c":  [ [ { "count": 1,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ]
   },
   "loyal_level_items":
   {
@@ -614,7 +958,7 @@
     "69653b6560fcf0a0300ac54c": 1, // Platatac Peacekeeper Mk.5 chest rig (Coyote Tan) - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac54d": 1, // Spiritus Systems 34 Alpha load-bearing chest rig (MultiCam) - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac54e": 1, // Spiritus Systems 34 Alpha load-bearing chest rig (Olive Drab) - LL1 - Roubles (1)
-    "69653b6560fcf0a0300ac54f": 1, // Poyas-A gear rig - LL1 - Roubles (1)
+    //"69653b6560fcf0a0300ac54f": 1, // Poyas-A gear rig - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac550": 1, // RothCo Tactical Assault Panel chest rig (UCP) - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac551": 1, // Spiritus Systems Micro Fight Mk.4 chest rig - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac552": 1, // Spiritus Systems Micro Fight Mk.4 chest rig (M81 Woodland) - LL1 - Roubles (1)
@@ -623,6 +967,26 @@
     "69653b6560fcf0a0300ac555": 1, // Eberlestock Recon Bino Modular chest rig (Grey) - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac556": 1, // Bergan F2 military backpack - LL1 - Roubles (1)
     "69653b6560fcf0a0300ac557": 1, // Arc'teryx LEAF 30L assault pack (MultiCam) - LL1 - Roubles (1)
-    "69653b6560fcf0a0300ac558": 1 // Arc'teryx LEAF 30L assault pack - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac558": 1, // Arc'teryx LEAF 30L assault pack - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac559": 1, // MS2000 Helmet-mounted Marker - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac55a": 1, // BK3 helmet cover (CADPAT) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac55b": 1, // BK3 helmet cover (DCU) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac55c": 1, // BK3 helmet cover (Jigsaw) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac55d": 1, // BK3 helmet cover (M81) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac55e": 1, // IHPS cover (OCP) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac55f": 1, // IHPS cover (Coyote Tan) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac560": 1, // FAST XP helmet cover (MultiCam) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac561": 1, // FAST XP helmet cover (MultiCam Alpine) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac562": 1, // FAST XP helmet cover (MultiCam Black) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac563": 1, // FAST XP helmet cover (AOR2) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac564": 1, // FAST XP helmet cover (DNC) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac565": 1, // FAST XP helmet cover (Olive Drab) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac566": 1, // Ops-Core FAST Ballstic Mandible - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac567": 1, // Ops-Core STEP-IN Visor - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac568": 1, // BATLSKIN Cobra helmet cover (MTP) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac569": 1, // BATLSKIN Cobra helmet cover (MultiCam Black) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac56a": 1, // BATLSKIN Cobra helmet cover (Irish DPM) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac56b": 1, // BATLSKIN Cobra helmet cover (NFP Woodland) - LL1 - Roubles (1)
+    "69653b6560fcf0a0300ac56c": 1  // NPP KIASS Tor-2 helmet cover (Black) - LL1 - Roubles (1)
   }
 }
