@@ -5,7 +5,7 @@
 
     // -  -  -  -   -   -   -   -   -   -   -  ARMORED RIGS  -   -   -   -   -   -   -   -   -   -
     {
-      "_id": "6a6d5eae750358b9ec735046", //FORT Goplit Slick plate carrier  - LL1 - Roubles
+      "_id": "6a6d5eae750358b9ec735046", //FORT Goplit Slick plate carrier  
       "_tpl": "6a544d901e790d853ee3634e",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -54,7 +54,7 @@
       "parentId": "6a6d5eae750358b9ec735046"
     },
     {
-      "_id": "6a6d5e743042dba3a70711af", //T.REX ARMS AC1 plate carrier (MultiCam) - LL1 - Roubles
+      "_id": "6a6d5e743042dba3a70711af", //T.REX ARMS AC1 plate carrier (MultiCam) 
       "_tpl": "6a0b8cf5e3248a7d679569a4",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -79,7 +79,7 @@
       "parentId": "6a6d5e743042dba3a70711af"
     },
     {
-      "_id": "6a6d5e11b56acf99c0ca8876", //WARTECH TV-119 plate carrier - LL1 - Roubles
+      "_id": "6a6d5e11b56acf99c0ca8876", //WARTECH TV-119 plate carrier 
       "_tpl": "6a4d4d3b4b248ca65d9ee731",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -116,7 +116,7 @@
       "parentId": "6a6d5e11b56acf99c0ca8876"
     },
     {
-      "_id": "6a6d5db80e8ebddb3fec8b71", //WARTECH TV-119 plate carrier (MC) - LL1 - Roubles
+      "_id": "6a6d5db80e8ebddb3fec8b71", //WARTECH TV-119 plate carrier (MC) 
       "_tpl": "69ecb89b1bc77f05e3033c12",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -153,7 +153,7 @@
       "parentId": "6a6d5db80e8ebddb3fec8b71"
     },
     {
-      "_id": "6a6d5c485365c8af1ccdc724", //CQC Rhino body armor (DPM Pat.90) - LL1 - Roubles
+      "_id": "6a6d5c485365c8af1ccdc724", //CQC Rhino body armor (DPM Pat.90) 
       "_tpl": "697df0ab5e5a47675734105c",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -214,7 +214,7 @@
       "parentId": "6a6d5c485365c8af1ccdc724"
     },
     {
-      "_id": "6a6d5d3346f39f71072ce21a", //CQC Rhino body armor (MTP) - LL1 - Roubles
+      "_id": "6a6d5d3346f39f71072ce21a", //CQC Rhino body armor (MTP) 
       "_tpl": "697df164761aa50814341066",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -275,7 +275,7 @@
       "parentId": "6a6d5d3346f39f71072ce21a"
     },
     {
-      "_id": "6a6d4c0d3b14c0da01e5e18f", //TYR Tactical PICO-DS Assaulters plate carrier (MultiCam) - LL1 - Roubles
+      "_id": "6a6d4c0d3b14c0da01e5e18f", //TYR Tactical PICO-DS Assaulters plate carrier (MultiCam) 
       "_tpl": "6a63f04f998ec5836410dcad",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -300,7 +300,7 @@
       "parentId": "6a6d4c0d3b14c0da01e5e18f"
     },
     {
-      "_id": "6a6d48c76d206d9247817715", //WARTECH TV-119 plate carrier (A-TACS FG) - LL1 - Roubles
+      "_id": "6a6d48c76d206d9247817715", //WARTECH TV-119 plate carrier (A-TACS FG) 
       "_tpl": "6a4d4f9bc90d6800f79ee73a",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -353,7 +353,7 @@
     
     
     {
-      "_id": "6a6d483d484d7329cc945407", //Custom Gear CGPC3 plate carrier - LL1 - Roubles
+      "_id": "6a6d483d484d7329cc945407", //Custom Gear CGPC3 plate carrier 
       "_tpl": "6a1a35f3d10a03f857de3059",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -408,7 +408,7 @@
       "parentId": "6a6d483d484d7329cc945407"
     },
     {
-      "_id": "6a6d475f7ad7fb067fb2ce4e", //Ferro Concepts The Slickster plate carrier (MultiCam) - LL1 - Roubles
+      "_id": "6a6d475f7ad7fb067fb2ce4e", //Ferro Concepts The Slickster plate carrier (MultiCam) 
       "_tpl": "6a18c320614dfcaac696e174",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -433,7 +433,7 @@
       "parentId": "6a6d475f7ad7fb067fb2ce4e"
     },
     {
-      "_id": "6a6d47b3893642e33c9e5b9e", //Custom Gear CGPC3 plate carrier (Vz95) - LL1 - Roubles
+      "_id": "6a6d47b3893642e33c9e5b9e", //Custom Gear CGPC3 plate carrier (Vz95) 
       "_tpl": "6a19eb984e57885c89e456e0",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -482,7 +482,7 @@
       "parentId": "6a6d47b3893642e33c9e5b9e"
     },
     {
-      "_id": "6a6d46d0a50ef216cd965d5d", //Shellback Tactical Rampage 2.0 plate carrier (Pointman, Wolf Grey) - LL1 - Roubles
+      "_id": "6a6d46d0a50ef216cd965d5d", //Shellback Tactical Rampage 2.0 plate carrier (Pointman, Wolf Grey) 
       "_tpl": "6a1445f45e02d6066dff6c1c",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -525,7 +525,7 @@
       "parentId": "6a6d46d0a50ef216cd965d5d"
     },
     {
-      "_id": "6a6d42fff7fe9eebc3b30fd1", //Velmet PERUN-6 SOF LC plate carrier (MaWka) - LL1 - Roubles
+      "_id": "6a6d42fff7fe9eebc3b30fd1", //Velmet PERUN-6 SOF LC plate carrier (MaWka) 
       "_tpl": "69af8c67b5dd41b53dc2a14f",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -611,7 +611,7 @@
       "parentId": "6a6d427ccfdd9fcd626a3d8b"
     },
     {
-      "_id": "6a6d41b82e7a8e5697d93244", //Crye Precision JPC 2.0 (MultiCam Tropic) - LL1 - Roubles
+      "_id": "6a6d41b82e7a8e5697d93244", //Crye Precision JPC 2.0 (MultiCam Tropic) 
       "_tpl": "6a1b1aafbeb04b2149da1b1a",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -636,7 +636,7 @@
       "parentId": "6a6d41b82e7a8e5697d93244"
     },
     {
-      "_id": "6a6d414daa99c05cf347c3af", //Crye Precision JPC 2.0 (Coyote Brown) - LL1 - Roubles
+      "_id": "6a6d414daa99c05cf347c3af", //Crye Precision JPC 2.0 (Coyote Brown) 
       "_tpl": "69786ec0c5d74f55c1c91ceb",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -661,7 +661,7 @@
       "parentId": "6a6d414daa99c05cf347c3af"
     },
     {
-      "_id": "6a6d40ed8fa1673f918fbfac", //WARTECH TV-110 plate carrier (OMON) - LL1 - Roubles
+      "_id": "6a6d40ed8fa1673f918fbfac", //WARTECH TV-110 plate carrier (OMON) 
       "_tpl": "69749476189c0d08d9a28f1d",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -704,7 +704,7 @@
     
     
     {
-      "_id": "6a6d401c8a57a087dca51d5a", //IOTV Gen4 TAPS hybrid plate carrier (MultiCam) - LL1 - Roubles
+      "_id": "6a6d401c8a57a087dca51d5a", //IOTV Gen4 TAPS hybrid plate carrier (MultiCam) 
       "_tpl": "6962818af5c4204e1844033a",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -771,7 +771,7 @@
       "parentId": "6a6d401c8a57a087dca51d5a"
     },
     {
-      "_id": "6a6d3f911203a4f7ba60b1c8", //Spiritus Systems LV-120 plate carrier (Goons Edition) - LL1 - Roubles
+      "_id": "6a6d3f911203a4f7ba60b1c8", //Spiritus Systems LV-120 plate carrier (Goons Edition) 
       "_tpl": "6959f5cefa310a108862b798",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -808,7 +808,7 @@
       "parentId": "6a6d3f911203a4f7ba60b1c8"
     },
     {
-      "_id": "6a6d2fb4fe0bdf9229610dbc", //NFM THOR MCVS Overt plate carrier (MultiCam) - LL1 - Roubles
+      "_id": "6a6d2fb4fe0bdf9229610dbc", //NFM THOR MCVS Overt plate carrier (MultiCam) 
       "_tpl": "69577b2faab33d9b959d4f9e",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -863,7 +863,7 @@
       "parentId": "6a6d2fb4fe0bdf9229610dbc"
     },
         {
-          "_id": "6a6d281bd600cd4e6dbd003f", //6B46 plate carrier (EMR) - LL1 - Roubles
+          "_id": "6a6d281bd600cd4e6dbd003f", //6B46 plate carrier (EMR) 
           "_tpl": "69537b77189ba5c1d5e64f4b",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -888,7 +888,7 @@
           "parentId": "6a6d281bd600cd4e6dbd003f"
         },
     {
-      "_id": "6a6d2ba93588511f1f7ccf65", //NFM THOR MCVS Overt plate carrier (Olive Drab) - LL1 - Roubles
+      "_id": "6a6d2ba93588511f1f7ccf65", //NFM THOR MCVS Overt plate carrier (Olive Drab) 
       "_tpl": "695751925e767177d0975afe",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -947,7 +947,7 @@
     // -  -  -  -   -   -   -   -   -   -   -  ARMOR HELMETS  -   -   -   -   -   -   -   -   -   -    
    
     {
-      "_id": "69ecddbac4ac0c1322033c30", // FAST SF custom build with GPNVGS - LL1 - Barter (1 Physical Bitcoin)
+      "_id": "69ecddbac4ac0c1322033c30", // FAST SF custom build with GPNVGS 
       "_tpl": "697e3ffb791420d6a7411c88",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -992,7 +992,7 @@
 
     
     {
-      "_id": "69653b6560fcf0a0300ac582", // Ceradyne IHPS Ballistic helmet (Coyote Tan) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac582", // Ceradyne IHPS Ballistic helmet (Coyote Tan)  
       "_tpl": "6952dd3e0a19ef4b6ac90335",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -1024,7 +1024,7 @@
                     },
 
     {
-      "_id": "69653b6560fcf0a0300ac586", // Ops-Core FAST XP high cut helmet (MultiCam) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac586", // Ops-Core FAST XP high cut helmet (MultiCam)  
       "_tpl": "6955714f0a371ee4bed8e29e",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -1050,7 +1050,7 @@
                     },
     
         {
-          "_id": "69653b6560fcf0a0300ac589", // Ops-Core FAST XP high cut helmet (Urban Tan) - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac589", // Ops-Core FAST XP high cut helmet (Urban Tan)  
           "_tpl": "6955a5d5094d2caaafc5ccac",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1076,7 +1076,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac58c", // Ops-Core FAST XP high cut helmet - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac58c", // Ops-Core FAST XP high cut helmet  
           "_tpl": "69557794e5a97ebffec5cca7",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1102,7 +1102,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac58f", // BroneTorg BTSh-6 "Sapsan" high cut helmet - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac58f", // BroneTorg BTSh-6 "Sapsan" high cut helmet  
           "_tpl": "6a1cb540948a4782f605dfd0",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1128,7 +1128,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac592", // Ulbrichts AM95 ballistic helmet - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac592", // Ulbrichts AM95 ballistic helmet  
           "_tpl": "680be1c97c53613b0016d45f",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1160,7 +1160,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac596", // Gefechtshelm Schuberth B826 ballistic helmet - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac596", // Gefechtshelm Schuberth B826 ballistic helmet  
           "_tpl": "68e53709d997b0cebccfc880",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1192,7 +1192,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac59a", // MSA ACH TC-2000 MICH helmet - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac59a", // MSA ACH TC-2000 MICH helmet  
           "_tpl": "695cfbcebab602cd85621736",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1224,7 +1224,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac59e", // MSA ACH TC-2000 MICH helmet (Mesh Spray) - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac59e", // MSA ACH TC-2000 MICH helmet (Mesh Spray)  
           "_tpl": "695d06494fa4e6a2cc621749",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1256,7 +1256,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac5a2", // Ops-Core FAST SF Legacy High Cut helmet (Black) - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac5a2", // Ops-Core FAST SF Legacy High Cut helmet (Black)  
           "_tpl": "697e3ac6cd228eab70411c78",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1282,7 +1282,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac5a5", // Ops-Core FAST SF Legacy High Cut helmet (Tan 499) - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac5a5", // Ops-Core FAST SF Legacy High Cut helmet (Tan 499)  
           "_tpl": "697e3ffb791420d6a7411c88",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1308,7 +1308,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac5a8", // Ops-Core FAST SF Legacy High Cut helmet (MultiCam) - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac5a8", // Ops-Core FAST SF Legacy High Cut helmet (MultiCam)  
           "_tpl": "69d2fa81c19b81119bb03961",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1334,7 +1334,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac5ab", // Ulbrichts F1000H high-cut ballistic helmet (Ranger Green) - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac5ab", // Ulbrichts F1000H high-cut ballistic helmet (Ranger Green)  
           "_tpl": "69c866ea66512917657e7242",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1361,7 +1361,7 @@
     
     
         {
-          "_id": "69653b6560fcf0a0300ac5ae", // Galvion Caiman TL ballistic helmet - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac5ae", // Galvion Caiman TL ballistic helmet  
           "_tpl": "69d422d93ea0e62623eb31e0",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1387,7 +1387,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac5b1", // Galvion Caiman TL ballistic helmet (Olive Drab) - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac5b1", // Galvion Caiman TL ballistic helmet (Olive Drab)  
           "_tpl": "69d4257f0655878dcbeb31ed",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1413,7 +1413,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac5b4", // Galvion Batlskin Cobra P2 ballistic helmet (Tan) - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac5b4", // Galvion Batlskin Cobra P2 ballistic helmet (Tan)  
           "_tpl": "69d44c0cd9330f9cffeb31f3",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1445,7 +1445,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac5b8", // MSA Gallet TC 500 Low Cut combat helmet (Black) - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac5b8", // MSA Gallet TC 500 Low Cut combat helmet (Black)  
           "_tpl": "69d58f2731285d616cf815b5",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1477,7 +1477,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac5bc", // ILC Dover IBH ballistic helmet (Black) - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac5bc", // ILC Dover IBH ballistic helmet (Black)  
           "_tpl": "69d59e8ce166d1833ff815cb",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1503,7 +1503,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac5bf", // NPP KlASS Tor-2 helmet - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac5bf", // NPP KlASS Tor-2 helmet  
           "_tpl": "69d6dc1fabe158a296906d46",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1535,7 +1535,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac5c3", // 6B27 helmet (Flora cover) - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac5c3", // 6B27 helmet (Flora cover)  
           "_tpl": "69e7344dc0d143efe0be98c2",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1567,7 +1567,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac5c7", // 6B27 helmet (EMR cover) - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac5c7", // 6B27 helmet (EMR cover)  
           "_tpl": "69e73666cbadfd79bdbe98ce",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1599,7 +1599,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac5cb", // Galvion Batlskin Viper P2 high-cut helmet - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac5cb", // Galvion Batlskin Viper P2 high-cut helmet  
           "_tpl": "69e92bd85a9f81b04fa1e934",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1625,7 +1625,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac5ce", // Galvion Batlskin Viper P2 high-cut helmet (Coyote Tan) - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac5ce", // Galvion Batlskin Viper P2 high-cut helmet (Coyote Tan)  
           "_tpl": "69e9629ebde4a54efca1e93f",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1651,7 +1651,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac5d1", // 6B7-1M helmet (Olive Drab) - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac5d1", // 6B7-1M helmet (Olive Drab)  
           "_tpl": "69eb87e55af80595742360ab",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1683,7 +1683,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac5d5", // Crye Precision AirFrame helmet (Tan) - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac5d5", // Crye Precision AirFrame helmet (Tan)  
           "_tpl": "6a09bd2d7ec30ec140b4a85e",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1709,7 +1709,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac5d8", // Crye Precision AirFrame helmet (Black) - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac5d8", // Crye Precision AirFrame helmet (Black)  
           "_tpl": "6955714f0a371ee4bed8e29e",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1735,7 +1735,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac5db", // LShZ-1+ lightweight low-cut helmet (Olive Drab) - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac5db", // LShZ-1+ lightweight low-cut helmet (Olive Drab)  
           "_tpl": "6a25f8ba887e6d4ba05ac1d2",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1767,7 +1767,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac5df", // Team Wendy RIFLETECH ballistic helmet - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac5df", // Team Wendy RIFLETECH ballistic helmet  
           "_tpl": "6a304d8f2e80b27b3547da3d",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1793,7 +1793,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac5e2", // Team Wendy RIFLETECH ballistic helmet (MultiCam) - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac5e2", // Team Wendy RIFLETECH ballistic helmet (MultiCam)  
           "_tpl": "6a306685334612b9d847da50",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1819,7 +1819,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac5e5", // FORT Kiver RSP ballistic helmet - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac5e5", // FORT Kiver RSP ballistic helmet  
           "_tpl": "6a3596f269cf78088785c432",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1851,7 +1851,7 @@
                         },
     
         {
-          "_id": "69653b6560fcf0a0300ac5e9", // Šestan-Busch BK3 ballistic helmet (Olive Drab) - LL1 - Roubles 
+          "_id": "69653b6560fcf0a0300ac5e9", // Šestan-Busch BK3 ballistic helmet (Olive Drab)  
           "_tpl": "689a138a035e1c4298c32357",
           "parentId": "hideout",
           "slotId": "hideout",
@@ -1885,7 +1885,7 @@
     // -  -  -  -   -   -   -   -   -   -   -  MASKS  -   -   -   -   -   -   -   -   -   -
 
     {
-      "_id": "69653b6560fcf0a0300ac53a", // PMG gas mask - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac53a", // PMG gas mask  
       "_tpl": "689b7d32e920d74a02e5a63c",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -1899,7 +1899,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac53b", // MSA Millennium gas mask - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac53b", // MSA Millennium gas mask  
       "_tpl": "689cefd7c6d829d1c30a8404",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -1913,7 +1913,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac53c", // PMK-4 Ratnik gas mask - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac53c", // PMK-4 Ratnik gas mask  
       "_tpl": "68a60e568c72b73e32842085",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -1927,7 +1927,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac53d", // PMK-4 "Arktika" Ratnik gas mask - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac53d", // PMK-4 "Arktika" Ratnik gas mask  
       "_tpl": "68a8dac9242e2efa4a35ecc0",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -1941,7 +1941,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac53e", // Compass Armor HAFM-KII Ballistic half-mask - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac53e", // Compass Armor HAFM-KII Ballistic half-mask  
       "_tpl": "6954a787a8530d7fbd513bd8",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -1955,7 +1955,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac53f", // Avon M50 JSGPM gas mask - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac53f", // Avon M50 JSGPM gas mask  
       "_tpl": "697df1cc71b3b5b6c5341071",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -1969,7 +1969,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac540", // Avon M50 JSGPM gas mask (Olive) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac540", // Avon M50 JSGPM gas mask (Olive)  
       "_tpl": "697df3bad7387ce0f2341072",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -1983,7 +1983,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac541", // Avon FM12 gas mask - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac541", // Avon FM12 gas mask  
       "_tpl": "6a090656da8c0b1a1fb424eb",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -1999,7 +1999,7 @@
     // -  -  -  -   -   -   -   -   -   -   -  HEADSETS  -   -   -   -   -   -   -   -   -   -
 
     {
-      "_id": "69653b6560fcf0a0300ac542", // Atlantic Signal REV-X hybrid headset (Coyote Brown) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac542", // Atlantic Signal REV-X hybrid headset (Coyote Brown)  
       "_tpl": "6a343ff7cee26b50ce488014",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2013,7 +2013,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac543", // Ops-Core AMP headset - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac543", // Ops-Core AMP headset  
       "_tpl": "6a4709b1251cadcb5d21a494",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2027,7 +2027,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac544", // Ops-Core AMP headset (Coyote Tan) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac544", // Ops-Core AMP headset (Coyote Tan)  
       "_tpl": "6a4709fce8b57eddf421a495",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2043,7 +2043,7 @@
     // -  -  -  -   -   -   -   -   -   -   -  GOGGLES  -   -   -   -   -   -   -   -   -   -
 
     {
-      "_id": "69653b6560fcf0a0300ac545", // ACTinBLACK DTNVS night vision goggles (White Phos.) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac545", // ACTinBLACK DTNVS night vision goggles (White Phos.)  
       "_tpl": "6974ce066e50d4be623b8d9b",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2057,7 +2057,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac546", // ACTinBLACK DTNVS night vision goggles (Green Phos.) - LL1 - Roubles  - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac546", // ACTinBLACK DTNVS night vision goggles (Green Phos.)    
       "_tpl": "6974cf52ee1fb8a0683b8d9d",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2073,7 +2073,7 @@
     // -  -  -  -   -   -   -   -   -   -   -  EYEWEAR  -   -   -   -   -   -   -   -   -   -
     
     {
-      "_id": "69653b6560fcf0a0300ac548", // Oakley Holbrook glasses (Colored Lenses) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac548", // Oakley Holbrook glasses (Colored Lenses)  
       "_tpl": "68c976b771f2a8984783fdf9",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2087,7 +2087,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac547", // Oakley Holbrook glasses - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac547", // Oakley Holbrook glasses  
       "_tpl": "68c97696add4b269e8234d18",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2103,7 +2103,7 @@
     // -  -  -  -   -   -   -   -   -   -   -  CHESTRIGS  -   -   -   -   -   -   -   -   -   -
 
     {
-      "_id": "69653b6560fcf0a0300ac549", // SSO Smersh "New-Gen" chest rig (Olive Drab) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac549", // SSO Smersh "New-Gen" chest rig (Olive Drab)  
       "_tpl": "68bd04c1cee1ad932ea3c3aa",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2117,7 +2117,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac54a", // Platatac Peacekeeper Mk.5 chest rig (Multicam Tropic) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac54a", // Platatac Peacekeeper Mk.5 chest rig (Multicam Tropic)  
       "_tpl": "68bb4520b4883cef1fd7726e",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2131,7 +2131,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac54b", // Platatac Peacekeeper Mk.5 chest rig (DPM Desert) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac54b", // Platatac Peacekeeper Mk.5 chest rig (DPM Desert)  
       "_tpl": "68bb48062701bb673faca8af",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2145,7 +2145,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac54c", // Platatac Peacekeeper Mk.5 chest rig (Coyote Tan) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac54c", // Platatac Peacekeeper Mk.5 chest rig (Coyote Tan)  
       "_tpl": "68bb484b1ea04700566271e9",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2159,7 +2159,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac54d", // Spiritus Systems 34 Alpha load-bearing chest rig (MultiCam) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac54d", // Spiritus Systems 34 Alpha load-bearing chest rig (MultiCam)  
       "_tpl": "69534dfbedb3d1c75c40ffb3",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2173,7 +2173,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac54e", // Spiritus Systems 34 Alpha load-bearing chest rig (Olive Drab) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac54e", // Spiritus Systems 34 Alpha load-bearing chest rig (Olive Drab)  
       "_tpl": "6953624c2484d8d5f5f6cd44",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2186,7 +2186,7 @@
             }
     },
     {
-      "_id": "69653b6560fcf0a0300ac550", // RothCo Tactical Assault Panel chest rig (UCP) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac550", // RothCo Tactical Assault Panel chest rig (UCP)  
       "_tpl": "6a20786972368005446cde7c",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2200,7 +2200,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac551", // Spiritus Systems Micro Fight Mk.4 chest rig - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac551", // Spiritus Systems Micro Fight Mk.4 chest rig  
       "_tpl": "6a47082f9a8887ee1e21a491",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2214,7 +2214,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac552", // Spiritus Systems Micro Fight Mk.4 chest rig (M81 Woodland) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac552", // Spiritus Systems Micro Fight Mk.4 chest rig (M81 Woodland)  
       "_tpl": "6a47097eb301124e6d21a493",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2228,7 +2228,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac553", // Spiritus Systems Thing 3 chest rig (Coyote Tan) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac553", // Spiritus Systems Thing 3 chest rig (Coyote Tan)  
       "_tpl": "6a476b0f33f2ed750908aff7",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2242,7 +2242,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac554", // Spiritus Systems Thing 3 chest rig (Ranger Green) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac554", // Spiritus Systems Thing 3 chest rig (Ranger Green)  
       "_tpl": "6a476c75ded8afadee08affa",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2256,7 +2256,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac555", // Eberlestock Recon Bino Modular chest rig (Grey) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac555", // Eberlestock Recon Bino Modular chest rig (Grey)  
       "_tpl": "6a4897243ed9e6f8d7039c85",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2272,7 +2272,7 @@
     // -  -  -  -   -   -   -   -   -   -   -  BACKPACKS  -   -   -   -   -   -   -   -   -   -
 
     {
-      "_id": "69653b6560fcf0a0300ac556", // Bergan F2 military backpack - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac556", // Bergan F2 military backpack  
       "_tpl": "68bf98e1f2f8268bb7c10592",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2286,7 +2286,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac557", // Arc'teryx LEAF 30L assault pack (MultiCam) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac557", // Arc'teryx LEAF 30L assault pack (MultiCam)  
       "_tpl": "69f9c3a90471f43d0b158eef",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2300,7 +2300,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac558", // Arc'teryx LEAF 30L assault pack - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac558", // Arc'teryx LEAF 30L assault pack  
       "_tpl": "69f9c49fd1ae750b94158ef1",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2316,7 +2316,7 @@
     // -  -  -  -   -   -   -   -   -   -   -  ATTACHMENTS  -   -   -   -   -   -   -   -   -   -
 
     {
-      "_id": "69653b6560fcf0a0300ac559", // MS2000 Helmet-mounted Marker - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac559", // MS2000 Helmet-mounted Marker  
       "_tpl": "6897d6a13858711f63d149c3",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2330,7 +2330,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac55a", // BK3 helmet cover (CADPAT) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac55a", // BK3 helmet cover (CADPAT)  
       "_tpl": "689a1818a272a33734640f2c",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2344,7 +2344,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac55b", // BK3 helmet cover (DCU) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac55b", // BK3 helmet cover (DCU)  
       "_tpl": "689a1a005d2915b23e564474",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2358,7 +2358,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac55c", // BK3 helmet cover (Jigsaw) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac55c", // BK3 helmet cover (Jigsaw)  
       "_tpl": "689a1a2ff797960777c1300c",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2372,7 +2372,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac55d", // BK3 helmet cover (M81) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac55d", // BK3 helmet cover (M81)  
       "_tpl": "689a1a614ddad2e5404cd6b5",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2386,7 +2386,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac55e", // IHPS cover (OCP) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac55e", // IHPS cover (OCP)  
       "_tpl": "6952e2acf69d4f7575c90345",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2400,7 +2400,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac55f", // IHPS cover (Coyote Tan) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac55f", // IHPS cover (Coyote Tan)  
       "_tpl": "6a3404f599063c08f6488012",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2414,7 +2414,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac560", // FAST XP helmet cover (MultiCam) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac560", // FAST XP helmet cover (MultiCam)  
       "_tpl": "695572c471cdc428e9d8e2a6",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2428,7 +2428,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac561", // FAST XP helmet cover (MultiCam Alpine) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac561", // FAST XP helmet cover (MultiCam Alpine)  
       "_tpl": "695572ff13710213b5d8e2a8",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2442,7 +2442,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac562", // FAST XP helmet cover (MultiCam Black) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac562", // FAST XP helmet cover (MultiCam Black)  
       "_tpl": "6955a797ea9f2f0f0bc5ccb2",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2456,7 +2456,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac563", // FAST XP helmet cover (AOR2) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac563", // FAST XP helmet cover (AOR2)  
       "_tpl": "6955a7fee96a66f2b6c5ccb3",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2470,7 +2470,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac564", // FAST XP helmet cover (DNC) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac564", // FAST XP helmet cover (DNC)  
       "_tpl": "6955a83da2a2fb80a8c5ccb5",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2484,7 +2484,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac565", // FAST XP helmet cover (Olive Drab) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac565", // FAST XP helmet cover (Olive Drab)  
       "_tpl": "6955a85cf6e2edacacc5ccb8",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2498,7 +2498,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac566", // Ops-Core FAST Ballstic Mandible - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac566", // Ops-Core FAST Ballstic Mandible  
       "_tpl": "697e361f1c1def3c45411c73",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2512,7 +2512,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac567", // Ops-Core STEP-IN Visor - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac567", // Ops-Core STEP-IN Visor  
       "_tpl": "697e37feb6af1bab60411c74",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2526,7 +2526,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac568", // BATLSKIN Cobra helmet cover (MTP) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac568", // BATLSKIN Cobra helmet cover (MTP)  
       "_tpl": "69d44ec7654cae9510eb3203",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2540,7 +2540,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac569", // BATLSKIN Cobra helmet cover (MultiCam Black) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac569", // BATLSKIN Cobra helmet cover (MultiCam Black)  
       "_tpl": "69d44b8eabb346e484eb31f1",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2554,7 +2554,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac56a", // BATLSKIN Cobra helmet cover (Irish DPM) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac56a", // BATLSKIN Cobra helmet cover (Irish DPM)  
       "_tpl": "6a25f0258842dada135ac1cf",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2568,7 +2568,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac56b", // BATLSKIN Cobra helmet cover (NFP Woodland) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac56b", // BATLSKIN Cobra helmet cover (NFP Woodland)  
       "_tpl": "69d44b914ddaf5e11feb31f2",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2582,7 +2582,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac56c", // NPP KIASS Tor-2 helmet cover (Black) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac56c", // NPP KIASS Tor-2 helmet cover (Black)  
       "_tpl": "69d6dcfb46cc268b92906d4e",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2596,7 +2596,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac56d", // NPP KIASS Tor-2 helmet cover (A-TACS FG) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac56d", // NPP KIASS Tor-2 helmet cover (A-TACS FG)  
       "_tpl": "69d6df1e2053bc5e41906d4f",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2610,7 +2610,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac56e", // NPP KIASS Tor-2 helmet cover (Coyote Tan) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac56e", // NPP KIASS Tor-2 helmet cover (Coyote Tan)  
       "_tpl": "69d6df883c2d93f229906d51",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2624,7 +2624,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac56f", // NPP KIASS Tor-2 helmet cover (EMR) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac56f", // NPP KIASS Tor-2 helmet cover (EMR)  
       "_tpl": "69d6dfa9f3b8a5d1b4906d52",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2638,7 +2638,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac570", // NPP KIASS Tor-2 helmet cover (EMR Winter) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac570", // NPP KIASS Tor-2 helmet cover (EMR Winter)  
       "_tpl": "69d6dfc41d822714a7906d53",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2652,7 +2652,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac571", // Crye Airframe helmet cover (MultiCam) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac571", // Crye Airframe helmet cover (MultiCam)  
       "_tpl": "6a0a1bef44d169794db4a862",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2666,7 +2666,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac572", // Crye Airframe helmet cover (AOR1) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac572", // Crye Airframe helmet cover (AOR1)  
       "_tpl": "6a0a1d1b98bfa8da0db4a863",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2680,7 +2680,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac573", // Crye Airframe helmet cover (AOR2) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac573", // Crye Airframe helmet cover (AOR2)  
       "_tpl": "6a0a22700f67790a19b4a864",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2694,7 +2694,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac574", // Crye Airframe helmet cover (DBDU) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac574", // Crye Airframe helmet cover (DBDU)  
       "_tpl": "6a0a2299714cddeb91b4a865",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2708,7 +2708,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac575", // Crye Airframe helmet cover (DNC) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac575", // Crye Airframe helmet cover (DNC)  
       "_tpl": "6a0a22bbfc1a34cac6b4a866",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2722,7 +2722,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac576", // Crye Airframe helmet cover (Kryptek Mandrake) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac576", // Crye Airframe helmet cover (Kryptek Mandrake)  
       "_tpl": "6a0a22edf4bbd75165b4a867",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2736,7 +2736,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac577", // Crye Airframe helmet cover (T-Block) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac577", // Crye Airframe helmet cover (T-Block)  
       "_tpl": "6a0a230b3d283d711cb4a868",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2750,7 +2750,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac578", // LShZ-1+ cover (EMR) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac578", // LShZ-1+ cover (EMR)  
       "_tpl": "6a32b342d54ecde6786ffadf",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2764,7 +2764,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac579", // LShZ-1+ cover (A-TACS FG) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac579", // LShZ-1+ cover (A-TACS FG)  
       "_tpl": "6a32bd63cdc9d6712b6ffae0",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2778,7 +2778,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac57a", // LShZ-1+ cover (A-TACS AU) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac57a", // LShZ-1+ cover (A-TACS AU)  
       "_tpl": "6a32bd8954d48c508b6ffae1",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2792,7 +2792,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac57b", // LShZ-1+ cover (Black) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac57b", // LShZ-1+ cover (Black)  
       "_tpl": "6a32c1e01b484ff5e86ffae2",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2806,7 +2806,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac57c", // LShZ-1+ cover (MultiCam) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac57c", // LShZ-1+ cover (MultiCam)  
       "_tpl": "6a32c3bfef7e9753a16ffae3",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2820,7 +2820,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac57d", // Kiver RSP cover (EMR) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac57d", // Kiver RSP cover (EMR)  
       "_tpl": "6a359b9f33f60a4f7a85c447",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2834,7 +2834,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac57e", // Kiver RSP cover (MultiCam) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac57e", // Kiver RSP cover (MultiCam)  
       "_tpl": "6a359beed1c05df6e185c448",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2848,7 +2848,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac57f", // Kiver RSP cover (A-TACS FG) - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac57f", // Kiver RSP cover (A-TACS FG)  
       "_tpl": "6a359c0a41516351d285c449",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2864,7 +2864,7 @@
     // -  -  -  -   -   -   -   -   -   -   -  ARMOR PLATES  -   -   -   -   -   -   -   -   -   -
 
     {
-      "_id": "69653b6560fcf0a0300ac580", // Granit Br3 ballistic plate - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac580", // Granit Br3 ballistic plate  
       "_tpl": "68a553f9e1f415c456114c6a",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2878,7 +2878,7 @@
     },
 
     {
-      "_id": "69653b6560fcf0a0300ac581", // DFNDR Armor SAPI Level III++ ballistic plate - LL1 - Roubles 
+      "_id": "69653b6560fcf0a0300ac581", // DFNDR Armor SAPI Level III++ ballistic plate  
       "_tpl": "69579caededef04b864ee4c6",
       "parentId": "hideout",
       "slotId": "hideout",
@@ -2894,508 +2894,507 @@
   ],
   "barter_scheme": 
   {
-    //FORT Goplit Slick plate carrier  - LL1 - Roubles
+    //FORT Goplit Slick plate carrier  
     "6a6d5eae750358b9ec735046":  [ [ { "count": 135213,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
     
-    //T.REX ARMS AC1 plate carrier (MultiCam) - LL1 - Roubles
+    //T.REX ARMS AC1 plate carrier (MultiCam) 
     "6a6d5e743042dba3a70711af":  [ [ { "count": 167123,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
     
-    //WARTECH TV-119 plate carrier - LL1 - Roubles
+    //WARTECH TV-119 plate carrier 
     "6a6d5e11b56acf99c0ca8876":  [ [ { "count": 138093,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
     
-    //WARTECH TV-119 plate carrier (MC) - LL1 - Roubles
+    //WARTECH TV-119 plate carrier (MC) 
     "6a6d5db80e8ebddb3fec8b71":  [ [ { "count": 138093,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
     
-    //CQC Rhino body armor (MTP) - LL1 - Roubles
+    //CQC Rhino body armor (MTP) 
     "6a6d5d3346f39f71072ce21a":  [ [ { "count": 127063,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
 
-    //CQC Rhino body armor (DPM Pat.90) - LL1 - Roubles
+    //CQC Rhino body armor (DPM Pat.90) 
     "6a6d5c485365c8af1ccdc724":  [ [ { "count": 127063,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
     
-    //TYR Tactical PICO-DS Assaulters plate carrier (MultiCam) - LL1 - Roubles
+    //TYR Tactical PICO-DS Assaulters plate carrier (MultiCam) 
     "6a6d4c0d3b14c0da01e5e18f":  [ [ { "count": 64954,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
 
-    //WARTECH TV-119 plate carrier (A-TACS FG) - LL1 - Roubles
+    //WARTECH TV-119 plate carrier (A-TACS FG) 
     "6a6d48c76d206d9247817715":  [ [ { "count": 121256,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
 
-    //Custom Gear CGPC3 plate carrier - LL1 - Roubles
+    //Custom Gear CGPC3 plate carrier 
     "6a6d483d484d7329cc945407":  [ [ { "count": 215341,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
 
-    //Custom Gear CGPC3 plate carrier (Vz95) - LL1 - Roubles
+    //Custom Gear CGPC3 plate carrier (Vz95) 
     "6a6d47b3893642e33c9e5b9e":  [ [ { "count": 113514,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
 
-    //Ferro Concepts The Slickster plate carrier (MultiCam) - LL1 - Roubles
+    //Ferro Concepts The Slickster plate carrier (MultiCam) 
     "6a6d475f7ad7fb067fb2ce4e":  [ [ { "count": 48794,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
 
-    //Shellback Tactical Rampage 2.0 plate carrier (Pointman, Wolf Grey) - LL1 - Roubles
+    //Shellback Tactical Rampage 2.0 plate carrier (Pointman, Wolf Grey) 
     "6a6d46d0a50ef216cd965d5d":  [ [ { "count": 182343,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
 
-    //Velmet PERUN-6 SOF LC plate carrier (MaWka) - LL1 - Roubles
+    //Velmet PERUN-6 SOF LC plate carrier (MaWka) 
     "6a6d42fff7fe9eebc3b30fd1":  [ [ { "count": 190541,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
 
-    //Crye Precision JPC 2.0 (Black Division) - LL1 - Roubles
+    //Crye Precision JPC 2.0 (Black Division) 
     "6a6d427ccfdd9fcd626a3d8b":  [ [ { "count": 117651,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
     
-    //Crye Precision JPC 2.0 (MultiCam Tropic) - LL1 - Roubles
+    //Crye Precision JPC 2.0 (MultiCam Tropic) 
     "6a6d41b82e7a8e5697d93244":  [ [ { "count": 67132,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
 
-    //Crye Precision JPC 2.0 (Coyote Brown) - LL1 - Roubles
+    //Crye Precision JPC 2.0 (Coyote Brown) 
     "6a6d414daa99c05cf347c3af":  [ [ { "count": 146513,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
 
-    //WARTECH TV-110 plate carrier (OMON) - LL1 - Roubles
+    //WARTECH TV-110 plate carrier (OMON) 
     "6a6d40ed8fa1673f918fbfac":  [ [ { "count": 71325,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
     
-    //IOTV Gen4 TAPS hybrid plate carrier (MultiCam) - LL1 - Roubles
+    //IOTV Gen4 TAPS hybrid plate carrier (MultiCam) 
     "6a6d401c8a57a087dca51d5a":  [ [ { "count": 131145,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
     
-    //Spiritus Systems LV-120 plate carrier (Goons Edition) - LL1 - Roubles
+    //Spiritus Systems LV-120 plate carrier (Goons Edition) 
     "6a6d3f911203a4f7ba60b1c8":  [ [ { "count": 136941,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
     
-    //NFM THOR MCVS Overt plate carrier (MultiCam) - LL1 - Roubles
+    //NFM THOR MCVS Overt plate carrier (MultiCam) 
     "6a6d2fb4fe0bdf9229610dbc":  [ [ { "count": 76541,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
       
-    //NFM THOR MCVS Overt plate carrier (Olive Drab) - LL1 - Roubles
+    //NFM THOR MCVS Overt plate carrier (Olive Drab) 
     "6a6d2ba93588511f1f7ccf65":  [ [ { "count": 62541,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
     
-    //6B46 plate carrier (EMR) - LL1 - Roubles
+    //6B46 plate carrier (EMR) 
     "6a6d281bd600cd4e6dbd003f":  [ [ { "count": 118951,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
     
-    // FAST SF custom build with GPNVGS - LL1 - Roubles 
+    // FAST SF custom build with GPNVGS 
     "69ecddbac4ac0c1322033c30":  [ [ { "count": 1,  "_tpl": "59faff1d86f7746c51718c9c" } ] ],
 
-    // Ceradyne IHPS Ballistic helmet (Coyote Tan) - LL1 - Roubles 
+    // Ceradyne IHPS Ballistic helmet (Coyote Tan)  
     "69653b6560fcf0a0300ac582":  [ [ { "count": 58761,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Ops-Core FAST XP high cut helmet (MultiCam) - LL1 - Roubles 
+    // Ops-Core FAST XP high cut helmet (MultiCam)  
     "69653b6560fcf0a0300ac586":  [ [ { "count": 46841,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Ops-Core FAST XP high cut helmet (Urban Tan) - LL1 - Roubles 
+    // Ops-Core FAST XP high cut helmet (Urban Tan)  
     "69653b6560fcf0a0300ac589":  [ [ { "count": 46841,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Ops-Core FAST XP high cut helmet - LL1 - Roubles 
+    // Ops-Core FAST XP high cut helmet  
     "69653b6560fcf0a0300ac58c":  [ [ { "count": 46841,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // BroneTorg BTSh-6 "Sapsan" high cut helmet - LL1 - Roubles 
+    // BroneTorg BTSh-6 "Sapsan" high cut helmet  
     "69653b6560fcf0a0300ac58f":  [ [ { "count": 61153,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Ulbrichts AM95 ballistic helmet - LL1 - Roubles 
+    // Ulbrichts AM95 ballistic helmet  
     "69653b6560fcf0a0300ac592":  [ [ { "count": 51654,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Gefechtshelm Schuberth B826 ballistic helmet - LL1 - Roubles 
+    // Gefechtshelm Schuberth B826 ballistic helmet  
     "69653b6560fcf0a0300ac596":  [ [ { "count": 36514,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // MSA ACH TC-2000 MICH helmet - LL1 - Roubles 
+    // MSA ACH TC-2000 MICH helmet  
     "69653b6560fcf0a0300ac59a":  [ [ { "count": 64851,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // MSA ACH TC-2000 MICH helmet (Mesh Spray) - LL1 - Roubles 
+    // MSA ACH TC-2000 MICH helmet (Mesh Spray)  
     "69653b6560fcf0a0300ac59e":  [ [ { "count": 64851,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Ops-Core FAST SF Legacy High Cut helmet (Black) - LL1 - Roubles 
+    // Ops-Core FAST SF Legacy High Cut helmet (Black)  
     "69653b6560fcf0a0300ac5a2":  [ [ { "count": 45653,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Ops-Core FAST SF Legacy High Cut helmet (Tan 499) - LL1 - Roubles 
+    // Ops-Core FAST SF Legacy High Cut helmet (Tan 499)  
     "69653b6560fcf0a0300ac5a5":  [ [ { "count": 45653,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Ops-Core FAST SF Legacy High Cut helmet (MultiCam) - LL1 - Roubles 
+    // Ops-Core FAST SF Legacy High Cut helmet (MultiCam)  
     "69653b6560fcf0a0300ac5a8":  [ [ { "count": 45653,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Ulbrichts F1000H high-cut ballistic helmet (Ranger Green) - LL1 - Roubles 
+    // Ulbrichts F1000H high-cut ballistic helmet (Ranger Green)  
     "69653b6560fcf0a0300ac5ab":  [ [ { "count": 32146,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Galvion Caiman TL ballistic helmet - LL1 - Roubles 
+    // Galvion Caiman TL ballistic helmet  
     "69653b6560fcf0a0300ac5ae":  [ [ { "count": 38981,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Galvion Caiman TL ballistic helmet (Olive Drab) - LL1 - Roubles 
+    // Galvion Caiman TL ballistic helmet (Olive Drab)  
     "69653b6560fcf0a0300ac5b1":  [ [ { "count": 38981,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Galvion Batlskin Cobra P2 ballistic helmet (Tan) - LL1 - Roubles 
+    // Galvion Batlskin Cobra P2 ballistic helmet (Tan)  
     "69653b6560fcf0a0300ac5b4":  [ [ { "count": 88135,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // MSA Gallet TC 500 Low Cut combat helmet (Black) - LL1 - Roubles 
+    // MSA Gallet TC 500 Low Cut combat helmet (Black)  
     "69653b6560fcf0a0300ac5b8":  [ [ { "count": 56812,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // ILC Dover IBH ballistic helmet (Black) - LL1 - Roubles 
+    // ILC Dover IBH ballistic helmet (Black)  
     "69653b6560fcf0a0300ac5bc":  [ [ { "count": 52154,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // NPP KlASS Tor-2 helmet - LL1 - Roubles 
+    // NPP KlASS Tor-2 helmet  
     "69653b6560fcf0a0300ac5bf":  [ [ { "count": 55613,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // 6B27 helmet (Flora cover) - LL1 - Roubles 
+    // 6B27 helmet (Flora cover)  
     "69653b6560fcf0a0300ac5c3":  [ [ { "count": 38951,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // 6B27 helmet (EMR cover) - LL1 - Roubles 
+    // 6B27 helmet (EMR cover)  
     "69653b6560fcf0a0300ac5c7":  [ [ { "count": 38951,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Galvion Batlskin Viper P2 high-cut helmet - LL1 - Roubles 
+    // Galvion Batlskin Viper P2 high-cut helmet  
     "69653b6560fcf0a0300ac5cb":  [ [ { "count": 58613,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Galvion Batlskin Viper P2 high-cut helmet (Coyote Tan) - LL1 - Roubles 
+    // Galvion Batlskin Viper P2 high-cut helmet (Coyote Tan)  
     "69653b6560fcf0a0300ac5ce":  [ [ { "count": 58613,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // 6B7-1M helmet (Olive Drab) - LL1 - Roubles 
+    // 6B7-1M helmet (Olive Drab)  
     "69653b6560fcf0a0300ac5d1":  [ [ { "count": 37651,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Crye Precision AirFrame helmet (Tan) - LL1 - Roubles 
+    // Crye Precision AirFrame helmet (Tan)  
     "69653b6560fcf0a0300ac5d5":  [ [ { "count": 89810,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Crye Precision AirFrame helmet (Black) - LL1 - Roubles 
+    // Crye Precision AirFrame helmet (Black)  
     "69653b6560fcf0a0300ac5d8":  [ [ { "count": 89810,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // LShZ-1+ lightweight low-cut helmet (Olive Drab) - LL1 - Roubles 
+    // LShZ-1+ lightweight low-cut helmet (Olive Drab)  
     "69653b6560fcf0a0300ac5db":  [ [ { "count": 42651,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Team Wendy RIFLETECH ballistic helmet - LL1 - Roubles 
+    // Team Wendy RIFLETECH ballistic helmet  
     "69653b6560fcf0a0300ac5df":  [ [ { "count": 168813,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Team Wendy RIFLETECH ballistic helmet (MultiCam) - LL1 - Roubles 
+    // Team Wendy RIFLETECH ballistic helmet (MultiCam)  
     "69653b6560fcf0a0300ac5e2":  [ [ { "count": 168813,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // FORT Kiver RSP ballistic helmet - LL1 - Roubles 
+    // FORT Kiver RSP ballistic helmet  
     "69653b6560fcf0a0300ac5e5":  [ [ { "count": 66541,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Šestan-Busch BK3 ballistic helmet (Olive Drab) - LL1 - Roubles 
+    // Šestan-Busch BK3 ballistic helmet (Olive Drab)  
     "69653b6560fcf0a0300ac5e9":  [ [ { "count": 39843,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // PMG gas mask - LL1 - Roubles 
+    // PMG gas mask  
     "69653b6560fcf0a0300ac53a":  [ [ { "count": 16651,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // MSA Millennium gas mask - LL1 - Roubles 
+    // MSA Millennium gas mask  
     "69653b6560fcf0a0300ac53b":  [ [ { "count": 12813,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // PMK-4 Ratnik gas mask - LL1 - Roubles 
+    // PMK-4 Ratnik gas mask  
     "69653b6560fcf0a0300ac53c":  [ [ { "count": 13516,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // PMK-4 "Arktika" Ratnik gas mask - LL1 - Roubles 
+    // PMK-4 "Arktika" Ratnik gas mask  
     "69653b6560fcf0a0300ac53d":  [ [ { "count": 13516,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Compass Armor HAFM-KII Ballistic half-mask - LL1 - Roubles 
+    // Compass Armor HAFM-KII Ballistic half-mask  
     "69653b6560fcf0a0300ac53e":  [ [ { "count": 85631,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Avon M50 JSGPM gas mask - LL1 - Roubles 
+    // Avon M50 JSGPM gas mask  
     "69653b6560fcf0a0300ac53f":  [ [ { "count": 11013,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Avon M50 JSGPM gas mask (Olive) - LL1 - Roubles 
+    // Avon M50 JSGPM gas mask (Olive)  
     "69653b6560fcf0a0300ac540":  [ [ { "count": 11013,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Avon FM12 gas mask - LL1 - Roubles 
+    // Avon FM12 gas mask  
     "69653b6560fcf0a0300ac541":  [ [ { "count": 14314,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Atlantic Signal REV-X hybrid headset (Coyote Brown) - LL1 - Roubles 
+    // Atlantic Signal REV-X hybrid headset (Coyote Brown)  
     "69653b6560fcf0a0300ac542":  [ [ { "count": 50963,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Ops-Core AMP headset - LL1 - Roubles 
+    // Ops-Core AMP headset  
     "69653b6560fcf0a0300ac543":  [ [ { "count": 45313,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Ops-Core AMP headset (Coyote Tan) - LL1 - Roubles 
+    // Ops-Core AMP headset (Coyote Tan)  
     "69653b6560fcf0a0300ac544":  [ [ { "count": 45313,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // ACTinBLACK DTNVS night vision goggles (White Phos.) - LL1 - Roubles 
+    // ACTinBLACK DTNVS night vision goggles (White Phos.)  
     "69653b6560fcf0a0300ac545":  [ [ { "count": 68651,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // ACTinBLACK DTNVS night vision goggles (Green Phos.) - LL1 - Roubles  - LL1 - Roubles 
+    // ACTinBLACK DTNVS night vision goggles (Green Phos.)    
     "69653b6560fcf0a0300ac546":  [ [ { "count": 68651,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Oakley Holbrook glasses - LL1 - Roubles 
+    // Oakley Holbrook glasses  
     "69653b6560fcf0a0300ac547":  [ [ { "count": 5613,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Oakley Holbrook glasses (Colored Lenses) - LL1 - Roubles 
+    // Oakley Holbrook glasses (Colored Lenses)  
     "69653b6560fcf0a0300ac548":  [ [ { "count": 5613,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // SSO Smersh "New-Gen" chest rig (Olive Drab) - LL1 - Roubles 
+    // SSO Smersh "New-Gen" chest rig (Olive Drab)  
     "69653b6560fcf0a0300ac549":  [ [ { "count": 46352,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Platatac Peacekeeper Mk.5 chest rig (Multicam Tropic) - LL1 - Roubles 
+    // Platatac Peacekeeper Mk.5 chest rig (Multicam Tropic)  
     "69653b6560fcf0a0300ac54a":  [ [ { "count": 41323,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Platatac Peacekeeper Mk.5 chest rig (DPM Desert) - LL1 - Roubles 
+    // Platatac Peacekeeper Mk.5 chest rig (DPM Desert)  
     "69653b6560fcf0a0300ac54b":  [ [ { "count": 41323,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Platatac Peacekeeper Mk.5 chest rig (Coyote Tan) - LL1 - Roubles 
+    // Platatac Peacekeeper Mk.5 chest rig (Coyote Tan)  
     "69653b6560fcf0a0300ac54c":  [ [ { "count": 41323,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Spiritus Systems 34 Alpha load-bearing chest rig (MultiCam) - LL1 - Roubles 
+    // Spiritus Systems 34 Alpha load-bearing chest rig (MultiCam)  
     "69653b6560fcf0a0300ac54d":  [ [ { "count": 43216,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Spiritus Systems 34 Alpha load-bearing chest rig (Olive Drab) - LL1 - Roubles 
+    // Spiritus Systems 34 Alpha load-bearing chest rig (Olive Drab)  
     "69653b6560fcf0a0300ac54e":  [ [ { "count": 43216,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // RothCo Tactical Assault Panel chest rig (UCP) - LL1 - Roubles 
+    // RothCo Tactical Assault Panel chest rig (UCP)  
     "69653b6560fcf0a0300ac550":  [ [ { "count": 36513,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Spiritus Systems Micro Fight Mk.4 chest rig - LL1 - Roubles 
+    // Spiritus Systems Micro Fight Mk.4 chest rig  
     "69653b6560fcf0a0300ac551":  [ [ { "count": 33413,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Spiritus Systems Micro Fight Mk.4 chest rig (M81 Woodland) - LL1 - Roubles 
+    // Spiritus Systems Micro Fight Mk.4 chest rig (M81 Woodland)  
     "69653b6560fcf0a0300ac552":  [ [ { "count": 33413,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Spiritus Systems Thing 3 chest rig (Coyote Tan) - LL1 - Roubles 
+    // Spiritus Systems Thing 3 chest rig (Coyote Tan)  
     "69653b6560fcf0a0300ac553":  [ [ { "count": 36951,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Spiritus Systems Thing 3 chest rig (Ranger Green) - LL1 - Roubles 
+    // Spiritus Systems Thing 3 chest rig (Ranger Green)  
     "69653b6560fcf0a0300ac554":  [ [ { "count": 36951,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Eberlestock Recon Bino Modular chest rig (Grey) - LL1 - Roubles 
+    // Eberlestock Recon Bino Modular chest rig (Grey)  
     "69653b6560fcf0a0300ac555":  [ [ { "count": 9213,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Bergan F2 military backpack - LL1 - Roubles 
+    // Bergan F2 military backpack  
     "69653b6560fcf0a0300ac556":  [ [ { "count": 28973,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Arc'teryx LEAF 30L assault pack (MultiCam) - LL1 - Roubles 
+    // Arc'teryx LEAF 30L assault pack (MultiCam)  
     "69653b6560fcf0a0300ac557":  [ [ { "count": 34233,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Arc'teryx LEAF 30L assault pack - LL1 - Roubles 
+    // Arc'teryx LEAF 30L assault pack  
     "69653b6560fcf0a0300ac558":  [ [ { "count": 34233,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // MS2000 Helmet-mounted Marker - LL1 - Roubles 
+    // MS2000 Helmet-mounted Marker  
     "69653b6560fcf0a0300ac559":  [ [ { "count": 3698,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // BK3 helmet cover (CADPAT) - LL1 - Roubles 
+    // BK3 helmet cover (CADPAT)  
     "69653b6560fcf0a0300ac55a":  [ [ { "count": 3245,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // BK3 helmet cover (DCU) - LL1 - Roubles 
+    // BK3 helmet cover (DCU)  
     "69653b6560fcf0a0300ac55b":  [ [ { "count": 3245,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // BK3 helmet cover (Jigsaw) - LL1 - Roubles 
+    // BK3 helmet cover (Jigsaw)  
     "69653b6560fcf0a0300ac55c":  [ [ { "count": 3245,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // BK3 helmet cover (M81) - LL1 - Roubles 
+    // BK3 helmet cover (M81)  
     "69653b6560fcf0a0300ac55d":  [ [ { "count": 3245,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // IHPS cover (OCP) - LL1 - Roubles 
+    // IHPS cover (OCP)  
     "69653b6560fcf0a0300ac55e":  [ [ { "count": 3214,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // IHPS cover (Coyote Tan) - LL1 - Roubles 
+    // IHPS cover (Coyote Tan)  
     "69653b6560fcf0a0300ac55f":  [ [ { "count": 3214,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // FAST XP helmet cover (MultiCam) - LL1 - Roubles 
+    // FAST XP helmet cover (MultiCam)  
     "69653b6560fcf0a0300ac560":  [ [ { "count": 3321,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // FAST XP helmet cover (MultiCam Alpine) - LL1 - Roubles 
+    // FAST XP helmet cover (MultiCam Alpine)  
     "69653b6560fcf0a0300ac561":  [ [ { "count": 3321,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // FAST XP helmet cover (MultiCam Black) - LL1 - Roubles 
+    // FAST XP helmet cover (MultiCam Black)  
     "69653b6560fcf0a0300ac562":  [ [ { "count": 3321,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // FAST XP helmet cover (AOR2) - LL1 - Roubles 
+    // FAST XP helmet cover (AOR2)  
     "69653b6560fcf0a0300ac563":  [ [ { "count": 3321,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // FAST XP helmet cover (DNC) - LL1 - Roubles 
+    // FAST XP helmet cover (DNC)  
     "69653b6560fcf0a0300ac564":  [ [ { "count": 3321,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // FAST XP helmet cover (Olive Drab) - LL1 - Roubles 
+    // FAST XP helmet cover (Olive Drab)  
     "69653b6560fcf0a0300ac565":  [ [ { "count": 3321,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Ops-Core FAST Ballstic Mandible - LL1 - Roubles 
+    // Ops-Core FAST Ballstic Mandible  
     "69653b6560fcf0a0300ac566":  [ [ { "count": 89713,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Ops-Core STEP-IN Visor - LL1 - Roubles 
+    // Ops-Core STEP-IN Visor  
     "69653b6560fcf0a0300ac567":  [ [ { "count": 32143,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // BATLSKIN Cobra helmet cover (MTP) - LL1 - Roubles 
+    // BATLSKIN Cobra helmet cover (MTP)  
     "69653b6560fcf0a0300ac568":  [ [ { "count": 3123,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // BATLSKIN Cobra helmet cover (MultiCam Black) - LL1 - Roubles 
+    // BATLSKIN Cobra helmet cover (MultiCam Black)  
     "69653b6560fcf0a0300ac569":  [ [ { "count": 3123,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // BATLSKIN Cobra helmet cover (Irish DPM) - LL1 - Roubles 
+    // BATLSKIN Cobra helmet cover (Irish DPM)  
     "69653b6560fcf0a0300ac56a":  [ [ { "count": 3123,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // BATLSKIN Cobra helmet cover (NFP Woodland) - LL1 - Roubles 
+    // BATLSKIN Cobra helmet cover (NFP Woodland)  
     "69653b6560fcf0a0300ac56b":  [ [ { "count": 3123,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // NPP KIASS Tor-2 helmet cover (Black) - LL1 - Roubles 
+    // NPP KIASS Tor-2 helmet cover (Black)  
     "69653b6560fcf0a0300ac56c":  [ [ { "count": 3610,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // NPP KIASS Tor-2 helmet cover (A-TACS FG) - LL1 - Roubles 
+    // NPP KIASS Tor-2 helmet cover (A-TACS FG)  
     "69653b6560fcf0a0300ac56d":  [ [ { "count": 3610,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // NPP KIASS Tor-2 helmet cover (Coyote Tan) - LL1 - Roubles 
+    // NPP KIASS Tor-2 helmet cover (Coyote Tan)  
     "69653b6560fcf0a0300ac56e":  [ [ { "count": 3610,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // NPP KIASS Tor-2 helmet cover (EMR) - LL1 - Roubles 
+    // NPP KIASS Tor-2 helmet cover (EMR)  
     "69653b6560fcf0a0300ac56f":  [ [ { "count": 3610,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // NPP KIASS Tor-2 helmet cover (EMR Winter) - LL1 - Roubles 
+    // NPP KIASS Tor-2 helmet cover (EMR Winter)  
     "69653b6560fcf0a0300ac570":  [ [ { "count": 3610,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Crye Airframe helmet cover (MultiCam) - LL1 - Roubles 
+    // Crye Airframe helmet cover (MultiCam)  
     "69653b6560fcf0a0300ac571":  [ [ { "count": 3435,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Crye Airframe helmet cover (AOR1) - LL1 - Roubles 
+    // Crye Airframe helmet cover (AOR1)  
     "69653b6560fcf0a0300ac572":  [ [ { "count": 3435,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Crye Airframe helmet cover (AOR2) - LL1 - Roubles 
+    // Crye Airframe helmet cover (AOR2)  
     "69653b6560fcf0a0300ac573":  [ [ { "count": 3435,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Crye Airframe helmet cover (DBDU) - LL1 - Roubles 
+    // Crye Airframe helmet cover (DBDU)  
     "69653b6560fcf0a0300ac574":  [ [ { "count": 3435,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Crye Airframe helmet cover (DNC) - LL1 - Roubles 
+    // Crye Airframe helmet cover (DNC)  
     "69653b6560fcf0a0300ac575":  [ [ { "count": 3435,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Crye Airframe helmet cover (Kryptek Mandrake) - LL1 - Roubles 
+    // Crye Airframe helmet cover (Kryptek Mandrake)  
     "69653b6560fcf0a0300ac576":  [ [ { "count": 3435,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Crye Airframe helmet cover (T-Block) - LL1 - Roubles 
+    // Crye Airframe helmet cover (T-Block)  
     "69653b6560fcf0a0300ac577":  [ [ { "count": 3435,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // LShZ-1+ cover (EMR) - LL1 - Roubles 
+    // LShZ-1+ cover (EMR)  
     "69653b6560fcf0a0300ac578":  [ [ { "count": 3103,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // LShZ-1+ cover (A-TACS FG) - LL1 - Roubles 
+    // LShZ-1+ cover (A-TACS FG)  
     "69653b6560fcf0a0300ac579":  [ [ { "count": 3103,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // LShZ-1+ cover (A-TACS AU) - LL1 - Roubles 
+    // LShZ-1+ cover (A-TACS AU)  
     "69653b6560fcf0a0300ac57a":  [ [ { "count": 3103,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // LShZ-1+ cover (Black) - LL1 - Roubles 
+    // LShZ-1+ cover (Black)  
     "69653b6560fcf0a0300ac57b":  [ [ { "count": 3103,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // LShZ-1+ cover (MultiCam) - LL1 - Roubles 
+    // LShZ-1+ cover (MultiCam)  
     "69653b6560fcf0a0300ac57c":  [ [ { "count": 3103,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Kiver RSP cover (EMR) - LL1 - Roubles 
+    // Kiver RSP cover (EMR)  
     "69653b6560fcf0a0300ac57d":  [ [ { "count": 2505,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Kiver RSP cover (MultiCam) - LL1 - Roubles 
+    // Kiver RSP cover (MultiCam)  
     "69653b6560fcf0a0300ac57e":  [ [ { "count": 2505,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Kiver RSP cover (A-TACS FG) - LL1 - Roubles 
+    // Kiver RSP cover (A-TACS FG)  
     "69653b6560fcf0a0300ac57f":  [ [ { "count": 2505,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // Granit Br3 ballistic plate - LL1 - Roubles 
+    // Granit Br3 ballistic plate  
     "69653b6560fcf0a0300ac580":  [ [ { "count": 25641,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
-    // DFNDR Armor SAPI Level III++ ballistic plate - LL1 - Roubles 
+    // DFNDR Armor SAPI Level III++ ballistic plate  
     "69653b6560fcf0a0300ac581":  [ [ { "count": 46513,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ]
   },
   "loyal_level_items":
   {
-    "6a6d5eae750358b9ec735046": 1, //FORT Goplit Slick plate carrier - LL1 - Roubles
-    "6a6d5e743042dba3a70711af": 1, //T.REX ARMS AC1 plate carrier (MultiCam) - LL1 - Roubles
-    "6a6d5e11b56acf99c0ca8876": 1, //WARTECH TV-119 plate carrier - LL1 - Roubles
-    "6a6d5db80e8ebddb3fec8b71": 1, //WARTECH TV-119 plate carrier (MC) - LL1 - Roubles
-    "6a6d5d3346f39f71072ce21a": 1, //CQC Rhino body armor (MTP) - LL1 - Roubles
-    "6a6d5c485365c8af1ccdc724": 1, //CQC Rhino body armor (DPM Pat.90) - LL1 - Roubles
-    "6a6d4c0d3b14c0da01e5e18f": 1, //TYR Tactical PICO-DS Assaulters plate carrier (MultiCam) - LL1 - Roubles
-    "6a6d48c76d206d9247817715": 1, //WARTECH TV-119 plate carrier (A-TACS FG) - LL1 - Roubles
-    "6a6d483d484d7329cc945407": 1, //Custom Gear CGPC3 plate carrier - LL1 - Roubles
-    "6a6d47b3893642e33c9e5b9e": 1, //Custom Gear CGPC3 plate carrier (Vz95) - LL1 - Roubles
-    "6a6d475f7ad7fb067fb2ce4e": 1, //Ferro Concepts The Slickster plate carrier (MultiCam) - LL1 - Roubles
-    "6a6d46d0a50ef216cd965d5d": 1, //Shellback Tactical Rampage 2.0 plate carrier (Pointman, Wolf Grey) - LL1 - Roubles
-    "6a6d42fff7fe9eebc3b30fd1": 1, //Velmet PERUN-6 SOF LC plate carrier (MaWka) - LL1 - Roubles
-    "6a6d427ccfdd9fcd626a3d8b": 1, //Crye Precision JPC 2.0 (Black Division)
-    "6a6d41b82e7a8e5697d93244": 1, //Crye Precision JPC 2.0 (MultiCam Tropic) - LL1 - Roubles
-    "6a6d414daa99c05cf347c3af": 1, //Crye Precision JPC 2.0 (Coyote Brown) - LL1 - Roubles
-    "6a6d40ed8fa1673f918fbfac": 1, //WARTECH TV-110 plate carrier (OMON) - LL1 - Roubles
-    "6a6d401c8a57a087dca51d5a": 1, //IOTV Gen4 TAPS hybrid plate carrier (MultiCam) - LL1 - Roubles
-    "6a6d3f911203a4f7ba60b1c8": 1, //Spiritus Systems LV-120 plate carrier (Goons Edition) - LL1 - Roubles
-    "6a6d2fb4fe0bdf9229610dbc": 1, //NFM THOR MCVS Overt plate carrier (MultiCam) - LL1 - Roubles
-    "6a6d2ba93588511f1f7ccf65": 1, //NFM THOR MCVS Overt plate carrier (Olive Drab) - LL1 - Roubles
-    "6a6d281bd600cd4e6dbd003f": 1, //6B46 plate carrier (EMR) - LL1 - Roubles
-    "69ecddbac4ac0c1322033c30": 1, // FAST SF custom build with GPNVGS - LL1 - Roubles 
-    "69653b6560fcf0a0300ac582": 1, // Ceradyne IHPS Ballistic helmet (Coyote Tan) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac586": 1, // Ops-Core FAST XP high cut helmet (MultiCam) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac589": 1, // Ops-Core FAST XP high cut helmet (Urban Tan) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac58c": 1, // Ops-Core FAST XP high cut helmet - LL1 - Roubles 
-    "69653b6560fcf0a0300ac58f": 1, // BroneTorg BTSh-6 "Sapsan" high cut helmet - LL1 - Roubles 
-    "69653b6560fcf0a0300ac592": 1, // Ulbrichts AM95 ballistic helmet - LL1 - Roubles 
-    "69653b6560fcf0a0300ac596": 1, // Gefechtshelm Schuberth B826 ballistic helmet - LL1 - Roubles 
-    "69653b6560fcf0a0300ac59a": 1, // MSA ACH TC-2000 MICH helmet - LL1 - Roubles 
-    "69653b6560fcf0a0300ac59e": 1, // MSA ACH TC-2000 MICH helmet (Mesh Spray) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac5a2": 1, // Ops-Core FAST SF Legacy High Cut helmet (Black) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac5a5": 1, // Ops-Core FAST SF Legacy High Cut helmet (Tan 499) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac5a8": 1, // Ops-Core FAST SF Legacy High Cut helmet (MultiCam) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac5ab": 1, // Ulbrichts F1000H high-cut ballistic helmet (Ranger Green) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac5ae": 1, // Galvion Caiman TL ballistic helmet - LL1 - Roubles 
-    "69653b6560fcf0a0300ac5b1": 1, // Galvion Caiman TL ballistic helmet (Olive Drab) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac5b4": 1, // Galvion Batlskin Cobra P2 ballistic helmet (Tan) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac5b8": 1, // MSA Gallet TC 500 Low Cut combat helmet (Black) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac5bc": 1, // ILC Dover IBH ballistic helmet (Black) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac5bf": 1, // NPP KlASS Tor-2 helmet - LL1 - Roubles 
-    "69653b6560fcf0a0300ac5c3": 1, // 6B27 helmet (Flora cover) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac5c7": 1, // 6B27 helmet (EMR cover) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac5cb": 1, // Galvion Batlskin Viper P2 high-cut helmet - LL1 - Roubles 
-    "69653b6560fcf0a0300ac5ce": 1, // Galvion Batlskin Viper P2 high-cut helmet (Coyote Tan) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac5d1": 1, // 6B7-1M helmet (Olive Drab) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac5d5": 1, // Crye Precision AirFrame helmet (Tan) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac5d8": 1, // Crye Precision AirFrame helmet (Black) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac5db": 1, // LShZ-1+ lightweight low-cut helmet (Olive Drab) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac5df": 1, // Team Wendy RIFLETECH ballistic helmet - LL1 - Roubles 
-    "69653b6560fcf0a0300ac5e2": 1, // Team Wendy RIFLETECH ballistic helmet (MultiCam) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac5e5": 1, // FORT Kiver RSP ballistic helmet - LL1 - Roubles 
-    "69653b6560fcf0a0300ac5e9": 1, // Šestan-Busch BK3 ballistic helmet (Olive Drab) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac53a": 1, // PMG gas mask - LL1 - Roubles 
-    "69653b6560fcf0a0300ac53b": 1, // MSA Millennium gas mask - LL1 - Roubles 
-    "69653b6560fcf0a0300ac53c": 1, // PMK-4 Ratnik gas mask - LL1 - Roubles 
-    "69653b6560fcf0a0300ac53d": 1, // PMK-4 "Arktika" Ratnik gas mask - LL1 - Roubles 
-    "69653b6560fcf0a0300ac53e": 1, // Compass Armor HAFM-KII Ballistic half-mask - LL1 - Roubles 
-    "69653b6560fcf0a0300ac53f": 1, // Avon M50 JSGPM gas mask - LL1 - Roubles 
-    "69653b6560fcf0a0300ac540": 1, // Avon M50 JSGPM gas mask (Olive) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac541": 1, // Avon FM12 gas mask - LL1 - Roubles 
-    "69653b6560fcf0a0300ac542": 1, // Atlantic Signal REV-X hybrid headset (Coyote Brown) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac543": 1, // Ops-Core AMP headset - LL1 - Roubles 
-    "69653b6560fcf0a0300ac544": 1, // Ops-Core AMP headset (Coyote Tan) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac545": 1, // ACTinBLACK DTNVS night vision goggles (White Phos.) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac546": 1, // ACTinBLACK DTNVS night vision goggles (Green Phos.) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac547": 1, // Oakley Holbrook glasses - LL1 - Roubles 
-    "69653b6560fcf0a0300ac548": 1, // Oakley Holbrook glasses (Colored Lenses) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac549": 1, // SSO Smersh "New-Gen" chest rig (Olive Drab) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac54a": 1, // Platatac Peacekeeper Mk.5 chest rig (Multicam Tropic) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac54b": 1, // Platatac Peacekeeper Mk.5 chest rig (DPM Desert) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac54c": 1, // Platatac Peacekeeper Mk.5 chest rig (Coyote Tan) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac54d": 1, // Spiritus Systems 34 Alpha load-bearing chest rig (MultiCam) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac54e": 1, // Spiritus Systems 34 Alpha load-bearing chest rig (Olive Drab) - LL1 - Roubles 
-    //"69653b6560fcf0a0300ac54f": 1, // Poyas-A gear rig - LL1 - Roubles 
-    "69653b6560fcf0a0300ac550": 1, // RothCo Tactical Assault Panel chest rig (UCP) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac551": 1, // Spiritus Systems Micro Fight Mk.4 chest rig - LL1 - Roubles 
-    "69653b6560fcf0a0300ac552": 1, // Spiritus Systems Micro Fight Mk.4 chest rig (M81 Woodland) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac553": 1, // Spiritus Systems Thing 3 chest rig (Coyote Tan) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac554": 1, // Spiritus Systems Thing 3 chest rig (Ranger Green) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac555": 1, // Eberlestock Recon Bino Modular chest rig (Grey) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac556": 1, // Bergan F2 military backpack - LL1 - Roubles 
-    "69653b6560fcf0a0300ac557": 1, // Arc'teryx LEAF 30L assault pack (MultiCam) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac558": 1, // Arc'teryx LEAF 30L assault pack - LL1 - Roubles 
-    "69653b6560fcf0a0300ac559": 1, // MS2000 Helmet-mounted Marker - LL1 - Roubles 
-    "69653b6560fcf0a0300ac55a": 1, // BK3 helmet cover (CADPAT) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac55b": 1, // BK3 helmet cover (DCU) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac55c": 1, // BK3 helmet cover (Jigsaw) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac55d": 1, // BK3 helmet cover (M81) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac55e": 1, // IHPS cover (OCP) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac55f": 1, // IHPS cover (Coyote Tan) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac560": 1, // FAST XP helmet cover (MultiCam) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac561": 1, // FAST XP helmet cover (MultiCam Alpine) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac562": 1, // FAST XP helmet cover (MultiCam Black) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac563": 1, // FAST XP helmet cover (AOR2) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac564": 1, // FAST XP helmet cover (DNC) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac565": 1, // FAST XP helmet cover (Olive Drab) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac566": 1, // Ops-Core FAST Ballstic Mandible - LL1 - Roubles 
-    "69653b6560fcf0a0300ac567": 1, // Ops-Core STEP-IN Visor - LL1 - Roubles 
-    "69653b6560fcf0a0300ac568": 1, // BATLSKIN Cobra helmet cover (MTP) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac569": 1, // BATLSKIN Cobra helmet cover (MultiCam Black) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac56a": 1, // BATLSKIN Cobra helmet cover (Irish DPM) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac56b": 1, // BATLSKIN Cobra helmet cover (NFP Woodland) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac56c": 1, // NPP KIASS Tor-2 helmet cover (Black) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac56d": 1, // NPP KIASS Tor-2 helmet cover (A-TACS FG) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac56e": 1, // NPP KIASS Tor-2 helmet cover (Coyote Tan) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac56f": 1, // NPP KIASS Tor-2 helmet cover (EMR) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac570": 1, // NPP KIASS Tor-2 helmet cover (EMR Winter) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac571": 1, // Crye Airframe helmet cover (MultiCam) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac572": 1, // Crye Airframe helmet cover (AOR1) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac573": 1, // Crye Airframe helmet cover (AOR2) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac574": 1, // Crye Airframe helmet cover (DBDU) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac575": 1, // Crye Airframe helmet cover (DNC) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac576": 1, // Crye Airframe helmet cover (Kryptek Mandrake) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac577": 1, // Crye Airframe helmet cover (T-Block) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac578": 1, // LShZ-1+ cover (EMR) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac579": 1, // LShZ-1+ cover (A-TACS FG) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac57a": 1, // LShZ-1+ cover (A-TACS AU) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac57b": 1, // LShZ-1+ cover (Black) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac57c": 1, // LShZ-1+ cover (MultiCam) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac57d": 1, // Kiver RSP cover (EMR) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac57e": 1, // Kiver RSP cover (MultiCam) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac57f": 1, // Kiver RSP cover (A-TACS FG) - LL1 - Roubles 
-    "69653b6560fcf0a0300ac580": 1, // Granit Br3 ballistic plate - LL1 - Roubles 
-    "69653b6560fcf0a0300ac581": 1  // DFNDR Armor SAPI Level III++ ballistic plate - LL1 - Roubles 
+    "6a6d5eae750358b9ec735046": 3, //FORT Goplit Slick plate carrier 
+    "6a6d5e743042dba3a70711af": 4, //T.REX ARMS AC1 plate carrier (MultiCam) 
+    "6a6d5e11b56acf99c0ca8876": 3, //WARTECH TV-119 plate carrier 
+    "6a6d5db80e8ebddb3fec8b71": 3, //WARTECH TV-119 plate carrier (MC) 
+    "6a6d5d3346f39f71072ce21a": 4, //CQC Rhino body armor (MTP) 
+    "6a6d5c485365c8af1ccdc724": 4, //CQC Rhino body armor (DPM Pat.90) 
+    "6a6d4c0d3b14c0da01e5e18f": 3, //TYR Tactical PICO-DS Assaulters plate carrier (MultiCam) 
+    "6a6d48c76d206d9247817715": 3, //WARTECH TV-119 plate carrier (A-TACS FG) 
+    "6a6d483d484d7329cc945407": 4, //Custom Gear CGPC3 plate carrier 
+    "6a6d47b3893642e33c9e5b9e": 2, //Custom Gear CGPC3 plate carrier (Vz95) 
+    "6a6d475f7ad7fb067fb2ce4e": 2, //Ferro Concepts The Slickster plate carrier (MultiCam) 
+    "6a6d46d0a50ef216cd965d5d": 3, //Shellback Tactical Rampage 2.0 plate carrier (Pointman, Wolf Grey) 
+    "6a6d42fff7fe9eebc3b30fd1": 3, //Velmet PERUN-6 SOF LC plate carrier (MaWka) 
+    "6a6d427ccfdd9fcd626a3d8b": 3, //Crye Precision JPC 2.0 (Black Division)
+    "6a6d41b82e7a8e5697d93244": 3, //Crye Precision JPC 2.0 (MultiCam Tropic) 
+    "6a6d414daa99c05cf347c3af": 3, //Crye Precision JPC 2.0 (Coyote Brown) 
+    "6a6d40ed8fa1673f918fbfac": 2, //WARTECH TV-110 plate carrier (OMON) 
+    "6a6d401c8a57a087dca51d5a": 3, //IOTV Gen4 TAPS hybrid plate carrier (MultiCam) 
+    "6a6d3f911203a4f7ba60b1c8": 3, //Spiritus Systems LV-120 plate carrier (Goons Edition) 
+    "6a6d2fb4fe0bdf9229610dbc": 2, //NFM THOR MCVS Overt plate carrier (MultiCam) 
+    "6a6d2ba93588511f1f7ccf65": 2, //NFM THOR MCVS Overt plate carrier (Olive Drab) 
+    "6a6d281bd600cd4e6dbd003f": 4, //6B46 plate carrier (EMR) 
+    "69ecddbac4ac0c1322033c30": 3, // FAST SF custom build with GPNVGS 
+    "69653b6560fcf0a0300ac582": 3, // Ceradyne IHPS Ballistic helmet (Coyote Tan)  
+    "69653b6560fcf0a0300ac586": 3, // Ops-Core FAST XP high cut helmet (MultiCam)  
+    "69653b6560fcf0a0300ac589": 3, // Ops-Core FAST XP high cut helmet (Urban Tan)  
+    "69653b6560fcf0a0300ac58c": 3, // Ops-Core FAST XP high cut helmet  
+    "69653b6560fcf0a0300ac58f": 2, // BroneTorg BTSh-6 "Sapsan" high cut helmet  
+    "69653b6560fcf0a0300ac592": 1, // Ulbrichts AM95 ballistic helmet  
+    "69653b6560fcf0a0300ac596": 1, // Gefechtshelm Schuberth B826 ballistic helmet  
+    "69653b6560fcf0a0300ac59a": 3, // MSA ACH TC-2000 MICH helmet  
+    "69653b6560fcf0a0300ac59e": 3, // MSA ACH TC-2000 MICH helmet (Mesh Spray)  
+    "69653b6560fcf0a0300ac5a2": 3, // Ops-Core FAST SF Legacy High Cut helmet (Black)  
+    "69653b6560fcf0a0300ac5a5": 3, // Ops-Core FAST SF Legacy High Cut helmet (Tan 499)  
+    "69653b6560fcf0a0300ac5a8": 3, // Ops-Core FAST SF Legacy High Cut helmet (MultiCam)  
+    "69653b6560fcf0a0300ac5ab": 2, // Ulbrichts F1000H high-cut ballistic helmet (Ranger Green)  
+    "69653b6560fcf0a0300ac5ae": 2, // Galvion Caiman TL ballistic helmet  
+    "69653b6560fcf0a0300ac5b1": 2, // Galvion Caiman TL ballistic helmet (Olive Drab)  
+    "69653b6560fcf0a0300ac5b4": 3, // Galvion Batlskin Cobra P2 ballistic helmet (Tan)  
+    "69653b6560fcf0a0300ac5b8": 3, // MSA Gallet TC 500 Low Cut combat helmet (Black)  
+    "69653b6560fcf0a0300ac5bc": 2, // ILC Dover IBH ballistic helmet (Black)  
+    "69653b6560fcf0a0300ac5bf": 2, // NPP KlASS Tor-2 helmet  
+    "69653b6560fcf0a0300ac5c3": 2, // 6B27 helmet (Flora cover)  
+    "69653b6560fcf0a0300ac5c7": 2, // 6B27 helmet (EMR cover)  
+    "69653b6560fcf0a0300ac5cb": 3, // Galvion Batlskin Viper P2 high-cut helmet  
+    "69653b6560fcf0a0300ac5ce": 3, // Galvion Batlskin Viper P2 high-cut helmet (Coyote Tan)  
+    "69653b6560fcf0a0300ac5d1": 1, // 6B7-1M helmet (Olive Drab)  
+    "69653b6560fcf0a0300ac5d5": 4, // Crye Precision AirFrame helmet (Tan)  
+    "69653b6560fcf0a0300ac5d8": 4, // Crye Precision AirFrame helmet (Black)  
+    "69653b6560fcf0a0300ac5db": 2, // LShZ-1+ lightweight low-cut helmet (Olive Drab)  
+    "69653b6560fcf0a0300ac5df": 4, // Team Wendy RIFLETECH ballistic helmet  
+    "69653b6560fcf0a0300ac5e2": 4, // Team Wendy RIFLETECH ballistic helmet (MultiCam)  
+    "69653b6560fcf0a0300ac5e5": 3, // FORT Kiver RSP ballistic helmet  
+    "69653b6560fcf0a0300ac5e9": 1, // Šestan-Busch BK3 ballistic helmet (Olive Drab)  
+    "69653b6560fcf0a0300ac53a": 1, // PMG gas mask  
+    "69653b6560fcf0a0300ac53b": 1, // MSA Millennium gas mask  
+    "69653b6560fcf0a0300ac53c": 1, // PMK-4 Ratnik gas mask  
+    "69653b6560fcf0a0300ac53d": 1, // PMK-4 "Arktika" Ratnik gas mask  
+    "69653b6560fcf0a0300ac53e": 3, // Compass Armor HAFM-KII Ballistic half-mask  
+    "69653b6560fcf0a0300ac53f": 1, // Avon M50 JSGPM gas mask  
+    "69653b6560fcf0a0300ac540": 1, // Avon M50 JSGPM gas mask (Olive)  
+    "69653b6560fcf0a0300ac541": 1, // Avon FM12 gas mask  
+    "69653b6560fcf0a0300ac542": 1, // Atlantic Signal REV-X hybrid headset (Coyote Brown)  
+    "69653b6560fcf0a0300ac543": 2, // Ops-Core AMP headset  
+    "69653b6560fcf0a0300ac544": 2, // Ops-Core AMP headset (Coyote Tan)  
+    "69653b6560fcf0a0300ac545": 3, // ACTinBLACK DTNVS night vision goggles (White Phos.)  
+    "69653b6560fcf0a0300ac546": 3, // ACTinBLACK DTNVS night vision goggles (Green Phos.)  
+    "69653b6560fcf0a0300ac547": 1, // Oakley Holbrook glasses  
+    "69653b6560fcf0a0300ac548": 1, // Oakley Holbrook glasses (Colored Lenses)  
+    "69653b6560fcf0a0300ac549": 2, // SSO Smersh "New-Gen" chest rig (Olive Drab)  
+    "69653b6560fcf0a0300ac54a": 2, // Platatac Peacekeeper Mk.5 chest rig (Multicam Tropic)  
+    "69653b6560fcf0a0300ac54b": 2, // Platatac Peacekeeper Mk.5 chest rig (DPM Desert)  
+    "69653b6560fcf0a0300ac54c": 2, // Platatac Peacekeeper Mk.5 chest rig (Coyote Tan)  
+    "69653b6560fcf0a0300ac54d": 3, // Spiritus Systems 34 Alpha load-bearing chest rig (MultiCam)  
+    "69653b6560fcf0a0300ac54e": 3, // Spiritus Systems 34 Alpha load-bearing chest rig (Olive Drab) 
+    "69653b6560fcf0a0300ac550": 3, // RothCo Tactical Assault Panel chest rig (UCP)  
+    "69653b6560fcf0a0300ac551": 1, // Spiritus Systems Micro Fight Mk.4 chest rig  
+    "69653b6560fcf0a0300ac552": 1, // Spiritus Systems Micro Fight Mk.4 chest rig (M81 Woodland)  
+    "69653b6560fcf0a0300ac553": 2, // Spiritus Systems Thing 3 chest rig (Coyote Tan)  
+    "69653b6560fcf0a0300ac554": 2, // Spiritus Systems Thing 3 chest rig (Ranger Green)  
+    "69653b6560fcf0a0300ac555": 1, // Eberlestock Recon Bino Modular chest rig (Grey)  
+    "69653b6560fcf0a0300ac556": 3, // Bergan F2 military backpack  
+    "69653b6560fcf0a0300ac557": 3, // Arc'teryx LEAF 30L assault pack (MultiCam)  
+    "69653b6560fcf0a0300ac558": 3, // Arc'teryx LEAF 30L assault pack  
+    "69653b6560fcf0a0300ac559": 1, // MS2000 Helmet-mounted Marker  
+    "69653b6560fcf0a0300ac55a": 1, // BK3 helmet cover (CADPAT)  
+    "69653b6560fcf0a0300ac55b": 1, // BK3 helmet cover (DCU)  
+    "69653b6560fcf0a0300ac55c": 1, // BK3 helmet cover (Jigsaw)  
+    "69653b6560fcf0a0300ac55d": 1, // BK3 helmet cover (M81)  
+    "69653b6560fcf0a0300ac55e": 1, // IHPS cover (OCP)  
+    "69653b6560fcf0a0300ac55f": 1, // IHPS cover (Coyote Tan)  
+    "69653b6560fcf0a0300ac560": 1, // FAST XP helmet cover (MultiCam)  
+    "69653b6560fcf0a0300ac561": 1, // FAST XP helmet cover (MultiCam Alpine)  
+    "69653b6560fcf0a0300ac562": 1, // FAST XP helmet cover (MultiCam Black)  
+    "69653b6560fcf0a0300ac563": 1, // FAST XP helmet cover (AOR2)  
+    "69653b6560fcf0a0300ac564": 1, // FAST XP helmet cover (DNC)  
+    "69653b6560fcf0a0300ac565": 1, // FAST XP helmet cover (Olive Drab)  
+    "69653b6560fcf0a0300ac566": 3, // Ops-Core FAST Ballstic Mandible  
+    "69653b6560fcf0a0300ac567": 2, // Ops-Core STEP-IN Visor  
+    "69653b6560fcf0a0300ac568": 1, // BATLSKIN Cobra helmet cover (MTP)  
+    "69653b6560fcf0a0300ac569": 1, // BATLSKIN Cobra helmet cover (MultiCam Black)  
+    "69653b6560fcf0a0300ac56a": 1, // BATLSKIN Cobra helmet cover (Irish DPM)  
+    "69653b6560fcf0a0300ac56b": 1, // BATLSKIN Cobra helmet cover (NFP Woodland)  
+    "69653b6560fcf0a0300ac56c": 1, // NPP KIASS Tor-2 helmet cover (Black)  
+    "69653b6560fcf0a0300ac56d": 1, // NPP KIASS Tor-2 helmet cover (A-TACS FG)  
+    "69653b6560fcf0a0300ac56e": 1, // NPP KIASS Tor-2 helmet cover (Coyote Tan)  
+    "69653b6560fcf0a0300ac56f": 1, // NPP KIASS Tor-2 helmet cover (EMR)  
+    "69653b6560fcf0a0300ac570": 1, // NPP KIASS Tor-2 helmet cover (EMR Winter)  
+    "69653b6560fcf0a0300ac571": 1, // Crye Airframe helmet cover (MultiCam)  
+    "69653b6560fcf0a0300ac572": 1, // Crye Airframe helmet cover (AOR1)  
+    "69653b6560fcf0a0300ac573": 1, // Crye Airframe helmet cover (AOR2)  
+    "69653b6560fcf0a0300ac574": 1, // Crye Airframe helmet cover (DBDU)  
+    "69653b6560fcf0a0300ac575": 1, // Crye Airframe helmet cover (DNC)  
+    "69653b6560fcf0a0300ac576": 1, // Crye Airframe helmet cover (Kryptek Mandrake)  
+    "69653b6560fcf0a0300ac577": 1, // Crye Airframe helmet cover (T-Block)  
+    "69653b6560fcf0a0300ac578": 1, // LShZ-1+ cover (EMR)  
+    "69653b6560fcf0a0300ac579": 1, // LShZ-1+ cover (A-TACS FG)  
+    "69653b6560fcf0a0300ac57a": 1, // LShZ-1+ cover (A-TACS AU)  
+    "69653b6560fcf0a0300ac57b": 1, // LShZ-1+ cover (Black)  
+    "69653b6560fcf0a0300ac57c": 1, // LShZ-1+ cover (MultiCam)  
+    "69653b6560fcf0a0300ac57d": 1, // Kiver RSP cover (EMR)  
+    "69653b6560fcf0a0300ac57e": 1, // Kiver RSP cover (MultiCam)  
+    "69653b6560fcf0a0300ac57f": 1, // Kiver RSP cover (A-TACS FG)  
+    "69653b6560fcf0a0300ac580": 3, // Granit Br3 ballistic plate  
+    "69653b6560fcf0a0300ac581": 4  // DFNDR Armor SAPI Level III++ ballistic plate  
   }
 }
