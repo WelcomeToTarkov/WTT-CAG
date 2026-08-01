@@ -10,3 +10,4 @@ mod.code-workspace
 /.idea
 /WTT-CAG/obj
 /WTT-CAG/bin
+/.vs/
