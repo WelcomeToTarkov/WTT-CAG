@@ -342,7 +342,7 @@
       }
     ]
   },
-  "697df164761aa50814341066": {
+  "697df164761aa50814341066": { //CQC Rhino body armor (MTP)
     "itemTplToClone": "697df0ab5e5a47675734105c",
     "parentId": "5448e54d4bdc2dcc718b4568",
     "handbookParentId": "5b5f701386f774093f2ecf0f",
@@ -442,7 +442,7 @@
       }
     ]
   },
-  "69ecb89b1bc77f05e3033c12": { // WARTECH TV-119 plate carrier (MC)
+  "69ecb89b1bc77f05e3033c12": { //WARTECH TV-119 plate carrier (MC)
     "itemTplToClone": "5e4abb5086f77406975c9342",
     "parentId": "5448e54d4bdc2dcc718b4568",
     "handbookParentId": "5b5f701386f774093f2ecf0f",
@@ -663,7 +663,7 @@
       }
     ]
   },
-  "6a4d4d3b4b248ca65d9ee731": { // WARTECH TV-119 plate carrier
+  "6a4d4d3b4b248ca65d9ee731": { //WARTECH TV-119 plate carrier
     "itemTplToClone": "69ecb89b1bc77f05e3033c12", // Cloning the MC version for slots and stats.
     "parentId": "5448e54d4bdc2dcc718b4568",
     "handbookParentId": "5b5f701386f774093f2ecf0f",
@@ -738,7 +738,7 @@
       }
     ]
   },
-  "6a0b8cf5e3248a7d679569a4": { // T.REX ARMS AC1 plate carrier (MultiCam)
+  "6a0b8cf5e3248a7d679569a4": { //T.REX ARMS AC1 plate carrier (MultiCam)
     "itemTplToClone": "5e4abb5086f77406975c9342",
     "parentId": "5448e54d4bdc2dcc718b4568",
     "handbookParentId": "5b5f701386f774093f2ecf0f",

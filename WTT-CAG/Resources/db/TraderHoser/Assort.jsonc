@@ -5,6 +5,276 @@
 
     // -  -  -  -   -   -   -   -   -   -   -  ARMORED RIGS  -   -   -   -   -   -   -   -   -   -
     {
+      "_id": "6a6d5eae750358b9ec735046", //FORT Goplit Slick plate carrier  - LL1 - Roubles
+      "_tpl": "6a544d901e790d853ee3634e",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+      {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 200,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "6a6d5f037968650f6d8da3df",
+      "_tpl": "65573fa5655447403702a816",
+      "slotId": "Front_plate",
+      "parentId": "6a6d5eae750358b9ec735046"
+    },
+    {
+      "_id": "6a6d5effce020a0d17d17da1",
+      "_tpl": "65573fa5655447403702a816",
+      "slotId": "Back_plate",
+      "parentId": "6a6d5eae750358b9ec735046"
+    },
+    {
+      "_id": "6a6d5f084c14ec8b93846784",
+      "_tpl": "64afd81707e2cf40e903a316",
+      "slotId": "Left_side_plate",
+      "parentId": "6a6d5eae750358b9ec735046"
+    },
+    {
+      "_id": "6a6d5f050192fe4ea1789b16",
+      "_tpl": "64afd81707e2cf40e903a316",
+      "slotId": "Right_side_plate",
+      "parentId": "6a6d5eae750358b9ec735046"
+    },
+    {
+      "_id": "6a6d5f0b2b8e1bb350d58994",
+      "_tpl": "6a544e49fef7b3ad4ae36356",
+      "slotId": "Soft_armor_front",
+      "parentId": "6a6d5eae750358b9ec735046"
+    },
+    {
+      "_id": "6a6d5f0e24b6d64ad52f3c04",
+      "_tpl": "6a544e4699afbb25d4e36355",
+      "slotId": "Soft_armor_back",
+      "parentId": "6a6d5eae750358b9ec735046"
+    },
+    {
+      "_id": "6a6d5e743042dba3a70711af", //T.REX ARMS AC1 plate carrier (MultiCam) - LL1 - Roubles
+      "_tpl": "6a0b8cf5e3248a7d679569a4",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+      {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 200,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "6a6d5e71f4fd41b18ab96b96",
+      "_tpl": "656fa61e94b480b8a500c0e8",
+      "slotId": "Front_plate",
+      "parentId": "6a6d5e743042dba3a70711af"
+    },
+    {
+      "_id": "6a6d5e6d1140356e7e90c4aa",
+      "_tpl": "656fa61e94b480b8a500c0e8",
+      "slotId": "Back_plate",
+      "parentId": "6a6d5e743042dba3a70711af"
+    },
+    {
+      "_id": "6a6d5e11b56acf99c0ca8876", //WARTECH TV-119 plate carrier - LL1 - Roubles
+      "_tpl": "6a4d4d3b4b248ca65d9ee731",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+      {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 200,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "6a6d5e1f637adb6f73529845",
+      "_tpl": "655746010177119f4a097ff7",
+      "slotId": "Front_plate",
+      "parentId": "6a6d5e11b56acf99c0ca8876"
+    },
+    {
+      "_id": "6a6d5e2cb9c832638c638ec4",
+      "_tpl": "655746010177119f4a097ff7",
+      "slotId": "Back_plate",
+      "parentId": "6a6d5e11b56acf99c0ca8876"
+    },
+    {
+      "_id": "6a6d5e2a6d70b3db4a40ebb2",
+      "_tpl": "6570df294cc0d2ab1e05ed74",
+      "slotId": "Soft_armor_front",
+      "parentId": "6a6d5e11b56acf99c0ca8876"
+    },
+    {
+      "_id": "6a6d5e2f2a6b2c83c03b0344",
+      "_tpl": "6570df9c615f54368b04fca9",
+      "slotId": "Soft_armor_back",
+      "parentId": "6a6d5e11b56acf99c0ca8876"
+    },
+    {
+      "_id": "6a6d5db80e8ebddb3fec8b71", //WARTECH TV-119 plate carrier (MC) - LL1 - Roubles
+      "_tpl": "69ecb89b1bc77f05e3033c12",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+      {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 200,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "6a6d5dedf80f0bfae8c86a33",
+      "_tpl": "655746010177119f4a097ff7",
+      "slotId": "Front_plate",
+      "parentId": "6a6d5db80e8ebddb3fec8b71"
+    },
+    {
+      "_id": "6a6d5dde47136ff18169a072",
+      "_tpl": "655746010177119f4a097ff7",
+      "slotId": "Back_plate",
+      "parentId": "6a6d5db80e8ebddb3fec8b71"
+    },
+    {
+      "_id": "6a6d5de824c9a3d06b096494",
+      "_tpl": "6570df294cc0d2ab1e05ed74",
+      "slotId": "Soft_armor_front",
+      "parentId": "6a6d5db80e8ebddb3fec8b71"
+    },
+    {
+      "_id": "6a6d5de5af529f973ece12ad",
+      "_tpl": "6570df9c615f54368b04fca9",
+      "slotId": "Soft_armor_back",
+      "parentId": "6a6d5db80e8ebddb3fec8b71"
+    },
+    {
+      "_id": "6a6d5c485365c8af1ccdc724", //CQC Rhino body armor (DPM Pat.90) - LL1 - Roubles
+      "_tpl": "697df0ab5e5a47675734105c",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+      {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 200,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "6a6d5cc68b8ebe06ea02b336",
+      "_tpl": "656fa53d94b480b8a500c0e4",
+      "slotId": "Front_plate",
+      "parentId": "6a6d5c485365c8af1ccdc724"
+    },
+    {
+      "_id": "6a6d5cc1f7968d62047ea94a",
+      "_tpl": "656fa53d94b480b8a500c0e4",
+      "slotId": "Back_plate",
+      "parentId": "6a6d5c485365c8af1ccdc724"
+    },
+    {
+      "_id": "6a6d5cc32921532045d8cbf6",
+      "_tpl": "6557458f83942d705f0c4962",
+      "slotId": "Left_side_plate",
+      "parentId": "6a6d5c485365c8af1ccdc724"
+    },
+    {
+      "_id": "6a6d5cb822d001368bc862f1",
+      "_tpl": "6557458f83942d705f0c4962",
+      "slotId": "Right_side_plate",
+      "parentId": "6a6d5c485365c8af1ccdc724"
+    },
+    {
+      "_id": "6a6d5cbb12b8ae93fc40acb4",
+      "_tpl": "65733312ca0ca984940a2d53",
+      "slotId": "Soft_armor_front",
+      "parentId": "6a6d5c485365c8af1ccdc724"
+    },
+    {
+      "_id": "6a6d5cbdb91da546af1a30ef",
+      "_tpl": "657333232cc8dfad2c0a3d97",
+      "slotId": "Soft_armor_back",
+      "parentId": "6a6d5c485365c8af1ccdc724"
+    },
+    {
+      "_id": "6a6d5cb453fe7adbb14db69b",
+      "_tpl": "657333302cc8dfad2c0a3d9b",
+      "slotId": "Soft_armor_left",
+      "parentId": "6a6d5c485365c8af1ccdc724"
+    },
+    {
+      "_id": "6a6d5cb18a05da36d01ef447",
+      "_tpl": "6573333eca0ca984940a2d57",
+      "slotId": "soft_armor_right",
+      "parentId": "6a6d5c485365c8af1ccdc724"
+    },
+    {
+      "_id": "6a6d5d3346f39f71072ce21a", //CQC Rhino body armor (MTP) - LL1 - Roubles
+      "_tpl": "697df164761aa50814341066",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+      {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 200,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "6a6d5d2f54bcf72bc6426139",
+      "_tpl": "656fa53d94b480b8a500c0e4",
+      "slotId": "Front_plate",
+      "parentId": "6a6d5d3346f39f71072ce21a"
+    },
+    {
+      "_id": "6a6d5d2c3cf0cfad4486c548",
+      "_tpl": "656fa53d94b480b8a500c0e4",
+      "slotId": "Back_plate",
+      "parentId": "6a6d5d3346f39f71072ce21a"
+    },
+    {
+      "_id": "6a6d5d499950e104f3fa718a",
+      "_tpl": "6557458f83942d705f0c4962",
+      "slotId": "Left_side_plate",
+      "parentId": "6a6d5d3346f39f71072ce21a"
+    },
+    {
+      "_id": "6a6d5d4cfe939eee7454331c",
+      "_tpl": "6557458f83942d705f0c4962",
+      "slotId": "Right_side_plate",
+      "parentId": "6a6d5d3346f39f71072ce21a"
+    },
+    {
+      "_id": "6a6d5d44e606a9c5cdadc8f4",
+      "_tpl": "65733312ca0ca984940a2d53",
+      "slotId": "Soft_armor_front",
+      "parentId": "6a6d5d3346f39f71072ce21a"
+    },
+    {
+      "_id": "6a6d5d5e5973cb0f4d884d77",
+      "_tpl": "657333232cc8dfad2c0a3d97",
+      "slotId": "Soft_armor_back",
+      "parentId": "6a6d5d3346f39f71072ce21a"
+    },
+    {
+      "_id": "6a6d5d4788deda95abdb63fe",
+      "_tpl": "657333302cc8dfad2c0a3d9b",
+      "slotId": "Soft_armor_left",
+      "parentId": "6a6d5d3346f39f71072ce21a"
+    },
+    {
+      "_id": "6a6d5d4f104b35b470f25df5",
+      "_tpl": "6573333eca0ca984940a2d57",
+      "slotId": "soft_armor_right",
+      "parentId": "6a6d5d3346f39f71072ce21a"
+    },
+    {
       "_id": "6a6d4c0d3b14c0da01e5e18f", //TYR Tactical PICO-DS Assaulters plate carrier (MultiCam) - LL1 - Roubles
       "_tpl": "6a63f04f998ec5836410dcad",
       "parentId": "hideout",
@@ -1915,23 +2185,6 @@
               "BuyRestrictionCurrent": 0
             }
     },
-
-    
-  /* {
-      "_id": "69653b6560fcf0a0300ac54f", // Poyas-A gear rig - LL1 - Roubles 
-      "_tpl": "69542293d807443265f80e82",
-      "parentId": "hideout",
-      "slotId": "hideout",
-      "upd":
-            {
-              "UnlimitedCount": true,
-              "StackObjectsCount": 100,
-              "BuyRestrictionMax": 3,
-              "BuyRestrictionCurrent": 0
-            }
-    }, */
-
-    
     {
       "_id": "69653b6560fcf0a0300ac550", // RothCo Tactical Assault Panel chest rig (UCP) - LL1 - Roubles 
       "_tpl": "6a20786972368005446cde7c",
@@ -2641,6 +2894,24 @@
   ],
   "barter_scheme": 
   {
+    //FORT Goplit Slick plate carrier  - LL1 - Roubles
+    "6a6d5eae750358b9ec735046":  [ [ { "count": 135213,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
+    
+    //T.REX ARMS AC1 plate carrier (MultiCam) - LL1 - Roubles
+    "6a6d5e743042dba3a70711af":  [ [ { "count": 167123,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
+    
+    //WARTECH TV-119 plate carrier - LL1 - Roubles
+    "6a6d5e11b56acf99c0ca8876":  [ [ { "count": 138093,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
+    
+    //WARTECH TV-119 plate carrier (MC) - LL1 - Roubles
+    "6a6d5db80e8ebddb3fec8b71":  [ [ { "count": 138093,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
+    
+    //CQC Rhino body armor (MTP) - LL1 - Roubles
+    "6a6d5d3346f39f71072ce21a":  [ [ { "count": 127063,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
+
+    //CQC Rhino body armor (DPM Pat.90) - LL1 - Roubles
+    "6a6d5c485365c8af1ccdc724":  [ [ { "count": 127063,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
+    
     //TYR Tactical PICO-DS Assaulters plate carrier (MultiCam) - LL1 - Roubles
     "6a6d4c0d3b14c0da01e5e18f":  [ [ { "count": 64954,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
 
@@ -3000,6 +3271,12 @@
   },
   "loyal_level_items":
   {
+    "6a6d5eae750358b9ec735046": 1, //FORT Goplit Slick plate carrier - LL1 - Roubles
+    "6a6d5e743042dba3a70711af": 1, //T.REX ARMS AC1 plate carrier (MultiCam) - LL1 - Roubles
+    "6a6d5e11b56acf99c0ca8876": 1, //WARTECH TV-119 plate carrier - LL1 - Roubles
+    "6a6d5db80e8ebddb3fec8b71": 1, //WARTECH TV-119 plate carrier (MC) - LL1 - Roubles
+    "6a6d5d3346f39f71072ce21a": 1, //CQC Rhino body armor (MTP) - LL1 - Roubles
+    "6a6d5c485365c8af1ccdc724": 1, //CQC Rhino body armor (DPM Pat.90) - LL1 - Roubles
     "6a6d4c0d3b14c0da01e5e18f": 1, //TYR Tactical PICO-DS Assaulters plate carrier (MultiCam) - LL1 - Roubles
     "6a6d48c76d206d9247817715": 1, //WARTECH TV-119 plate carrier (A-TACS FG) - LL1 - Roubles
     "6a6d483d484d7329cc945407": 1, //Custom Gear CGPC3 plate carrier - LL1 - Roubles
