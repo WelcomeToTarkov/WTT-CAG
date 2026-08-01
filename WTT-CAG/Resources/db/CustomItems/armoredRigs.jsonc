@@ -485,6 +485,7 @@
         "path": "Bodywear/armoredRigs/NFM_THOR/rig_nfm_thor_od.bundle",
         "rcid": ""
       },
+      "BlocksArmorVest": true,
       "ExaminedByDefault": true,
       "BackgroundColor": "default",
       "Weight": 1.67,
@@ -953,6 +954,7 @@
         "path": "Bodywear/armoredRigs/NFM_THOR/rig_nfm_thor_mc.bundle",
         "rcid": ""
       },
+      "BlocksArmorVest": true,
       "ExaminedByDefault": true,
       "BackgroundColor": "default",
       "Weight": 2.01,
@@ -1934,6 +1936,7 @@
         "path": "Bodywear/armoredRigs/rig_iotv_gen4_taps.bundle",
         "rcid": ""
       },
+      "BlocksArmorVest": true,
       "mousePenalty": -2,
       "speedPenaltyPercent": -3,
       "weaponErgonomicPenalty": -3,
