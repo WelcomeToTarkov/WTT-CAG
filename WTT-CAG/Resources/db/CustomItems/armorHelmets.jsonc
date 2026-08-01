@@ -3027,25 +3027,6 @@
       "RolloffMultiplier": 1.09,
       "Slots": [ // Actual slots
         {
-          "_id": "69d59f6e1052a2b306f815cc",
-          "_mergeSlotWithChildren": false,
-          "_name": "mod_nvg",
-          "_parent": "69d59e8ce166d1833ff815cb",
-          "_props": {
-            "filters": [
-              {
-                "Filter": [
-                  "5c0558060db834001b735271",
-                  "5a16b8a9fcdbcb00165aa6ca"
-                ],
-                "Shift": 0
-              }
-            ]
-          },
-          "_proto": "55d30c4c4bdc2db4468b457e",
-          "_required": false
-        },
-        {
           "_id": "69d59f72f7029324a1f815cd",
           "_mergeSlotWithChildren": true,
           "_name": "Helmet_top",
