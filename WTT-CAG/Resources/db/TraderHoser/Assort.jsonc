@@ -3,8 +3,540 @@
   [
 
 
-    // -  -  -  -   -   -   -   -   -   -   -  ARMORED RIGS  -   -   -   -   -   -   -   -   -   -    
-
+    // -  -  -  -   -   -   -   -   -   -   -  ARMORED RIGS  -   -   -   -   -   -   -   -   -   -
+    {
+      "_id": "6a6d4c0d3b14c0da01e5e18f", //TYR Tactical PICO-DS Assaulters plate carrier (MultiCam) - LL1 - Roubles
+      "_tpl": "6a63f04f998ec5836410dcad",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+      {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 200,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "6a6d4c4e1b6cde0695c23e27",
+      "_tpl": "656fa53d94b480b8a500c0e4",
+      "slotId": "Front_plate",
+      "parentId": "6a6d4c0d3b14c0da01e5e18f"
+    },
+    {
+      "_id": "6a6d4c51ca02a76c1d0a3c70",
+      "_tpl": "656fa53d94b480b8a500c0e4",
+      "slotId": "Back_plate",
+      "parentId": "6a6d4c0d3b14c0da01e5e18f"
+    },
+    {
+      "_id": "6a6d48c76d206d9247817715", //WARTECH TV-119 plate carrier (A-TACS FG) - LL1 - Roubles
+      "_tpl": "6a4d4f9bc90d6800f79ee73a",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+      {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 200,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "6a6d4be798b62a494dee8e6b",
+      "_tpl": "655746010177119f4a097ff7",
+      "slotId": "Front_plate",
+      "parentId": "6a6d48c76d206d9247817715"
+    },
+    {
+      "_id": "6a6d4be3969a8bd0f91fe994",
+      "_tpl": "655746010177119f4a097ff7",
+      "slotId": "Back_plate",
+      "parentId": "6a6d48c76d206d9247817715"
+    },
+    {
+      "_id": "6a6d4bdd23db42c8a53c58ea",
+      "_tpl": "6570df294cc0d2ab1e05ed74",
+      "slotId": "Soft_armor_front",
+      "parentId": "6a6d48c76d206d9247817715"
+    },
+    {
+      "_id": "6a6d4be0c025a7ba2eccb750",
+      "_tpl": "6570df9c615f54368b04fca9",
+      "slotId": "Soft_armor_back",
+      "parentId": "6a6d48c76d206d9247817715"
+    },
+    {
+      "_id": "6a6d4bdaa7d18487e73792ce",
+      "_tpl": "6a4d59765060c94ff39ee76e",
+      "slotId": "Groin",
+      "parentId": "6a6d48c76d206d9247817715"
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    {
+      "_id": "6a6d483d484d7329cc945407", //Custom Gear CGPC3 plate carrier - LL1 - Roubles
+      "_tpl": "6a1a35f3d10a03f857de3059",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+      {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 200,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "6a6d48a53b7fe51579ab0b88",
+      "_tpl": "656fafe3498d1b7e3e071da4",
+      "slotId": "Front_plate",
+      "parentId": "6a6d483d484d7329cc945407"
+    },
+    {
+      "_id": "6a6d48a25852cb195df49412",
+      "_tpl": "656fafe3498d1b7e3e071da4",
+      "slotId": "Back_plate",
+      "parentId": "6a6d483d484d7329cc945407"
+    },
+    {
+      "_id": "6a6d489fd006ce98c0bf9ba7",
+      "_tpl": "6a19f0127eaab3073de456ea",
+      "slotId": "Soft_armor_front",
+      "parentId": "6a6d483d484d7329cc945407"
+    },
+    {
+      "_id": "6a6d489cd92c5ee7231d0520",
+      "_tpl": "6a19ef9b89f9ba0ba8e456e7",
+      "slotId": "Soft_armor_back",
+      "parentId": "6a6d483d484d7329cc945407"
+    },
+    {
+      "_id": "6a6d489900c28cf851406f6b",
+      "_tpl": "6a19f059c67d7ac4b3e456ee",
+      "slotId": "Soft_armor_left",
+      "parentId": "6a6d483d484d7329cc945407"
+    },
+    {
+      "_id": "6a6d489600682ba6c394f533",
+      "_tpl": "6a19f08ef6fa855c23e456f2",
+      "slotId": "Soft_armor_right",
+      "parentId": "6a6d483d484d7329cc945407"
+    },
+    {
+      "_id": "6a6d4892fc91ae3cad7fb907",
+      "_tpl": "6a1a386c91a31e3f14de306e",
+      "slotId": "Groin",
+      "parentId": "6a6d483d484d7329cc945407"
+    },
+    {
+      "_id": "6a6d475f7ad7fb067fb2ce4e", //Ferro Concepts The Slickster plate carrier (MultiCam) - LL1 - Roubles
+      "_tpl": "6a18c320614dfcaac696e174",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+      {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 200,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "6a6d4776fb4104117a2dd897",
+      "_tpl": "656f9d5900d62bcd2e02407c",
+      "slotId": "Front_plate",
+      "parentId": "6a6d475f7ad7fb067fb2ce4e"
+    },
+    {
+      "_id": "6a6d47747eaab6b0a9983394",
+      "_tpl": "656f9d5900d62bcd2e02407c",
+      "slotId": "Back_plate",
+      "parentId": "6a6d475f7ad7fb067fb2ce4e"
+    },
+    {
+      "_id": "6a6d47b3893642e33c9e5b9e", //Custom Gear CGPC3 plate carrier (Vz95) - LL1 - Roubles
+      "_tpl": "6a19eb984e57885c89e456e0",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+      {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 200,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "6a6d48107f46f2f021f10d03",
+      "_tpl": "656f9d5900d62bcd2e02407c",
+      "slotId": "Front_plate",
+      "parentId": "6a6d47b3893642e33c9e5b9e"
+    },
+    {
+      "_id": "6a6d480df283abdceae92aa3",
+      "_tpl": "656f9d5900d62bcd2e02407c",
+      "slotId": "Back_plate",
+      "parentId": "6a6d47b3893642e33c9e5b9e"
+    },
+    {
+      "_id": "6a6d480ab138651476a4ac5a",
+      "_tpl": "6a19f0127eaab3073de456ea",
+      "slotId": "Soft_armor_front",
+      "parentId": "6a6d47b3893642e33c9e5b9e"
+    },
+    {
+      "_id": "6a6d4807f59083a54feaf649",
+      "_tpl": "6a19ef9b89f9ba0ba8e456e7",
+      "slotId": "Soft_armor_back",
+      "parentId": "6a6d47b3893642e33c9e5b9e"
+    },
+    {
+      "_id": "6a6d4804077b27b7c6afccea",
+      "_tpl": "6a19f059c67d7ac4b3e456ee",
+      "slotId": "Soft_armor_left",
+      "parentId": "6a6d47b3893642e33c9e5b9e"
+    },
+    {
+      "_id": "6a6d48011069e944c8859bbe",
+      "_tpl": "6a19f08ef6fa855c23e456f2",
+      "slotId": "Soft_armor_right",
+      "parentId": "6a6d47b3893642e33c9e5b9e"
+    },
+    {
+      "_id": "6a6d46d0a50ef216cd965d5d", //Shellback Tactical Rampage 2.0 plate carrier (Pointman, Wolf Grey) - LL1 - Roubles
+      "_tpl": "6a1445f45e02d6066dff6c1c",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+      {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 200,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "6a6d470c7a2d2e6e83e7f68b",
+      "_tpl": "656fae5f7c2d57afe200c0d7",
+      "slotId": "Front_plate",
+      "parentId": "6a6d46d0a50ef216cd965d5d"
+    },
+    {
+      "_id": "6a6d470943b079fa81fb1031",
+      "_tpl": "656fae5f7c2d57afe200c0d7",
+      "slotId": "Back_plate",
+      "parentId": "6a6d46d0a50ef216cd965d5d"
+    },
+    {
+      "_id": "6a6d4706707024dffdb56648",
+      "_tpl": "6a144c135e1350ad4aff6c2e",
+      "slotId": "Soft_armor_front",
+      "parentId": "6a6d46d0a50ef216cd965d5d"
+    },
+    {
+      "_id": "6a6d47024770ac43ec4037e3",
+      "_tpl": "6a144c14993da637d6ff6c2f",
+      "slotId": "Soft_armor_back",
+      "parentId": "6a6d46d0a50ef216cd965d5d"
+    },
+    {
+      "_id": "6a6d46fdd6c2cd8b80c1862f",
+      "_tpl": "69ecb991006b94deed033c1b",
+      "slotId": "Groin",
+      "parentId": "6a6d46d0a50ef216cd965d5d"
+    },
+    {
+      "_id": "6a6d42fff7fe9eebc3b30fd1", //Velmet PERUN-6 SOF LC plate carrier (MaWka) - LL1 - Roubles
+      "_tpl": "69af8c67b5dd41b53dc2a14f",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+      {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 200,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "6a6d4323cfe0ba08b13df275",
+      "_tpl": "655746010177119f4a097ff7",
+      "slotId": "Front_plate",
+      "parentId": "6a6d42fff7fe9eebc3b30fd1"
+    },
+    {
+      "_id": "6a6d4336e2296c5cd5f51777",
+      "_tpl": "655746010177119f4a097ff7",
+      "slotId": "Back_plate",
+      "parentId": "6a6d42fff7fe9eebc3b30fd1"
+    },
+    {
+      "_id": "6a6d4332ca62ba6bd745b6b6",
+      "_tpl": "69af8d4225d8afca89c2a155",
+      "slotId": "Soft_armor_front",
+      "parentId": "6a6d42fff7fe9eebc3b30fd1"
+    },
+    {
+      "_id": "6a6d432f55611961a1267e89",
+      "_tpl": "69af91e3d59ab6c374c2a15f",
+      "slotId": "Soft_armor_back",
+      "parentId": "6a6d42fff7fe9eebc3b30fd1"
+    },
+    {
+      "_id": "6a6d432cf1f0d20adb42e1f4",
+      "_tpl": "69af8d78f523015697c2a156",
+      "slotId": "Groin",
+      "parentId": "6a6d42fff7fe9eebc3b30fd1"
+    },
+    {
+      "_id": "6a6d427ccfdd9fcd626a3d8b", //Crye Precision JPC 2.0 (Black Division)
+      "_tpl": "6a1f343a0dd59223dd9ff57d",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+      {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 200,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "6a6d429507d1d7c4e3a2b806",
+      "_tpl": "655746010177119f4a097ff7",
+      "slotId": "Front_plate",
+      "parentId": "6a6d427ccfdd9fcd626a3d8b"
+    },
+    {
+      "_id": "6a6d428f65fa3aeb43110c48",
+      "_tpl": "655746010177119f4a097ff7",
+      "slotId": "Back_plate",
+      "parentId": "6a6d427ccfdd9fcd626a3d8b"
+    },
+    {
+      "_id": "6a6d428bc7f043b5895589c8",
+      "_tpl": "64afdb577bb3bfe8fe03fd1d",
+      "slotId": "Left_side_plate",
+      "parentId": "6a6d427ccfdd9fcd626a3d8b"
+    },
+    {
+      "_id": "6a6d4288aa86f01ef4fcebf4",
+      "_tpl": "64afdb577bb3bfe8fe03fd1d",
+      "slotId": "Right_side_plate",
+      "parentId": "6a6d427ccfdd9fcd626a3d8b"
+    },
+    {
+      "_id": "6a6d42853be3aa9c5a5327f2",
+      "_tpl": "69578fd565218682c87d8628",
+      "slotId": "Groin",
+      "parentId": "6a6d427ccfdd9fcd626a3d8b"
+    },
+    {
+      "_id": "6a6d41b82e7a8e5697d93244", //Crye Precision JPC 2.0 (MultiCam Tropic) - LL1 - Roubles
+      "_tpl": "6a1b1aafbeb04b2149da1b1a",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+      {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 200,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "6a6d41ce33fa32f090cd14b7",
+      "_tpl": "655746010177119f4a097ff7",
+      "slotId": "Front_plate",
+      "parentId": "6a6d41b82e7a8e5697d93244"
+    },
+    {
+      "_id": "6a6d41d1bd49c74a1020ab88",
+      "_tpl": "655746010177119f4a097ff7",
+      "slotId": "Back_plate",
+      "parentId": "6a6d41b82e7a8e5697d93244"
+    },
+    {
+      "_id": "6a6d414daa99c05cf347c3af", //Crye Precision JPC 2.0 (Coyote Brown) - LL1 - Roubles
+      "_tpl": "69786ec0c5d74f55c1c91ceb",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+      {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 200,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "6a6d4165e7ce88eaddca1972",
+      "_tpl": "655746010177119f4a097ff7",
+      "slotId": "Front_plate",
+      "parentId": "6a6d414daa99c05cf347c3af"
+    },
+    {
+      "_id": "6a6d41671507cfc7faec8db4",
+      "_tpl": "655746010177119f4a097ff7",
+      "slotId": "Back_plate",
+      "parentId": "6a6d414daa99c05cf347c3af"
+    },
+    {
+      "_id": "6a6d40ed8fa1673f918fbfac", //WARTECH TV-110 plate carrier (OMON) - LL1 - Roubles
+      "_tpl": "69749476189c0d08d9a28f1d",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+      {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 200,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "6a6d4105b9a188b2d601dcf6",
+      "_tpl": "656fa0fb498d1b7e3e071d9c",
+      "slotId": "Front_plate",
+      "parentId": "6a6d40ed8fa1673f918fbfac"
+    },
+    {
+      "_id": "6a6d41026797ad40266aa6d5",
+      "_tpl": "656fa0fb498d1b7e3e071d9c",
+      "slotId": "Back_plate",
+      "parentId": "6a6d40ed8fa1673f918fbfac"
+    },
+    {
+      "_id": "6a6d41083706fde570dd758a",
+      "_tpl": "6570df294cc0d2ab1e05ed74",
+      "slotId": "Soft_armor_front",
+      "parentId": "6a6d40ed8fa1673f918fbfac"
+    },
+    {
+      "_id": "6a6d410b692449cb77f42bfa",
+      "_tpl": "6570df9c615f54368b04fca9",
+      "slotId": "Soft_armor_back",
+      "parentId": "6a6d40ed8fa1673f918fbfac"
+    },
+    
+    
+    
+    
+    
+    
+    {
+      "_id": "6a6d401c8a57a087dca51d5a", //IOTV Gen4 TAPS hybrid plate carrier (MultiCam) - LL1 - Roubles
+      "_tpl": "6962818af5c4204e1844033a",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+      {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 200,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "6a6d406d53a77cb4a6d67a2f",
+      "_tpl": "656fa8d700d62bcd2e024084",
+      "slotId": "Front_plate",
+      "parentId": "6a6d401c8a57a087dca51d5a"
+    },
+    {
+      "_id": "6a6d4074e406c521a1c93e52",
+      "_tpl": "656fa8d700d62bcd2e024084",
+      "slotId": "Back_plate",
+      "parentId": "6a6d401c8a57a087dca51d5a"
+    },
+    {
+      "_id": "6a6d407190959681fc4970c7",
+      "_tpl": "6557458f83942d705f0c4962",
+      "slotId": "Left_side_plate",
+      "parentId": "6a6d401c8a57a087dca51d5a"
+    },
+    {
+      "_id": "6a6d407ab0380fe2fa7a6a0b",
+      "_tpl": "6557458f83942d705f0c4962",
+      "slotId": "Right_side_plate",
+      "parentId": "6a6d401c8a57a087dca51d5a"
+    },
+    {
+      "_id": "6a6d407d00de6849976f4fde",
+      "_tpl": "6575c2adefc786cd9101a5d9",
+      "slotId": "Soft_armor_front",
+      "parentId": "6a6d401c8a57a087dca51d5a"
+    },
+    {
+      "_id": "6a6d40775f65c76e269119b1",
+      "_tpl": "6575c2be52b7f8c76a05ee25",
+      "slotId": "Soft_armor_back",
+      "parentId": "6a6d401c8a57a087dca51d5a"
+    },
+    {
+      "_id": "6a6d4082f02e055181f7e86b",
+      "_tpl": "6575c2cd52b7f8c76a05ee29",
+      "slotId": "Soft_armor_left",
+      "parentId": "6a6d401c8a57a087dca51d5a"
+    },
+    {
+      "_id": "6a6d408578fbf18f3bbfcbe4",
+      "_tpl": "6575c2d852b7f8c76a05ee2d",
+      "slotId": "soft_armor_right",
+      "parentId": "6a6d401c8a57a087dca51d5a"
+    },
+    {
+      "_id": "6a6d408af5563a6d279edc0f",
+      "_tpl": "6575c2e4efc786cd9101a5dd",
+      "slotId": "Collar",
+      "parentId": "6a6d401c8a57a087dca51d5a"
+    },
+    {
+      "_id": "6a6d3f911203a4f7ba60b1c8", //Spiritus Systems LV-120 plate carrier (Goons Edition) - LL1 - Roubles
+      "_tpl": "6959f5cefa310a108862b798",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+      {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 200,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "6a6d3fa83cf044f87abe8907",
+      "_tpl": "656fae5f7c2d57afe200c0d7",
+      "slotId": "Front_plate",
+      "parentId": "6a6d3f911203a4f7ba60b1c8"
+    },
+    {
+      "_id": "6a6d3fb822cfd3a5c704770f",
+      "_tpl": "656fae5f7c2d57afe200c0d7",
+      "slotId": "Back_plate",
+      "parentId": "6a6d3f911203a4f7ba60b1c8"
+    },
+    {
+      "_id": "6a6d3fb5375a3d6a4e1a22e1",
+      "_tpl": "6959f5328aa6eaf6ea62b797",
+      "slotId": "Soft_armor_front",
+      "parentId": "6a6d3f911203a4f7ba60b1c8"
+    },
+    {
+      "_id": "6a6d3fb2137246e153a9f160",
+      "_tpl": "6959f60089e07cdf6f62b79d",
+      "slotId": "Soft_armor_back",
+      "parentId": "6a6d3f911203a4f7ba60b1c8"
+    },
     {
       "_id": "6a6d2fb4fe0bdf9229610dbc", //NFM THOR MCVS Overt plate carrier (MultiCam) - LL1 - Roubles
       "_tpl": "69577b2faab33d9b959d4f9e",
@@ -2109,6 +2641,45 @@
   ],
   "barter_scheme": 
   {
+    //TYR Tactical PICO-DS Assaulters plate carrier (MultiCam) - LL1 - Roubles
+    "6a6d4c0d3b14c0da01e5e18f":  [ [ { "count": 64954,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
+
+    //WARTECH TV-119 plate carrier (A-TACS FG) - LL1 - Roubles
+    "6a6d48c76d206d9247817715":  [ [ { "count": 121256,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
+
+    //Custom Gear CGPC3 plate carrier - LL1 - Roubles
+    "6a6d483d484d7329cc945407":  [ [ { "count": 215341,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
+
+    //Custom Gear CGPC3 plate carrier (Vz95) - LL1 - Roubles
+    "6a6d47b3893642e33c9e5b9e":  [ [ { "count": 113514,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
+
+    //Ferro Concepts The Slickster plate carrier (MultiCam) - LL1 - Roubles
+    "6a6d475f7ad7fb067fb2ce4e":  [ [ { "count": 48794,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
+
+    //Shellback Tactical Rampage 2.0 plate carrier (Pointman, Wolf Grey) - LL1 - Roubles
+    "6a6d46d0a50ef216cd965d5d":  [ [ { "count": 182343,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
+
+    //Velmet PERUN-6 SOF LC plate carrier (MaWka) - LL1 - Roubles
+    "6a6d42fff7fe9eebc3b30fd1":  [ [ { "count": 190541,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
+
+    //Crye Precision JPC 2.0 (Black Division) - LL1 - Roubles
+    "6a6d427ccfdd9fcd626a3d8b":  [ [ { "count": 117651,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
+    
+    //Crye Precision JPC 2.0 (MultiCam Tropic) - LL1 - Roubles
+    "6a6d41b82e7a8e5697d93244":  [ [ { "count": 67132,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
+
+    //Crye Precision JPC 2.0 (Coyote Brown) - LL1 - Roubles
+    "6a6d414daa99c05cf347c3af":  [ [ { "count": 146513,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
+
+    //WARTECH TV-110 plate carrier (OMON) - LL1 - Roubles
+    "6a6d40ed8fa1673f918fbfac":  [ [ { "count": 71325,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
+    
+    //IOTV Gen4 TAPS hybrid plate carrier (MultiCam) - LL1 - Roubles
+    "6a6d401c8a57a087dca51d5a":  [ [ { "count": 131145,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
+    
+    //Spiritus Systems LV-120 plate carrier (Goons Edition) - LL1 - Roubles
+    "6a6d3f911203a4f7ba60b1c8":  [ [ { "count": 136941,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
+    
     //NFM THOR MCVS Overt plate carrier (MultiCam) - LL1 - Roubles
     "6a6d2fb4fe0bdf9229610dbc":  [ [ { "count": 76541,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
       
@@ -2432,6 +3003,19 @@
   },
   "loyal_level_items":
   {
+    "6a6d4c0d3b14c0da01e5e18f": 1, //TYR Tactical PICO-DS Assaulters plate carrier (MultiCam) - LL1 - Roubles
+    "6a6d48c76d206d9247817715": 1, //WARTECH TV-119 plate carrier (A-TACS FG) - LL1 - Roubles
+    "6a6d483d484d7329cc945407": 1, //Custom Gear CGPC3 plate carrier - LL1 - Roubles
+    "6a6d47b3893642e33c9e5b9e": 1, //Custom Gear CGPC3 plate carrier (Vz95) - LL1 - Roubles
+    "6a6d475f7ad7fb067fb2ce4e": 1, //Ferro Concepts The Slickster plate carrier (MultiCam) - LL1 - Roubles
+    "6a6d46d0a50ef216cd965d5d": 1, //Shellback Tactical Rampage 2.0 plate carrier (Pointman, Wolf Grey) - LL1 - Roubles
+    "6a6d42fff7fe9eebc3b30fd1": 1, //Velmet PERUN-6 SOF LC plate carrier (MaWka) - LL1 - Roubles
+    "6a6d427ccfdd9fcd626a3d8b": 1, //Crye Precision JPC 2.0 (Black Division)
+    "6a6d41b82e7a8e5697d93244": 1, //Crye Precision JPC 2.0 (MultiCam Tropic) - LL1 - Roubles
+    "6a6d414daa99c05cf347c3af": 1, //Crye Precision JPC 2.0 (Coyote Brown) - LL1 - Roubles
+    "6a6d40ed8fa1673f918fbfac": 1, //WARTECH TV-110 plate carrier (OMON) - LL1 - Roubles
+    "6a6d401c8a57a087dca51d5a": 1, //IOTV Gen4 TAPS hybrid plate carrier (MultiCam) - LL1 - Roubles
+    "6a6d3f911203a4f7ba60b1c8": 1, //Spiritus Systems LV-120 plate carrier (Goons Edition) - LL1 - Roubles
     "6a6d2fb4fe0bdf9229610dbc": 1, //NFM THOR MCVS Overt plate carrier (MultiCam) - LL1 - Roubles
     "6a6d2ba93588511f1f7ccf65": 1, //NFM THOR MCVS Overt plate carrier (Olive Drab) - LL1 - Roubles
     "6a6d281bd600cd4e6dbd003f": 1, //6B46 plate carrier (EMR) - LL1 - Roubles
