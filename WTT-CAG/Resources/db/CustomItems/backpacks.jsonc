@@ -11,7 +11,7 @@
       "ExaminedByDefault": true,
       "Weight": 3.65,
       "Height": 6,
-      "Width": 4,
+      "Width": 5,
       "CanSellOnRagfair": true,
       "weaponErgonomicPenalty": -8,
       "speedPenaltyPercent": -6,
@@ -23,7 +23,7 @@
           "_parent": "68bf98e1f2f8268bb7c10592",
           "_props": {
             "cellsH": 5,
-            "cellsV": 6,
+            "cellsV": 7,
             "filters": [
               {
                 "ExcludedFilter": [
@@ -91,7 +91,7 @@
       "ExaminedByDefault": true,
       "Weight": 1.022,
       "Height": 6,
-      "Width": 4,
+      "Width": 5,
       "CanSellOnRagfair": false,
       "weaponErgonomicPenalty": -4.5,
       "speedPenaltyPercent": -3.3,
@@ -103,7 +103,7 @@
           "_parent": "69f9c3a90471f43d0b158eef",
           "_props": {
             "cellsH": 5,
-            "cellsV": 6,
+            "cellsV": 7,
             "filters": [
               {
                 "ExcludedFilter": [
