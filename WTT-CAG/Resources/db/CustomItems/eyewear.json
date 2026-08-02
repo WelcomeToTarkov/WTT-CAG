@@ -27,8 +27,8 @@
     "addtoModSlots": false,
     "modSlot": [],
     "addtoTraders": false,
-    "fleaPriceRoubles": 14356,
-    "handbookPriceRoubles": 13495,
+    "fleaPriceRoubles": 5000,
+    "handbookPriceRoubles": 3000,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
@@ -81,7 +81,7 @@
     "modSlot": [],
     "addtoTraders": false,
     "fleaPriceRoubles": 14356,
-    "handbookPriceRoubles": 13495,
+    "handbookPriceRoubles": 3000,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {

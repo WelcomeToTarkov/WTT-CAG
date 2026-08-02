@@ -23,13 +23,7 @@
   "isCanTransferItems": false,
   "isCanTransferItemsFromPve": false,
   "items_buy": {
-    "category": [
-      "543be5f84bdc2dd4348b456a",
-      "5795f317245977243854e041",
-      "5448e5284bdc2dcb718b4567",
-      "5448e53e4bdc2d60728b4567",
-      "6759673c76e93d8eb20b2080"
-    ],
+    "category": [],
     "id_list": []
   },
   "items_buy_prohibited": {
@@ -249,7 +243,7 @@
   "location": "Tarkov's Shoreline",
   "loyaltyLevels": [
     {
-      "buy_price_coef": 80,
+      "buy_price_coef": 25,
       "exchange_price_coef": 0,
       "heal_price_coef": 0,
       "insurance_price_coef": "10",
@@ -259,7 +253,7 @@
       "repair_price_coef": 195
     },
     {
-      "buy_price_coef": 60,
+      "buy_price_coef": 25,
       "exchange_price_coef": 0,
       "heal_price_coef": 0,
       "insurance_price_coef": "11",
@@ -269,7 +263,7 @@
       "repair_price_coef": 170
     },
     {
-      "buy_price_coef": 41,
+      "buy_price_coef": 25,
       "exchange_price_coef": 0,
       "heal_price_coef": 0,
       "insurance_price_coef": "12",
@@ -279,7 +273,7 @@
       "repair_price_coef": 160
     },
     {
-      "buy_price_coef": 29,
+      "buy_price_coef": 25,
       "exchange_price_coef": 0,
       "heal_price_coef": 0,
       "insurance_price_coef": "13",
