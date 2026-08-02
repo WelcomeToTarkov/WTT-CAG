@@ -252,7 +252,7 @@
       "buy_price_coef": 80,
       "exchange_price_coef": 0,
       "heal_price_coef": 0,
-      "insurance_price_coef": 10,
+      "insurance_price_coef": "10",
       "minLevel": 1,
       "minSalesSum": 0,
       "minStanding": 0,
