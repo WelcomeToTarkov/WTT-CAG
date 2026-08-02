@@ -15,7 +15,7 @@ public record ModMetadata : AbstractModMetadata
 {
     public override string ModGuid { get; init; } = "com.wtt.cag";
     public override string Name { get; init; } = "WTT-CAG";
-    public override string Author { get; init; } = "GrooveypenguinX, ProbablyEukyre, Tron";
+    public override string Author { get; init; } = "The WTT Team";
     public override List<string>? Contributors { get; init; } = null;
     public override SemanticVersioning.Version Version { get; init; } = new(typeof(ModMetadata).Assembly.GetName().Version?.ToString(3));
     public override Range SptVersion { get; init; } = new("~4.0.1");
