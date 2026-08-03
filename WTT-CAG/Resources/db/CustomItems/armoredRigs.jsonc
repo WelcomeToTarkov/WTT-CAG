@@ -5651,5 +5651,349 @@
         "_type": "Preset"
       }
     ]
+  },
+  "6a6f393774fe82b686c4a83a": { // Haley Strategic THORAX plate carrier (Coyote Tan)
+    "itemTplToClone": "61bcc89aef0f505f0c6cd0fc",
+    "parentId": "5448e5284bdc2dcb718b4567",
+    "handbookParentId": "5b5f6f8786f77447ed563642",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Bodywear/armoredRigs/item_equipment_vest_hsp_thorax_tan.bundle",
+        "rcid": ""
+      },
+      "Name": "item_equipment_vest_hsp_thorax_tan",
+      "Weight": 0.68,
+      "Width": 3,
+      "Height": 3,
+      "mousePenalty": -2,
+      "speedPenaltyPercent": -2,
+      "weaponErgonomicPenalty": 0,
+      "RigLayoutName": "hsp_thorax",
+      "Grids": [
+        {
+          "_id": "6a6f3991385df66f43c4a83b",
+          "_name": "GridView (1)",
+          "_parent": "6a6f393774fe82b686c4a83a",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "d62dd962d19d3bfe99d4c878",
+          "_name": "GridView (2)",
+          "_parent": "6a6f393774fe82b686c4a83a",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "e8606c474c8a6ad6321f18bb",
+          "_name": "GridView (3)",
+          "_parent": "6a6f393774fe82b686c4a83a",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "577f56076c898b76e3b8053c",
+          "_name": "GridView (4)",
+          "_parent": "6a6f393774fe82b686c4a83a",
+          "_props": {
+            "cellsH": 2,
+            "cellsV": 1,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "7a31b2372c739436efc07bee",
+          "_name": "GridView (5)",
+          "_parent": "6a6f393774fe82b686c4a83a",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 1,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ],
+      "Slots": [
+        {
+          "_id": "6a6f39d776b0ee22bac4a83f",
+          "_mergeSlotWithChildren": true,
+          "_name": "Front_plate",
+          "_parent": "6a6f393774fe82b686c4a83a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa76500d62bcd2e024080",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "65573fa5655447403702a816",
+                  "64afc71497cf3a403c01ff38",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041"
+                ],
+                "Plate": "656fa53d94b480b8a500c0e4",
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_chest"
+                ],
+                "bluntDamageReduceFromSoftArmor": true,
+                "locked": false
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": false
+        },
+        {
+          "_id": "6a6f39d52d3ab0aa15c4a83e",
+          "_mergeSlotWithChildren": true,
+          "_name": "Back_plate",
+          "_parent": "6a6f393774fe82b686c4a83a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa76500d62bcd2e024080",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "65573fa5655447403702a816",
+                  "64afc71497cf3a403c01ff38",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041"
+                ],
+                "Plate": "656fa53d94b480b8a500c0e4",
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_back"
+                ],
+                "bluntDamageReduceFromSoftArmor": true,
+                "locked": false
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": false
+        },
+        {
+          "_id": "6a6f39dacb486fae3cc4a840",
+          "_mergeSlotWithChildren": true,
+          "_name": "Left_side_plate",
+          "_parent": "6a6f393774fe82b686c4a83a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6557458f83942d705f0c4962",
+                  "64afdb577bb3bfe8fe03fd1d",
+                  "64afd81707e2cf40e903a316"
+                ],
+                "Plate": "6557458f83942d705f0c4962",
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SSAPI_side_right_high"
+                ],
+                "bluntDamageReduceFromSoftArmor": true,
+                "locked": false
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": false
+        },
+        {
+          "_id": "6a6f39ddd9fcd1e9d3c4a841",
+          "_mergeSlotWithChildren": true,
+          "_name": "Right_side_plate",
+          "_parent": "6a6f393774fe82b686c4a83a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6557458f83942d705f0c4962",
+                  "64afdb577bb3bfe8fe03fd1d",
+                  "64afd81707e2cf40e903a316"
+                ],
+                "Plate": "6557458f83942d705f0c4962",
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SSAPI_side_right_high"
+                ],
+                "bluntDamageReduceFromSoftArmor": true,
+                "locked": false
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Haley Strategic THORAX plate carrier (Coyote Tan)",
+        "shortName": "THORAX",
+        "description": "The THORAX is a modular plate carrier developed by Haley Strategic Partners to meet the demands of modern military, law enforcement, and security professionals. Designed with operator comfort and adaptability in mind, it features lightweight construction, integrated cable management, scalable load-bearing options, and compatibility with a wide range of mission-specific equipment. The carrier accommodates standard SAPI and ESAPI armor plates while maintaining a low-profile design suitable for prolonged operations. Coyote Tan version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "traders": {},
+    "fleaPriceRoubles": 45400,
+    "handbookPriceRoubles": 15000,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "6a6f393774fe82b686c4a83a",
+        "_id": "6a6f77552b39b42db1c4a84c",
+        "_items": [
+          {
+            "_id": "6a6f39125777fa25dfc4a835",
+            "_tpl": "6a6f393774fe82b686c4a83a",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "6a6f77517a7b19a768c4a849",
+            "_tpl": "656fa53d94b480b8a500c0e4",
+            "slotId": "Front_plate",
+            "parentId": "6a6f39125777fa25dfc4a835"
+          },
+          {
+            "_id": "6a6f77506d4477e19bc4a848",
+            "_tpl": "656fa53d94b480b8a500c0e4",
+            "slotId": "Back_plate",
+            "parentId": "6a6f39125777fa25dfc4a835"
+          },
+          {
+            "_id": "6a6f7752ee4b26efa4c4a84a",
+            "_tpl": "6557458f83942d705f0c4962",
+            "slotId": "Left_side_plate",
+            "parentId": "6a6f39125777fa25dfc4a835"
+          },
+          {
+            "_id": "6a6f77529cf2f17a4cc4a84b",
+            "_tpl": "6557458f83942d705f0c4962",
+            "slotId": "Right_side_plate",
+            "parentId": "6a6f39125777fa25dfc4a835"
+          }
+        ],
+        "_name": "Armored Rig HSPThorax Stock Preset",
+        "_parent": "6a6f39125777fa25dfc4a835",
+        "_type": "Preset"
+      }
+    ]
   }
 }
