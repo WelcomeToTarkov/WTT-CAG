@@ -1656,7 +1656,7 @@
     
         {
           "_id": "69653b6560fcf0a0300ac5d8", // Crye Precision AirFrame helmet (Black)  
-          "_tpl": "6955714f0a371ee4bed8e29e",
+          "_tpl": "6a0b240373d8e8a532c4d55a",
           "parentId": "hideout",
           "slotId": "hideout",
           "upd": 
@@ -2869,7 +2869,7 @@
     "6a6d42fff7fe9eebc3b30fd1":  [ [ { "count": 190541,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
 
     //Crye Precision JPC 2.0 (MultiCam Tropic) 
-    "6a6d41b82e7a8e5697d93244":  [ [ { "count": 67132,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
+    "6a6d41b82e7a8e5697d93244":  [ [ { "count": 138372,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
 
     //Crye Precision JPC 2.0 (Coyote Brown) 
     "6a6d414daa99c05cf347c3af":  [ [ { "count": 146513,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
@@ -2896,13 +2896,13 @@
     "69653b6560fcf0a0300ac582":  [ [ { "count": 58761,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
     // Ops-Core FAST XP high cut helmet (MultiCam)  
-    "69653b6560fcf0a0300ac586":  [ [ { "count": 46841,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+    "69653b6560fcf0a0300ac586":  [ [ { "count": 85852,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
     // Ops-Core FAST XP high cut helmet (Urban Tan)  
-    "69653b6560fcf0a0300ac589":  [ [ { "count": 46841,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+    "69653b6560fcf0a0300ac589":  [ [ { "count": 85852,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
     // Ops-Core FAST XP high cut helmet  
-    "69653b6560fcf0a0300ac58c":  [ [ { "count": 46841,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
+    "69653b6560fcf0a0300ac58c":  [ [ { "count": 85852,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
 
     // BroneTorg BTSh-6 "Sapsan" high cut helmet  
     "69653b6560fcf0a0300ac58f":  [ [ { "count": 61153,  "_tpl": "5449016a4bdc2d6f028b456f" } ] ],
