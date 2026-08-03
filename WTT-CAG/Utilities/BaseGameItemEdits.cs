@@ -1,21 +1,17 @@
-﻿using SPTarkov.DI.Annotations;
+﻿using JetBrains.Annotations;
+using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.DI;
 using SPTarkov.Server.Core.Models.Common;
 using SPTarkov.Server.Core.Models.Eft.Common.Tables;
-using SPTarkov.Server.Core.Models.Utils;
-using SPTarkov.Server.Core.Services;
+using SPTarkov.Server.Core.Models.Spt.Tables;
 using WTTServerCommonLib.Helpers;
 
 namespace WTTCAG.Utilities;
 
-[Injectable(typePriority: OnLoadOrder.PostDBModLoader + 3)]
-public class BaseGameItemEdits(
-    ISptLogger<BaseGameItemEdits> logger,
-    DatabaseService databaseService,
-    SlotHelper slotHelper
-):IOnLoad
+[Injectable(TypePriority = OnLoadOrder.PostLoad + 3), UsedImplicitly]
+public class BaseGameItemEdits(TemplateTable templateTable, SlotHelper slotHelper ) : IOnLoad
 {
-    public Task OnLoad()
+    public Task OnLoadAsync(CancellationToken cancellationToken)
     {
         EditFilters();
         return Task.CompletedTask;
@@ -23,69 +19,73 @@ public class BaseGameItemEdits(
 
     private void EditFilters()
     {
-        var dbItems = databaseService.GetItems();
+        var dbItems = templateTable.Items;
         foreach (var (id, item) in dbItems)
         {
+            
             switch (id)
             {
+                //Pushing DTNVGs to TATM mount
                 case "5a16b8a9fcdbcb00165aa6ca":
+                {
                     ModifySlotFilters(item, 0, 0, [
                         "6974ce066e50d4be623b8d9b",
                         "6974cf52ee1fb8a0683b8d9d"
                     ]);
-                    break; //Pushing DTNVGs to TATM mount
+                    break;
+                }
+                // Replacing the Caiman Helmet without overwriting the bundle because i need shit from that bundle lmao
                 case "5f60b34a41e30a4ab12a6947":
-                    item.Properties.Prefab.Path = "Headwear/helmets/galvion_caiman/helmet_caiman_bump_grey.bundle";
-                    break; // Replacing the Caiman Helmet without overwriting the bundle because i need shit from that bundle lmao
-                case "657bbad7a1c61ee0c3036323":
-                    item.Properties.ArmorClass = 1;
+                {
+                    item.Properties!.Prefab!.Path = "Headwear/helmets/galvion_caiman/helmet_caiman_bump_grey.bundle";
+                    break;
+                }
+                case "657bbad7a1c61ee0c3036323": // Making the Caiman bump shit (top armor)
+                case "657bbb31b30eca9763051183": // Making the Caiman bump shit (back armor)
+                {
+                    item.Properties!.ArmorClass = 1;
                     item.Properties.Durability = 10;
                     item.Properties.MaxDurability = 10;
-                    break; // Making the Caiman bump shit (Armor Top)
-                case "657bbb31b30eca9763051183":
-                    item.Properties.ArmorClass = 1;
-                    item.Properties.Durability = 10;
-                    item.Properties.MaxDurability = 10;
-                    break; // Making the Caiman bump shit (Armor Back)
+                    break;
+                }
                 case "65719f0775149d62ce0a670b":
-                    item.Properties.Prefab.Path = "Headwear/helmets/tor-2/item_equipment_helmet_tor_2.bundle"; // Tor-2 Prefab Path
-                    slotHelper.EnsureSlot(item, "mod_cover", "55d30c4c4bdc2db4468b457e", false, false, 0);
-
+                {
+                    // New Tor-2 Prefab Path
+                    item.Properties!.Prefab!.Path = "Headwear/helmets/tor-2/item_equipment_helmet_tor_2.bundle";
+                    slotHelper.EnsureSlot(item, "mod_cover", "55d30c4c4bdc2db4468b457e");
+                    // New Tor-2 Mod Slots
                     slotHelper.AddIdsToNamedSlot(item, "mod_cover",
                         "69d6dcfb46cc268b92906d4e",
                         "69d6df1e2053bc5e41906d4f",
                         "69d6df883c2d93f229906d51",
                         "69d6dfa9f3b8a5d1b4906d52",
-                        "69d6dfc41d822714a7906d53"); // Tor-2 Modslots
+                        "69d6dfc41d822714a7906d53");
                     break;
+                }
                 case "5b432d215acfc4771e1c6624":
-                    item.Properties.Prefab.Path = "Headwear/helmets/lshz/item_equipment_helmet_lshz_highcut.bundle"; // LShZ prefab path
-                    slotHelper.EnsureSlot(item, "mod_cover", "55d30c4c4bdc2db4468b457e", false, false, 0);
+                {
+                    // New LShZ Prefab
+                    item.Properties!.Prefab!.Path = "Headwear/helmets/lshz/item_equipment_helmet_lshz_highcut.bundle";
+                    // New LShZ Mod Slot
+                    slotHelper.EnsureSlot(item, "mod_cover", "55d30c4c4bdc2db4468b457e");
                     slotHelper.AddIdsToNamedSlot(item, "mod_cover",
                         "6a32bd63cdc9d6712b6ffae0",
                         "6a32b342d54ecde6786ffadf",
                         "6a32bd8954d48c508b6ffae1",
                         "6a32c1e01b484ff5e86ffae2",
-                        "6a32c3bfef7e9753a16ffae3"); // LShZ (HC) new slot
-
+                        "6a32c3bfef7e9753a16ffae3");
+                    // Remove LShZ Side Armor
                     ModifySlotFilters(item, 0, 0, [
                         "5a16b672fcdbcb001912fa83",
                         "5a16b7e1fcdbcb00165aa6c9"
-                    ]); // LShZ removal of side armor
+                    ]);
                     break;
+                }
             }
         }
     }
-    
-    private void ReplaceSlotFilters(TemplateItem item, int slotIndex, int filterIndex, HashSet<MongoId> ids)
-    {
-        var slot = GetSlotAtIndex(item, slotIndex);
-        var filter = GetSlotFilterAtIndex(slot, filterIndex);
 
-        filter.Filter = ids;
-    }
-
-    private void ModifySlotFilters(TemplateItem item, int slotIndex, int filterIndex, List<MongoId> ids, bool isCartridge = false)
+    private static void ModifySlotFilters(TemplateItem item, int slotIndex, int filterIndex, List<MongoId> ids, bool isCartridge = false)
     {
         var slot = GetSlotAtIndex(item, slotIndex, isCartridge);
         var filter = GetSlotFilterAtIndex(slot, filterIndex);
@@ -93,7 +93,7 @@ public class BaseGameItemEdits(
         filter.Filter!.UnionWith(ids);
     }
     
-    private Slot GetSlotAtIndex(TemplateItem item, int index, bool isCartridge = false)
+    private static Slot GetSlotAtIndex(TemplateItem item, int index, bool isCartridge = false)
     {
         var slots = isCartridge ? item.Properties?.Cartridges?.ToArray() : item.Properties?.Slots?.ToArray();
 
@@ -105,7 +105,7 @@ public class BaseGameItemEdits(
         throw new IndexOutOfRangeException($"Index on item slot property `{item.Name}` is out of range");
     }
 
-    private SlotFilter GetSlotFilterAtIndex(Slot slot, int index)
+    private static SlotFilter GetSlotFilterAtIndex(Slot slot, int index)
     {  
         var slotFilter = slot.Properties?.Filters?.ToArray() ?? [];
 

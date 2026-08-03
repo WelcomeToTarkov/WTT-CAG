@@ -13,7 +13,7 @@
     },
     "topBundlePath": "Clothing/Uppers/VKPO_EMR/top_ruaf_vkpo_emr.bundle",
     "handsBundlePath": "Clothing/Hands/VKPO_EMR/top_ruaf_vkpo_emr_skin.bundle",
-    "traderId": "RAGMAN",
+    "traderId": "HOSER",
     "side": [
       "Bear"
     ],
@@ -37,7 +37,7 @@
     },
     "topBundlePath": "Clothing/Uppers/OPS_MGS_TTsKO/ttsko_bear_ops_main.bundle",
     "handsBundlePath": "Clothing/Hands/OPS_MGS_TTsKO/ttsko_bear_ops_hands.bundle",
-    "traderId": "RAGMAN",
+    "traderId": "HOSER",
     "side": [
       "Bear"
     ],
@@ -61,7 +61,7 @@
     },
     "topBundlePath": "Clothing/Uppers/BEAR_TELNIK_TUCKED/telnik_blue_tucked.bundle",
     "handsBundlePath": "assets/content/hands/hands_bear_telnik/hands_bear_telnik.skin.bundle",
-    "traderId": "RAGMAN",
+    "traderId": "HOSER",
     "side": [
       "Bear"
     ],
@@ -85,7 +85,7 @@
     },
     "topBundlePath": "Clothing/Uppers/BEAR_CONTRACTOR/contractor_tshirt_lousy.bundle",
     "handsBundlePath": "assets/content/hands/hands_tshirt_bear_black/hands_tshirt_bear_black.skin.bundle",
-    "traderId": "RAGMAN",
+    "traderId": "HOSER",
     "side": [
       "Bear",
       "Usec"
@@ -108,7 +108,7 @@
       }
     },
     "bottomBundlePath": "Clothing/Lowers/Gorka/trousers_gorka_norm.bundle",
-    "traderId": "RAGMAN",
+    "traderId": "HOSER",
     "side": [
       "Bear",
       "Usec"
@@ -135,7 +135,7 @@
     },
     "topBundlePath": "Clothing/Uppers/USEC_GRYPHON/top_usec_gryphon_partizan.bundle",
     "handsBundlePath": "Clothing/Hands/USEC_GRYPHON/hands_usec_gryphon_partizan.bundle",
-    "traderId": "RAGMAN",
+    "traderId": "HOSER",
     "side": [
       "Usec"
     ],
@@ -159,7 +159,7 @@
     },
     "topBundlePath": "Clothing/Uppers/USEC_GRYPHON/top_usec_gryphon_mc.bundle",
     "handsBundlePath": "Clothing/Hands/USEC_GRYPHON/hands_usec_gryphon_mc.bundle",
-    "traderId": "RAGMAN",
+    "traderId": "HOSER",
     "side": [
       "Usec"
     ],

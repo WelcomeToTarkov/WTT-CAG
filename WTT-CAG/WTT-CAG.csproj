@@ -1,22 +1,19 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>net9.0</TargetFramework>
-    <RootNamespace>WTT-CAG</RootNamespace>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>WTTCAG</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <OutputType>Library</OutputType>
-    <Version>1.0.0+pre2</Version>
+    <Version>1.1.0</Version>
     <!-- The two lines below will set the output path for the binaries -->
     <OutputPath>bin\$(Configuration)\$(ProjectName)\$(AssemblyName)-$(Version)\</OutputPath>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="SPTarkov.Common" Version="4.0.13" />
-    <PackageReference Include="SPTarkov.DI" Version="4.0.13" />
-    <PackageReference Include="SPTarkov.Server.Core" Version="4.0.13" />
-    <PackageReference Include="WTT-ServerCommonLib" Version="2.0.20" />
+    <PackageReference Include="WTT-ServerCommonLib" Version="3.0.3" />
   </ItemGroup>
 
   <ItemGroup>
