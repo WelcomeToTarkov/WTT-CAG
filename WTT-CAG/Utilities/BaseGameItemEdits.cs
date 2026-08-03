@@ -6,7 +6,7 @@ using SPTarkov.Server.Core.Models.Eft.Common.Tables;
 using SPTarkov.Server.Core.Models.Spt.Tables;
 using WTTServerCommonLib.Helpers;
 
-namespace WTTCAG.Utilities;
+namespace WTTClothingAndGear.Utilities;
 
 [Injectable(TypePriority = OnLoadOrder.PostLoad + 3), UsedImplicitly]
 public class BaseGameItemEdits(TemplateTable templateTable, SlotHelper slotHelper ) : IOnLoad

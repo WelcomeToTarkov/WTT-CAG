@@ -7,7 +7,7 @@ using SPTarkov.Server.Core.Models.Spt.Config;
 using SPTarkov.Server.Core.Models.Spt.Tables;
 using SPTarkov.Server.Core.Utils.Cloners;
 
-namespace WTTCAG.Traders;
+namespace WTTClothingAndGear.Traders;
 
 [Injectable(TypePriority = OnLoadOrder.TraderRegistration + 2)]
 public class TraderHelper(

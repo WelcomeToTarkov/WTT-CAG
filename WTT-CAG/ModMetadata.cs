@@ -3,7 +3,7 @@ using SPTarkov.Server.Core.Models.Spt.Mod;
 using Range = SemanticVersioning.Range;
 using Version = SemanticVersioning.Version;
 
-namespace WTTCAG;
+namespace WTTClothingAndGear;
 
 [UsedImplicitly]
 public record ModMetadata : IModMetadata

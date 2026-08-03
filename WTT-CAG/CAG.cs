@@ -4,7 +4,7 @@ using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.DI;
 using WTTServerCommonLib.Models;
 
-namespace WTTCAG;
+namespace WTTClothingAndGear;
 
 [Injectable(TypePriority = OnLoadOrder.TraderRegistration + 3), UsedImplicitly]
 public class WTTCAG(WTTServerCommonLib.WTTServerCommonLib wttCommon) : IOnLoad

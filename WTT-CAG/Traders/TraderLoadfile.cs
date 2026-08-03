@@ -9,7 +9,7 @@ using SPTarkov.Server.Core.Routers;
 using SPTarkov.Server.Core.Utils;
 using Path = System.IO.Path;
 
-namespace WTTCAG.Traders;
+namespace WTTClothingAndGear.Traders;
 
 [Injectable(TypePriority = OnLoadOrder.TraderRegistration + 1), UsedImplicitly]
 public class WTTCAG_TraderLoad(
