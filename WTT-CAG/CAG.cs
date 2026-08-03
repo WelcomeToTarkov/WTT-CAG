@@ -9,19 +9,18 @@ namespace WTTClothingAndGear;
 [Injectable(TypePriority = OnLoadOrder.TraderRegistration + 3), UsedImplicitly]
 public class WTTCAG(WTTServerCommonLib.WTTServerCommonLib wttCommon) : IOnLoad
 {
-    public Task OnLoadAsync(CancellationToken cancellationToken)
+    public async Task OnLoadAsync(CancellationToken cancellationToken)
     {
         var assembly = Assembly.GetExecutingAssembly();
 
         TraderIds.Add("HOSER", "69eccbae0764116786033c2e");
 
-        wttCommon.CustomItemServiceExtended.CreateCustomItems(assembly);
-        wttCommon.CustomLocaleService.CreateCustomLocales(assembly);
-        wttCommon.CustomBotLoadoutService.CreateCustomBotLoadouts(assembly);
-        wttCommon.CustomClothingService.CreateCustomClothing(assembly);
+        await wttCommon.CustomItemServiceExtended.CreateCustomItems(assembly);
+        await wttCommon.CustomLocaleService.CreateCustomLocales(assembly);
+        await wttCommon.CustomBotLoadoutService.CreateCustomBotLoadouts(assembly);
+        await wttCommon.CustomClothingService.CreateCustomClothing(assembly);
+        await wttCommon.CustomHideoutRecipeService.CreateHideoutRecipes(assembly);
         wttCommon.CustomRigLayoutService.CreateRigLayouts(assembly);
         wttCommon.CustomSlotImageService.CreateSlotImages(assembly);
-        wttCommon.CustomHideoutRecipeService.CreateHideoutRecipes(assembly);
-        return Task.CompletedTask;
     }
 }
