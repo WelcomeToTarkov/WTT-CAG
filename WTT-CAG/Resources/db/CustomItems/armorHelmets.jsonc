@@ -887,9 +887,9 @@
             "filters": [
               {
                 "locked": true,
-                "Plate": "657bbad7a1c61ee0c3036323",
+                "Plate": "69d4241a7179e6df13eb31ec",
                 "Filter": [
-                  "657bbad7a1c61ee0c3036323"
+                  "69d4241a7179e6df13eb31ec"
                 ],
                 "armorColliders": [
                   "ParietalHead"
@@ -911,9 +911,9 @@
             "filters": [
               {
                 "locked": true,
-                "Plate": "657bbb31b30eca9763051183",
+                "Plate": "69d424178da70bbf80eb31eb",
                 "Filter": [
-                  "657bbb31b30eca9763051183"
+                  "69d424178da70bbf80eb31eb"
                 ],
                 "armorColliders": [
                   "BackHead"
@@ -998,13 +998,13 @@
           },
           {
             "_id": "680be275e4d83de168209594",
-            "_tpl": "657bbad7a1c61ee0c3036323",
+            "_tpl": "69d4241a7179e6df13eb31ec",
             "parentId": "680be2639f5d04d65c22526c",
             "slotId": "Helmet_top"
           },
           {
             "_id": "680be27816fb5909a0a6fdfc",
-            "_tpl": "657bbb31b30eca9763051183",
+            "_tpl": "69d424178da70bbf80eb31eb",
             "parentId": "680be2639f5d04d65c22526c",
             "slotId": "Helmet_back"
           },
