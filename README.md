@@ -1,3 +1,5 @@
+# WARNING: THIS IS A 4.1 DEV BRANCH, BUGFIXES FROM 4.0 HAVE MOST LIKELY NOT BEEN IMPLEMENTED
+
 WTT-Clothing and Gear (CAG) is the WTT-Armory equivalent for clothing mods, adding new high-quality Clothing, Armor, and Headgear to the game, all of which is friendly to the style of Tarkov's existing assets. 
 
 The mod contains a large variety of Clothing and Gear from (mostly) real designs, all of which has been balanced.
