@@ -8,6 +8,7 @@ using SPTarkov.Server.Core.Routers;
 using SPTarkov.Server.Core.Servers;
 using SPTarkov.Server.Core.Utils;
 using System.Reflection;
+using WTTCAG.Utilities;
 using Path = System.IO.Path;
 
 namespace WTTCAG.Traders;
@@ -30,9 +31,11 @@ public class WTTCAG_traderload(
     {
         var pathToMod = modHelper.GetAbsolutePathToModFolder(Assembly.GetExecutingAssembly());
         
-        var traderImagePath = Path.Combine(pathToMod, "db/TraderHoser/Hoser.jpg");
-        
-        var traderBase = modHelper.GetJsonDataFromFile<TraderBase>(pathToMod, "db/TraderHoser/base.jsonc");
+        // Resolved case-insensitively so the mod loads on Linux/ext4 regardless of how these
+        // files are capitalised - see ModPathResolver.
+        var traderImagePath = Path.Combine(pathToMod, ModPathResolver.Resolve(pathToMod, "db/TraderHoser/Hoser.jpg"));
+
+        var traderBase = modHelper.GetJsonDataFromFile<TraderBase>(pathToMod, ModPathResolver.Resolve(pathToMod, "db/TraderHoser/Base.jsonc"));
 
         // Create a helper class and use it to register our traders image/icon + set its stock refresh time
         imageRouter.AddRoute(traderBase.Avatar.Replace(".jpg", ""), traderImagePath);
@@ -52,7 +55,7 @@ public class WTTCAG_traderload(
         addCustomTraderHelper.AddTraderToLocales(traderBase, "Hoser", "A Canadian PMC of unknown allegiance who split from his section during the Blue Fire. Now hiding along the Shoreline, he mostly deals in imported tactical equipment, scavenged from USEC shipping containers or RUAF supply caches.");
 
         // Get the assort data from JSON
-        var assort = modHelper.GetJsonDataFromFile<TraderAssort>(pathToMod, "db/TraderHoser/assort.jsonc");
+        var assort = modHelper.GetJsonDataFromFile<TraderAssort>(pathToMod, ModPathResolver.Resolve(pathToMod, "db/TraderHoser/Assort.jsonc"));
 
         // Save the data we loaded above into the trader we've made
         addCustomTraderHelper.OverwriteTraderAssort(traderBase.Id, assort);
