@@ -9,7 +9,7 @@ using SPTarkov.Server.Core.Utils.Cloners;
 
 namespace WTTCAG.Traders;
 
-[Injectable(TypePriority = OnLoadOrder.PostLoad + 2)]
+[Injectable(TypePriority = OnLoadOrder.TraderRegistration + 2)]
 public class TraderHelper(
     ISptLogger<TraderHelper> logger,
     ICloner cloner,

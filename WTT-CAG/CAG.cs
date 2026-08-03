@@ -6,7 +6,7 @@ using WTTServerCommonLib.Models;
 
 namespace WTTCAG;
 
-[Injectable(TypePriority = OnLoadOrder.PostLoad + 3), UsedImplicitly]
+[Injectable(TypePriority = OnLoadOrder.TraderRegistration + 3), UsedImplicitly]
 public class WTTCAG(WTTServerCommonLib.WTTServerCommonLib wttCommon) : IOnLoad
 {
     public Task OnLoadAsync(CancellationToken cancellationToken)

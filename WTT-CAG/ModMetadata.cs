@@ -20,9 +20,9 @@ public record ModMetadata : IModMetadata
     public Dictionary<string, Range>? ModDependencies { get; init; } = new()
     {
         // TODO: fine-tune dependency versions
-        { "com.wtt.commonlib", new Range("^3.0.0") },
-        { "com.wtt.contentbackport", new Range("^2.0.0") },
-        { "com.wtt.armory", new Range("^3.0.0") }
+        // { "com.wtt.commonlib", new Range("^3.0.0") },
+        // { "com.wtt.contentbackport", new Range("^2.0.0") },
+        // { "com.wtt.armory", new Range("^3.0.0") }
     };
 
     public string? Url { get; init; } = "https://github.com/WelcomeToTarkov/WTT-CAG";

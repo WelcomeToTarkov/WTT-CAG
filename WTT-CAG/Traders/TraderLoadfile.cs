@@ -11,7 +11,7 @@ using Path = System.IO.Path;
 
 namespace WTTCAG.Traders;
 
-[Injectable(TypePriority = OnLoadOrder.PostLoad + 1), UsedImplicitly]
+[Injectable(TypePriority = OnLoadOrder.TraderRegistration + 1), UsedImplicitly]
 public class WTTCAG_TraderLoad(
     ImageRouter imageRouter,
     TimeUtil timeUtil,
