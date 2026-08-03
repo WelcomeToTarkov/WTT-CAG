@@ -1,5 +1,5 @@
 ﻿{
-  "6a343ff7cee26b50ce488014": { // Rex-V headset
+  "6a343ff7cee26b50ce488014": { // Rev-X headset
     "itemTplToClone": "628e4e576d783146b124c64d",
     "parentId": "5645bcb74bdc2ded0b8b4578",
     "handbookParentId": "5b5f6f3c86f774094242ef87",
@@ -8,6 +8,21 @@
         "path": "Headwear/headsets/headset_atlanticsig_revx_coyote.bundle",
         "rcid": ""
       },
+      "ConflictingItems": [
+        "5a16b9fffcdbcb0176308b34",
+        "66b5f6a28ca68c6461709ed8",
+        "66b5f69ea7f72d197e70bcdb",
+        "69c264c00f660b3f0d058fcf", // TW Exfil Black
+        "69c26593ea474c30ad069f8f", // TW Exfil Ranger Green
+        "5c06c6a80db834001b735491",
+        "59e7708286f7742cbd762753",
+        "5b4327aa5acfc400175496e0",
+        "618aef6d0a5a59657e5f55ee",
+        "60b52e5bc7d8103275739d67",
+        "5d96141523f0ea1b7f2aacab",
+        "68bf405779c8186398099017", // TEP-300
+        "69413241b1ce1e5fbb09ed0a" // CENS ProFlex
+      ],
       "Weight": 0.58,
       "AmbientVolume": -44,
       "AmbientCompressorSendLevel": -12,
@@ -90,15 +105,18 @@
         "5a16b9fffcdbcb0176308b34",
         "66b5f6a28ca68c6461709ed8",
         "66b5f69ea7f72d197e70bcdb",
+        "69c264c00f660b3f0d058fcf", // TW Exfil Black
+        "69c26593ea474c30ad069f8f", // TW Exfil Ranger Green
         "5c06c6a80db834001b735491",
         "59e7708286f7742cbd762753",
         "5b4327aa5acfc400175496e0",
         "618aef6d0a5a59657e5f55ee",
         "60b52e5bc7d8103275739d67",
-        "5d96141523f0ea1b7f2aacab"
+        "5d96141523f0ea1b7f2aacab",
+        "68bf405779c8186398099017", // TEP-300
+        "69413241b1ce1e5fbb09ed0a" // CENS ProFlex
       ],
       "Weight": 0.426,
-      "AmbientVolume": -65,
       "ClientPlayerCompressorSendLevel": -7,
       "CompressorAttack": 35,
       "CompressorGain": 8,
@@ -108,12 +126,12 @@
       "DryVolume": -60,
       "EQBand1Frequency": 307,
       "EQBand1Gain": 1.15,
-      "EQBand1Q": 1.35,
+      "EQBand1Q": 1.2,
       "EQBand2Frequency": 2500,
-      "EQBand2Gain": 1.35,
+      "EQBand2Gain": 1.2,
       "EQBand2Q": 0.5,
       "EQBand3Frequency": 4861,
-      "EQBand3Gain": 1.35,
+      "EQBand3Gain": 1.2,
       "EQBand3Q": 0.6,
       "EffectsReturnsCompressorSendLevel": -80,
       "EffectsReturnsGroupVolume": -8,
@@ -182,15 +200,18 @@
         "5a16b9fffcdbcb0176308b34",
         "66b5f6a28ca68c6461709ed8",
         "66b5f69ea7f72d197e70bcdb",
+        "69c264c00f660b3f0d058fcf", // TW Exfil Black
+        "69c26593ea474c30ad069f8f", // TW Exfil Ranger Green
         "5c06c6a80db834001b735491",
         "59e7708286f7742cbd762753",
         "5b4327aa5acfc400175496e0",
         "618aef6d0a5a59657e5f55ee",
         "60b52e5bc7d8103275739d67",
-        "5d96141523f0ea1b7f2aacab"
+        "5d96141523f0ea1b7f2aacab",
+        "68bf405779c8186398099017", // TEP-300
+        "69413241b1ce1e5fbb09ed0a" // CENS ProFlex
       ],
       "Weight": 0.426,
-      "AmbientVolume": -65,
       "ClientPlayerCompressorSendLevel": -7,
       "CompressorAttack": 35,
       "CompressorGain": 8,
@@ -200,12 +221,12 @@
       "DryVolume": -60,
       "EQBand1Frequency": 307,
       "EQBand1Gain": 1.15,
-      "EQBand1Q": 1.35,
+      "EQBand1Q": 1.2,
       "EQBand2Frequency": 2500,
-      "EQBand2Gain": 1.35,
+      "EQBand2Gain": 1.2,
       "EQBand2Q": 0.5,
       "EQBand3Frequency": 4861,
-      "EQBand3Gain": 1.35,
+      "EQBand3Gain": 1.2,
       "EQBand3Q": 0.6,
       "EffectsReturnsCompressorSendLevel": -80,
       "EffectsReturnsGroupVolume": -8,
