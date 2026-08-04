@@ -4,13 +4,13 @@ using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.DI;
 using SPTarkov.Server.Core.Models.Eft.Common.Tables;
 using SPTarkov.Server.Core.Models.Spt.Mod;
-using WTTCAG.Helpers;
-using WTTCAG.Traders;
+using WTTClothingAndGear.Helpers;
+using WTTClothingAndGear.Traders;
 using WTTServerCommonLib.Models;
 using Path = System.IO.Path;
 using Range = SemanticVersioning.Range;
 
-namespace WTTCAG;
+namespace WTTClothingAndGear;
 
 public record ModMetadata : AbstractModMetadata
 {
@@ -34,7 +34,7 @@ public record ModMetadata : AbstractModMetadata
 
 
 [Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 2)]
-public class WTTCAG(
+public class WTTClothingAndGear(
     WTTServerCommonLib.WTTServerCommonLib wttCommon,
         CagQuestHelper cagQuestHelper
         ) : IOnLoad 

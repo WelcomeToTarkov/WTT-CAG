@@ -6,7 +6,7 @@ using SPTarkov.Server.Core.Models.Utils;
 using SPTarkov.Server.Core.Services;
 using WTTServerCommonLib.Helpers;
 
-namespace WTTCAG.Utilities;
+namespace WTTClothingAndGear.Utilities;
 
 [Injectable(typePriority: OnLoadOrder.PostDBModLoader + 3)]
 public class BaseGameItemEdits(

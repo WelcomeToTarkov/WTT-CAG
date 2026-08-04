@@ -10,10 +10,10 @@ using SPTarkov.Server.Core.Utils;
 using System.Reflection;
 using Path = System.IO.Path;
 
-namespace WTTCAG.Traders;
+namespace WTTClothingAndGear.Traders;
 
 [Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 1)]
-public class WTTCAG_traderload(
+public class WTTClothingAndGear_traderload(
     ModHelper modHelper,
     ImageRouter imageRouter,
     ConfigServer configServer,

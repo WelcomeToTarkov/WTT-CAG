@@ -5,7 +5,7 @@ using SPTarkov.Server.Core.Models.Utils;
 using SPTarkov.Server.Core.Services;
 using WTTServerCommonLib.Helpers;
 
-namespace WTTCAG.Helpers
+namespace WTTClothingAndGear.Helpers
 {
     [Injectable]
     public class CagQuestHelper(DatabaseService  databaseService, ISptLogger<CagQuestHelper> logger, QuestHelper questHelper)
