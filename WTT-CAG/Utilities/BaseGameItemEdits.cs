@@ -34,6 +34,18 @@ public class BaseGameItemEdits(
                         "6974cf52ee1fb8a0683b8d9d"
                     ]);
                     break; //Pushing DTNVGs to TATM mount
+                case "689dbded6c7e684817080c29":
+                    ModifySlotFilters(item, 0, 0, [
+                        "6974ce066e50d4be623b8d9b",
+                        "6974cf52ee1fb8a0683b8d9d"
+                    ]);
+                    break; //Pushing DTNVGs to Black Wilcox
+                case "689b8883b49f27df1c0873f8":
+                    ModifySlotFilters(item, 0, 0, [
+                        "6974ce066e50d4be623b8d9b",
+                        "6974cf52ee1fb8a0683b8d9d"
+                    ]);
+                    break; //Pushing DTNVGs to Tan Wilcox
                 case "5f60b34a41e30a4ab12a6947":
                     item.Properties.Prefab.Path = "Headwear/helmets/galvion_caiman/helmet_caiman_bump_grey.bundle";
                     break; // Replacing the Caiman Helmet without overwriting the bundle because i need shit from that bundle lmao
