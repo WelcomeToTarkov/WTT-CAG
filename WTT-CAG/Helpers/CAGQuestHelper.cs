@@ -14,7 +14,6 @@ namespace WTTClothingAndGear.Helpers
         QuestHelper questHelper)
     {
         // Define weapon IDs
-        
         // helmets
         private const string Helmet6B27 = "69e73666cbadfd79bdbe98ce";
         private const string Helmet6B27Flora = "69e7344dc0d143efe0be98c2";
@@ -49,6 +48,7 @@ namespace WTTClothingAndGear.Helpers
         private const string HelmetUntarFast = "6a71ce2a1f7262198d264238";
         private const string HelmetViperp2Black = "69e92bd85a9f81b04fa1e934";
         private const string HelmetViperp2Tan = "69e9629ebde4a54efca1e93f";
+
         // face covers
         private const string FacecoverCompassHalfshield = "6954a787a8530d7fbd513bd8";
         private const string MaskAvonFm12 = "6a090656da8c0b1a1fb424eb";
@@ -57,7 +57,9 @@ namespace WTTClothingAndGear.Helpers
         private const string MaskMsaMillenium = "689cefd7c6d829d1c30a8404";
         private const string MaskPmg = "689b7d32e920d74a02e5a63c";
         private const string MaskPmk4 = "68a60e568c72b73e32842085";
+
         private const string MaskPmk4A = "68a8dac9242e2efa4a35ecc0";
+
         // armored rigs
         private const string RigPerun6 = "69af8c67b5dd41b53dc2a14f";
         private const string Rig6B46 = "69537b77189ba5c1d5e64f4b";
@@ -75,7 +77,9 @@ namespace WTTClothingAndGear.Helpers
         private const string RigThorMcvs = "695751925e767177d0975afe";
         private const string RigThorMcvsMulticam = "69577b2faab33d9b959d4f9e";
         private const string RigTv110Omon = "69749476189c0d08d9a28f1d";
+
         private const string RigTv119Boss = "6a4d4f9bc90d6800f79ee73a";
+
         // body armor
         private const string ArmorAc1 = "6a0b8cf5e3248a7d679569a4";
         private const string ArmorGoplitS = "6a544d901e790d853ee3634e";
@@ -88,15 +92,22 @@ namespace WTTClothingAndGear.Helpers
         {
             var quests = databaseService.GetTemplates().Quests;
             // ====================== ALL NEW ITEMS ======================
-            
+
             var allArmors = new[]
             {
-                ArmorRhinoDpm, ArmorRhinoMtp, ArmorTv119Olive, ArmorTv119Multicam, ArmorAc1, ArmorGoplitS, RigTv119Boss, Rig6B46, RigLv120Ge, RigCgpc3Small, RigCgpc3Black, RigGen4Taps, RigPicoDs, RigJpcCoyote, RigJpcMcTropic, RigJpcBlackDiv, RigThorMcvs, RigThorMcvsMulticam, RigTv110Omon, RigRampage, RigSlickster, RigPerun6, RigHaleyThorax
+                ArmorRhinoDpm, ArmorRhinoMtp, ArmorTv119Olive, ArmorTv119Multicam, ArmorAc1, ArmorGoplitS, RigTv119Boss,
+                Rig6B46, RigLv120Ge, RigCgpc3Small, RigCgpc3Black, RigGen4Taps, RigPicoDs, RigJpcCoyote, RigJpcMcTropic,
+                RigJpcBlackDiv, RigThorMcvs, RigThorMcvsMulticam, RigTv110Omon, RigRampage, RigSlickster, RigPerun6,
+                RigHaleyThorax
             };
             var allHelmets = new[]
             {
-                HelmetUntarFast, HelmetIhps, HelmetFastXpTan, HelmetFastXpMulticam, HelmetFastXpBlack, HelmetBtsh6, HelmetB826, HelmetAm95, HelmetTc2000, HelmetTc2000Tan, HelmetTc2000Mesh, HelmetFastSf, HelmetFastSfTan, HelmetFastSfMulticam, HelmetF1000H, HelmetCaimanTl, HelmetCaimanTlOlive, HelmetBatlskinCobra, HelmetGalletTc500, HelmetIbh, HelmetTor2Black, Helmet6B27, Helmet6B27Flora, HelmetViperp2Black, HelmetViperp2Tan, Helmet6B71M, HelmetAirframeTan, HelmetAirframeBlack, HelmetLshzLowcut, HelmetRifletech, HelmetRifletechMulticam, HelmetKiverRsp, HelmetBk3
-                
+                HelmetUntarFast, HelmetIhps, HelmetFastXpTan, HelmetFastXpMulticam, HelmetFastXpBlack, HelmetBtsh6,
+                HelmetB826, HelmetAm95, HelmetTc2000, HelmetTc2000Tan, HelmetTc2000Mesh, HelmetFastSf, HelmetFastSfTan,
+                HelmetFastSfMulticam, HelmetF1000H, HelmetCaimanTl, HelmetCaimanTlOlive, HelmetBatlskinCobra,
+                HelmetGalletTc500, HelmetIbh, HelmetTor2Black, Helmet6B27, Helmet6B27Flora, HelmetViperp2Black,
+                HelmetViperp2Tan, Helmet6B71M, HelmetAirframeTan, HelmetAirframeBlack, HelmetLshzLowcut,
+                HelmetRifletech, HelmetRifletechMulticam, HelmetKiverRsp, HelmetBk3
             };
             var allArmoredFaceCovers = new[]
             {
@@ -119,14 +130,14 @@ namespace WTTClothingAndGear.Helpers
             // ====================== PEACEKEEPER QUESTS ======================
 
             //  Peacekeeping Mission (5c0d4c12d09282029f539173)
-            questHelper.AddArmorToEquipmentExclusive(quests, "5c0d4c12d09282029f539173", [
-                HelmetUntarFast
-            ]);
+            // questHelper.AddArmorToEquipmentInclusive(quests, "5c0d4c12d09282029f539173", [
+            //    HelmetUntarFast
+            //]);
             //  Humanitarian Supplies (5a27b87686f77460de0252a8)
-            questHelper.AddArmorToEquipmentExclusive(quests, "5a27b87686f77460de0252a8", [
-                HelmetUntarFast
-            ]);
-            
+            //questHelper.AddArmorToEquipmentInclusive(quests, "5a27b87686f77460de0252a8", [
+            //    HelmetUntarFast
+           // ]);
+
             // ====================== THERAPIST QUESTS ======================
 
             // Decontamination Services (5c0d1c4cd0928202a02a6f5c)
