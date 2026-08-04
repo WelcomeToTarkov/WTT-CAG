@@ -36,8 +36,8 @@ public record ModMetadata : AbstractModMetadata
 [Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 2)]
 public class WTTClothingAndGear(
     WTTServerCommonLib.WTTServerCommonLib wttCommon,
-        CagQuestHelper cagQuestHelper
-        ) : IOnLoad 
+    CagQuestHelper cagQuestHelper
+) : IOnLoad 
 
 {
     public async Task OnLoad()
