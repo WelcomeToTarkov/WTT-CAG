@@ -1079,7 +1079,7 @@
       "key": "Headwear/helmets/opscore_xp/fast_xp_untar.bundle",
       "dependencyKeys": [
         "cubemaps",
-        "fast_xp_shared",
+        "Headwear/helmets/opscore_xp/helmet_fast_xp_shared.bundle",
         "shaders"
       ]
     },
@@ -1096,42 +1096,42 @@
     {
       "key": "Headwear/helmets/opscore_xp/helmet_fast_xp_cover_aor2.bundle",
       "dependencyKeys": [
-        "fast_xp_shared",
+        "Headwear/helmets/opscore_xp/helmet_fast_xp_shared.bundle",
         "shaders"
       ]
     },
     {
       "key": "Headwear/helmets/opscore_xp/helmet_fast_xp_cover_desert_night.bundle",
       "dependencyKeys": [
-        "fast_xp_shared",
+        "Headwear/helmets/opscore_xp/helmet_fast_xp_shared.bundle",
         "shaders"
       ]
     },
     {
       "key": "Headwear/helmets/opscore_xp/helmet_fast_xp_cover_mc.bundle",
       "dependencyKeys": [
-        "fast_xp_shared",
+        "Headwear/helmets/opscore_xp/helmet_fast_xp_shared.bundle",
         "shaders"
       ]
     },
     {
       "key": "Headwear/helmets/opscore_xp/helmet_fast_xp_cover_mcalp.bundle",
       "dependencyKeys": [
-        "fast_xp_shared",
+        "Headwear/helmets/opscore_xp/helmet_fast_xp_shared.bundle",
         "shaders"
       ]
     },
     {
       "key": "Headwear/helmets/opscore_xp/helmet_fast_xp_cover_mcblk.bundle",
       "dependencyKeys": [
-        "fast_xp_shared",
+        "Headwear/helmets/opscore_xp/helmet_fast_xp_shared.bundle",
         "shaders"
       ]
     },
     {
       "key": "Headwear/helmets/opscore_xp/helmet_fast_xp_cover_odrab.bundle",
       "dependencyKeys": [
-        "fast_xp_shared",
+        "Headwear/helmets/opscore_xp/helmet_fast_xp_shared.bundle",
         "shaders"
       ]
     },
