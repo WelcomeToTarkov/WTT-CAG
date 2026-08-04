@@ -1080,7 +1080,8 @@
       "dependencyKeys": [
         "cubemaps",
         "Headwear/helmets/opscore_xp/helmet_fast_xp_shared.bundle",
-        "shaders"
+        "shaders",
+        "assets/content/items/equipment/helmet_opscore_fast/item_equipment_helmet_opscore_fast_black.bundle"
       ]
     },
     {

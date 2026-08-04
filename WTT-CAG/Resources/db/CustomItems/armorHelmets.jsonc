@@ -201,6 +201,200 @@
     ],
     "masterySections": []
   },
+  "6a71ce2a1f7262198d264238": { // UNTAR helmet (High Cut)
+    "itemTplToClone": "5ac8d6885acfc400180ae7b0",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Headwear/helmets/opscore_xp/fast_xp_untar.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.83,
+      "mousePenalty": -1,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": -1,
+      "CanSellOnRagfair": true,
+      "Slots": [
+        {
+          "_id": "6a71ce2e13c6be3cf226423a",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "6a71ce2a1f7262198d264238",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ea058e01dbce517f324b3e2",
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a71ce31230f54d8da26423b",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "6a71ce2a1f7262198d264238",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a71ce398484daa01a26423d",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_002",
+          "_parent": "6a71ce2a1f7262198d264238",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0e66e2d174af02a96252f4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a71ce3bd0915d44d426423e",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "6a71ce2a1f7262198d264238",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f9c78ada5fadd1f07a58d"
+                ],
+                "Plate": "657f9c78ada5fadd1f07a58d",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "6a71ce3d4bd0a0dff626423f",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "6a71ce2a1f7262198d264238",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f9cb587e11c61f70bfaca"
+                ],
+                "Plate": "657f9cb587e11c61f70bfaca",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "UNTAR high-cut helmet",
+        "shortName": "UNTAR HC",
+        "description": "A newer, modernised standard-issue helmet used by newly-deployed UN soldiers during the ongoing UNTAR mission in Tarkov."
+      }
+    },
+    "fleaPriceRoubles": 250682,
+    "handbookPriceRoubles": 18822,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 150 
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 15
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 40
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "6a71ce2a1f7262198d264238",
+        "_id": "6a71cf38b885cd3a7b264240",
+        "_items": [
+          {
+            "_id": "6a71cf3a2dae6a2d19264241",
+            "_tpl": "6a71ce2a1f7262198d264238",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "69557473869533fe03d8e2ae",
+            "_tpl": "657f9c78ada5fadd1f07a58d",
+            "slotId": "Helmet_top",
+            "parentId": "6a71cf3a2dae6a2d19264241"
+          },
+          {
+            "_id": "6955747444e938309ed8e2af",
+            "_tpl": "657f9cb587e11c61f70bfaca",
+            "slotId": "Helmet_back",
+            "parentId": "6a71cf3a2dae6a2d19264241"
+          }
+        ],
+        "_name": "FAST XP UNTAR Stock Preset",
+        "_parent": "6a71cf3a2dae6a2d19264241",
+        "_type": "Preset"
+      }
+    ],
+    "masterySections": []
+  },
   "6955714f0a371ee4bed8e29e": { // Ops-Core FAST XP (MultiCam)
     "itemTplToClone": "5ac8d6885acfc400180ae7b0",
     "parentId": "5a341c4086f77401f2541505",
