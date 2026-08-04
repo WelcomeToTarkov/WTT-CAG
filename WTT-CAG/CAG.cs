@@ -4,6 +4,7 @@ using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.DI;
 using SPTarkov.Server.Core.Models.Eft.Common.Tables;
 using SPTarkov.Server.Core.Models.Spt.Mod;
+using WTTCAG.Helpers;
 using WTTCAG.Traders;
 using WTTServerCommonLib.Models;
 using Path = System.IO.Path;
@@ -34,7 +35,10 @@ public record ModMetadata : AbstractModMetadata
 
 [Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 2)]
 public class WTTCAG(
-    WTTServerCommonLib.WTTServerCommonLib wttCommon) : IOnLoad
+    WTTServerCommonLib.WTTServerCommonLib wttCommon,
+        CagQuestHelper cagQuestHelper
+        ) : IOnLoad 
+
 {
     public async Task OnLoad()
     {
@@ -50,5 +54,6 @@ public class WTTCAG(
         wttCommon.CustomSlotImageService.CreateSlotImages(assembly);
         await wttCommon.CustomHideoutRecipeService.CreateHideoutRecipes(assembly);
         await Task.CompletedTask;
+        cagQuestHelper.ModifyQuests();
     }
 }
