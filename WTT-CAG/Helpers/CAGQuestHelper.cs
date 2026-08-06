@@ -1,4 +1,6 @@
-﻿using SPTarkov.DI.Annotations;
+﻿using System.Runtime.InteropServices;
+using System.Text.Json.Serialization;
+using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.Models.Common;
 using SPTarkov.Server.Core.Models.Eft.Common.Tables;
 using SPTarkov.Server.Core.Models.Utils;
@@ -13,6 +15,52 @@ namespace WTTClothingAndGear.Helpers
         ISptLogger<CagQuestHelper> logger,
         QuestHelper questHelper)
     {
+        public void AddArmorToEquipmentInclusive(
+            Dictionary<MongoId, Quest> quests,
+            string questId,
+            string[] armorIds
+        )
+        {
+            if (
+                armorIds == null
+                || armorIds.Length == 0
+                || !quests.TryGetValue(questId, out var quest)
+                || quest.Conditions.AvailableForFinish == null
+            )
+            {
+                return;
+            }
+
+            foreach (var condition in quest.Conditions.AvailableForFinish)
+            {
+                if (condition is not
+                    {
+                        ConditionType: "CounterCreator",
+                        Counter.Conditions: not null
+                    })
+                {
+                    continue;
+                }
+
+                foreach (var counterCondition in condition.Counter.Conditions)
+                {
+                    if (counterCondition is not
+                        {
+                            ConditionType: "Equipment",
+                            EquipmentInclusive: not null
+                        })
+                    {
+                        continue;
+                    }
+
+                    var newCombination = armorIds.ToList();
+                    var combinations = counterCondition.EquipmentInclusive.ToList();
+                    combinations.Add(newCombination);
+
+                    counterCondition.EquipmentInclusive = combinations;
+                }
+            }
+        }
         // Define weapon IDs
         // helmets
         private const string Helmet6B27 = "69e73666cbadfd79bdbe98ce";
@@ -87,6 +135,8 @@ namespace WTTClothingAndGear.Helpers
         private const string ArmorRhinoMtp = "697df164761aa50814341066";
         private const string ArmorTv119Multicam = "69ecb89b1bc77f05e3033c12";
         private const string ArmorTv119Olive = "6a4d4d3b4b248ca65d9ee731";
+        // BSG base stuff
+        private const string ArmorUntarStd = "5ab8e4ed86f7742d8e50c7fa";
 
         public void ModifyQuests()
         {
@@ -128,15 +178,14 @@ namespace WTTClothingAndGear.Helpers
             questHelper.AddArmorToEquipmentExclusive(quests, "60e729cf5698ee7b05057439", allArmoredFaceCovers);
 
             // ====================== PEACEKEEPER QUESTS ======================
-
+            var allUntar = new[]
+            {
+                HelmetUntarFast, ArmorUntarStd 
+            };
             //  Peacekeeping Mission (5c0d4c12d09282029f539173)
-            // questHelper.AddArmorToEquipmentInclusive(quests, "5c0d4c12d09282029f539173", [
-            //    HelmetUntarFast
-            //]);
+             AddArmorToEquipmentInclusive(quests, "5c0d4c12d09282029f539173", allUntar);
             //  Humanitarian Supplies (5a27b87686f77460de0252a8)
-            //questHelper.AddArmorToEquipmentInclusive(quests, "5a27b87686f77460de0252a8", [
-            //    HelmetUntarFast
-           // ]);
+            AddArmorToEquipmentInclusive(quests, "5a27b87686f77460de0252a8", allUntar);
 
             // ====================== THERAPIST QUESTS ======================
 
