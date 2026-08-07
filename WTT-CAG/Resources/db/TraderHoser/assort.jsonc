@@ -2230,7 +2230,32 @@
               "BuyRestrictionCurrent": 0
             }
     },
-
+    {
+      "_id": "6a762f01602c85f1d36a187c", //Platatac Bullock Echo (Tan) 
+      "_tpl": "6a761fed216a4b3d06375021",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+      {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "6a762f075972da39813581e7", //Platatac Bullock Echo (M81)  
+      "_tpl": "6a761e7dc5205217d8375020",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+      {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
     {
       "_id": "69653b6560fcf0a0300ac557", // Arc'teryx LEAF 30L assault pack (MultiCam)  
       "_tpl": "69f9c3a90471f43d0b158eef",
@@ -2826,6 +2851,12 @@
   ],
   "barter_scheme": 
   {
+    //Platatac Bullock Echo (Tan) 
+    "6a762f01602c85f1d36a187c":  [ [ { "count": 62325,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
+
+    //Platatac Bullock Echo (M81) 
+    "6a762f075972da39813581e7":  [ [ { "count": 62325,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
+
     //HSP Thorax
     "6a6f59edeb2481211fc4a845":  [ [ { "count": 85736,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
           
@@ -3197,6 +3228,8 @@
   },
   "loyal_level_items":
   {
+    "6a762f01602c85f1d36a187c": 2, //Platatac Bullock Echo (Tan) 
+    "6a762f075972da39813581e7": 2, //Platatac Bullock Echo (M81) 
     "6a6f59edeb2481211fc4a845": 2, //HSP THORAX
     "6a6d5eae750358b9ec735046": 1, //FORT Goplit Slick plate carrier 
     "6a6d5e743042dba3a70711af": 4, //T.REX ARMS AC1 plate carrier (MultiCam) 

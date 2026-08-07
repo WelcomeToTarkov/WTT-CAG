@@ -330,7 +330,7 @@
         "description": "A newer, modernised standard-issue helmet used by newly-deployed UN soldiers during the ongoing UNTAR mission in Tarkov."
       }
     },
-    "fleaPriceRoubles": 250682,
+    "fleaPriceRoubles": 66489,
     "handbookPriceRoubles": 18822,
     "addtoInventorySlots": [],
     "addtoModSlots": false,
@@ -338,23 +338,31 @@
     "addtoTraders": false,
     "traders": {},
     "addtoBots": false,
-    "addtoStaticLootContainers": false,
+    "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
-        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
-        "probability": 150 
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      },
+      {
+        "containerName": "6582e6d7b14c3f72eb071420",
+        "probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 30 
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
-        "probability": 15
+        "probability": 150
       },
       {
-        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
-        "probability": 20
+        "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
+        "probability": 50
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
-        "probability": 40
+        "probability": 65
       }
     ],
     "masteries": false,
