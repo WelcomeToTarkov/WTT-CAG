@@ -238,5 +238,185 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {}
+  },
+  "6a761e7dc5205217d8375020": { // Platatac Bullock Echo (M81)
+    "itemTplToClone": "618bb76513f5097c8d5aa2d5",
+    "parentId": "5448e53e4bdc2d60728b4567",
+    "handbookParentId": "5b5f6f6c86f774093f2ecf0b",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Bodywear/backpacks/platatacBullock/platatac_bullock_m81.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 2.01,
+      "Height": 4,
+      "Width": 4,
+      "CanSellOnRagfair": true,
+      "weaponErgonomicPenalty": -5,
+      "speedPenaltyPercent": -4.5,
+      "mousePenalty": -3,
+      "GridLayoutName": "bag_bullock",
+      "Grids": [
+        {
+          "_id": "6e516f92fc1249f51bd2c321",
+          "_name": "GridView (1)",
+          "_parent": "6a761e7dc5205217d8375020",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 3,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "e6d42da5c61ad5bc66d0aac6",
+          "_name": "GridView (2)",
+          "_parent": "6a761e7dc5205217d8375020",
+          "_props": {
+            "cellsH": 3,
+            "cellsV": 3,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "f49db96743b077c6c9d53804",
+          "_name": "GridView (3)",
+          "_parent": "6a761e7dc5205217d8375020",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 3,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "e4e55330cfa55a8e73b9ed2b",
+          "_name": "GridView (4)",
+          "_parent": "6a761e7dc5205217d8375020",
+          "_props": {
+            "cellsH": 3,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Platatac Bullock Echo backpack (M81 Woodland)",
+        "shortName": "Bullock-E",
+        "description": "The Bullock Echo V4 is the newest addition to Platatac's long-running assault sustainment range. While only small, it featues an increased capacity and more MOLLE to mount accessories compared to its prior iterations. Manufactured by Platatac. M81 Woodland version."
+      }
+    },
+    "addtoInventorySlots": [
+      "Backpack"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 68423,
+    "handbookPriceRoubles": 45331,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1200
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {}
+  },
+  "6a761fed216a4b3d06375021": { // Platatac Bullock Echo (Tan)
+    "itemTplToClone": "6a761e7dc5205217d8375020",// Platatac Bullock Echo (M81)
+    "parentId": "5448e53e4bdc2d60728b4567",
+    "handbookParentId": "5b5f6f6c86f774093f2ecf0b",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Bodywear/backpacks/platatacBullock/platatac_bullock_tan.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true
+    },
+    "locales": {
+      "en": {
+        "name": "Platatac Bullock Echo backpack (Coyote Tan)",
+        "shortName": "Bullock-E",
+        "description": "The Bullock Echo V4 is the newest addition to Platatac's long-running assault sustainment range. While only small, it featues an increased capacity and more MOLLE to mount accessories compared to its prior iterations. Manufactured by Platatac. Coyote Tan version."
+      }
+    },
+    "addtoInventorySlots": [
+      "Backpack"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 68423,
+    "handbookPriceRoubles": 45331,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1200
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {}
   }
 }

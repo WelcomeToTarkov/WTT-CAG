@@ -214,6 +214,23 @@
       ]
     },
     {
+      "key": "Bodywear/backpacks/platatacBullock/platatac_bullock_m81.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/content/items/equipment/armor_ars_arma_a18/item_equipment_armor_a18.bundle"
+      ]
+    },
+    {
+      "key": "Bodywear/backpacks/platatacBullock/platatac_bullock_tan.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/content/items/equipment/armor_ars_arma_a18/item_equipment_armor_a18.bundle",
+        "Bodywear/backpacks/platatacBullock/platatac_bullock_m81.bundle"
+      ]
+    },
+    {
       "key": "Bodywear/backpacks/arcteryx_leaf30/bag_arcteryx_assault_30l_blk.bundle",
       "dependencyKeys": [
         "cubemaps",
