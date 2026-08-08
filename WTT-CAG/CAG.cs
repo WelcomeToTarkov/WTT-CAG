@@ -33,7 +33,7 @@ public record ModMetadata : AbstractModMetadata
 }
 
 
-[Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 2)]
+[Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 3)]
 public class WTTClothingAndGear(
     WTTServerCommonLib.WTTServerCommonLib wttCommon,
     CagQuestHelper cagQuestHelper
