@@ -147,6 +147,17 @@
       ]
     },
     {
+      "key": "Bodywear/armoredRigs/LV120/item_equipment_rig_spiritus_lv120_olive.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/mods/magazines/mag_stanag_magpul_pmag_gen_m3_556x45_30_blk.bundle",
+        "assets/content/items/mods/magazines/mag_stanag_magpul_pmag_gen_m3_556x45_30_fde.bundle",
+        "Bodywear/armoredRigs/LV120/item_equipment_spiritus_lv120_goons.bundle"
+      ]
+    },
+    {
       "key": "Bodywear/armoredRigs/NFM_THOR/rig_nfm_thor_mc.bundle",
       "dependencyKeys": [
         "shaders"
