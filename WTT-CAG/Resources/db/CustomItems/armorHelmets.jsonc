@@ -4501,10 +4501,10 @@
       "CanSellOnRagfair": true,
       "Slots": [
         {
-          "_id": "69d44c1a813b60549eeb31f5",
+          "_id": "6a788ef434a7fcbfe7dbe2e9",
           "_mergeSlotWithChildren": false,
           "_name": "mod_cover",
-          "_parent": "69d44c0cd9330f9cffeb31f3",
+          "_parent": "6a0b240373d8e8a532c4d55a",
           "_props": {
             "filters": [
               {
@@ -4525,10 +4525,10 @@
           "_required": false
         },
         {
-          "_id": "695574b613d5bec310d8e2b7",
+          "_id": "6a788ef7dc685a567ddbe2eb",
           "_mergeSlotWithChildren": false,
           "_name": "mod_equipment_000",
-          "_parent": "6955714f0a371ee4bed8e29e",
+          "_parent": "6a0b240373d8e8a532c4d55a",
           "_props": {
             "filters": [
               {
@@ -4544,10 +4544,10 @@
           "_required": false
         },
         {
-          "_id": "695574b5052e78fd36d8e2b6",
+          "_id": "6a788ef78c351e70badbe2ea",
           "_mergeSlotWithChildren": false,
           "_name": "mod_nvg",
-          "_parent": "6955714f0a371ee4bed8e29e",
+          "_parent": "6a0b240373d8e8a532c4d55a",
           "_props": {
             "filters": [
               {
@@ -4564,10 +4564,10 @@
           "_required": false
         },
         {
-          "_id": "695574b3c333edfb40d8e2b5",
+          "_id": "6a788ef9b79c585a82dbe2ec",
           "_mergeSlotWithChildren": false,
           "_name": "mod_mount",
-          "_parent": "6955714f0a371ee4bed8e29e",
+          "_parent": "6a0b240373d8e8a532c4d55a",
           "_props": {
             "filters": [
               {
@@ -4583,10 +4583,10 @@
           "_required": false
         },
         {
-          "_id": "695574b24c19132b09d8e2b4",
+          "_id": "6a788efb7102561a35dbe2ed",
           "_mergeSlotWithChildren": false,
           "_name": "mod_equipment_001",
-          "_parent": "6955714f0a371ee4bed8e29e",
+          "_parent": "6a0b240373d8e8a532c4d55a",
           "_props": {
             "filters": [
               {
@@ -4602,10 +4602,10 @@
           "_required": false
         },
         {
-          "_id": "6a09be6d22afc9106bb4a860",
+          "_id": "6a788efd34c54e81b5dbe2ee",
           "_mergeSlotWithChildren": true,
           "_name": "Helmet_top",
-          "_parent": "6a09bd2d7ec30ec140b4a85e",
+          "_parent": "6a0b240373d8e8a532c4d55a",
           "_props": {
             "filters": [
               {
@@ -4626,10 +4626,10 @@
           "_required": false
         },
         {
-          "_id": "6a09be6fb640032bd5b4a861",
+          "_id": "6a788efee966a71dd1dbe2ef",
           "_mergeSlotWithChildren": true,
           "_name": "Helmet_back",
-          "_parent": "6a09bd2d7ec30ec140b4a85e",
+          "_parent": "6a0b240373d8e8a532c4d55a",
           "_props": {
             "filters": [
               {
@@ -4691,11 +4691,11 @@
       {
         "_changeWeaponName": false,
         "_encyclopedia": "6a0b240373d8e8a532c4d55a",
-        "_id": "6a0b2b962e895eb1c7c4d567",
+        "_id": "6a788f0a60960849d8dbe2f3",
         "_items": [
           {
-            "_id": "6a0b2baf8d023baf3dc4d56b",
-            "_tpl": "6955714f0a371ee4bed8e29e",
+            "_id": "6a788f05448be135bfdbe2f0",
+            "_tpl": "6a0b240373d8e8a532c4d55a",
             "upd": {
               "Repairable": {
                 "MaxDurability": 100,
@@ -4704,20 +4704,20 @@
             }
           },
           {
-            "_id": "6a0b2b9e747f34ac89c4d569",
+            "_id": "6a788f09c6c59a7460dbe2f2",
             "_tpl": "695573f047936dde03d8e2ab",
             "slotId": "Helmet_top",
-            "parentId": "6a0b2baf8d023baf3dc4d56b"
+            "parentId": "6a788f05448be135bfdbe2f0"
           },
           {
-            "_id": "6a0b2b9fe81d7bcc14c4d56a",
+            "_id": "6a788f0830f6548993dbe2f1",
             "_tpl": "6955743c3cc456ac9fd8e2ac",
             "slotId": "Helmet_back",
-            "parentId": "6a0b2baf8d023baf3dc4d56b"
+            "parentId": "6a788f05448be135bfdbe2f0"
           }
         ],
         "_name": "Airframe Black Stock Preset",
-        "_parent": "6a0b2baf8d023baf3dc4d56b",
+        "_parent": "6a788f05448be135bfdbe2f0",
         "_type": "Preset"
       }
     ],
