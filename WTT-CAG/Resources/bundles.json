@@ -465,6 +465,30 @@
       ]
     },
     {
+      "key": "Clothing/Hands/gloves_ferro_pig_fdt_shared.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "Clothing/Uppers/upper_zf_woobie.bundle",
+      "dependencyKeys": [
+        "Clothing/Hands/gloves_ferro_pig_fdt_shared.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "Clothing/Hands/hands_zf_woobie.bundle",
+      "dependencyKeys": [
+        "Clothing/Uppers/upper_zf_woobie.bundle",
+        "Clothing/Hands/gloves_ferro_pig_fdt_shared.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "Clothing/Hands/USEC_GRYPHON/hands_usec_gryphon_mc.bundle",
       "dependencyKeys": [
         "Clothing/Uppers/USEC_GRYPHON/top_usec_gryphon_textures.bundle",

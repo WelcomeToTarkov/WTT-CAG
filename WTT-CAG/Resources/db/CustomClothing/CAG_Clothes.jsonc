@@ -1,27 +1,28 @@
 [
-  { // VKPO EMR
+  { // Zero Foxtrot - Woobie Hoodie
     "type": "top",
-    "suiteId": "6972a908819a59a18f6cb6ab",
-    "outfitId": "6972a909392a97e0846cb6ac",
-    "topId": "6972a909ff8a98e2e76cb6ad",
-    "handsId": "6972a90ae06aabba416cb6ae",
+    "suiteId": "6a78be427da8467554dbe2fb",
+    "outfitId": "6a78be42f260c62eb3dbe2fa",
+    "topId": "6a78be41d919cc2f32dbe2f9",
+    "handsId": "6a78be4004238c4081dbe2f8",
     "locales": {
       "en": {
-        "name": "BEAR VKPO (EMR)",
-        "description": "Field Jacket"
+        "name": "Woobie Hoodie",
+        "description": "Zero Foxtrot"
       }
     },
-    "topBundlePath": "Clothing/Uppers/VKPO_EMR/top_ruaf_vkpo_emr.bundle",
-    "handsBundlePath": "Clothing/Hands/VKPO_EMR/top_ruaf_vkpo_emr_skin.bundle",
-    "traderId": "RAGMAN",
+    "topBundlePath": "Clothing/Uppers/upper_zf_woobie.bundle",
+    "handsBundlePath": "Clothing/Hands/hands_zf_woobie.bundle",
+    "traderId": "69eccbae0764116786033c2e",
     "side": [
+      "Usec",
       "Bear"
     ],
-    "loyaltyLevel": 1,
-    "profileLevel": 15,
+    "loyaltyLevel": 3,
+    "profileLevel": 31,
     "standing": 0,
     "currencyId": "MONEY_ROUBLES",
-    "price": 155000
+    "price": 201038
   },
   { // Vertx OPS Shell TTsKO
     "type": "top",
@@ -31,14 +32,15 @@
     "handsId": "6897f88c19ff832d4e76d1d4",
     "locales": {
       "en": {
-        "name": "Vertx OPS Shell (TTsKO)",
-        "description": "Tactical Jacket"
+        "name": "OPS Shell (TTsKO)",
+        "description": "Vertx"
       }
     },
     "topBundlePath": "Clothing/Uppers/OPS_MGS_TTsKO/ttsko_bear_ops_main.bundle",
     "handsBundlePath": "Clothing/Hands/OPS_MGS_TTsKO/ttsko_bear_ops_hands.bundle",
-    "traderId": "RAGMAN",
+    "traderId": "69eccbae0764116786033c2e",
     "side": [
+      "Usec",
       "Bear"
     ],
     "loyaltyLevel": 3,
@@ -85,7 +87,7 @@
     },
     "topBundlePath": "Clothing/Uppers/BEAR_CONTRACTOR/contractor_tshirt_lousy.bundle",
     "handsBundlePath": "assets/content/hands/hands_tshirt_bear_black/hands_tshirt_bear_black.skin.bundle",
-    "traderId": "RAGMAN",
+    "traderId": "69eccbae0764116786033c2e",
     "side": [
       "Bear",
       "Usec"
@@ -103,12 +105,12 @@
     "bottomId": "69444e6ecc8a80026382765e",
     "locales": {
       "en": {
-        "name": "GORKA E Trousers Normal",
-        "description": "Russian Gorka Trousers"
+        "name": "GORKA E Trousers",
+        "description": "RUAF Gorka"
       }
     },
     "bottomBundlePath": "Clothing/Lowers/Gorka/trousers_gorka_norm.bundle",
-    "traderId": "RAGMAN",
+    "traderId": "69eccbae0764116786033c2e",
     "side": [
       "Bear",
       "Usec"
@@ -129,15 +131,16 @@
     "handsId": "697b913b7b8ea00f06f8b63c",
     "locales": {
       "en": {
-        "name": "USEC Gryphon",
-        "description": "Tactical Jacket"
+        "name": "LEAF Gryphon (Partizan)",
+        "description": "Arc'teryx"
       }
     },
     "topBundlePath": "Clothing/Uppers/USEC_GRYPHON/top_usec_gryphon_partizan.bundle",
     "handsBundlePath": "Clothing/Hands/USEC_GRYPHON/hands_usec_gryphon_partizan.bundle",
-    "traderId": "RAGMAN",
+    "traderId": "69eccbae0764116786033c2e",
     "side": [
-      "Usec"
+      "Usec",
+      "Bear"
     ],
     "loyaltyLevel": 2,
     "profileLevel": 22,
@@ -153,15 +156,16 @@
     "handsId": "697b9194e259dd2736f8b640",
     "locales": {
       "en": {
-        "name": "USEC Gryphon MC",
-        "description": "Tactical Jacket"
+        "name": "LEAF Gryphon (MultiCam)",
+        "description": "Arc'teryx"
       }
     },
     "topBundlePath": "Clothing/Uppers/USEC_GRYPHON/top_usec_gryphon_mc.bundle",
     "handsBundlePath": "Clothing/Hands/USEC_GRYPHON/hands_usec_gryphon_mc.bundle",
-    "traderId": "RAGMAN",
+    "traderId": "69eccbae0764116786033c2e",
     "side": [
-      "Usec"
+      "Usec",
+      "Bear"
     ],
     "loyaltyLevel": 3,
     "profileLevel": 35,
@@ -177,8 +181,8 @@
     "handsId": "6a0b5a7305287f5b4b9569a1",
     "locales": {
       "en": {
-        "name": "Arc'teryx LEAF Gen.1 (AOR1)",
-        "description": "Tactical Jacket"
+        "name": "LEAF Gen.1 (AOR1)",
+        "description": "Arc'teryx"
       }
     },
     "topBundlePath": "Clothing/Uppers/bear_leaf/top_leaf_aor1.bundle",
@@ -194,7 +198,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 220418
   },
-  { // Arc'teryx LEAF Gen.1 top (CADPAT M.T.)
+  { // Arc'teryx LEAF Gen.1 top (Irish DPM)
     "type": "top",
     "suiteId": "6a178f39aed887bc0bc8e8c8",
     "outfitId": "6a178f399344af2a8cc8e8c9",
@@ -202,8 +206,8 @@
     "handsId": "6a178f3bc335cc8a9ac8e8cb",
     "locales": {
       "en": {
-        "name": "Arc'teryx LEAF Gen.1 (Irish DPM)",
-        "description": "Tactical Jacket"
+        "name": "LEAF Gen.1 (Irish DPM)",
+        "description": "Arc'teryx"
       }
     },
     "topBundlePath": "Clothing/Uppers/bear_leaf/top_leaf_idpm.bundle",
@@ -226,8 +230,8 @@
     "bottomId": "6a084db451fbd49c29582e51",
     "locales": {
       "en": {
-        "name": "Helikon-Tex Outback",
-        "description": "Combat Pants"
+        "name": "Outback Combat Pants",
+        "description": "Helikon-Tex"
       }
     },
     "bottomBundlePath": "Clothing/Lowers/Helikon/pants_helikon_outback.bundle",
