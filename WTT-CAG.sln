@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTT-CAG", "WTT-CAG\WTT-CAG.csproj", "{BCE665BC-FDE3-4D88-A284-1D576DEF825C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTT-CAG.Server", "WTT-CAG.Server\WTT-CAG.Server.csproj", "{BCE665BC-FDE3-4D88-A284-1D576DEF825C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTT-CAG.Client", "WTT-CAG.Client\WTT-CAG.Client.csproj", "{99A313D3-CDF7-4760-8E3C-251137CDAAFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +14,9 @@ Global
 		{BCE665BC-FDE3-4D88-A284-1D576DEF825C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCE665BC-FDE3-4D88-A284-1D576DEF825C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCE665BC-FDE3-4D88-A284-1D576DEF825C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A313D3-CDF7-4760-8E3C-251137CDAAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A313D3-CDF7-4760-8E3C-251137CDAAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A313D3-CDF7-4760-8E3C-251137CDAAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A313D3-CDF7-4760-8E3C-251137CDAAFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

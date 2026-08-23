@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = WTT_CAG.Client
+build_property.ProjectDir = F:\tarkov_dev\SPT_4.1\MOD_DEV\WTT-CAG\WTT-CAG.Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
