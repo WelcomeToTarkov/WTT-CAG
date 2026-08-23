@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTT-CAG.Server", "WTT-CAG.S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTT-CAG.Client", "WTT-CAG.Client\WTT-CAG.Client.csproj", "{99A313D3-CDF7-4760-8E3C-251137CDAAFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTT-CAG.WikiLinksCompat", "WTT-CAG.WikiLinksCompat\WTT-CAG.WikiLinksCompat.csproj", "{1E2D36A0-D206-436B-BB7A-49650BDCCF04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{99A313D3-CDF7-4760-8E3C-251137CDAAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99A313D3-CDF7-4760-8E3C-251137CDAAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99A313D3-CDF7-4760-8E3C-251137CDAAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E2D36A0-D206-436B-BB7A-49650BDCCF04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2D36A0-D206-436B-BB7A-49650BDCCF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2D36A0-D206-436B-BB7A-49650BDCCF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2D36A0-D206-436B-BB7A-49650BDCCF04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

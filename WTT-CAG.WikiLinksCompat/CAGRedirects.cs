@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace WTT_CAG.Client;
+namespace WTT_CAG.WikiLinksCompat;
 
 internal static class CAGRedirects
 {
