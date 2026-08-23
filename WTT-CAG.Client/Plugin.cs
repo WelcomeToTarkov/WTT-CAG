@@ -14,7 +14,7 @@ public class Plugin : BaseUnityPlugin
         if (!Chainloader.PluginInfos.ContainsKey("com.tyfon.wikilinks")) { return; }
 
         _logger.LogInfo("Tyfon's WikiLinks plugin is installed. Adding redirects...");
-        foreach (var kvp in CAGRedirects.ItemUrlMap)
+        foreach (var kvp in CAGRedirects.IdUrlMap)
         {
             _logger.LogDebug($"Adding redirect for {kvp.Key} to {kvp.Value}");
             WikiLinks.RedirectRegistry.AddWikiRedirect(kvp.Key, kvp.Value);
