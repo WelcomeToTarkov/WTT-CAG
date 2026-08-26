@@ -85,6 +85,12 @@ public class BaseGameItemEdits(
                         "5a16b7e1fcdbcb00165aa6c9"
                     ]); // LShZ removal of side armor
                     break;
+                case "544a5caa4bdc2d1a388b4568":
+                    item.Properties.Prefab.Path = "Bodywear/armoredRigs/AVS/item_equipment_armor_crye_avs_green.bundle";
+                    break; // Replace AVS (Green) bundle
+                case "67ab49aab9c7a1e18c095686":
+                    item.Properties.Prefab.Path = "Bodywear/armoredRigs/AVS/item_equipment_armor_crye_avs_mc.bundle";
+                    break; // Replace AVS (MultiCam) bundle
             }
         }
     }
