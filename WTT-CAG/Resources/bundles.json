@@ -40,6 +40,29 @@
       "dependencyKeys": []
     },
     {
+      "key": "Bodywear/armoredRigs/AVS/item_equipment_armor_crye_avs_green.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps",
+        "assets/content/items/mods/magazines/mag_stanag_hk_416_steel_maritime_556x45_30.bundle",
+        "assets/content/items/mods/magazines/mag_glock_glock_std_9x19_17.bundle",
+        "assets/content/items/equipment/rig_jpc_first_gen_mil_spec_v1/item_equipment_rig_jpc_first_gen_mil_spec_v1.bundle"
+      ]
+    },
+    {
+      "key": "Bodywear/armoredRigs/AVS/item_equipment_armor_crye_avs_mc.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps",
+        "Bodywear/armoredRigs/AVS/item_equipment_armor_crye_avs_green.bundle",
+        "assets/content/items/mods/magazines/mag_stanag_hk_416_steel_maritime_556x45_30.bundle",
+        "assets/content/items/mods/magazines/mag_glock_glock_std_9x19_17.bundle",
+        "assets/content/items/equipment/rig_jpc_first_gen_mil_spec_v1/item_equipment_rig_jpc_first_gen_mil_spec_v1.bundle"
+      ]
+    },
+    {
       "key": "Bodywear/armoredRigs/CGPC3/cr_customgear_cgpc3_blk.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
@@ -221,6 +244,13 @@
       "key": "Bodywear/armoredRigs/TV110/rig_tv110_omon_blk.bundle",
       "dependencyKeys": [
         "assets/content/items/mods/magazines/mag_ak_izhmash_ak103_std_762x39_30.bundle",
+        "shaders"
+      ]
+    },
+    {
+      "key": "Bodywear/backpacks/backpack_evoc_ride12_olive.bundle",
+      "dependencyKeys": [
+        "cubemaps",
         "shaders"
       ]
     },

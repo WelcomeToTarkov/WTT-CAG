@@ -418,5 +418,85 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {}
+  },
+  "6a8f611c68da1d142981b302": { // EVOC Sports Ride 12 daypack
+    "itemTplToClone": "544a5cde4bdc2d39388b456b",
+    "parentId": "5448e53e4bdc2d60728b4567",
+    "handbookParentId": "5b5f6f6c86f774093f2ecf0b",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Bodywear/backpacks/backpack_evoc_ride12_olive.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 0.65,
+      "Height": 4,
+      "Width": 3,
+      "CanSellOnRagfair": true,
+      "weaponErgonomicPenalty": -2,
+      "speedPenaltyPercent": -1,
+      "mousePenalty": -1,
+      "Grids": [
+        {
+          "_id": "6a8f61d2497551059b81b304",
+          "_name": "main",
+          "_parent": "6a8f611c68da1d142981b302",
+          "_props": {
+            "cellsH": 4,
+            "cellsV": 4,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a",
+                  "5c093db286f7740a1b2617e3",
+                  "5e2af55f86f7746d4159f07c",
+                  "5c0a840b86f7742ffa4f2482",
+                  "5b7c710788a4506dec015957",
+                  "5c127c4486f7745625356c13",
+                  "5aafbcd986f7745e590fff23",
+                  "59fb016586f7746d0d4b423a",
+                  "59fb042886f7746c5005a7b2",
+                  "59fb023c86f7746d0d4b423c",
+                  "5b6d9ce188a4501afc1b2b25"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "EVOC Sports Ride 12 daypack",
+        "shortName": "Ride 12",
+        "description": "The Ride 12 is a compact daypack designed to preserve comfort and functionality for cyclists while carrying equipment alongside optimised airflow to prevent the user from overheating. Manufactured by EVOC Sports USA."
+      }
+    },
+    "addtoInventorySlots": [
+      "Backpack"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 30312,
+    "handbookPriceRoubles": 15028,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1683
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {}
   }
 }
